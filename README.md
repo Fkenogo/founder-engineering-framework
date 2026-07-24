@@ -3,7 +3,7 @@
 ## Repository Status
 
 **Programme stage:** Phase 0 — Research governance preparation
-**Master Programme:** FEF-MP-001 v0.4 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.5 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001B.7 — Work Package Review Package Protocol
 **Current active work package:** None
 **Immediate next work package:** FEF-WPK-001B.5 — Blocked pending Founder-approved review evidence
@@ -83,6 +83,8 @@ FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status
 FEF-FAR-002 recognises Programme Governance as a distinct FEF governance domain in Pilot Status for controlled Phase 0 evaluation. The pilot does not create a governance standard, change Framework Governance, or alter the programme critical path.
 
 FEF-WRP-001 is Founder-approved for Programme Governance Pilot use as the preferred prospective Review Package mechanism. It is non-mandatory, does not apply retrospectively, and reserves final disposition and next-work authorisation to the Founder.
+
+The validated Phase 0 programme checkpoint is preserved locally at commit `e5199eb18567799e30ef57a3546da6690b74a0c0`. Remote tracking remains unresolved; no push is recorded.
 
 ## Founding Principle
 

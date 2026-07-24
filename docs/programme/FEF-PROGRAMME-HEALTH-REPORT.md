@@ -11,7 +11,7 @@
 | ID | Area | Finding | Impact | Recommended Correction |
 |---|---|---|---|---|
 | PHR-001 | Missing governance evidence | FEF-FGR-001 contains no source-supported GF or FD content because the Founder-approved Sessions 1–6 source package is absent. | Blocks FEF-WPK-001B.5 and FEF-WPK-001C. | Founder supplies or identifies the authoritative transcripts or exports; resume WPK-001B.5 without reconstruction. |
-| PHR-002 | Repository preservation | All post-foundation work is uncommitted; `origin/main` is reported as gone. | Validated programme evidence is not preserved in repository history or an active tracked remote. | After Founder review of the reconciliation, authorise a controlled commit and separately verify or restore the intended remote tracking relationship. |
+| PHR-002 | Repository preservation | Phase 0 records are locally preserved by checkpoint commit `e5199eb`; `origin/main` is still reported as gone. | Local history is preserved, but no active remote-tracking relationship or remote preservation is confirmed. | Verify or restore the intended remote tracking relationship before any separately authorised push. |
 | PHR-003 | Missing programme artefact | No separate Programme Manifest exists. The Document Manifest indexes documents but is not a programme-item manifest. | The requested source set could not be fully compared against a distinct Programme Manifest. | Use the Master Programme as the controlling programme inventory; create a separate manifest only if a later authorised need is demonstrated. |
 | PHR-004 | Legacy sequencing | FEF-P0-004 remains in the legacy roadmap with no approved disposition. | Leaves one obsolete-or-needed question unresolved and blocks clean roadmap reconciliation. | Founder decides retain, supersede, merge, or cancel under OQ-016. |
 | PHR-005 | Identifier model | Permanent `FEF-WPK-NNN` use remains unresolved while legacy P0/P1 identifiers coexist. | Counts and sequencing require a defined inclusive convention. | Founder decides OQ-015 before migration; until then, retain both forms and avoid renaming. |
@@ -41,4 +41,4 @@
 
 ## Residual Risk
 
-Programme visibility is restored, but delivery remains blocked until the Founder-approved governance-review evidence is supplied. Repository preservation also remains exposed until the current worktree is reviewed and committed under separate authority.
+Programme visibility is restored, but delivery remains blocked until the Founder-approved governance-review evidence is supplied. Local repository preservation is established; remote preservation remains exposed until tracking is verified or restored and a push is separately authorised.

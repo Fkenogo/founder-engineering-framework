@@ -23,3 +23,4 @@
 - Recognised the Review Package as a preferred, prospective, non-mandatory Programme Governance pilot practice and updated FEF-MP-001 to v0.3 without changing the critical path.
 - Recorded the Founder disposition approving FEF-WPK-001B.7 for Programme Governance Pilot use with no conditions or amendments.
 - Closed FEF-WPK-001B.7, updated FEF-MP-001 to v0.4, and preserved FEF-WPK-001B.5 as the immediate next authorised execution window.
+- Created Founder-authorised Phase 0 programme checkpoint commit `e5199eb18567799e30ef57a3546da6690b74a0c0` and updated repository-state records in FEF-MP-001 v0.5.

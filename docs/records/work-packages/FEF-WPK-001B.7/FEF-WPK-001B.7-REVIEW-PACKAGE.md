@@ -72,8 +72,9 @@ The protocol distinguishes:
 | Programme records updated | Pilot document, Master Programme, dashboard, dependency review, manifest, programme decision register, work-package register, README, and changelog |
 | Protected files | FEF-RGS-000 and FEF-FGR-001 unchanged |
 | Branch | `main` |
-| HEAD | `d54e79df0740cc48d53c529f1514ad2f76da4a03` |
-| Commit created | No |
+| Validation baseline HEAD | `d54e79df0740cc48d53c529f1514ad2f76da4a03` |
+| Founder-authorised checkpoint commit | `e5199eb18567799e30ef57a3546da6690b74a0c0` |
+| Commit created | Yes — Phase 0 programme governance checkpoint |
 | Remote state | `origin/main` reported as gone |
 
 ## 8. Validation Summary
@@ -93,7 +94,7 @@ The protocol distinguishes:
 | Limited pilot evidence | One application cannot establish long-term effectiveness. | Observe use across later Phase 0 work packages. |
 | Preferred rather than mandatory use | Review handovers may remain inconsistent. | Record adoption and non-use during pilot evaluation. |
 | Founder-only section could be edited incorrectly later | Could blur implementation and approval authority. | Validate the protected section in each WRP. |
-| Worktree remains uncommitted | Review evidence is not preserved in repository history. | Founder separately authorises a controlled commit when ready. |
+| Remote tracking remains unresolved | The local checkpoint is not confirmed as remotely preserved. | Verify or restore the intended remote before any separately authorised push. |
 
 ## 10. Founder Decisions Required
 

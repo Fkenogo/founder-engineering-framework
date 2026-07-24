@@ -85,4 +85,4 @@ Implementation and governance responsibilities remain separated. The coding agen
 | FGR-001 SHA-256 | `d03f775daca3598ebf5f5a8fea6c1899c2c0c939f92d98317e347a198203d6d2` |
 | Open Questions | 23 recorded and unresolved |
 | Base HEAD | `d54e79df0740cc48d53c529f1514ad2f76da4a03` |
-| Commit created | No |
+| Commit created | No during validation; subsequent Founder-authorised checkpoint `e5199eb18567799e30ef57a3546da6690b74a0c0` |

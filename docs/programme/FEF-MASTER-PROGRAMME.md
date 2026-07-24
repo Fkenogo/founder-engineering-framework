@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.4
+**Programme record version:** 0.5
 **Reconciliation date:** 2026-07-24
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.4 |
+| Programme version | Master Programme v0.5 |
 | Framework release | None |
 | Current phase | Phase 0 — Research Governance Foundation |
 | Current milestone | Complete the Founder Governance Review evidence record before constitutional consolidation |
@@ -29,6 +29,7 @@ This precedence does not make the Master Programme a governance standard and doe
 | Active delivery work package | None |
 | Blocked work package to resume next | FEF-WPK-001B.5 |
 | Immediate next authorised activity | Obtain the Founder-approved Sessions 1–6 source package and resume FEF-WPK-001B.5 |
+| Programme checkpoint commit | `e5199eb18567799e30ef57a3546da6690b74a0c0` |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
 
@@ -156,9 +157,9 @@ For programme administration, a work package completion record must therefore be
 
 ## 10. Repository-State Qualification
 
-The repository is on branch `main` at base commit `d54e79df0740cc48d53c529f1514ad2f76da4a03`. The remote-tracking reference reports `origin/main` as gone. All programme work after the initial foundation commit, including RGS, FAR, FGR, programme reconciliation, and pilot establishment, is currently present only in the uncommitted worktree.
+The repository is on branch `main`. The Founder-authorised Phase 0 programme checkpoint was committed at `e5199eb18567799e30ef57a3546da6690b74a0c0`; it preserves the accumulated validated RGS, FAR, FGR evidence-gap, Programme Governance pilot, and WRP records.
 
-Programme status in this document is based on the validated artefacts present in that worktree. Preservation through a reviewed commit remains an outstanding repository-control action; this work package does not authorise a commit or push.
+This Master Programme revision records the repository state after that checkpoint. The remote-tracking reference still reports `origin/main` as gone, and no push has been performed. Remote preservation therefore remains unresolved even though the local history is now committed.
 
 ## 11. Change Control
 

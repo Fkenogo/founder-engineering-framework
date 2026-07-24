@@ -9,7 +9,7 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.4 |
+| Programme version | Master Programme v0.5 |
 | Current phase | Phase 0 — Research Governance Foundation |
 | Current milestone | Complete the Founder Governance Review evidence record |
 | Latest completed work package | FEF-WPK-001B.7 — Work Package Review Package Protocol |
@@ -61,6 +61,6 @@ All 23 RGS governance questions remain open.
 | Area | RAG | Reason |
 |---|---|---|
 | Governance | 🔴 Red | FGR evidence is incomplete; RGS is not approved; 23 questions remain open. |
-| Documentation | 🟠 Amber | Core draft and review records exist, but FGR is incomplete and post-foundation work is uncommitted. |
+| Documentation | 🟠 Amber | The Phase 0 checkpoint is committed locally, but FGR is incomplete and remote tracking remains unresolved. |
 | Programme | 🟠 Amber | Programme is reconciled, but the immediate delivery chain is blocked and legacy items need disposition. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |
