@@ -16,3 +16,5 @@
 No listed source file is recorded as present in this repository. Review and provenance remain pending until source materials are located and verified.
 
 A source project remains authoritative for itself unless a future governed, project-specific adoption changes that relationship.
+
+Under the revised Phase 0 architecture, this register is retained as a planning input to the Engineering Asset Discovery Programme. It is not an approved research method and must be aligned with FEF-RGS-000 and FEF-RDS-001 before discovery execution.

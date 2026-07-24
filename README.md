@@ -2,10 +2,17 @@
 
 ## Repository Status
 
-**Programme stage:** Foundation initiation  
-**Framework status:** Draft — Not Yet Adoptable  
-**Current release:** None  
-**Authority status:** Not yet constitutionally defined  
+**Programme stage:** Phase 0 — Research governance preparation
+**Master Programme:** FEF-MP-001 v0.4 — Current programme source of truth
+**Latest completed work package:** FEF-WPK-001B.7 — Work Package Review Package Protocol
+**Current active work package:** None
+**Immediate next work package:** FEF-WPK-001B.5 — Blocked pending Founder-approved review evidence
+**Framework status:** Draft — Not Yet Adoptable
+**Current release:** None
+**Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
+**Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
+**Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
+**Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
 ## Purpose
@@ -32,7 +39,15 @@ Existing project methods remain authoritative within their respective projects u
 
 - [`docs/constitution/`](docs/constitution/) — future Framework Constitution drafts;
 - [`docs/governance/`](docs/governance/) — governance proposals and draft principles;
+- [`docs/governance/research/`](docs/governance/research/) — draft research governance standards;
+- [`docs/governance/reviews/`](docs/governance/reviews/) — structured governance review evidence and explicitly recorded evidence gaps;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
+- [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
+- [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
+- [`docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md`](docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md) — informational description of the Phase 0 Programme Governance pilot;
+- [`docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md`](docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md) — preferred prospective review-handover protocol within the pilot;
+- [`docs/templates/FEF-WORK-PACKAGE-REVIEW-PACKAGE-TEMPLATE.md`](docs/templates/FEF-WORK-PACKAGE-REVIEW-PACKAGE-TEMPLATE.md) — reusable Review Package template with a protected Founder-only disposition section;
+- [`docs/records/FEF-PROGRAMME-DECISION-REGISTER.md`](docs/records/FEF-PROGRAMME-DECISION-REGISTER.md) — programme-management decisions within the pilot boundary;
 - [`docs/product-methodology/`](docs/product-methodology/) — future product methodology;
 - [`docs/engineering/`](docs/engineering/) — future engineering standards;
 - [`docs/ai-collaboration/`](docs/ai-collaboration/) — future AI collaboration standards;
@@ -41,22 +56,33 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/adoption/`](docs/adoption/) — future adoption and deviation materials;
 - [`docs/templates/`](docs/templates/) — future reusable templates;
 - [`docs/records/`](docs/records/) — work-package, decision, source, and change records;
+- [`docs/records/founder-reviews/`](docs/records/founder-reviews/) — Founder review records and their explicit scope boundaries;
 - [`prompts/`](prompts/) — controlled coding-agent task prompts.
 
-## Initial Programme Sequence
+## Current Phase 0 Programme Architecture
 
-1. FEF-P0-001 — Repository Baseline and Programme Initiation
-2. FEF-P0-002 — Source Methodology Inventory and Provenance Register
-3. FEF-P0-003 — Framework Scope and Boundary Decision
-4. FEF-P0-004 — Documentation Repository Structure and Draft Authority Model
-5. FEF-P1-001 — Framework Constitution
-6. FEF-P1-002 — Authority, Source Hierarchy, and Documentation Governance
-7. FEF-P1-003 — Framework Versioning and Release Governance
-8. FEF-P1-004 — Framework Adoption, Upgrade, and Deviation Governance
-9. FEF-P2 — Core methodology volumes
-10. FEF-P3 — Templates, records, checklists, and adoption assets
-11. FEF-P4 — Pilot adoption and framework validation
-12. FEF v1.0 release
+The Founder-approved Phase 0 architectural refinement is:
+
+1. FEF-WPK-001 — Prepare FEF-RGS-000 Research Governance Standard
+2. FEF-RGS-000 — Research Governance Standard
+3. FEF-RDS-001 — Engineering Asset Discovery, Extraction & Framework Recommendation Standard
+4. FEF-P0-002 — Engineering Asset Discovery Programme
+5. FEF-P0-003 — Founder Scope, Boundary & Classification Decisions
+6. FEF Constitution — commences only after discovery and Founder decisions
+
+This is an architectural refinement, not a programme restart. `FEF-P0-001` remains completed historical foundation work. The architecture approval does not approve FEF-RGS-000, FEF-RDS-001, the Constitution, or any other draft standard.
+
+The previous purpose of FEF-P0-002 has been reorganised rather than discarded: it now executes an approved research methodology instead of defining that methodology.
+
+FEF-FAR-001 confirms that FEF remains an engineering framework, Research remains its first operational capability, and FEF-RGS-000 Draft v0.2 may proceed unchanged to a separate Founder Review. FAR-001 does not approve the standard or authorise FEF-RDS-001, FEF-P0-002, Framework Core, or another domain framework.
+
+FEF-FGR-001 records that the Founder Governance Review was conducted across Sessions 1–6, but the repository does not yet contain the transcripts or exports needed to support GF-001–GF-036 and FD-001–FD-033. FEF-WPK-001C remains blocked until that source evidence is preserved and validated.
+
+FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
+
+FEF-FAR-002 recognises Programme Governance as a distinct FEF governance domain in Pilot Status for controlled Phase 0 evaluation. The pilot does not create a governance standard, change Framework Governance, or alter the programme critical path.
+
+FEF-WRP-001 is Founder-approved for Programme Governance Pilot use as the preferred prospective Review Package mechanism. It is non-mandatory, does not apply retrospectively, and reserves final disposition and next-work authorisation to the Founder.
 
 ## Founding Principle
 

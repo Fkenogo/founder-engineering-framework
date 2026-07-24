@@ -3,6 +3,8 @@
 **Framework status:** Draft — Not Yet Adoptable  
 **Document status:** Draft programme record — Non-Authoritative
 
+> **Current programme notice:** This initiation record preserves programme origins. For current status, sequence, dependencies, and next-work control, see the [FEF Master Programme](FEF-MASTER-PROGRAMME.md).
+
 ## 1. Programme Identity
 
 **Programme:** Founder Engineering Framework  
@@ -123,8 +125,55 @@ The following files existed before baseline modification and were untracked:
 
 No pre-existing file was deleted or reorganized during baseline establishment. The `.DS_Store` files remain on disk and are excluded from version control by `.gitignore`.
 
-## 11. Immediate Next Step
+## 11. Approved Phase 0 Architecture Refinement
 
-After validation of this baseline, execute `FEF-P0-002 — Source Methodology Inventory and Provenance Register`.
+Following architectural review, the Founder approved a refinement of the Phase 0 sequence:
 
-No core framework doctrine should be finalized before the methodology inventory and required constitutional decisions are complete.
+1. FEF-WPK-001 — Prepare FEF-RGS-000 Research Governance Standard;
+2. FEF-RGS-000 — Research Governance Standard;
+3. FEF-RDS-001 — Engineering Asset Discovery, Extraction & Framework Recommendation Standard;
+4. FEF-P0-002 — Engineering Asset Discovery Programme;
+5. FEF-P0-003 — Founder Scope, Boundary & Classification Decisions;
+6. FEF Constitution — commencing only after discovery and Founder decisions.
+
+This is an architectural refinement, not a restart. The approval applies only to this programme sequence. It does not approve the content of any named standard or resolve any constitutional decision.
+
+The former FEF-P0-002 “Source Methodology Inventory and Provenance Register” is reorganised, not discarded. Its revised purpose is to execute an approved research methodology. Earlier prompts remain planning inputs and require alignment with the revised architecture before execution.
+
+## 12. Founder Architectural Review FAR-001
+
+The Founder approved seven architectural decisions through FEF-FAR-001:
+
+- FEF is the first domain framework within a future family of Founder Governance Frameworks;
+- future Founder Governance Frameworks remain outside the current FEF programme;
+- Research remains FEF’s first operational capability;
+- Research Governance and Engineering Asset Discovery remain separate;
+- Research Classification and Research Types remain research-domain concepts;
+- FEF-RGS-000 Draft v0.2 requires no further architectural amendment before Founder Review.
+
+Engineering remains the only current implementation domain. Possible Framework Core architecture, common-pattern extraction, cross-framework standards, and the composition of a future framework family remain deferred and unauthorised.
+
+FAR-001 does not approve FEF-RGS-000, close its 23 open governance questions, commence FEF-RDS-001 or FEF-P0-002, or create constitutional effect.
+
+## 13. Founder Governance Review Evidence — FEF-FGR-001
+
+FEF-WPK-001B.5 records that the Founder Governance Review was conducted across six sessions:
+
+1. Governance Authority;
+2. Evidence Governance;
+3. Validation Governance;
+4. Records and Information Governance;
+5. Lifecycle Governance;
+6. Framework Administration.
+
+The repository contains no Founder-approved transcript or export supporting the content, rationale, session allocation, linkage, transitional status, deferrals, or Open Question references for GF-001–GF-036 and FD-001–FD-033.
+
+FEF-FGR-001 therefore remains `Incomplete — Missing Source Evidence`. It enumerates every expected identifier without reconstructing content. FEF-WPK-001B.5 acceptance criteria are not met, and FEF-WPK-001C is blocked.
+
+## 14. Immediate Next Step
+
+Obtain and preserve the Founder-approved Session 1–6 transcripts or exported review records, then complete and validate FEF-FGR-001.
+
+The Constitution must not commence before engineering asset discovery and the required Founder scope, boundary, and classification decisions are complete.
+
+FEF-PGM-001 completed the programme reconciliation on 2026-07-24. FEF-WPK-001B.5 remains the single immediate next work package and is blocked until its source evidence is supplied.
