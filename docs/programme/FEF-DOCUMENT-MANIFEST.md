@@ -24,15 +24,31 @@
 | `docs/governance/reviews/FEF-RQS-001-REVIEW-QUESTION-SPECIFICATION.md` | Review Question Specification | Approved preparation baseline | Controls future RQ structure, lifecycle, validation, and traceability |
 | `docs/governance/reviews/FEF-EPS-001-EVIDENCE-PACK-SPECIFICATION.md` | Evidence Pack Specification | Approved preparation baseline | Controls future Evidence Pack admissibility, versioning, freeze, and integrity |
 | `docs/governance/reviews/FEF-FGRER-001-REVIEW-EXECUTION-RULES.md` | Founder Governance Review Execution Rules | Approved preparation baseline | Controls review workflow, gates, reopening, dependency, and escalation |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | Commencement Authorised — Mobilisation | Assigns FEF-FGR-002; no session or substantive output |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Instantiated — Empty | FEF-FGR-002 RQ control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Instantiated — Empty | FEF-FGR-002 evidence control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-PACK-REGISTER.md` | Review execution register | Instantiated — Empty | FEF-FGR-002 pack control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-SESSION-REGISTER.md` | Review execution register | Instantiated — Empty | FEF-FGR-002 session control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-GOVERNANCE-FINDING-REGISTER.md` | Review output register | Instantiated — Empty | FEF-FGR-002 GF control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FOUNDER-DECISION-REGISTER.md` | Review output register | Instantiated — Empty | FEF-FGR-002 review-scoped FD control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-CONSTITUTIONAL-CANDIDATE-REGISTER.md` | Review output register | Instantiated — Empty | FEF-FGR-002 candidate control; zero entries |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-DEFERRED-MATTER-REGISTER.md` | Review output register | Instantiated — Empty | FEF-FGR-002 deferred-matter control; zero entries |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | D1 S01 Closed — Founder Consideration Pending | Assigns FEF-FGR-002 and records one closed session and eight Presented findings |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Active v1.2 | Controls 8 RQs examined and answered at finding level; no OQ closure |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Active v1.1 | Controls 21 validated D1 Evidence Records |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-PACK-REGISTER.md` | Review execution register | Active v1.2 | Controls Frozen EP-001 v1.0 and its validated S01 use |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-SESSION-REGISTER.md` | Review execution register | Active v1.1 | Controls one closed and conditionally validated session |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-GOVERNANCE-FINDING-REGISTER.md` | Review output register | Active v1.1 | Controls 8 Presented findings awaiting Founder disposition |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FOUNDER-DECISION-REGISTER.md` | Review output register | Active v1.1 — Empty | Zero review-scoped FDs after S01 |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-CONSTITUTIONAL-CANDIDATE-REGISTER.md` | Review output register | Active v1.1 — Empty | S01 assessment complete; zero candidates |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-DEFERRED-MATTER-REGISTER.md` | Review output register | Active v1.1 — Empty | S01 assessment complete; zero deferrals |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-OGRS-001-OPERATIONAL-GOVERNANCE-ROLES.md` | Review operational control | Controlled v1.0 | Defines roles without assigning individuals or Founder authority |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-GRM-001-GOVERNANCE-RESPONSIBILITY-MATRIX.md` | Review operational control | Controlled v1.0 | RACI responsibilities; no individual assignments |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-OAB-001-OPERATIONAL-AUTHORITY-BOUNDARY.md` | Review operational control | Controlled v1.0 | Separates operations, recommendation, validation, Founder, and constitutional authority |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-ICR-001-INDEPENDENCE-AND-CONFLICT-RULES.md` | Review operational control | Controlled v1.0 | Independence, conflict, combination, disclosure, and escalation rules |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-RAP-001-ROLE-ASSIGNMENT-PROCEDURE.md` | Review operational control | Controlled v1.0 | Controls assignment, reassignment, vacancy, succession, and audit trail |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-RAR-001-ROLE-ASSIGNMENT-REGISTER.md` | Review operational register | Active v1.1 | Six effective assignments; non-independent combinations disclosed |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D1-INITIAL-REVIEW-QUESTION-SET.md` | D1 review preparation record | Admitted — Pending | Eight unanswered D1 RQs; no session assignment |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D1-EVIDENCE-RECORD-CATALOGUE.md` | D1 evidence control record | Validated | Records provenance, admissibility, integrity, and RQ mapping for EV-001 through EV-021 |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-001-v1.0-D1-EVIDENCE-PACK.md` | D1 Evidence Pack | Frozen and Validated v1.0 | Controlled pre-session evidence baseline; no evidence analysis or session effect |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-ENTRY-VALIDATION-REPORT.md` | S01 entry validation | Pass with condition | DG-4 entry evidence; no Founder authority |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-OPENING-RECORD.md` | S01 opening record | Recorded | Preserves opening baseline and participant capacities |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-RQ-EXAMINATION-RECORD.md` | D1 examination record | Complete | Evidence-bounded treatment of all eight RQs |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-GOVERNANCE-FINDINGS.md` | S01 finding set | Presented — Founder Disposition Pending | Eight validated findings; not FDs or constitutional principles |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-GOVERNANCE-FINDING-VALIDATION-REPORT.md` | S01 GF validation | Pass with condition | V5 validation; non-independent limitation disclosed |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-CANDIDATE-AND-DEFERRAL-ASSESSMENT.md` | S01 candidate and deferral assessment | Complete | Zero candidates and zero deferred matters |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S01-SESSION-RECORD.md` | Founder Governance Review session record | Closed — Validated with Condition | Complete S01 record; zero review-scoped FDs |
 | `docs/records/FEF-WORK-PACKAGE-REGISTER.md` | Record | Draft | Non-authoritative administrative record |
 | `docs/records/FEF-DECISION-REGISTER.md` | Governance record | Draft | No constitutional decisions approved; programme architecture direction recorded |
 | `docs/records/FEF-PROGRAMME-DECISION-REGISTER.md` | Programme Governance Pilot Artefact — Programme Decision Register | Current pilot register | Programme-management decisions only; no standards or constitutional authority |
@@ -44,6 +60,16 @@
 | `docs/records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md` | Founder Decision Record | FD-2026-07-24-009 Effective | Controlling attributable evidence of review commencement |
 | `docs/records/founder-reviews/FEF-FRCD-001/FEF-FRCD-001-IMPLEMENTATION-VALIDATION-REPORT.md` | Commencement implementation validation | Pass | Validation evidence; creates no review output |
 | `docs/records/founder-reviews/FEF-FRCD-001/FEF-FRCD-001-IMPLEMENTATION-SUMMARY-REPORT.md` | Commencement implementation summary | Complete | Informational implementation and readiness record |
+| `docs/records/work-packages/FEF-FGR-002-001/FEF-FGR-002-001-OPERATIONAL-VALIDATION-REPORT.md` | Operational role-model validation | Pass | Validates roles and controls; no assignment or review-output effect |
+| `docs/records/work-packages/FEF-FGR-002-001/FEF-FGR-002-001-OPERATIONAL-SUMMARY-REPORT.md` | Operational mobilisation summary | Complete | Records readiness and next gate; no review execution effect |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-ROLE-ASSIGNMENT-VALIDATION-REPORT.md` | D1 role-assignment validation | Pass with condition | Validates six assignments and preserves Founder authority |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-RQ-VALIDATION-AND-ADMISSION-REPORT.md` | D1 RQ validation and admission | Pass | Records admission of eight unanswered RQs |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-EVIDENCE-VALIDATION-REPORT.md` | D1 evidence validation | Pass with limitations | Validates 21 Evidence Records without analysing evidence |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-D1-EVIDENCE-PACK-VALIDATION-REPORT.md` | D1 Evidence Pack validation | Pass with condition | Validates frozen pack integrity and pre-session use |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-D1-ENTRY-READINESS-REPORT.md` | D1 entry-readiness record | Preparation Ready | Confirms preparation inputs; does not create or pass a session-specific gate |
+| `docs/records/work-packages/FEF-FGR-002-002/FEF-FGR-002-002-D1-INITIATION-SUMMARY-REPORT.md` | D1 initiation summary | Complete | Records pre-session readiness and remaining Session 1 gate |
+| `docs/records/work-packages/FEF-FGR-002-003/FEF-FGR-002-003-SESSION-VALIDATION-REPORT.md` | S01 post-session validation | Pass with condition | Validates lifecycle, coverage, evidence, findings, registers, and boundaries |
+| `docs/records/work-packages/FEF-FGR-002-003/FEF-FGR-002-003-SESSION-SUMMARY-REPORT.md` | S01 summary | Complete | Summarises eight Presented findings and Founder consideration readiness |
 | `docs/records/work-packages/FEF-WPK-001/FEF-WPK-001-DRAFT-DECISION-LOG.md` | Work-package record | Draft | Drafting decisions only |
 | `docs/records/work-packages/FEF-WPK-001/FEF-WPK-001-ASSUMPTIONS-REGISTER.md` | Work-package record | Open | Assumptions requiring disposition |
 | `docs/records/work-packages/FEF-WPK-001/FEF-WPK-001-OPEN-QUESTIONS-REGISTER.md` | Work-package record | Open | Questions requiring authorised resolution |
