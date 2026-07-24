@@ -12,13 +12,19 @@
 | FEF-WPK-001A | Work package | Technical Review Amendments for FEF-RGS-000 | Complete — Draft v0.2 Founder Review Ready |
 | FEF-WPK-001B | Work package | Record and Validate Founder Architectural Review FAR-001 | Complete — FAR-001 Recorded and Validated |
 | FEF-FAR-001 | Founder Architectural Review record | First Founder Architectural Review | Founder Architectural Decisions Recorded — No Standard Approval Effect |
-| FEF-WPK-001B.5 | Work package | Record Founder Governance Review | Blocked — Missing Source Evidence |
+| FEF-WPK-001B.5 | Work package | Record Founder Governance Review | Blocked — Source Evidence Not Recoverable; Founder Decision Required |
+| FEF-WPK-001B.5A | Work package | Founder Governance Evidence Recovery | Complete — Evidence Not Recoverable |
 | FEF-PGM-001 | Work package | Master Programme Synchronisation & Founder Dashboard | Complete — Programme Reconciled |
 | FEF-WPK-001B.6 | Work package | Programme Governance Pilot Establishment | Complete — FAR-002 and Pilot Artefacts Established |
 | FEF-WPK-001B.7 | Work package | Work Package Review Package Protocol | Complete and Closed — Founder Approved for Pilot Use |
-| FEF-WPK-001C | Work package | Consolidate Founder Governance Decisions and Establish FEF-000 | Blocked — Depends on Completed FEF-WPK-001B.5 |
-| FEF-WPK-001D | Anticipated work package | Amend FEF-RGS-000 following constitutional consolidation | Pending — Depends on FEF-WPK-001C; No Execution Authority Recorded |
+| FEF-WPK-001E | Work package | Founder Governance Review Charter | Complete — Charter Produced, Validated, and Founder Approved |
+| FEF-WPK-001F | Work package | Founder Governance Review Agenda | Complete — Agenda Produced, Validated, and Founder Approved |
+| FEF-WPK-001G | Work package | Founder Governance Review Plan | Complete — Plan and Execution Controls Produced, Validated, and Founder Approved |
+| FEF-WPK-001C | Work package | Consolidate Founder Governance Decisions and Establish FEF-000 | Blocked Historical Route — Prior Evidence Unrecoverable |
+| FEF-WPK-001D | Anticipated work package | Amend FEF-RGS-000 following constitutional consolidation | Pending — Depends on New Review and Constitutional Consolidation |
 | FEF-FGR-001 | Governance review evidence record | Founder Governance Review Sessions 1–6 | Incomplete — Missing Source Evidence |
+| FEF-FRCD-001 | Founder commencement decision | Founder Governance Review Commencement | Founder Approved — Effective |
+| FEF-FGR-002 | Founder Governance Review | New Attributable Founder Governance Review | Commencement Authorised — Mobilisation Active; No Session |
 | FEF-FAR-002 | Founder Architectural Review record | Programme Governance Pilot Recognition | Founder Pilot Architectural Decision Recorded — No Standard Effect |
 | FEF-PGP-001 | Pilot description | Programme Governance Pilot | Operating Pilot — Informational Only |
 | FEF-PDP-001 | Programme decision register | Programme Governance Pilot Decisions | Current Pilot Register — Programme Decisions Only |

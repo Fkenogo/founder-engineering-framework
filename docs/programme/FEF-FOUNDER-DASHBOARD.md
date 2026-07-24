@@ -9,12 +9,15 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.5 |
-| Current phase | Phase 0 — Research Governance Foundation |
-| Current milestone | Complete the Founder Governance Review evidence record |
-| Latest completed work package | FEF-WPK-001B.7 — Work Package Review Package Protocol |
-| Current active work package | None |
-| Blocked work package to resume | FEF-WPK-001B.5 |
+| Programme version | Master Programme v0.8 |
+| Current phase | Phase 2 — Founder Governance Review |
+| Current milestone | FEF-FGR-002 mobilisation and D1 entry readiness |
+| Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
+| Current active work package | None — review execution is controlled by approved governance instruments |
+| Current execution window | FEF-FGR-002 — Mobilisation Active; no session created |
+| Review commencement | Authorised by FD-2026-07-24-009 |
+| Active review identifier | FEF-FGR-002 |
+| First review domain | D1 — Governance Authority |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 
@@ -22,7 +25,7 @@
 
 | Total | Completed | Active | Blocked | Planned / Pending |
 |---:|---:|---:|---:|---:|
-| 17 | 7 | 0 | 3 | 7 |
+| 21 | 11 | 0 | 3 | 7 |
 
 The total includes permanent-style work packages and legacy scheduled-work identifiers.
 
@@ -30,26 +33,28 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 0, with the Programme Governance pilot established, but before complete Founder Governance Review evidence. |
-| What are we doing? | Waiting to resume FEF-WPK-001B.5 with the Founder-approved Sessions 1–6 source package. |
-| Why are we doing it? | FEF-WPK-001C cannot faithfully consolidate Founder governance decisions without authoritative evidence. |
-| What must finish before anything else? | FEF-FGR-001 must be completed and validated through FEF-WPK-001B.5. |
+| Where are we? | Phase 2, with FEF-FGR-002 commencement authorised and mobilisation active. |
+| What are we doing? | Establishing operational readiness for D1 through role allocation, controlled RQ admission, evidence preparation, and session-entry validation. |
+| Why are we doing it? | The new attributable review must produce a validated governance baseline without reconstructing the lost historical review. |
+| What must finish before anything else? | Initial D1 RQs must be admitted and the first D1 Evidence Pack must be frozen and validated before a session can begin. |
 
-## Immediate Next Work Package
+## Immediate Next Programme Action
 
-**FEF-WPK-001B.5 — Record Founder Governance Review**
+**Mobilise FEF-FGR-002 for D1 entry readiness**
 
-Obtain the Founder-approved Sessions 1–6 transcripts or exports, then resume and complete the existing work package.
+Allocate operational roles, prepare and admit initial D1 Review Questions, register admissible evidence, and freeze the first D1 Evidence Pack. No session may begin until the entry gate passes.
 
 ## Genuine Blockers
 
-- Founder-approved Sessions 1–6 source evidence is absent; this blocks FEF-WPK-001B.5.
-- FEF-WPK-001C is blocked by incomplete FEF-WPK-001B.5.
+- Operational role assignments have not yet been recorded.
+- No D1 Review Questions are admitted.
+- No D1 Evidence Pack exists or is frozen.
 - Legacy FEF-P0-004 is blocked pending a Founder disposition.
 
 ## Founder Decisions Awaiting
 
-- Supply or identify the authoritative Sessions 1–6 review evidence.
+- No immediate Founder commencement decision is pending.
+- Future D1 decision matters will be surfaced only after their validated review gates.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
@@ -60,7 +65,7 @@ All 23 RGS governance questions remain open.
 
 | Area | RAG | Reason |
 |---|---|---|
-| Governance | 🔴 Red | FGR evidence is incomplete; RGS is not approved; 23 questions remain open. |
-| Documentation | 🟠 Amber | The Phase 0 checkpoint is committed locally, but FGR is incomplete and remote tracking remains unresolved. |
-| Programme | 🟠 Amber | Programme is reconciled, but the immediate delivery chain is blocked and legacy items need disposition. |
+| Governance | 🟠 Amber | Commencement is authorised and controls are ready; no substantive review output exists yet. |
+| Documentation | 🟢 Green | The commencement decision, review identity, and eight empty controlled registers are recorded and validated. |
+| Programme | 🟠 Amber | Mobilisation is active; D1 entry prerequisites remain incomplete. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

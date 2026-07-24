@@ -62,3 +62,21 @@ Possible Framework Core architecture, shared cross-framework controls, FEF-CORE-
 | FAR-002-001 | Programme Governance is recognised as a distinct governance domain within FEF in Pilot Status. | Classifies the identified programme-management artefacts for controlled evaluation during the remainder of Phase 0. | Does not create a permanent domain, Programme Governance Standard, constitutional effect, authority-level change, or execution-sequence change. |
 
 Programme-management decisions and their sources are maintained separately in the [Programme Decision Register](FEF-PROGRAMME-DECISION-REGISTER.md).
+
+## Founder Governance Review Preparation and Commencement Decisions
+
+**Authority basis:** Attributable Founder decisions supplied and recorded on 2026-07-24. These decisions establish and commence the new Founder Governance Review. They do not create substantive review findings, constitutional content, or approval of FEF-RGS-000.
+
+| Decision ID | Subject | Disposition | Recorded Effect | Explicit Limitation |
+|---|---|---|---|---|
+| FD-2026-07-24-001 | Founder Governance Review Charter | Approved | FEF-FGRC-001 is the controlling review Charter. | Did not commence the review. |
+| FD-2026-07-24-002 | Founder Governance Review Agenda | Approved | FEF-FGRA-001 is the approved strategic Agenda. | Did not schedule or commence review execution. |
+| FD-2026-07-24-003 | Founder Governance Review Plan | Approved | FEF-FGRP-001 is the controlling operational Plan. | Did not commence the review. |
+| FD-2026-07-24-004 | Governance Preparation Programme Completion | Approved | Declared the preparation baseline complete. | Created no execution artefact or governance output. |
+| FD-2026-07-24-005 | Programme Phase Transition | Approved | Transitioned the programme to Phase 2 — Founder Governance Review. | Did not commence the review or authorise a session. |
+| FD-2026-07-24-006 | Separate Founder Review Commencement Authority | Approved | Reserved commencement to a separate attributable Founder decision. | Prevented implied commencement. |
+| FD-2026-07-24-007 | Historical Review Boundary | Confirmed | Permanently protects FEF-FGR-001 from reuse, renumbering, or reconstruction. | FEF-FGR-001 supplies no substantive governance evidence. |
+| FD-2026-07-24-008 | First Review Domain | Approved | Establishes D1 — Governance Authority as the first domain. | Did not begin D1 examination. |
+| FD-2026-07-24-009 | Founder Review Commencement | Approved — Effective | Approves FEF-FRCD-001, authorises commencement, and permits controlled mobilisation of FEF-FGR-002. | Creates no RQ, evidence, pack, session, GF, review-scoped FD, candidate, constitutional amendment, RGS amendment, or Engineering Discovery authority. |
+
+The controlling record for FD-2026-07-24-009 is [the Founder Decision Record](founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md).

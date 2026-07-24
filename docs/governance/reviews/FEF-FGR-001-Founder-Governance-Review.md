@@ -317,3 +317,34 @@ The minimum source package required to complete FEF-FGR-001 is:
 12. evidence that the exported materials are the Founder-approved review record.
 
 Upon receipt, source artefacts should be preserved separately from this structured record with provenance and integrity metadata.
+
+## Appendix D — Authorised Execution Resumption Audit
+
+The Founder directed immediate execution of FEF-WPK-001B.5 on 2026-07-24.
+
+The coding agent performed a fresh audit of:
+
+- all current repository files;
+- reachable Git history;
+- local branches and reflogs;
+- unreachable Git objects;
+- the configured remote’s branch heads;
+- all GF/FD references and review-related filenames.
+
+No Founder-approved Session 1–6 transcript, export, or source-supported substantive GF/FD content was located. All existing occurrences are evidence-gap inventories or programme references.
+
+The complete audit is recorded in the [FEF-WPK-001B.5 Source Evidence Audit](../../records/work-packages/FEF-WPK-001B.5/FEF-WPK-001B.5-SOURCE-EVIDENCE-AUDIT.md).
+
+**Execution effect:** FEF-WPK-001B.5 has resumed and reached its evidence gate. The record remains incomplete, no substantive review content has been reconstructed, and FEF-WPK-001C remains blocked.
+
+## Appendix E — External Evidence Recovery
+
+FEF-WPK-001B.5A performed a documented search across the identified external evidence sources on 2026-07-24. Local document and export locations, Trash, repository backups, coding-session and assistant archives, shell history, connected Google Drive, and the configured GitHub repository were examined.
+
+No Founder-approved Session 1–6 source package or source-supported GF/FD content was recovered. The FEF initiation archive located in Trash predates the review and contains no review record. The Codex session archive contains later work-package instructions but not the missing review content. Google Drive contained no exact FEF review record, and the configured GitHub repository was empty.
+
+The complete provenance and source-examination register is recorded in the [FEF-WPK-001B.5A Founder Governance Evidence Recovery Report](../../records/work-packages/FEF-WPK-001B.5A/FEF-WPK-001B.5A-FOUNDER-GOVERNANCE-EVIDENCE-RECOVERY-REPORT.md).
+
+**Disposition:** **Evidence Not Recoverable — Return for Founder decision on initiating a new governance review work package.**
+
+FEF-FGR-001 remains incomplete. This disposition does not reconstruct governance, close Open Questions, amend FEF-RGS-000, authorise a replacement review, or unblock FEF-WPK-001C.

@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.5
+**Programme record version:** 0.8
 **Reconciliation date:** 2026-07-24
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,15 +21,18 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.5 |
+| Programme version | Master Programme v0.8 |
 | Framework release | None |
-| Current phase | Phase 0 — Research Governance Foundation |
-| Current milestone | Complete the Founder Governance Review evidence record before constitutional consolidation |
-| Latest completed work package | FEF-WPK-001B.7 — Work Package Review Package Protocol |
+| Current phase | Phase 2 — Founder Governance Review |
+| Current milestone | FEF-FGR-002 mobilisation and D1 entry readiness |
+| Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Blocked work package to resume next | FEF-WPK-001B.5 |
-| Immediate next authorised activity | Obtain the Founder-approved Sessions 1–6 source package and resume FEF-WPK-001B.5 |
-| Programme checkpoint commit | `e5199eb18567799e30ef57a3546da6690b74a0c0` |
+| Current execution window | FEF-FGR-002 — Mobilisation Active; no session created |
+| Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
+| Immediate next authorised activity | Allocate operational roles, then prepare and admit initial D1 Review Questions under approved controls |
+| Review commencement decision | FD-2026-07-24-009 — Approved and effective |
+| Active review identifier | FEF-FGR-002 |
+| First review domain | D1 — Governance Authority |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
 
@@ -56,26 +59,30 @@ Every identified work package or legacy scheduled-work identifier appears exactl
 | 2 | FEF-WPK-001 | Prepare FEF-RGS-000 Research Governance Standard | Completed | Founder-authorised work package | Produced RGS v0.1 and supporting records |
 | 3 | FEF-WPK-001A | Technical Review Amendments for FEF-RGS-000 | Completed | Founder-authorised Technical Review amendments | Produced and validated RGS v0.2 |
 | 4 | FEF-WPK-001B | Record and Validate Founder Architectural Review FAR-001 | Completed | Founder-authorised work package | FAR-001 recorded and validated |
-| 5 | FEF-WPK-001B.5 | Record Founder Governance Review | Blocked | Founder authorised | Missing Founder-approved Sessions 1–6 source evidence |
-| 6 | FEF-PGM-001 | Master Programme Synchronisation & Founder Dashboard | Completed | Founder authorised on 2026-07-24 | Master Programme, dashboard, dependency review, and health report reconciled |
-| 7 | FEF-WPK-001B.6 | Programme Governance Pilot Establishment | Completed | Founder authorised on 2026-07-24 | FAR-002 and pilot records established; execution sequence unchanged |
-| 8 | FEF-WPK-001B.7 | Work Package Review Package Protocol | Completed — Founder Disposition Recorded | Founder approved for Programme Governance Pilot use on 2026-07-24 | Closed with no amendments; execution sequence unchanged |
-| 9 | FEF-WPK-001C | Consolidate Founder Governance Decisions and Establish FEF-000 | Blocked | Previously Founder authorised; execution prerequisite unmet | Depends on completed and validated FEF-WPK-001B.5 |
-| 10 | FEF-WPK-001D | Amend FEF-RGS-000 following constitutional consolidation | Pending | Anticipated programme activity; no execution authority recorded | Depends on FEF-WPK-001C |
-| 11 | FEF-P0-002 | Engineering Asset Discovery Programme | Pending | Approved architecture position; not authorised to commence | Depends on approved applicable research and discovery standards |
-| 12 | FEF-P0-003 | Founder Scope, Boundary & Classification Decisions | Pending | Approved architecture position; not authorised to commence | Depends on FEF-P0-002 discovery evidence |
-| 13 | FEF-P0-004 | Documentation Repository Structure and Draft Authority Model | Blocked | Legacy plan; disposition unresolved | Founder decision required under OQ-016 |
-| 14 | FEF-P1-001 | Framework Constitution | Pending | Legacy plan requiring sequence reconciliation | Must follow discovery and Founder scope decisions |
-| 15 | FEF-P1-002 | Authority, Source Hierarchy, and Documentation Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
-| 16 | FEF-P1-003 | Framework Versioning and Release Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
-| 17 | FEF-P1-004 | Framework Adoption, Upgrade, and Deviation Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
+| 5 | FEF-WPK-001B.5 | Record Founder Governance Review | Blocked | Founder directed execution on 2026-07-24 | Repository audit and WPK-001B.5A external recovery found no qualifying source evidence |
+| 6 | FEF-WPK-001B.5A | Founder Governance Evidence Recovery | Completed | Founder authorised external evidence recovery | Evidence not recoverable from identified sources; Founder decision required |
+| 7 | FEF-PGM-001 | Master Programme Synchronisation & Founder Dashboard | Completed | Founder authorised on 2026-07-24 | Master Programme, dashboard, dependency review, and health report reconciled |
+| 8 | FEF-WPK-001B.6 | Programme Governance Pilot Establishment | Completed | Founder authorised on 2026-07-24 | FAR-002 and pilot records established; execution sequence unchanged |
+| 9 | FEF-WPK-001B.7 | Work Package Review Package Protocol | Completed — Founder Disposition Recorded | Founder approved for Programme Governance Pilot use on 2026-07-24 | Closed with no amendments; execution sequence unchanged |
+| 10 | FEF-WPK-001E | Founder Governance Review Charter | Completed | Founder-authorised preparatory work | Produced and validated FEF-FGRC-001; subsequently Founder approved |
+| 11 | FEF-WPK-001F | Founder Governance Review Agenda | Completed | Founder-authorised preparatory work | Produced and validated FEF-FGRA-001; subsequently Founder approved |
+| 12 | FEF-WPK-001G | Founder Governance Review Plan | Completed | Founder-authorised preparatory work | Produced the operational Plan and controls; FEF-FGRP-001 subsequently Founder approved |
+| 13 | FEF-WPK-001C | Consolidate Founder Governance Decisions and Establish FEF-000 | Blocked | Historical work package based on unrecoverable review evidence | Not the current consolidation route; disposition remains controlled |
+| 14 | FEF-WPK-001D | Amend FEF-RGS-000 following constitutional consolidation | Pending | Anticipated programme activity; no execution authority recorded | Depends on new review outcomes and constitutional consolidation |
+| 15 | FEF-P0-002 | Engineering Asset Discovery Programme | Pending | Approved architecture position; not authorised to commence | Depends on approved applicable research and discovery standards |
+| 16 | FEF-P0-003 | Founder Scope, Boundary & Classification Decisions | Pending | Approved architecture position; not authorised to commence | Depends on FEF-P0-002 discovery evidence |
+| 17 | FEF-P0-004 | Documentation Repository Structure and Draft Authority Model | Blocked | Legacy plan; disposition unresolved | Founder decision required under OQ-016 |
+| 18 | FEF-P1-001 | Framework Constitution | Pending | Legacy plan requiring sequence reconciliation | Must follow the authorised governance and programme sequence |
+| 19 | FEF-P1-002 | Authority, Source Hierarchy, and Documentation Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
+| 20 | FEF-P1-003 | Framework Versioning and Release Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
+| 21 | FEF-P1-004 | Framework Adoption, Upgrade, and Deviation Governance | Pending | Legacy planning item; not authorised to commence | Depends on constitutional sequence and scope |
 
 ### 4.1 Totals
 
 | Classification | Count |
 |---|---:|
-| Total controlled work items | 17 |
-| Completed | 7 |
+| Total controlled work items | 21 |
+| Completed | 11 |
 | Active | 0 |
 | Blocked | 3 |
 | Pending | 7 |
@@ -93,7 +100,12 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-RGS-000 | Research Governance Standard | Draft v0.2 — Founder Review Required | Architecturally suitable for review but not approved |
 | FEF-FAR-001 | Founder Architectural Review Record | Decisions recorded and validated | Authoritative only for FAR-001 architectural decisions |
 | FEF-FAR-002 | Founder Architectural Review Record | Pilot architectural decision recorded and validated | Authoritative only for FAR-002-001 pilot recognition and its boundaries |
-| FEF-FGR-001 | Founder Governance Review Record | Incomplete — Missing Source Evidence | Cannot support FEF-WPK-001C |
+| FEF-FGR-001 | Founder Governance Review Record | Incomplete — Evidence Not Recoverable from identified sources | Cannot support FEF-WPK-001C |
+| FEF-FGRC-001 | Founder Governance Review Charter | Founder Approved | Controlling review Charter; does not itself create review outputs |
+| FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
+| FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
+| FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
+| FEF-FGR-002 | Founder Governance Review | Commencement Authorised — Mobilisation Active | Active review identity; no session or substantive review output exists |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -121,29 +133,32 @@ FEF-WRP-001 is Founder-approved for pilot use as the preferred prospective revie
 
 The current controlling sequence is:
 
-1. preserve and validate the missing Founder Governance Review evidence through FEF-WPK-001B.5;
-2. execute FEF-WPK-001C only after that evidence is complete;
-3. prepare the separately authorised amendment of RGS-000 through FEF-WPK-001D only after FEF-WPK-001C;
-4. complete the separate Founder Review and approval path for RGS-000;
-5. prepare and approve FEF-RDS-001;
-6. execute FEF-P0-002;
-7. obtain FEF-P0-003 Founder decisions;
-8. commence constitutional work only after discovery and those Founder decisions.
+1. mobilise FEF-FGR-002 through assigned operational roles and validated empty registers;
+2. draft, validate, and admit D1 Review Questions under FEF-RQS-001;
+3. register admissible evidence and assemble, freeze, and validate the first D1 Evidence Pack;
+4. pass the first D1 session-entry gate;
+5. examine D1 — Governance Authority, then proceed through the approved domain dependency sequence;
+6. complete and validate the Founder Governance Review;
+7. perform separately authorised constitutional consolidation;
+8. amend and separately review FEF-RGS-000;
+9. prepare and approve FEF-RDS-001;
+10. execute Engineering Discovery only after all applicable authority gates pass.
 
-Steps after FEF-WPK-001B.5 remain subject to their recorded authority boundaries and prerequisites. This sequence does not itself approve or commence them.
+This sequence does not create an RQ, evidence item, pack, session, finding, decision, candidate, constitutional text, RGS amendment, or Engineering Discovery authority.
 
-## 7. Immediate Next Work Package
+## 7. Immediate Next Programme Action
 
-**FEF-WPK-001B.5 — Record Founder Governance Review**
+**FEF-FGR-002 mobilisation**
 
-The only authorised next activity is to obtain the Founder-approved Sessions 1–6 transcripts or exported review records and resume the existing blocked work package. No substitute reconstruction is permitted.
+FD-2026-07-24-009 has authorised commencement. FEF-FGR-002 is assigned and its eight empty registers are instantiated. The next authorised operational activity is role allocation followed by controlled preparation and admission of initial D1 Review Questions. No session exists.
 
 ## 8. Founder Actions Awaiting
 
-1. Provide or identify the Founder-approved Sessions 1–6 source package required to complete FEF-FGR-001.
-2. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
-3. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
-4. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
+1. No Founder decision is pending to authorise commencement; FD-2026-07-24-009 is effective.
+2. Future D1 matters will require Founder disposition only after valid RQs, evidence, and findings reach their decision gates.
+3. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
+4. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
+5. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
 
 The remaining 23 RGS open questions remain unresolved. They are not silently closed or converted into immediate programme decisions by this reconciliation.
 
@@ -157,9 +172,9 @@ For programme administration, a work package completion record must therefore be
 
 ## 10. Repository-State Qualification
 
-The repository is on branch `main`. The Founder-authorised Phase 0 programme checkpoint was committed at `e5199eb18567799e30ef57a3546da6690b74a0c0`; it preserves the accumulated validated RGS, FAR, FGR evidence-gap, Programme Governance pilot, and WRP records.
+The repository is on branch `main`. The Founder-authorised Phase 0 programme checkpoint at `e5199eb18567799e30ef57a3546da6690b74a0c0` remains in local history.
 
-This Master Programme revision records the repository state after that checkpoint. The remote-tracking reference still reports `origin/main` as gone, and no push has been performed. Remote preservation therefore remains unresolved even though the local history is now committed.
+This v0.8 revision records the approved Founder Governance Review commencement and FEF-FGR-002 mobilisation implementation. The implementation is committed only after validation passes. No push is authorised by FD-2026-07-24-009.
 
 ## 11. Change Control
 
