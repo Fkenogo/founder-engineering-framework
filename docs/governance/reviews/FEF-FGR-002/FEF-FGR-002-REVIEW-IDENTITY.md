@@ -2,14 +2,16 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.3
+**Identity version:** 1.4
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1 Founder Review Package Prepared — Disposition Pending
+**Review state:** D1 Closed — Founder Dispositions and Decisions Validated; Remaining Domains Pending
 
 **Mobilisation state:** Complete
+
+**Founder Engineering Framework operating mode:** Operational
 
 **First domain:** D1 — Governance Authority  
 **Session state:** FEF-FGR-002-S01 Closed — Validated with Condition
@@ -48,7 +50,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 1 |
 | FEF-FGR-002-SR-001 | Session Register | 1 |
 | FEF-FGR-002-GFR-001 | Governance Finding Register | 8 |
-| FEF-FGR-002-FDR-001 | Founder Decision Register | 0 |
+| FEF-FGR-002-FDR-001 | Founder Decision Register | 9 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
 
@@ -73,19 +75,20 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Evidence Records | EV-001 through EV-021 — registered and validated |
 | D1 Evidence Pack | FEF-FGR-002-EP-001 v1.0 — Frozen and Validated |
 | Session | FEF-FGR-002-S01 — Closed and Validated with Condition |
-| Governance Findings | GF-001 through GF-008 — Presented; Founder disposition pending |
-| Review-scoped Founder Decisions | 0 |
+| Governance Findings | GF-001 through GF-008 — Dispositioned |
+| Review-scoped Founder Decisions | FD-001 through FD-009 — Decision Records Validated |
 | Constitutional Candidates | 0 |
 | Deferred Matters | 0 |
-| Founder Review Package | Prepared for GF-001 through GF-008; no disposition recorded |
+| D1 status | Formally closed after Founder disposition and decision validation |
+| Remaining review domains | Pending under approved domain dependency sequence |
 
 ### 4.3 Substantive Review Boundary
 
-S01 examination, findings, validation, and closure are controlled review-execution actions.
+S01 examination, findings, validation, Founder disposition, decision recording, and D1 closure are controlled review-execution actions.
 
 They do not:
 
-- issue a review-scoped FD or Founder-disposition a GF;
+- broaden a review-scoped FD beyond its exact finding, conditions, scope, and non-effects;
 - create a Constitutional Candidate without satisfying all Charter tests;
 - convert a pending Founder decision need into a deferral;
 - modify an Open Question;
@@ -95,7 +98,7 @@ They do not:
 
 The initial identity and empty-register fingerprints are preserved in the FEF-FGR-002 commencement implementation validation report.
 
-The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Any later change requires versioned change history and renewed validation.
+The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Founder disposition, decision recording, D1 closure, and operational transition are validated by FEF-FGR-002-005. Any later change requires versioned change history and renewed validation.
 
 ## 6. Change History
 
@@ -105,3 +108,4 @@ The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execut
 | 1.1 | 2026-07-24 | Mobilisation completion and D1 pre-session preparation state recorded | FEF-FGR-002-002 |
 | 1.2 | 2026-07-24 | S01 closure, eight Presented GFs, and zero-decision/candidate/deferral state recorded | FEF-FGR-002-003 |
 | 1.3 | 2026-07-24 | Founder review package readiness recorded without changing GF or decision state | FEF-FGR-002-004 |
+| 1.4 | 2026-07-24 | Eight Founder dispositions, nine review-scoped FDs, D1 closure, and Operational mode recorded | Attributable Founder directive for FEF-FGR-002-005 |

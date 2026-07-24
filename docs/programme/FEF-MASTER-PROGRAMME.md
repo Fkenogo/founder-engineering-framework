@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.8
+**Programme record version:** 0.9
 **Reconciliation date:** 2026-07-24
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,15 +21,15 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.8 |
+| Programme version | Master Programme v0.9 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | FEF-FGR-002 mobilisation and D1 entry readiness |
+| Current milestone | D1 — Governance Authority closed; operational review execution established |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | FEF-FGR-002 — Mobilisation Active; no session created |
+| Current execution window | FEF-FGR-002 — D1 closed; remaining domains pending |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next authorised activity | Allocate operational roles, then prepare and admit initial D1 Review Questions under approved controls |
+| Immediate next authorised activity | Mobilize the next review domain under the approved dependency sequence and established operational workflow |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -105,7 +105,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
 | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
 | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
-| FEF-FGR-002 | Founder Governance Review | Commencement Authorised — Mobilisation Active | Active review identity; no session or substantive review output exists |
+| FEF-FGR-002 | Founder Governance Review | Active — D1 Closed; Operational | Eight D1 findings dispositioned; nine review-scoped decisions validated; remaining domains pending |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -133,29 +133,32 @@ FEF-WRP-001 is Founder-approved for pilot use as the preferred prospective revie
 
 The current controlling sequence is:
 
-1. mobilise FEF-FGR-002 through assigned operational roles and validated empty registers;
-2. draft, validate, and admit D1 Review Questions under FEF-RQS-001;
-3. register admissible evidence and assemble, freeze, and validate the first D1 Evidence Pack;
-4. pass the first D1 session-entry gate;
-5. examine D1 — Governance Authority, then proceed through the approved domain dependency sequence;
-6. complete and validate the Founder Governance Review;
-7. perform separately authorised constitutional consolidation;
-8. amend and separately review FEF-RGS-000;
-9. prepare and approve FEF-RDS-001;
-10. execute Engineering Discovery only after all applicable authority gates pass.
+1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
+2. execute each remaining review domain through the standard operational workflow under the approved dependency sequence;
+3. complete and validate the Founder Governance Review;
+4. perform separately authorised constitutional consolidation;
+5. amend and separately review FEF-RGS-000;
+6. prepare and approve FEF-RDS-001;
+7. execute Engineering Discovery only after all applicable authority gates pass.
 
 This sequence does not create an RQ, evidence item, pack, session, finding, decision, candidate, constitutional text, RGS amendment, or Engineering Discovery authority.
 
 ## 7. Immediate Next Programme Action
 
-**FEF-FGR-002 mobilisation**
+**Mobilize the next review domain**
 
-FD-2026-07-24-009 has authorised commencement. FEF-FGR-002 is assigned and its eight empty registers are instantiated. The next authorised operational activity is role allocation followed by controlled preparation and admission of initial D1 Review Questions. No session exists.
+D1 is formally closed. The next review domain shall enter the already-governed operational workflow under the approved domain dependency sequence. This record does not instantiate that domain's Review Questions, evidence, Evidence Pack, session, findings, or decisions.
+
+The standard workflow is:
+
+`Mobilize → Review → Validate → Founder Review → Founder Decisions → Validation → Close Review`
+
+The Founder Engineering Framework operating mode is **Operational**. Framework Engineering remains available but is no longer the default operating mode.
 
 ## 8. Founder Actions Awaiting
 
-1. No Founder decision is pending to authorise commencement; FD-2026-07-24-009 is effective.
-2. Future D1 matters will require Founder disposition only after valid RQs, evidence, and findings reach their decision gates.
+1. No D1 Founder disposition remains pending.
+2. Future domain findings require attributable Founder disposition only after their valid review gates.
 3. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
 4. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
 5. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
@@ -174,7 +177,7 @@ For programme administration, a work package completion record must therefore be
 
 The repository is on branch `main`. The Founder-authorised Phase 0 programme checkpoint at `e5199eb18567799e30ef57a3546da6690b74a0c0` remains in local history.
 
-This v0.8 revision records the approved Founder Governance Review commencement and FEF-FGR-002 mobilisation implementation. The implementation is committed only after validation passes. No push is authorised by FD-2026-07-24-009.
+This v0.9 revision records D1 closure, the Operational operating mode, and the standard execution workflow. FEF-FGR-002-005 remains uncommitted unless separately authorised.
 
 ## 11. Change Control
 

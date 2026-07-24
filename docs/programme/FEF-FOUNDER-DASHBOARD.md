@@ -9,15 +9,16 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.8 |
+| Programme version | Master Programme v0.9 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | FEF-FGR-002 mobilisation and D1 entry readiness |
+| Current milestone | D1 closed; operational review execution established |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | FEF-FGR-002 — Mobilisation Active; no session created |
+| Current execution window | FEF-FGR-002 — D1 closed; remaining domains pending |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
+| FEF operating mode | Operational — Framework Engineering available, not default |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 
@@ -33,28 +34,26 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with FEF-FGR-002 commencement authorised and mobilisation active. |
-| What are we doing? | Establishing operational readiness for D1 through role allocation, controlled RQ admission, evidence preparation, and session-entry validation. |
+| Where are we? | Phase 2, with D1 formally closed and FEF-FGR-002 continuing across the remaining domains. |
+| What are we doing? | Reusing the governed operational loop for the next domain in the approved dependency sequence. |
 | Why are we doing it? | The new attributable review must produce a validated governance baseline without reconstructing the lost historical review. |
-| What must finish before anything else? | Initial D1 RQs must be admitted and the first D1 Evidence Pack must be frozen and validated before a session can begin. |
+| What must finish before anything else? | The next domain must pass its controlled mobilisation and entry gates before substantive review begins. |
 
 ## Immediate Next Programme Action
 
-**Mobilise FEF-FGR-002 for D1 entry readiness**
+**Mobilize the next review domain**
 
-Allocate operational roles, prepare and admit initial D1 Review Questions, register admissible evidence, and freeze the first D1 Evidence Pack. No session may begin until the entry gate passes.
+Use `Mobilize → Review → Validate → Founder Review → Founder Decisions → Validation → Close Review` under the approved domain dependency sequence. No next-domain execution artefact is created by this dashboard update.
 
 ## Genuine Blockers
 
-- Operational role assignments have not yet been recorded.
-- No D1 Review Questions are admitted.
-- No D1 Evidence Pack exists or is frozen.
 - Legacy FEF-P0-004 is blocked pending a Founder disposition.
 
 ## Founder Decisions Awaiting
 
 - No immediate Founder commencement decision is pending.
-- Future D1 decision matters will be surfaced only after their validated review gates.
+- No D1 finding disposition remains pending.
+- Future domain decision matters will be surfaced only after their validated review gates.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
@@ -65,7 +64,7 @@ All 23 RGS governance questions remain open.
 
 | Area | RAG | Reason |
 |---|---|---|
-| Governance | 🟠 Amber | Commencement is authorised and controls are ready; no substantive review output exists yet. |
-| Documentation | 🟢 Green | The commencement decision, review identity, and eight empty controlled registers are recorded and validated. |
-| Programme | 🟠 Amber | Mobilisation is active; D1 entry prerequisites remain incomplete. |
+| Governance | 🟢 Green | D1 findings are dispositioned, decision records validated, and authority boundaries preserved. |
+| Documentation | 🟢 Green | D1 closure, nine review-scoped decisions, traceability, and operational state are recorded. |
+| Programme | 🟢 Green | D1 is closed and the established workflow is ready for controlled reuse across remaining domains. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |
