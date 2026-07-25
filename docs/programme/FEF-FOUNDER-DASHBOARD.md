@@ -9,18 +9,18 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.11 |
+| Programme version | Master Programme v0.12 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | ORC-001 closed — Founder approved with conditions; validation passed |
+| Current milestone | D2 — Evidence Governance mobilisation complete; Ready with Conditions |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D2 mobilisation preparation authorised; D2 not commenced |
+| Current execution window | D2 evidence mobilisation package preparation; substantive review not commenced |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D2 — Evidence Governance; not commenced |
+| Next review domain | D2 — Evidence Governance; mobilisation complete, substantive review not commenced |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 
@@ -36,16 +36,16 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1 and ORC-001 closed and sustained Operational Mode authorised. |
-| What are we doing? | Preparing the next governed action: D2 mobilisation under the established Operational Mode lifecycle. |
+| Where are we? | Phase 2, with D1 and ORC-001 closed and D2 mobilisation complete under sustained Operational Mode. |
+| What are we doing? | Preparing the governed D2 evidence mobilisation package without examining evidence. |
 | Why are we doing it? | The new attributable review must produce a validated governance baseline without reconstructing the lost historical review. |
-| What must finish before anything else? | D2 mobilisation must be prepared and gated under the established lifecycle; D2 has not commenced. |
+| What must finish before anything else? | D2 RQs must be prepared, validated, and admitted; evidence must then be registered and a pack frozen before session entry. |
 
 ## Immediate Next Programme Action
 
-**Prepare D2 mobilisation under the established Operational Mode lifecycle**
+**Prepare and validate the D2 Evidence Governance evidence mobilisation package**
 
-FEF-FGR-002-FD-010 has been recorded and validated with all seven Founder conditions, and ORC-001 is closed. D2 mobilisation is authorised but unstarted; no D2 execution artefact is created by this dashboard update.
+FEF-FGR-002-D2-MOB-001 records a `Ready with Conditions` mobilisation verdict. D2 currently has zero RQs, zero D2 Evidence Records, zero D2 packs, zero D2 sessions, and no substantive examination.
 
 ## Genuine Blockers
 
@@ -68,6 +68,6 @@ All 23 RGS governance questions remain open.
 | Area | RAG | Reason |
 |---|---|---|
 | Governance | 🟢 Green | D1 findings and decisions are validated; Founder authority remains preserved. |
-| Documentation | 🟢 Green | ORC-001 and FEF-FGR-002-FD-010 are closed/validated and bidirectionally traceable. |
-| Programme | 🟢 Green | D1 and ORC-001 are closed; preparation of D2 mobilisation is authorised under Operational Mode. |
+| Documentation | 🟢 Green | ORC-001 closure is pushed; D2 mobilisation and its zero-entry boundaries are controlled. |
+| Programme | 🟠 Amber | D2 mobilisation is complete; RQ admission and evidence-pack gates remain before review. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

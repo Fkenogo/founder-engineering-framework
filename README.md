@@ -3,17 +3,17 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.11 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.12 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; Sustained Operational Mode Authorised; D2 Not Commenced
+**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 Mobilisation Complete, Ready with Conditions
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare D2 mobilisation under the established Operational Mode lifecycle
+**Immediate next programme action:** Prepare and validate the D2 Evidence Governance evidence mobilisation package
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1 closed; D2 not commenced
+**Current attributable governance review:** FEF-FGR-002 — D1 closed; D2 mobilisation complete; substantive review not commenced
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -44,6 +44,7 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/research/`](docs/governance/research/) — draft research governance standards;
 - [`docs/governance/reviews/`](docs/governance/reviews/) — structured governance review evidence and explicitly recorded evidence gaps;
 - [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review, closed D1 record set, registers, and validated FEF-FGR-002-FD-010;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — D2 mobilisation scope, role, RQ, dependency, and entry-gate record;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -86,7 +87,7 @@ FEF-FGR-001 records that the Founder Governance Review was conducted across Sess
 
 FEF-WPK-001B.5 resumed on 2026-07-24 and completed a fresh audit of repository files, Git history, unreachable objects, reflogs, and the configured remote. FEF-WPK-001B.5A then searched the identified local external stores, coding-session archives, connected Google Drive, and configured GitHub repository. No qualifying source package was recoverable. FEF-FGR-001 therefore remains the permanent historical evidence-gap record and is not used as the new review.
 
-The Founder approved the new review Charter, Agenda, and Plan, declared Governance Preparation complete, and transitioned the programme to Phase 2. FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The collision-safe identifier FEF-FGR-002 was assigned. D1 — Governance Authority completed its governed lifecycle with eight dispositioned findings, nine validated review-scoped Founder Decisions, zero Constitutional Candidates, zero Deferred Matters, and formal closure. FEF-FGR-002-FD-010 subsequently approved sustained Operational Mode with seven conditions and accepted D1 as the bounded reference implementation. ORC-001 is closed after passed post-approval validation. D2 mobilisation preparation is authorised, but D2 has not commenced.
+The Founder approved the new review Charter, Agenda, and Plan, declared Governance Preparation complete, and transitioned the programme to Phase 2. FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The collision-safe identifier FEF-FGR-002 was assigned. D1 — Governance Authority completed its governed lifecycle with eight dispositioned findings, nine validated review-scoped Founder Decisions, zero Constitutional Candidates, zero Deferred Matters, and formal closure. FEF-FGR-002-FD-010 subsequently approved sustained Operational Mode with seven conditions and accepted D1 as the bounded reference implementation. ORC-001 is closed and pushed at `2f84e11498e0e86dd1a4796a356b4bc187ac7267`. D2 mobilisation is complete with a Ready-with-Conditions verdict; substantive review has not commenced.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 

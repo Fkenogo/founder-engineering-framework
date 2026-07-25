@@ -2,12 +2,12 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.6
+**Identity version:** 1.7
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1 Closed — ORC-001 Closed; Sustained Operational Mode Authorised; D2 Mobilisation Preparation Next
+**Review state:** D1 and ORC-001 Closed — D2 Mobilisation Complete; Ready with Conditions
 
 **Mobilisation state:** Complete
 
@@ -83,7 +83,10 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Operational checkpoint | ORC-001 v1.0 — Closed; Founder Approved with Conditions; validation passed |
 | Operational readiness decision | FEF-FGR-002-FD-010 v1.0 — Decision Record Validated; Operative with Conditions |
 | Remaining review domains | D2–D8 pending under approved domain dependency sequence |
-| D2 state | Not commenced; mobilisation preparation is the next authorised programme action under Operational Mode |
+| D2 mobilisation | [FEF-FGR-002-D2-MOB-001](FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
+| D2 Review Questions / evidence / packs / sessions | 0 / 0 / 0 / 0 |
+| D2 substantive review | Not commenced |
+| D2 next gate | Prepare and validate the D2 Evidence Governance evidence mobilisation package |
 
 ### 4.3 Substantive Review Boundary
 
@@ -101,7 +104,7 @@ They do not:
 
 The initial identity and empty-register fingerprints are preserved in the FEF-FGR-002 commencement implementation validation report.
 
-The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Founder disposition, decision recording, D1 closure, and operational transition are validated by FEF-FGR-002-005. ORC-001 records the completed operational-readiness checkpoint, and FEF-FGR-002-FD-010 records the attributable Founder approval with seven conditions. Post-approval synchronisation and validation passed without commencing D2. Any later change requires versioned change history and renewed validation.
+The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Founder disposition, decision recording, D1 closure, and operational transition are validated by FEF-FGR-002-005. ORC-001 records the completed operational-readiness checkpoint, and FEF-FGR-002-FD-010 records the attributable Founder approval with seven conditions. FEF-FGR-002-D2-MOB-001 records bounded D2 mobilisation without creating RQs, evidence, a pack, a session, findings, or decisions. Any later change requires versioned change history and renewed validation.
 
 ## 6. Change History
 
@@ -114,3 +117,4 @@ The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execut
 | 1.4 | 2026-07-24 | Eight Founder dispositions, nine review-scoped FDs, D1 closure, and Operational mode recorded | Attributable Founder directive for FEF-FGR-002-005 |
 | 1.5 | 2026-07-25 | ORC-001 candidate checkpoint and validated FEF-FGR-002-FD-010 Ready-for-Founder state recorded; D2 remains unstarted | ORC-001 preparation authority |
 | 1.6 | 2026-07-25 | FEF-FGR-002-FD-010 approval with conditions, ORC-001 closure, sustained Operational Mode, and D2 mobilisation-preparation authority recorded after validation | Attributable Founder disposition for FEF-FGR-002-FD-010 |
+| 1.7 | 2026-07-25 | D2 Evidence Governance mobilisation completed with Ready-with-Conditions verdict; substantive review remains unstarted | FEF-FGR-002-D2-MOB-001 |

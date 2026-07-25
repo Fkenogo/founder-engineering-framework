@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.2 |
+| Register version | 1.3 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -14,8 +14,9 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report |
-| Last validation date | 2026-07-24 |
+| Last validation date | 2026-07-25 |
 | Substantive entry count | 8 |
+| D2 substantive entry count | 0 |
 
 ## Register
 
@@ -37,7 +38,21 @@
 | 1.0 | 2026-07-24 | Empty register instantiated | FD-2026-07-24-009 and FEF-FRCD-001 |
 | 1.1 | 2026-07-24 | Eight validated D1 Review Questions admitted | FEF-FGR-002-RA-002 under DG-2 |
 | 1.2 | 2026-07-24 | Eight RQs examined in S01 and dispositioned at finding level; OQs unchanged | FEF-FGR-002-S01 |
+| 1.3 | 2026-07-25 | D2 mobilisation recorded with zero approved, candidate, draft, validated, or admitted D2 RQs; no identifier allocated | FEF-FGR-002-D2-MOB-001 |
 
 ## Non-Effects
 
-This register contains eight RQs examined in S01 and answered at finding level. Founder decision needs remain pending. No existing Open Question is modified, answered, or closed.
+This register contains eight D1 RQs examined in S01 and answered at finding level. Their related D1 Founder Decisions are controlled by the Founder Decision Register. D2 has zero RQs: preparation themes in FEF-FGR-002-D2-MOB-001 are not questions and have no lifecycle state. No existing Open Question is modified, answered, or closed.
+
+## Domain Coverage
+
+| Domain | RQ Count | Current Treatment |
+|---|---:|---|
+| D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
+| D2 — Evidence Governance | 0 | Missing bounded candidate set; preparation authorised, no RQ created |
+| D3 — Governance Assurance | 0 | Not reached |
+| D4 — Records and Information Governance | 0 | Not reached |
+| D5 — Governance Lifecycle and Evolution | 0 | Not reached |
+| D6 — Framework Administration | 0 | Not reached |
+| D7 — Constitutional and Standards Boundary | 0 | Not reached |
+| D8 — Open Question Resolution | 0 | Cross-cutting mappings only; no D8 RQ created |
