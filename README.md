@@ -3,17 +3,17 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.13 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.14 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 Evidence Mobilisation Complete
+**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 Session Entry Validated
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare and validate the D2 session-entry package
+**Immediate next programme action:** Formally open the validated D2 evidence examination session
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1 closed; D2 EP-002 Frozen; zero D2 sessions
+**Current attributable governance review:** FEF-FGR-002 — D1 closed; S02 entry validated and not opened
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -45,7 +45,9 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/`](docs/governance/reviews/) — structured governance review evidence and explicitly recorded evidence gaps;
 - [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review, closed D1 record set, registers, and validated FEF-FGR-002-FD-010;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — D2 mobilisation scope, role, RQ, dependency, and entry-gate record;
-- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md) — Frozen 21-record D2 Evidence Pack; separate session-entry validation required;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md) — Frozen 21-record D2 Evidence Pack; assigned only to entry-validated, unopened S02;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md) — D2 session identity and fixed entry scope; Entry Validated and Not Opened;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-ENTRY-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-ENTRY-VALIDATION-REPORT.md) — DG-4 Pass with Conditions; formal session opening remains separate;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -88,7 +90,20 @@ FEF-FGR-001 records that the Founder Governance Review was conducted across Sess
 
 FEF-WPK-001B.5 resumed on 2026-07-24 and completed a fresh audit of repository files, Git history, unreachable objects, reflogs, and the configured remote. FEF-WPK-001B.5A then searched the identified local external stores, coding-session archives, connected Google Drive, and configured GitHub repository. No qualifying source package was recoverable. FEF-FGR-001 therefore remains the permanent historical evidence-gap record and is not used as the new review.
 
-The Founder approved the new review Charter, Agenda, and Plan, declared Governance Preparation complete, and transitioned the programme to Phase 2. FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The collision-safe identifier FEF-FGR-002 was assigned. D1 — Governance Authority completed its governed lifecycle with eight dispositioned findings, nine validated review-scoped Founder Decisions, zero Constitutional Candidates, zero Deferred Matters, and formal closure. FEF-FGR-002-FD-010 subsequently approved sustained Operational Mode with seven conditions and accepted D1 as the bounded reference implementation. ORC-001 is closed. D2 mobilisation is committed at `1db08ebf4a3420a9aeee18bf010f84540236d718`. Seven D2 RQs are admitted, 21 sources are validated for D2, and EP-002 v1.0 is Frozen; no D2 session or substantive examination exists.
+The Founder approved the new review Charter, Agenda, and Plan, declared
+Governance Preparation complete, and transitioned the programme to Phase 2.
+FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The
+collision-safe identifier FEF-FGR-002 was assigned. D1 — Governance Authority
+completed its governed lifecycle with eight dispositioned findings, nine
+validated review-scoped Founder Decisions, zero Constitutional Candidates,
+zero Deferred Matters, and formal closure. FEF-FGR-002-FD-010 subsequently
+approved sustained Operational Mode with seven conditions and accepted D1 as
+the bounded reference implementation. ORC-001 is closed. D2 evidence
+mobilisation is committed at
+`6d70ad81ccf03988dc8fd4edf35874a0dc491b56`. Seven D2 RQs are admitted,
+21 sources are validated for D2, and EP-002 v1.0 is Frozen. The collision-safe
+S02 identity is allocated and its entry validation passed with conditions; the
+session is not opened and no substantive examination exists.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
