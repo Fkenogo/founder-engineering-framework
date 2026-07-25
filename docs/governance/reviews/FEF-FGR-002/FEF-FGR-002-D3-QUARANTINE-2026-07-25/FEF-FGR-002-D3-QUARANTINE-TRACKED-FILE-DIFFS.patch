@@ -1,0 +1,525 @@
+diff --git a/README.md b/README.md
+index d01cc4b..09d869d 100644
+--- a/README.md
++++ b/README.md
+@@ -3,11 +3,11 @@
+ ## Repository Status
+ 
+ **Programme stage:** Phase 2 — Founder Governance Review
+-**Master Programme:** FEF-MP-001 v0.17 — Current programme source of truth
++**Master Programme:** FEF-MP-001 v0.21 — Current programme source of truth
+ **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
+-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Unstarted
++**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Evidence Mobilised
+ **First review domain:** D1 — Governance Authority
+-**Immediate next programme action:** Mobilise D3 — Governance Assurance through a separately authorised and controlled package
++**Immediate next programme action:** Prepare, validate, and freeze the D3 Evidence Pack, then assess DG-3 readiness
+ **Framework status:** Draft — Not Yet Adoptable
+ **Current release:** None
+ **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
+@@ -43,7 +43,7 @@ Existing project methods remain authoritative within their respective projects u
+ - [`docs/governance/`](docs/governance/) — governance proposals and draft principles;
+ - [`docs/governance/research/`](docs/governance/research/) — draft research governance standards;
+ - [`docs/governance/reviews/`](docs/governance/reviews/) — structured governance review evidence and explicitly recorded evidence gaps;
+-- [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review, closed D1 record set, registers, and validated FEF-FGR-002-FD-010;
++- [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review, closed D1/D2 records, controlled registers, and bounded D3 mobilisation;
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — D2 mobilisation scope, role, RQ, dependency, and entry-gate record;
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md) — Frozen 21-record D2 Evidence Pack; sole evidence baseline for closed S02;
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md) — D2 session record; closed after bounded examination and validation;
+@@ -55,6 +55,15 @@ Existing project methods remain authoritative within their respective projects u
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md) — package validation; Ready with Conditions and no disposition;
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-TRACEABILITY-REGISTER.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-TRACEABILITY-REGISTER.md) — six complete D2 evidence-to-decision chains;
+ - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md) — D2 closure after six validated Founder Decisions;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md) — bounded D3 mobilisation, dependencies, themes, OQ interfaces, evidence outlook, gaps, and next RQ gate;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md) — nine neutral temporary D3 candidates; no canonical identifier or admission effect;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md) — separate Validator-capacity pass with conditions;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — canonical D3 RQ-016 through RQ-024 with complete mandatory fields and qualified evidence mappings; no examination effect;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — per-RQ validation, collision-safe allocation, and DG-2 admission;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REQUIREMENT-MATRIX.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REQUIREMENT-MATRIX.md) — 22 consolidated evidence-neutral requirements with contrary/failure needs and gaps;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-CANDIDATE-EVIDENCE-INVENTORY-AND-QUALIFICATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-CANDIDATE-EVIDENCE-INVENTORY-AND-QUALIFICATION-RECORD.md) — 31 qualified controlled sources, permitted uses, limitations, digests, and unavailable source classes;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REGISTRATION-AND-RQ-MAPPING-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REGISTRATION-AND-RQ-MAPPING-RECORD.md) — 13 reused and 18 new Evidence Records mapped to all nine D3 RQs;
++- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — Pass with Conditions for later pack preparation; no pack or examination effect;
+ - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
+ - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
+ - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
+@@ -115,7 +124,16 @@ Founder Review Package baseline is committed at
+ `63864f8177e0a3ce05513b9d33808660303227c7`. The Founder subsequently
+ dispositioned GF-009 through GF-014 as `Accept with Conditions`. FD-011 through
+ FD-016 are separately recorded and validated, D2 traceability is reconciled,
+-and D2 is closed. No constitutional effect exists, and D3 remains unstarted.
++and D2 is closed at commit
++`9b0f23e89f4aca3eeb6d4fa794e902337446f7f3`. D3 is mobilised with a
++Ready-with-Conditions verdict. Nine temporary candidates were preserved as
++provenance, confirmed without material change, allocated RQ-016 through RQ-024,
++and admitted through DG-2 with the disclosed non-independent validation
++condition. Twenty-two evidence requirements are now controlled, and 31
++qualifying Evidence Records are mapped to the admitted D3 RQs. Six unavailable
++or unauthorised source classes and the non-independent condition remain
++explicit. Pack preparation is Ready with Conditions. No D3 Evidence Pack,
++session, finding, or decision exists. No constitutional effect exists.
+ 
+ FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
+ 
+diff --git a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md
+index c1ff1d5..264cad3 100644
+--- a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md
++++ b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md
+@@ -5,7 +5,7 @@
+ | Register identifier | FEF-FGR-002-ER-001 |
+ | Register class | Evidence Register |
+ | Review identifier | FEF-FGR-002 |
+-| Register version | 1.3 |
++| Register version | 1.4 |
+ | Lifecycle state | Active |
+ | Created date | 2026-07-24 |
+ | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
+@@ -15,8 +15,9 @@
+ | Access treatment | Repository-controlled governance record; item-specific access treatment required before entry |
+ | Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues |
+ | Last validation date | 2026-07-25 |
+-| Substantive entry count | 31 |
++| Substantive entry count | 49 |
+ | D2 mapped Evidence Record count | 21 |
++| D3 mapped Evidence Record count | 31 |
+ 
+ ## Register
+ 
+@@ -53,6 +54,24 @@
+ | EV-029 | S01 Session Record | Controlled repository path | Closed FEF-FGR-002 session record | D2 Catalogue EV-029 | 2026-07-25 | S01 closed | Conditionally Admitted | SHA-256 recorded | Repository | RQ-013–RQ-014 | Validated | Pass for pack-use trace only |
+ | EV-030 | D1 Traceability Register | Controlled repository path | Validated FEF-FGR-002 record | D2 Catalogue EV-030 | 2026-07-25 | v1.1; D1 closed | Admitted | SHA-256 recorded | Repository | RQ-014–RQ-015 | Validated | Pass |
+ | EV-031 | Evidence Recovery Report | Controlled repository path | Validated technical recovery record | D2 Catalogue EV-031 | 2026-07-25 | Evidence Not Recoverable | Admitted | SHA-256 recorded | Repository | RQ-009, RQ-012, RQ-015 | Validated | Pass within search-outcome scope |
++| EV-032 | ORC-001 | Controlled repository path | Founder-approved programme checkpoint | D3 Qualification Record EV-032 | 2026-07-25 | v1.0; Closed | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-020, RQ-023–RQ-024 | Validated | Pass within checkpoint scope |
++| EV-033 | FEF-FGR-002-FD-010 | Controlled repository path | Founder | D3 Qualification Record EV-033 | 2026-07-25 | v1.0; Operative with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-020–RQ-024 | Validated | Pass within exact decision scope |
++| EV-034 | S01 Session Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-034 | 2026-07-25 | 2026-07-24; Pass with condition | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-022–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-035 | D1 Disposition Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-035 | 2026-07-25 | 2026-07-24; Pass | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-019–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-036 | D2 Evidence Mobilisation Validation | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-036 | 2026-07-25 | v1.0; Pass with condition | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-022–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-037 | EP-002 v1.0 | Controlled repository path | Frozen FEF-FGR-002 pack | D3 Qualification Record EV-037 | 2026-07-25 | v1.0; Frozen | Admitted | SHA-256 recorded | Repository | RQ-019, RQ-022–RQ-024 | Validated | Pass for freeze and reproducibility use |
++| EV-038 | S02 Entry Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-038 | 2026-07-25 | DG-4 Pass with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-022–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-039 | S02 Post-Session Validation | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-039 | 2026-07-25 | Pass with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-022–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-040 | D2 Founder Review Package Validation | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-040 | 2026-07-25 | Pass with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-021–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-041 | D2 Disposition Validation | Controlled repository path | FEF-FGR-002 Validator record | D3 Qualification Record EV-041 | 2026-07-25 | Pass with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-024 | Validated | Pass with non-independent limitation |
++| EV-042 | D2 Traceability Register | Controlled repository path | Validated FEF-FGR-002 record | D3 Qualification Record EV-042 | 2026-07-25 | v1.0; D2 Closed | Admitted | SHA-256 recorded | Repository | RQ-021, RQ-024 | Validated | Pass without authority elevation |
++| EV-043 | D2 Closure Report | Controlled repository path | Validated FEF-FGR-002 closure record | D3 Qualification Record EV-043 | 2026-07-25 | Closed; Pass with Conditions | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-019–RQ-020, RQ-024 | Validated | Pass as closure state |
++| EV-044 | FEF-FGR-002-FD-011 | Controlled repository path | Founder | D3 Qualification Record EV-044 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-016–RQ-019, RQ-021–RQ-024 | Validated | Pass within exact decision scope |
++| EV-045 | FEF-FGR-002-FD-012 | Controlled repository path | Founder | D3 Qualification Record EV-045 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-017–RQ-018, RQ-021, RQ-023 | Validated | Pass within exact decision scope |
++| EV-046 | FEF-FGR-002-FD-013 | Controlled repository path | Founder | D3 Qualification Record EV-046 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-018–RQ-020, RQ-022–RQ-024 | Validated | Pass within exact decision scope |
++| EV-047 | FEF-FGR-002-FD-014 | Controlled repository path | Founder | D3 Qualification Record EV-047 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-019, RQ-022–RQ-024 | Validated | Pass within exact decision scope |
++| EV-048 | FEF-FGR-002-FD-015 | Controlled repository path | Founder | D3 Qualification Record EV-048 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-016, RQ-019, RQ-021–RQ-024 | Validated | Pass within exact decision scope |
++| EV-049 | FEF-FGR-002-FD-016 | Controlled repository path | Founder | D3 Qualification Record EV-049 | 2026-07-25 | v1.0; Decision Record Validated | Admitted | SHA-256 recorded | Repository | RQ-017, RQ-020–RQ-024 | Validated | Pass within exact decision scope |
+ 
+ ## D2 Output Linkage
+ 
+@@ -77,10 +96,11 @@ limitations, and permitted use.
+ | 1.1 | 2026-07-24 | Twenty-one D1 Evidence Records registered and validated | FEF-FGR-002-RA-005 and RA-006 |
+ | 1.2 | 2026-07-25 | Eleven stable Evidence Records reused and ten new D2 Evidence Records registered and validated; D2 set totals 21 | FEF-FGR-002-D2-ERC-001 |
+ | 1.3 | 2026-07-25 | D2 evidence-to-GF-to-FD output linkages recorded without changing identity, admissibility, permitted use, or frozen pack membership | Founder Directive — D2 Governance Finding Dispositions |
++| 1.4 | 2026-07-25 | Thirteen existing records reused and EV-032 through EV-049 registered for D3; 31 D3 records mapped with explicit permitted uses, limitations, and gaps; no pack created | FEF-FGR-002-D3-CEIQR-001 and FEF-FGR-002-D3-ERRM-001 |
+ 
+ ## Non-Effects
+ 
+-This register contains 31 unique Evidence Records. Twenty-one are mapped to D2
+-through controlled reuse or new registration. Output linkage does not change a
+-source's authority, admissibility, limitation, permitted use, or frozen-pack
+-state.
++This register contains 49 unique Evidence Records. Twenty-one are mapped to D2
++and 31 are mapped to D3 through controlled reuse or new registration. Mapping
++does not change a source's authority, admissibility, limitation, permitted use,
++or frozen-pack state. No D3 Evidence Pack exists.
+diff --git a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md
+index c1647c5..b25a449 100644
+--- a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md
++++ b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md
+@@ -2,14 +2,14 @@
+ 
+ **Review identifier:** FEF-FGR-002  
+ **Review title:** Founder Governance Review  
+-**Identity version:** 1.12
++**Identity version:** 1.16
+ 
+ **Assignment date:** 2026-07-24  
+ **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
+ **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
+-**Review state:** D1, ORC-001, and D2 Closed — D3 Unstarted
++**Review state:** D1, ORC-001, and D2 Closed — D3 Evidence Mobilised; Evidence Pack Not Created
+ 
+-**Mobilisation state:** Complete
++**D3 preparation state:** RQ-016 through RQ-024 Admitted; 31 qualifying Evidence Records mapped; pack preparation Ready with Conditions
+ 
+ **Founder Engineering Framework operating mode:** Operational
+ 
+@@ -45,8 +45,8 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
+ 
+ | Register Identifier | Register | Current Substantive Entry Count |
+ |---|---|---:|
+-| FEF-FGR-002-RQR-001 | Review Question Register | 15 |
+-| FEF-FGR-002-ER-001 | Evidence Register | 31 |
++| FEF-FGR-002-RQR-001 | Review Question Register | 24 |
++| FEF-FGR-002-ER-001 | Evidence Register | 49 |
+ | FEF-FGR-002-EPR-001 | Evidence Pack Register | 2 |
+ | FEF-FGR-002-SR-001 | Session identities / opened sessions | 2 / 2 |
+ | FEF-FGR-002-GFR-001 | Governance Finding Register | 14 |
+@@ -82,7 +82,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
+ | D1 status | Formally closed after Founder disposition and decision validation |
+ | Operational checkpoint | ORC-001 v1.0 — Closed; Founder Approved with Conditions; validation passed |
+ | Operational readiness decision | FEF-FGR-002-FD-010 v1.0 — Decision Record Validated; Operative with Conditions |
+-| Remaining review domains | D3–D8 pending under approved domain dependency sequence |
++| Remaining review domains | D3 mobilised; D4–D8 pending under approved domain dependency sequence |
+ | D2 mobilisation | [FEF-FGR-002-D2-MOB-001](FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
+ | D2 RQ set | [FEF-FGR-002-D2-RQS-001](FEF-FGR-002-D2-REVIEW-QUESTION-SET.md) — 7 Validated and Admitted |
+ | D2 evidence catalogue | [FEF-FGR-002-D2-ERC-001](FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md) — 21 mapped sources; validated |
+@@ -95,7 +95,16 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
+ | D2 decisions | [FD-011](FEF-FGR-002-FD-011-EVIDENCE-QUALIFICATION-AND-PERMITTED-RELIANCE.md) through [FD-016](FEF-FGR-002-FD-016-EVIDENCE-CUSTODY-AND-AUTHORITY-BOUNDARY.md) — Decision Records Validated |
+ | D2 traceability | [FEF-FGR-002-D2-TR-001](FEF-FGR-002-D2-TRACEABILITY-REGISTER.md) — Six reconciled decision chains |
+ | D2 closure | [FEF-FGR-002-D2-CR-001](FEF-FGR-002-D2-CLOSURE-REPORT.md) — Closed; validation passed with conditions |
+-| Next gate | Mobilise D3 — Governance Assurance through a separately authorised and controlled package |
++| D3 mobilisation | [FEF-FGR-002-D3-MOB-001](FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
++| D3 temporary candidates | [FEF-FGR-002-D3-RQC-001](FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md) — Historical preparation provenance; 9 confirmed without material change |
++| D3 RQ set | [FEF-FGR-002-D3-RQS-001](FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — RQ-016 through RQ-024 Validated and Admitted |
++| D3 DG-2 admission | [FEF-FGR-002-D3-RQVA-001](FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — Admit; Pass with disclosed non-independent validation condition |
++| D3 evidence requirements | [FEF-FGR-002-D3-ERM-001](FEF-FGR-002-D3-EVIDENCE-REQUIREMENT-MATRIX.md) — 22 consolidated requirements; Pass with Conditions |
++| D3 evidence qualification | [FEF-FGR-002-D3-CEIQR-001](FEF-FGR-002-D3-CANDIDATE-EVIDENCE-INVENTORY-AND-QUALIFICATION-RECORD.md) — 31 qualifying sources; six unavailable/unauthorised source classes preserved |
++| D3 evidence registration and mapping | [FEF-FGR-002-D3-ERRM-001](FEF-FGR-002-D3-EVIDENCE-REGISTRATION-AND-RQ-MAPPING-RECORD.md) — 13 reused and 18 new Evidence Records; Ready with Conditions for pack preparation |
++| D3 evidence mobilisation validation | [FEF-FGR-002-D3-EMVR-001](FEF-FGR-002-D3-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — Pass with Conditions |
++| D3 canonical RQs / mapped evidence / packs / sessions / GFs / FDs | 9 / 31 / 0 / 0 / 0 / 0 |
++| Next gate | Prepare, validate, and freeze the D3 Evidence Pack, then assess DG-3 readiness |
+ 
+ ### 4.3 Substantive Review Boundary
+ 
+@@ -133,8 +142,23 @@ requires versioned change history and renewed validation. The Founder
+ subsequently dispositioned GF-009 through GF-014 as `Accept with Conditions`.
+ FD-011 through FD-016 preserve the exact conditions separately,
+ FEF-FGR-002-D2-TR-001 reconciles the six evidence-to-decision chains, and
+-FEF-FGR-002-D2-DVR-001 validates D2 closure with conditions. D3 remains
+-unstarted.
++FEF-FGR-002-D2-DVR-001 validates D2 closure with conditions.
++FEF-FGR-002-D3-MOB-001 records bounded D3 mobilisation, the D1/D2
++dependencies, provisional assurance themes, Open Question interfaces, evidence
++outlook, known gaps, and a Ready-with-Conditions verdict without creating an
++RQ, evidence item, pack, session, finding, or decision.
++FEF-FGR-002-D3-RQC-001 then prepares nine temporary candidates, and
++FEF-FGR-002-D3-RQCVR-001 validates their neutrality, coverage, boundaries,
++dependencies, and evidence examinability with conditions.
++FEF-FGR-002-D3-RQS-001 preserves the exact validated wording, completes the
++mandatory fields, and allocates RQ-016 through RQ-024 after collision checks.
++FEF-FGR-002-D3-RQVA-001 records the separate Validator pass and DG-2 admission.
++FEF-FGR-002-D3-ERM-001 derives 22 evidence-neutral requirements,
++FEF-FGR-002-D3-CEIQR-001 qualifies 31 controlled sources while preserving six
++unavailable or unauthorised source classes, and FEF-FGR-002-D3-ERRM-001 maps
++13 reused and 18 new records to all nine RQs. FEF-FGR-002-D3-EMVR-001 validates
++the package as Ready with Conditions for later pack preparation. No D3 Evidence
++Pack, session, finding, or decision exists.
+ 
+ ## 6. Change History
+ 
+@@ -152,3 +176,7 @@ unstarted.
+ | 1.10 | 2026-07-25 | S02 opened, seven D2 RQs examined using EP-002 only, six GFs presented, zero candidates/deferrals recorded, and session closed after validation | FEF-FGR-002-S02 |
+ | 1.11 | 2026-07-25 | Neutral review materials for GF-009 through GF-014 prepared and validated; six findings remain Presented and zero D2 Founder Decisions exist | FEF-FGR-002-D2-FRPVR-001 |
+ | 1.12 | 2026-07-25 | GF-009 through GF-014 dispositioned, FD-011 through FD-016 validated, zero candidates/deferrals confirmed, traceability reconciled, and D2 closed | Founder Directive — D2 Governance Finding Dispositions |
++| 1.13 | 2026-07-25 | D3 Governance Assurance mobilised with bounded themes, dependencies, OQ interfaces, evidence outlook, known gaps, and Ready-with-Conditions verdict; zero D3 execution artefacts | FEF-FGR-002-D3-MOB-001 |
++| 1.14 | 2026-07-25 | Nine temporary D3 RQ candidates prepared and validated with conditions; no canonical identifier, register entry, evidence, pack, session, finding, or decision created | FEF-FGR-002-D3-RQCVR-001 |
++| 1.15 | 2026-07-25 | Nine validated D3 candidates confirmed without material change, allocated RQ-016 through RQ-024, and admitted through DG-2; evidence mobilisation remains unstarted | FEF-FGR-002-D3-RQVA-001 |
++| 1.16 | 2026-07-25 | Twenty-two D3 evidence requirements derived, 31 qualifying Evidence Records mapped, six unavailable/unauthorised source classes preserved, and pack preparation assessed Ready with Conditions; no pack or examination effect | FEF-FGR-002-D3-EMVR-001 |
+diff --git a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md
+index 1a61c2d..f7f2e43 100644
+--- a/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md
++++ b/docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md
+@@ -5,7 +5,7 @@
+ | Register identifier | FEF-FGR-002-RQR-001 |
+ | Register class | Review Question Register |
+ | Review identifier | FEF-FGR-002 |
+-| Register version | 1.7 |
++| Register version | 1.9 |
+ | Lifecycle state | Active |
+ | Created date | 2026-07-24 |
+ | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
+@@ -13,10 +13,11 @@
+ | Control owner | FEF-FGR-002-RA-002 — Review Administrator |
+ | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
+ | Access treatment | Repository-controlled governance record |
+-| Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report |
++| Integrity control | Controlled RQ sets and validation/admission records; repository identifier and register reconciliation |
+ | Last validation date | 2026-07-25 |
+-| Substantive entry count | 15 |
++| Substantive entry count | 24 |
+ | D2 substantive entry count | 7 |
++| D3 substantive entry count | 9 |
+ 
+ ## Register
+ 
+@@ -37,6 +38,15 @@
+ | FEF-FGR-002-RQ-013 | 1.1 | Evidence Freeze, Versioning, and Change Control | See controlled D2 RQ set v1.1 | D2 | EPS and Execution Rules pack controls | None | EP-002 v1.0 examined in S02 | Potential | Answered | GF-012; FD-014 — Accept with Conditions | Pass with disclosed validation combination |
+ | FEF-FGR-002-RQ-014 | 1.1 | Evidence Traceability, Reuse, Transparency, and Explainability | See controlled D2 RQ set v1.1 | D2 | Charter evidence-chain and EPS traceability controls | OQ-005 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-013; FD-015 — Accept with Conditions | Pass with disclosed validation combination |
+ | FEF-FGR-002-RQ-015 | 1.1 | Evidence Custody, Preservation, and Operational Responsibility | See controlled D2 RQ set v1.1 | D2 | Charter evidence roles and preservation scope | OQ-010; OQ-011 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-014; FD-016 — Accept with Conditions | Pass with disclosed validation combination |
++| FEF-FGR-002-RQ-016 | 1.1 | Assurance Coverage and Proportionality | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation themes 1–2; D3-RQC-01 | OQ-004; OQ-007; OQ-021 partial | 22 qualifying D3 records mapped; proceed conditionally for pack preparation | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-017 | 1.1 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 3; D3-RQC-02 | OQ-002 partial; OQ-003 direct | 18 qualifying D3 records mapped; independent-validation gap preserved | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-018 | 1.1 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 4; D3-RQC-03 | OQ-007; OQ-012 partial | 14 qualifying D3 records mapped; operated-dissent gap preserved | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-019 | 1.1 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 5; D3-RQC-04 | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | 24 qualifying D3 records mapped; failed/invalidated-example gap preserved | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-020 | 1.1 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 6; D3-RQC-05 | OQ-008; OQ-012 direct | 15 qualifying D3 records mapped; risk-reassessment gap preserved | Required | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-021 | 1.1 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 7; D3-RQC-06 | OQ-008; OQ-021 partial | 18 qualifying D3 records mapped; exact Founder sources included | Required | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-022 | 1.1 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 8; D3-RQC-07 | OQ-002; OQ-003; OQ-012 partial | 25 qualifying D3 records mapped; handover and independent-revalidation gaps preserved | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-023 | 1.1 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 9; D3-RQC-08 | OQ-003; OQ-007 partial | 27 qualifying D3 records mapped; external E3/project evidence unauthorised | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
++| FEF-FGR-002-RQ-024 | 1.1 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.1 | D3 | D3 mobilisation theme 10; D3-RQC-09 | OQ-004; OQ-012; OQ-021; OQ-022 partial | 28 qualifying D3 records mapped; only D1/D2 closed-domain examples available | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+ 
+ ## Change History
+ 
+@@ -50,13 +60,15 @@
+ | 1.5 | 2026-07-25 | D2 RQs updated to v1.1 with registered Evidence Record mappings and frozen EP-002 reference; no purpose or scope change | FEF-FGR-002-D2-EMVR-001 |
+ | 1.6 | 2026-07-25 | Seven D2 RQs examined in S02 and answered at finding level; Founder disposition remains pending and OQs remain unchanged | FEF-FGR-002-S02 |
+ | 1.7 | 2026-07-25 | D2 RQ-to-GF-to-FD disposition linkages recorded; all related Open Questions remain unchanged and open | Founder Directive — D2 Governance Finding Dispositions |
++| 1.8 | 2026-07-25 | Nine D3 candidates confirmed without material change, allocated RQ-016 through RQ-024, validated, and admitted through DG-2; no evidence or examination effect | FEF-FGR-002-D3-RQVA-001 |
++| 1.9 | 2026-07-25 | Evidence-linkage fields updated for RQ-016 through RQ-024 after 31 qualifying records were mapped; wording, scope, lifecycle, disposition, and OQ interfaces unchanged | FEF-FGR-002-D3-ERRM-001 |
+ 
+ ## Non-Effects
+ 
+-This register contains eight D1 RQs examined in S01 and seven D2 RQs examined
+-in S02, all answered at finding level and linked to their attributable
+-decisions where issued. No existing Open Question is modified, answered, or
+-closed.
++This register contains eight D1 RQs examined in S01, seven D2 RQs examined in
++S02, and nine D3 RQs admitted and mapped to qualifying evidence but not assigned
++to a pack or session, examined, or answered. No existing Open Question is
++modified, answered, or closed.
+ 
+ ## Domain Coverage
+ 
+@@ -64,7 +76,7 @@ closed.
+ |---|---:|---|
+ | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
+ | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
+-| D3 — Governance Assurance | 0 | Not reached |
++| D3 — Governance Assurance | 9 | Admitted through DG-2; 31 qualifying Evidence Records mapped; pack not created |
+ | D4 — Records and Information Governance | 0 | Not reached |
+ | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
+ | D6 — Framework Administration | 0 | Not reached |
+diff --git a/docs/programme/FEF-DOCUMENT-MANIFEST.md b/docs/programme/FEF-DOCUMENT-MANIFEST.md
+index 21d5996..e82be8e 100644
+--- a/docs/programme/FEF-DOCUMENT-MANIFEST.md
++++ b/docs/programme/FEF-DOCUMENT-MANIFEST.md
+@@ -5,7 +5,7 @@
+ | Document | Category | Status | Authority |
+ |---|---|---|---|
+ | `README.md` | Navigation | Draft | Informational only |
+-| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.17 | Authoritative for programme status, sequence, dependencies, and next-work control only |
++| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.21 | Authoritative for programme status, sequence, dependencies, and next-work control only |
+ | `docs/programme/FEF-FOUNDER-DASHBOARD.md` | Programme Governance Pilot Artefact — Dashboard | Current | Informational view derived from the Master Programme |
+ | `docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md` | Programme Governance Pilot Artefact — Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; no constitutional effect and no D2 commencement |
+ | `docs/programme/FEF-PROGRAMME-DEPENDENCY-REVIEW.md` | Programme Governance Pilot Artefact — Dependency Review | Current | Programme sequencing only; no governance effect |
+@@ -25,15 +25,15 @@
+ | `docs/governance/reviews/FEF-RQS-001-REVIEW-QUESTION-SPECIFICATION.md` | Review Question Specification | Approved preparation baseline | Controls future RQ structure, lifecycle, validation, and traceability |
+ | `docs/governance/reviews/FEF-EPS-001-EVIDENCE-PACK-SPECIFICATION.md` | Evidence Pack Specification | Approved preparation baseline | Controls future Evidence Pack admissibility, versioning, freeze, and integrity |
+ | `docs/governance/reviews/FEF-FGRER-001-REVIEW-EXECUTION-RULES.md` | Founder Governance Review Execution Rules | Approved preparation baseline | Controls review workflow, gates, reopening, dependency, and escalation |
+-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | v1.12 — D2 Closed; D3 Unstarted | Records six D2 decisions, zero candidates/deferrals, D2 closure, and next gate |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | v1.16 — D3 Evidence Mobilised; Pack Not Created | Records D1/D2 closure, nine admitted D3 RQs, 31 mapped D3 Evidence Records, zero pack/session/output state, and next gate |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md` | D2 domain mobilisation record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ/evidence state, roles, dependencies, interfaces, and next gate |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-REVIEW-QUESTION-SET.md` | D2 Review Question set | v1.1 — Seven RQs Validated and Admitted | Controls RQ-009 through RQ-015, evidence mappings, boundaries, and non-effects |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-RQ-VALIDATION-AND-ADMISSION-RECORD.md` | D2 RQ validation and DG-2 admission record | v1.0 — Pass with Condition | Records consolidated validation and admission without answering an RQ |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md` | D2 Evidence Record Catalogue and requirement matrix | v1.0 — Validated | Controls requirements, 21 mapped sources, admissibility, limitations, gaps, and non-analysis |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md` | D2 Evidence Governance Domain Pack | v1.0 — Frozen | Stable 21-record evidence input; sole evidence baseline for closed S02 |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md` | D2 evidence mobilisation validation | v1.0 — Pass with Condition | Reconciles gates, records, coverage, limitations, pack integrity, and session-entry readiness |
+-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Active v1.7 | Controls 15 answered RQs and D2 GF/FD linkages; no OQ closure |
+-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Active v1.3 | Controls 31 unique Evidence Records, 21 mapped to D2, and D2 GF/FD output linkage |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Active v1.9 | Controls 15 answered D1/D2 RQs and nine admitted D3 RQs with qualifying evidence mappings; no OQ closure |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Active v1.4 | Controls 49 unique Evidence Records, 21 mapped to D2 and 31 mapped to D3 |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-PACK-REGISTER.md` | Review execution register | Active v1.6 | Controls Frozen EP-001 and EP-002 and EP-002 linkage through D2 closure |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-SESSION-REGISTER.md` | Review execution register | Active v1.4 | Controls two closed sessions and post-session D2 decision/closure linkage |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md` | D2 session control record | v1.0 — Closed; Findings Presented | Records opening, seven-RQ examination, six findings, validation, conditions, and non-effects |
+@@ -66,6 +66,15 @@
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-TRACEABILITY-REGISTER.md` | D2 decision traceability register | v1.0 — Active; D2 Closed | Reconciles six RQ/evidence/EP-002/S02/GF/FD chains |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-DISPOSITION-VALIDATION-REPORT.md` | D2 disposition validation | Pass with Conditions | Validates directive fidelity, registers, traceability, protected state, and closure eligibility |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md` | D2 domain closure record | Closed — Validation Passed with Conditions | Closes D2 without commencing D3 or creating downstream authority |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md` | D3 domain mobilisation record | v1.0 — Mobilised; Ready with Conditions | Controls D3 purpose, dependencies, provisional themes, OQ interfaces, evidence outlook, known gaps, exclusions, and next RQ gate |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md` | D3 RQ candidate preparation record | v1.0 — 9 Temporary Candidates Prepared | Controls neutral wording and candidate analysis without canonical allocation, registration, or admission |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md` | D3 RQ candidate validation | Pass with Conditions | Validates nine temporary candidates, set coverage, neutrality, boundaries, evidence examinability, and protected state |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md` | D3 Governance Assurance Review Question set | v1.1 — Nine RQs Admitted; Evidence Mapped | Controls RQ-016 through RQ-024, mandatory fields, evidence mappings, dependencies, boundaries, conditions, and non-effects |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md` | D3 RQ validation and DG-2 admission record | v1.0 — Admit; Pass with disclosed condition | Records per-RQ validation, collision-safe allocation, and admission without evidence or examination effect |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REQUIREMENT-MATRIX.md` | D3 evidence requirement matrix | v1.0 — Pass with Conditions | Controls 22 evidence-neutral requirements, shared reuse, contrary/failure needs, and known gaps |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-CANDIDATE-EVIDENCE-INVENTORY-AND-QUALIFICATION-RECORD.md` | D3 candidate evidence inventory and qualification | v1.0 — 31 Sources Qualified | Controls source identity, authority, provenance, class, digest, permitted use, limitations, and unavailable classes |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-REGISTRATION-AND-RQ-MAPPING-RECORD.md` | D3 evidence registration and RQ mapping | v1.0 — Ready with Conditions | Reconciles 13 reused and 18 new Evidence Records against nine admitted RQs without pack or examination effect |
++| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md` | D3 evidence mobilisation validation | v1.0 — Pass with Conditions | Validates requirements, qualification, registration, RQ coverage, gaps, protected state, and later pack readiness |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D1-TRACEABILITY-REGISTER.md` | D1 decision and checkpoint traceability register | Active v1.2 | Preserves 9 D1 substantive links and final bidirectional ORC-001/FEF-FGR-002-FD-010 linkage |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D1-FOUNDER-DISPOSITION-AND-DECISION-RECORD.md` | D1 Founder disposition and decision record | Recorded and Validated | Controls exact D1 dispositions, FD-001 through FD-009, conditions, non-effects, and Operational transition |
+ | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-CONSTITUTIONAL-CANDIDATE-REGISTER.md` | Review output register | Active v1.3 — Empty | Post-disposition D2 assessment complete; zero candidates |
+diff --git a/docs/programme/FEF-FOUNDER-DASHBOARD.md b/docs/programme/FEF-FOUNDER-DASHBOARD.md
+index 6f9711d..f6455d5 100644
+--- a/docs/programme/FEF-FOUNDER-DASHBOARD.md
++++ b/docs/programme/FEF-FOUNDER-DASHBOARD.md
+@@ -9,18 +9,18 @@
+ 
+ | Item | Current State |
+ |---|---|
+-| Programme version | Master Programme v0.17 |
++| Programme version | Master Programme v0.21 |
+ | Current phase | Phase 2 — Founder Governance Review |
+-| Current milestone | D2 — Evidence Governance closed |
++| Current milestone | D3 — 31 qualifying Evidence Records mapped; pack preparation Ready with Conditions |
+ | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
+ | Current active work package | None — review execution is controlled by approved governance instruments |
+-| Current execution window | D2 closed; D3 mobilisation separately controlled |
++| Current execution window | D3 evidence mobilisation complete — Pass with Conditions; pack not created |
+ | Review commencement | Authorised by FD-2026-07-24-009 |
+ | Active review identifier | FEF-FGR-002 |
+ | First review domain | D1 — Governance Authority |
+ | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
+ | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
+-| Next review domain | D3 — Governance Assurance; unstarted |
++| Next review domain | D3 — Governance Assurance; Evidence Pack preparation pending |
+ | Programme Governance | Operating Pilot — FAR-002; no standard created |
+ | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
+ 
+@@ -36,19 +36,19 @@ The total includes permanent-style work packages and legacy scheduled-work ident
+ 
+ | Question | Answer |
+ |---|---|
+-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 remains unstarted. |
+-| What are we doing? | Preserving the validated D2 closure baseline before any separately controlled D3 mobilisation. |
+-| Why are we doing it? | The new attributable review must produce a validated governance baseline without reconstructing the lost historical review. |
+-| What must finish before anything else? | D3 must be mobilised through a separately authorised and controlled package. |
++| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted RQs and 31 mapped Evidence Records but no pack or session. |
++| What are we doing? | Preserving the validated D3 evidence-mobilisation baseline for a separately governed pack gate. |
++| Why are we doing it? | D3 must establish the assurance basis for trusting later review outputs without confusing validation with Founder authority. |
++| What must finish before anything else? | A D3 Evidence Pack must be assembled from registered sources, validated, and frozen before later entry assessment. |
+ 
+ ## Immediate Next Programme Action
+ 
+-**Mobilise D3 — Governance Assurance through a separately authorised and controlled package**
++**Prepare, validate, and freeze the D3 Evidence Pack, then assess DG-3 readiness**
+ 
+-GF-009 through GF-014 received six attributable `Accept with Conditions`
+-dispositions. FD-011 through FD-016 are separately recorded and validated.
+-D2 is closed with zero Constitutional Candidates and zero Deferred Matters.
+-D3 remains unstarted.
++D3 has nine admitted questions, RQ-016 through RQ-024. Twenty-two evidence
++requirements and 31 qualifying mapped Evidence Records are validated with
++conditions. Six unavailable or unauthorised source classes remain explicit.
++No D3 Evidence Pack, session, finding, or Founder Decision exists.
+ 
+ ## Genuine Blockers
+ 
+@@ -70,7 +70,7 @@ All 23 RGS governance questions remain open.
+ 
+ | Area | RAG | Reason |
+ |---|---|---|
+-| Governance | 🟢 Green | D1 findings and decisions are validated; Founder authority remains preserved. |
+-| Documentation | 🟢 Green | D2 RQs, Frozen EP-002, six decisions, traceability, validation, and closure are controlled. |
+-| Programme | 🟢 Green | D2 is closed with decisions, traceability, and validation reconciled; D3 remains separately gated. |
++| Governance | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved. |
++| Documentation | 🟢 Green | D3 requirements, qualification, registration, RQ mapping, limitations, and validation are controlled. |
++| Programme | 🟢 Green | D3 evidence mobilisation is complete; pack preparation is Ready with Conditions and remains separately gated. |
+ | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |
+diff --git a/docs/programme/FEF-MASTER-PROGRAMME.md b/docs/programme/FEF-MASTER-PROGRAMME.md
+index 570ba8f..e7aa510 100644
+--- a/docs/programme/FEF-MASTER-PROGRAMME.md
++++ b/docs/programme/FEF-MASTER-PROGRAMME.md
+@@ -2,7 +2,7 @@
+ 
+ **Programme:** Founder Engineering Framework
+ **Document identifier:** FEF-MP-001
+-**Programme record version:** 0.17
++**Programme record version:** 0.21
+ **Reconciliation date:** 2026-07-25
+ **Status:** Current — Founder-authorised programme management record
+ **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
+@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
+ 
+ | Field | Current Position |
+ |---|---|
+-| Programme version | Master Programme v0.17 |
++| Programme version | Master Programme v0.21 |
+ | Framework release | None |
+ | Current phase | Phase 2 — Founder Governance Review |
+-| Current milestone | D2 — Evidence Governance closed after six attributable Founder Decisions |
++| Current milestone | D3 — 31 qualifying Evidence Records mapped; pack preparation Ready with Conditions |
+ | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
+ | Active delivery work package | None |
+-| Current execution window | D2 closed; D3 mobilisation requires a separate controlled package |
++| Current execution window | D3 evidence mobilisation complete — Pass with Conditions; no Evidence Pack created |
+ | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
+-| Immediate next governed activity | Mobilise D3 — Governance Assurance through a separately authorised and controlled package |
++| Immediate next governed activity | Prepare, validate, and freeze the D3 Evidence Pack, then assess DG-3 readiness |
+ | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
+ | Active review identifier | FEF-FGR-002 |
+ | First review domain | D1 — Governance Authority |
+ | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
+-| Next review domain | D3 — Governance Assurance; unstarted |
++| Next review domain | D3 — Governance Assurance; nine RQs admitted, 31 records mapped, pack/session/examination unstarted |
+ | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
+ | Engineering readiness | Not ready — research governance and discovery standards are not approved |
+ 
+@@ -107,7 +107,7 @@ These are programme deliverables or decision gates, not additional work packages
+ | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
+ | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
+ | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
+-| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, and D2 Closed | D2 has six dispositioned findings, six validated decisions, zero candidates/deferrals; D3 unstarted |
++| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, and D2 Closed | D3 has nine admitted RQs and 31 mapped Evidence Records; zero D3 packs, sessions, findings, or decisions |
+ | ORC-001 | Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation |
+ | FEF-FGR-002-FD-010 | Operational Readiness Confirmation | Decision Record Validated — Operative with Conditions | Sustained Operational Mode and bounded D2 mobilisation authorised; the decision did not itself commence D2 |
+ | FEF-FGR-002-D2-MOB-001 | D2 Evidence Governance Mobilisation Record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ state, effective roles, dependencies, and next evidence-mobilisation gate |
+@@ -124,6 +124,15 @@ These are programme deliverables or decision gates, not additional work packages
+ | FEF-FGR-002-D2-TR-001 | D2 Traceability Register | Active — D2 Closed | Reconciles six RQ/evidence/EP-002/S02/GF/FD chains |
+ | FEF-FGR-002-D2-DVR-001 | D2 Founder Disposition Validation | Pass with Conditions | Validates exact directive fidelity, registers, traceability, protected state, and closure eligibility |
+ | FEF-FGR-002-D2-CR-001 | D2 Closure Report | Closed — Validation Passed with Conditions | Closes D2 without commencing D3 or changing protected downstream states |
++| FEF-FGR-002-D3-MOB-001 | D3 Governance Assurance Mobilisation Record | Mobilised — Review Questions Not Yet Prepared; Ready with Conditions | Controls D3 purpose, dependencies, themes, OQ interfaces, evidence outlook, gaps, exclusions, and next gate without substantive review |
++| FEF-FGR-002-D3-RQC-001 | D3 Governance Assurance RQ Candidate Set | v1.0 — 9 Temporary Candidates Prepared | Controls neutral candidate wording, themes, dependencies, OQ/cross-domain interfaces, exclusions, preliminary evidence classes, and overlap treatment |
++| FEF-FGR-002-D3-RQCVR-001 | D3 RQ Candidate Validation | Pass with Conditions | Validates neutrality, proportionality, coverage, boundaries, evidence examinability, and zero canonical allocation |
++| FEF-FGR-002-D3-RQS-001 | D3 Governance Assurance Review Question Set | v1.1 — RQ-016 through RQ-024 Admitted; Evidence Mapped | Preserves exact validated wording and controls mandatory fields and evidence linkages without examination effect |
++| FEF-FGR-002-D3-RQVA-001 | D3 Review Question Validation and Admission | DG-2 Admit — Pass with disclosed non-independent condition | Validates each RQ and the complete set before Review Administrator admission |
++| FEF-FGR-002-D3-ERM-001 | D3 Evidence Requirement Matrix | v1.0 — Pass with Conditions | Controls 22 evidence-neutral requirements, shared reuse, contrary/failure needs, and known gaps |
++| FEF-FGR-002-D3-CEIQR-001 | D3 Candidate Evidence Inventory and Qualification Record | v1.0 — 31 Sources Qualified | Controls source identity, authority, provenance, class, SHA-256, permitted use, limitations, and six unavailable/unauthorised source classes |
++| FEF-FGR-002-D3-ERRM-001 | D3 Evidence Registration and RQ Mapping Record | v1.0 — Ready with Conditions | Reconciles 13 reused and 18 new Evidence Records against nine admitted RQs without pack or examination effect |
++| FEF-FGR-002-D3-EMVR-001 | D3 Evidence Mobilisation Validation Report | v1.0 — Pass with Conditions | Validates requirements, qualification, registration, mapping, gaps, protected state, and readiness for separate pack preparation |
+ | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
+ | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
+ | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
+@@ -154,7 +163,7 @@ The current controlling sequence is:
+ 1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
+ 2. ORC-001: closed after attributable Founder approval with conditions and passed post-approval validation;
+ 3. D2 — Evidence Governance: closed after six attributable `Accept with Conditions` dispositions, six validated decisions, and reconciled traceability;
+-4. mobilise and execute D3–D8 through the standard operational workflow under the approved dependency sequence;
++4. prepare, validate, and freeze a D3 Evidence Pack from the 31 qualified and mapped records, assess the applicable readiness gate, then execute D3 through the standard operational workflow before D4–D8;
+ 5. complete and validate the Founder Governance Review;
+ 6. perform separately authorised constitutional consolidation;
+ 7. amend and separately review FEF-RGS-000;
+@@ -165,13 +174,15 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
+ 
+ ## 7. Immediate Next Programme Action
+ 
+-**Mobilise D3 — Governance Assurance through a separately authorised and controlled package**
++**Prepare, validate, and freeze the D3 Evidence Pack, then assess DG-3 readiness**
+ 
+-D1 and ORC-001 remain closed. D2 is closed after GF-009 through GF-014 received
+-six attributable `Accept with Conditions` dispositions, FD-011 through FD-016
+-were separately recorded and validated, and the six traceability chains
+-reconciled. Constitutional Candidates and Deferred Matters remain zero, and all
+-23 Open Questions remain unchanged. D3 has not commenced.
++D1 and ORC-001 remain closed. D2 is closed after six attributable decisions and
++reconciled traceability. D3 has nine admitted RQs. Twenty-two controlled
++requirements were derived; 13 existing and 18 new Evidence Records were
++qualified and mapped. Six unavailable or unauthorised source classes and the
++non-independent condition remain explicit. Pack preparation is Ready with
++Conditions. No D3 Evidence Pack, session, finding, or decision exists, and
++substantive review remains unstarted.
+ 
+ The standard workflow is:
+ 
+@@ -203,12 +214,15 @@ The repository is on branch `main`. The validated S02 examination baseline is
+ committed and pushed at `4269c4dad60978643dcacb9729c50499d5a776fd`.
+ The separate neutral Founder Review Package baseline is committed and pushed at
+ `63864f8177e0a3ce05513b9d33808660303227c7`.
+-
+-This v0.17 revision records six separate D2 decisions, post-disposition
+-assessment, validation, and D2 closure. It creates no constitutional effect,
+-changes no Open Question, and does not commence D3. FEF-P1-002 remains pending
+-and unauthorised. The disposition and closure changes remain uncommitted unless
+-separately authorised.
++The D2 disposition and closure baseline is committed and pushed at
++`9b0f23e89f4aca3eeb6d4fa794e902337446f7f3`.
++
++This v0.21 revision records D3 evidence requirements, qualification,
++registration, RQ mapping, gaps, and Ready-with-Conditions pack-preparation
++state. It creates no Evidence Pack, session, finding, decision, constitutional
++effect, or Open Question disposition. FEF-P1-002 remains pending and
++unauthorised. All D3 mobilisation, RQ, and evidence-mobilisation changes remain
++uncommitted unless separately authorised.
+ 
+ ## 11. Change Control
+ 
