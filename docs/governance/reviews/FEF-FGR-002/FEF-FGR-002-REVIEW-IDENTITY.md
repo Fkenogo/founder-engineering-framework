@@ -2,14 +2,16 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.19
+**Identity version:** 1.20
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1, ORC-001, and D2 Closed — D3 Mobilised; Candidates Prepared, Validated, and Founder-Reviewed; DG-2 Admission Complete; Evidence Mobilisation Pending
+**Review state:** D1, ORC-001, and D2 Closed — D3 **Active, Not Closed**: Mobilised; Candidates Prepared, Validated, and Founder-Reviewed; DG-2 Admission Complete; Not Dispositioned; Evidence Mobilisation Pending
 
-**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; zero D3 Evidence Records; evidence mobilisation and registration not started
+**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; each remains `Disposition: Pending`; zero D3 Evidence Records; evidence mobilisation and registration not started; the Domain Exit Gate (FEF-FGRP-001 §12.2 / DG-6) is not reached
+
+**Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
 **Founder Engineering Framework operating mode:** Operational
 
@@ -98,12 +100,14 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D3 mobilisation | [FEF-FGR-002-D3-MOB-001](FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
 | D3 temporary candidates | [FEF-FGR-002-D3-RQC-001](FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md) — 9 temporary candidates prepared; historical provenance for the admitted set |
 | D3 candidate validation | [FEF-FGR-002-D3-RQCVR-001](FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md) — Pass with Conditions |
-| D3 Founder Review Package | [FEF-FGR-002-D3-G1-FRP-001](FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md) — Prepared for the D3-G1 session |
+| D3 Founder Review Package | [FEF-FGR-002-D3-G1-FRP-001](FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md) — Prepared for the live Founder Review session held prior to DG-2 admission |
 | D3 Founder Disposition Record | [FEF-FGR-002-D3-G1-FDR-001](FEF-FGR-002-D3-G1-FOUNDER-DISPOSITION-RECORD.md) — 9 of 9 candidates Accept; constitutional source of truth for DG-2 admission |
-| D3 RQ set | [FEF-FGR-002-D3-RQS-002](FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — RQ-016 through RQ-024, v1.0, Admitted |
+| D3 RQ set | [FEF-FGR-002-D3-RQS-002](FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — RQ-016 through RQ-024, v1.0, Admitted, not dispositioned |
 | D3 DG-2 admission | [FEF-FGR-002-D3-RQVA-002](FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — Admit; grounded in genuine Founder Accept dispositions |
+| D3 admission-readiness checkpoint | [FEF-FGR-002-D3-C1-001](FEF-FGR-002-D3-C1-GOVERNANCE-ASSURANCE-STAGE-CLOSURE-AND-E1-READINESS-ASSESSMENT.md) — v1.1, corrected; verifies deliverables and traceability only, does **not** close D3 or satisfy DG-6 |
 | D3 canonical RQs / Evidence Records / packs / sessions / GFs / FDs | 9 / 0 / 0 / 0 / 0 / 0 |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
+| Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
 | Next gate | Derive D3 evidence requirements and mobilise qualifying evidence against the nine admitted RQs, through a separately governed and separately validated gate |
 
 ### 4.3 Substantive Review Boundary
@@ -165,19 +169,38 @@ Register to the last authorised D3 boundary.
 FEF-FGR-002-D3-G1-FRP-001 then assembled the nine validated candidates into
 a Founder Review Package, and each was presented individually — exact
 wording, constitutional intent, validation summary, and coverage notes only,
-with no recommendation offered — during a live D3-G1 Founder Review session.
-The Founder gave an explicit Accept disposition for every candidate, with no
-amendments, merges, splits, rejections, or deferrals, recorded verbatim in
-FEF-FGR-002-D3-G1-FDR-001. FEF-FGR-002-D3-RQVA-002 then verified that
-disposition record against the Candidate Set and Validation Report, found no
-discrepancy, allocated collision-safe canonical identifiers RQ-016 through
-RQ-024 (the same numeric range the voided quarantined material had claimed,
-now legitimately allocated because a genuine Founder decision backs it), and
-recorded DG-2 admission. FEF-FGR-002-D3-RQS-002 preserves the exact
-Founder-approved wording with complete FEF-RQS-001 mandatory fields. No
-Evidence Record was created and the Evidence Register is unchanged; evidence
-mobilisation against the nine admitted RQs remains a separately governed
-next gate.
+with no recommendation offered — during a live Founder Review session held
+prior to DG-2 admission. The Founder gave an explicit Accept disposition for
+every candidate, with no amendments, merges, splits, rejections, or
+deferrals, recorded verbatim in FEF-FGR-002-D3-G1-FDR-001.
+FEF-FGR-002-D3-RQVA-002 then verified that disposition record against the
+Candidate Set and Validation Report, found no discrepancy, allocated
+collision-safe canonical identifiers RQ-016 through RQ-024 (the same numeric
+range the voided quarantined material had claimed, now legitimately
+allocated because a genuine Founder decision backs it), and recorded DG-2
+admission. FEF-FGR-002-D3-RQS-002 preserves the exact Founder-approved
+wording with complete FEF-RQS-001 mandatory fields. No Evidence Record was
+created and the Evidence Register is unchanged; evidence mobilisation
+against the nine admitted RQs remains a separately governed next gate.
+
+FEF-FGR-002-D3-C1-001 then verified the deliverables and traceability chain
+above. Its original v1.0 asserted that this act of verification "formally
+closed" the D3 — Governance Assurance domain and that the programme was
+"authorised to commence D3-E1." A subsequent read-only programme audit found
+this inconsistent with FEF-FGRP-001 §12.2 (the Domain Exit Gate, which
+requires all domain RQs to be dispositioned — RQ-016 through RQ-024 remain
+`Disposition: Pending`) and with FEF-FGRER-001's DG-6 (Exit domain), neither
+of which this record invoked. FEF-FGR-002-D3-C1-001 was corrected to v1.1
+to state the accurate position: the admission-readiness checkpoint is
+complete, but D3 remains active and open. Separately, a Governance Evolution
+Review (FEF-GER-D3-001) and a Founder review package (FEF-FAP-001) were
+produced from the completed D3 evidence; both are preserved and visible but
+are deferred, as neither is on the Master-Programme-authorised critical
+path — their substantive subject matter (lifecycle, versioning, and
+controlled change to FEF-FGRER-001/FEF-RQS-001) belongs to Domain D5 —
+Governance Lifecycle and Evolution, or a later, separately authorised
+constitutional consolidation. CE1–CE6 remain undecided and have no
+framework effect.
 
 ## 6. Change History
 
@@ -202,3 +225,4 @@ next gate.
 | 1.17 | 2026-07-25 | Versions 1.15 and 1.16 found to assert DG-2 admission and evidence registration unsupported by a distinct Founder Decision record; the six affected artefacts and the exact prior tracked-file deltas were quarantined and preserved without deletion; identity restored to the 1.14 boundary — D3 Mobilised, 9 candidates prepared and validated Pass with Conditions, zero canonical RQs, zero D3 Evidence Records | Repository governance recovery task — FEF-FGR-002-D3-QM-001 |
 | 1.18 | 2026-07-25 | Founder Review Package prepared for all nine validated candidates; live D3-G1 Founder Review session held; Founder gave an explicit Accept disposition to all nine with no amendments, merges, splits, rejections, or deferrals, recorded verbatim | FEF-FGR-002-D3-G1-FRP-001; FEF-FGR-002-D3-G1-FDR-001 |
 | 1.19 | 2026-07-25 | Nine Founder-Accepted candidates verified against the Candidate Set, Validation Report, and Disposition Record with zero discrepancy, allocated canonical identifiers RQ-016 through RQ-024, and admitted through DG-2 on the strength of the genuine Founder disposition; zero Evidence Records created; Evidence Register unchanged | FEF-FGR-002-D3-RQVA-002; FEF-FGR-002-D3-RQS-002 |
+| 1.20 | 2026-07-25 | Programme audit found this identity, the Master Programme, Dashboard, and Manifest all stale since 1.19, and found FEF-FGR-002-D3-C1-001's original closure claim inconsistent with the Register and FEF-FGRP-001 §12.2; corrected FEF-FGR-002-D3-C1-001 to v1.1 (D3 active, not closed; does not satisfy DG-6); recorded the Governance Evolution Review and FAP-001 as completed but deferred, routed to Domain D5 or later constitutional consolidation; CE1–CE6 remain undecided; no Evidence Register or Review Question wording change | Programme-control reconciliation task, following the read-only FEF Programme Audit |

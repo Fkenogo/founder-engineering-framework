@@ -9,12 +9,12 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.19 |
+| Programme version | Master Programme v0.20 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — nine Review Questions (RQ-016–024) admitted through DG-2 following genuine Founder Accept; evidence mobilisation pending |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2, not yet dispositioned; evidence mobilisation pending |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D3 Founder Review and DG-2 admission complete; evidence mobilisation not started |
+| Current execution window | D3 admission-readiness checkpoint complete; evidence mobilisation not started; Domain Exit Gate (DG-6) not reached |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -23,6 +23,7 @@
 | Next review domain | D3 — Governance Assurance; evidence requirement derivation and mobilisation pending |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
+| Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
 
 ## Progress
 
@@ -38,7 +39,7 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 |---|---|
 | Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) and zero Evidence Records. |
 | What are we doing? | Deriving evidence requirements for the nine admitted D3 Review Questions ahead of a separately governed evidence-mobilisation gate. |
-| Why are we doing it? | The nine candidates were presented to the Founder one at a time in a live D3-G1 Founder Review session; the Founder gave an explicit Accept to all nine, recorded verbatim in FEF-FGR-002-D3-G1-FDR-001, which grounded DG-2 admission. |
+| Why are we doing it? | The nine candidates were presented to the Founder one at a time in a live Founder Review session; the Founder gave an explicit Accept to all nine, recorded verbatim in FEF-FGR-002-D3-G1-FDR-001, which grounded DG-2 admission. D3 itself remains open — admission is not disposition, and disposition is required before the domain can exit (FEF-FGRP-001 §12.2). |
 | What must finish before anything else? | Evidence requirement derivation and qualified evidence registration against the nine admitted RQs, before any Evidence Pack is assembled. |
 
 ## Immediate Next Programme Action
@@ -64,10 +65,11 @@ and were not reused.
 - No D1 finding disposition remains pending.
 - No ORC-001 or D1 Founder disposition remains pending.
 - No D2 Founder disposition remains pending.
-- No D3-G1 Founder disposition remains pending — all nine candidates were reviewed and Accepted.
+- No D3 Review Question candidate disposition remains pending — all nine were reviewed and Accepted (FEF-FGR-002-D3-G1-FDR-001).
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
+- No immediate decision is required on the Governance Evolution Review's CE1–CE6; they are deferred pending Domain D5 or constitutional consolidation.
 
 All 23 RGS governance questions remain open.
 

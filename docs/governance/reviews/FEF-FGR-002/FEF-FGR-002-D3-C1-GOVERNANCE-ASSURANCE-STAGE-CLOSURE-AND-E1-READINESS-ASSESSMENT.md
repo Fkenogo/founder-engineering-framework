@@ -1,28 +1,59 @@
-# FEF-FGR-002-D3-C1 — D3 Governance Assurance Stage Closure and E1 Readiness Assessment
+# FEF-FGR-002-D3-C1 — D3 Admission-Readiness Checkpoint (Corrected — Domain Not Closed)
 
 | Control Field | Recorded Value |
 |---|---|
 | Record identifier | FEF-FGR-002-D3-C1-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D3 — Governance Assurance |
-| Gate | D3-C1 — Stage Closure and D3-E1 Readiness Assessment |
-| Version | 1.0 |
-| Assessment date | 2026-07-25 |
+| Gate | Not a defined gate under FEF-FGRER-001. Nearest controlling references: **DG-2** (Admit RQ to execution — complete for RQ-016–024) and **DG-6** (Exit domain — not reached; see Section 6). The original title's "D3-C1"/"D3-E1" labels were not authorised programme-stage names; see Correction Notice below. |
+| Version | 1.1 — Corrected |
+| Assessment date | 2026-07-25 (original); correction 2026-07-25 |
 | Assessment capacity | Coding agent — verification, traceability, and readiness assessment only; no constitutional decision authority exercised |
 | Prepared from | All D3 deliverables listed in Section 2, verified directly against the repository at commit `955c7b704705dbf8c55f181af5e4fbd85e508759` |
-| Evidence Mobilisation effect | None — this record does not commence D3-E1 |
+| Evidence Mobilisation effect | None — this record does not commence evidence mobilisation |
 | Evidence Register effect | None |
-| Record status | D3 Governance Assurance Closed — E1 Readiness Confirmed |
+| Record status | Corrected — Admission-Readiness Checkpoint Complete; **D3 Governance Assurance domain remains active and is not closed** |
+
+## Correction Notice (2026-07-25)
+
+The original version (1.0) of this record declared, in its Section 6, that
+"D3 — Governance Assurance is formally closed" and that the programme was
+"authorised to commence D3-E1." A subsequent read-only programme audit
+found this inconsistent with:
+
+- the live Review Question Register, in which `FEF-FGR-002-RQ-016` through
+  `FEF-FGR-002-RQ-024` each show `Lifecycle State: Admitted` and
+  `Disposition: Pending` — not dispositioned;
+- `FEF-FGRP-001` §12.2, the Founder Governance Review Plan's Domain Exit
+  Gate, which requires "all domain RQs are dispositioned" before a domain
+  exits;
+- `FEF-MASTER-PROGRAMME.md`, which records D3 evidence mobilisation and
+  substantive execution as not yet started;
+- `FEF-FGRER-001` §4, which defines domain exit as **DG-6**, an authority
+  and criterion this record never invoked.
+
+This version (1.1) corrects that classification. Nothing in Sections 2–4
+below is altered — the deliverable verification, traceability review, and
+governance lessons remain accurate and are preserved unchanged. Sections 1,
+5, 6, and 7 are corrected to remove the closure claim and the "D3-E1" label,
+and to state the accurate position. No Founder decision closing D3 ever
+occurred; none is fabricated here. The original claims are not deleted from
+this repository's history — they remain visible in this document's own
+version history and in the corresponding commit — but they are superseded
+by this correction for all active reliance purposes.
 
 ## 1. Purpose
 
-This record formally closes D3 — Governance Assurance and assesses readiness
-to begin D3-E1 — Evidence Mobilisation Planning. It verifies that every
-authorised D3 deliverable exists, confirms end-to-end governance
-traceability, records governance lessons for future stages, and states a
-closure position. It does not commence evidence mobilisation, qualify
-evidence, register an Evidence Record, answer a Review Question, or perform
-Governance Assurance itself.
+This record verifies that the D3 candidate-preparation-through-DG-2-admission
+deliverables exist and are traceable, and assesses readiness for the
+Master-Programme-authorised next activity — deriving D3 evidence
+requirements and mobilising qualifying evidence against the nine admitted
+Review Questions (`FEF-MASTER-PROGRAMME.md` §7). It does **not** close the
+D3 — Governance Assurance domain, does not satisfy the Domain Exit Gate in
+`FEF-FGRP-001` §12.2, and does not exercise or substitute for **DG-6**. It
+does not commence evidence mobilisation, qualify evidence, register an
+Evidence Record, answer a Review Question, or perform Governance Assurance
+itself.
 
 ## 2. Deliverable Verification
 
@@ -178,50 +209,74 @@ Every D3 validation record disclosed that the Validator pass was
 non-independent (same acting agent). This disclosure is necessary but is
 not, by itself, a compensating control for a constitutional admission
 decision — disclosure explains a limitation on the *quality* of a check; it
-does not supply the *authority* to admit. D3-G1's design (insert a live,
+does not supply the *authority* to admit. The design adopted for the D3
+Founder Review session (recorded in
+`FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md` and
+`FEF-FGR-002-D3-G1-FOUNDER-DISPOSITION-RECORD.md`) — insert a live,
 verbatim Founder decision before DG-2, rather than relying on the disclosed
-non-independent Validator pass to carry admission authority) is the concrete
-fix and should be the template for any future FEF domain reaching a
-similarly consequential gate.
+non-independent Validator pass to carry admission authority — is the
+concrete fix. Whether this becomes a standing template for future DG-2
+admissions across FEF domains is one of the matters the Governance Evolution
+Review (`FEF-GER-D3-001`, candidate enhancement CE1) puts to the Founder; it
+is not adopted by this record.
 
-## 5. D3-E1 Readiness Assessment
+## 5. Readiness for the Master-Programme-Authorised Next Activity
+
+The Master Programme's own stated next action (`FEF-MASTER-PROGRAMME.md`
+§7) is: "Derive D3 evidence requirements and mobilise qualifying evidence
+against the nine admitted Review Questions." This section assesses
+readiness for that specific, authorised activity — not for any stage named
+elsewhere in this document's original version.
 
 | Readiness Criterion | Result |
 |---|---|
-| Canonical Review Questions exist | Pass — RQ-016 through RQ-024, nine entries, Active in the Review Question Register |
-| Governance authority is complete | Pass — every canonical RQ traces to a genuine Founder Accept disposition in FEF-FGR-002-D3-G1-FDR-001; no admission rests on a self-labelled capacity |
+| Canonical Review Questions exist | Pass — RQ-016 through RQ-024, nine entries, Admitted in the Review Question Register |
+| Governance authority is complete for the admission already performed | Pass — every canonical RQ traces to a genuine Founder Accept disposition in FEF-FGR-002-D3-G1-FDR-001; no admission rests on a self-labelled capacity |
 | Evidence mobilisation can begin without unresolved constitutional dependencies | Pass — D1 and D2 remain closed; all 23 Open Questions remain unchanged and open; no D3 Open Question interface requires resolution before evidence work; FEF-P1-002 and FEF-RGS-000 remain correctly unaffected |
 | No outstanding D3 governance blockers remain | Pass — the only non-nominal D3 history (the quarantine incident) is fully resolved, documented, and separated from the active chain |
 
-**No blockers were identified.** The programme is ready to begin D3-E1 —
-Evidence Mobilisation Planning, subject to that stage being separately
-authorised and executed under its own gate.
+**No blockers were identified** to beginning the Master Programme's
+authorised next activity (evidence requirement derivation and mobilisation),
+whenever that activity is separately authorised to commence. This is
+distinct from, and does not imply, D3 domain closure — see Section 6.
 
-## 6. D3 Closure Statement
+## 6. Current D3 Position Statement (Corrected)
 
-**D3 — Governance Assurance is formally closed.**
+**D3 — Governance Assurance remains active. It is not closed.**
 
-1. **D3 Governance Assurance complete.** Mobilisation, candidate
+1. **Admission-readiness checkpoint complete.** Mobilisation, candidate
    preparation, technical validation, Founder Review, Founder Disposition,
    and DG-2 Admission have each been performed, verified, and committed.
-2. **Constitutional outputs admitted.** Nine canonical Review Questions
-   (FEF-FGR-002-RQ-016 through FEF-FGR-002-RQ-024) are Active in the Review
-   Question Register, each traceable to a genuine Founder Accept
-   disposition.
-3. **Repository consistent.** All twelve required deliverables exist with
-   matching identifiers, versions, and cross-references; the Evidence
-   Register is unchanged; the quarantine boundary remains intact and
-   separate from the active chain.
-4. **Governance traceability complete.** Every transition in Section 3 has
-   a verified, authorised predecessor; no gap exists.
-5. **Programme authorised to commence D3-E1.** Evidence Mobilisation
-   Planning may proceed as a separately governed and separately authorised
-   next stage. This record does not itself commence that stage.
+2. **Constitutional outputs admitted, not dispositioned.** Nine canonical
+   Review Questions (FEF-FGR-002-RQ-016 through FEF-FGR-002-RQ-024) are
+   Admitted in the Review Question Register, each traceable to a genuine
+   Founder Accept disposition — but each also shows `Disposition: Pending`
+   and `Evidence Status: Evidence Mobilisation Not Started`. No evidence has
+   been mobilised, no examination has occurred, and no Governance Finding or
+   Founder Decision exists for D3.
+3. **Domain Exit Gate not satisfied.** `FEF-FGRP-001` §12.2 requires "all
+   domain RQs are dispositioned" before a domain exits; D3's are not. This
+   record does not invoke or satisfy **DG-6** (Exit domain, `FEF-FGRER-001`
+   §4).
+4. **Repository consistent as of the admission checkpoint.** All twelve
+   deliverables listed in Section 2 exist with matching identifiers,
+   versions, and cross-references; the Evidence Register is unchanged; the
+   quarantine boundary remains intact and separate from the active chain.
+5. **Governance traceability complete up to admission.** Every transition
+   in Section 3 has a verified, authorised predecessor; no gap exists in the
+   chain from mobilisation through DG-2 admission.
+6. **Next authorised activity.** Per `FEF-MASTER-PROGRAMME.md` §7: derive
+   D3 evidence requirements and mobilise qualifying evidence against the
+   nine admitted Review Questions. This record does not commence that
+   activity and does not authorise it beyond what the Master Programme
+   itself already states.
 
 ## 7. Non-Effects
 
 This record does not:
 
+- close the D3 — Governance Assurance domain, or satisfy DG-6 or the Plan
+  §12.2 Domain Exit Gate;
 - create an Evidence Requirement;
 - qualify evidence;
 - register an Evidence Record or allocate an Evidence identifier;
@@ -229,9 +284,10 @@ This record does not:
 - answer a Review Question;
 - perform Governance Assurance (D3's substantive examination);
 - update the Evidence Register;
-- commence D3-E1;
+- commence evidence requirement derivation or mobilisation;
 - modify an Open Question;
-- create constitutional effect beyond recording D3's closure.
+- create constitutional effect beyond recording the admission-readiness
+  checkpoint corrected in this version.
 
 ## 8. Validation Summary
 
