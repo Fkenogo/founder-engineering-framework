@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-DMR-001 |
 | Register class | Deferred Matter Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.2 |
+| Register version | 1.3 |
 | Lifecycle state | Instantiated — Empty |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -29,6 +29,7 @@
 | 1.0 | 2026-07-24 | Empty register instantiated | FD-2026-07-24-009 and FEF-FRCD-001 |
 | 1.1 | 2026-07-24 | S01 deferral assessment completed; pending decisions and gaps were not misclassified as deferrals | FEF-FGR-002-S01 |
 | 1.2 | 2026-07-25 | S02 deferral assessment completed; evidence limitations, OQs, and D3–D8 interfaces were not misclassified as deferrals | FEF-FGR-002-S02 |
+| 1.3 | 2026-07-25 | FD-011 through FD-016 conditions reassessed; scope exclusions and later-domain interfaces do not supply all required controlled-deferral fields | Founder Directive — D2 Governance Finding Dispositions |
 
 ## Boundary
 
@@ -36,5 +37,5 @@ Prior programme-level deferrals are not silently imported. A matter enters this 
 
 ## Non-Effects
 
-This register contains zero Deferred Matters after S01 and S02 assessments and
-modifies or closes no Open Question.
+This register contains zero Deferred Matters after post-disposition D2
+reassessment and modifies or closes no Open Question.

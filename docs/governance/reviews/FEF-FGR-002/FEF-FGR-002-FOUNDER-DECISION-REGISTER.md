@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-FDR-001 |
 | Register class | Founder Decision Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.4 |
+| Register version | 1.5 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -16,7 +16,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-07-25 |
-| Substantive entry count | 10 |
+| Substantive entry count | 16 |
 | Ready for Founder candidate count | 0 |
 
 ## Register
@@ -32,7 +32,13 @@
 | FEF-FGR-002-FD-007 | 1.0 | GF-008 exception, escalation, and risk authority | GF-008 | Accept | Exact validated GF-008 accepted | None supplied | Operative within exact finding boundary | Decision Record Validated | Pass |
 | FEF-FGR-002-FD-008 | 1.0 | GF-007 lifecycle authority model | GF-007 | Accept with Conditions | Exact validated GF-007 accepted | Model remains provisional until equivalent reviews complete across remaining domains | Operative provisionally for FEF-FGR-002 | Decision Record Validated | Pass |
 | FEF-FGR-002-FD-009 | 1.0 | FEF operating mode and standard review workflow | GF-001–GF-008 disposition set | Operational transition | FEF status Operational; five principles and established workflow recorded exactly | Founder authority shall never be automated; non-effects preserved | Operating mode recorded; future domains use established workflow | Decision Record Validated | Pass |
-| FEF-FGR-002-FD-010 | 1.0 | Operational Readiness Confirmation | GF-001–GF-008; ORC-001 | Approve with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md) | Seven exact conditions preserved; includes post-approval validation, non-automated Founder authority, bounded D1 reuse, artefact necessity, evidence-driven change, pending FEF-P1-002, and canonical identifier control | Operative with Conditions; ORC-001 closed after validation; D2 mobilisation authorised but not commenced | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-010 | 1.0 | Operational Readiness Confirmation | GF-001–GF-008; ORC-001 | Approve with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md) | Seven exact conditions preserved; includes post-approval validation, non-automated Founder authority, bounded D1 reuse, artefact necessity, evidence-driven change, pending FEF-P1-002, and canonical identifier control | Operative with Conditions; ORC-001 closed after validation; authorised mobilisation but did not itself commence D2 | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-011 | 1.0 | Evidence qualification and permitted reliance | GF-009 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-011-EVIDENCE-QUALIFICATION-AND-PERMITTED-RELIANCE.md) | Enduring minimum baseline; permanent field catalogue, external/protected policy, legal/security duties, D4 lifecycle, and FEF-P1-002 hierarchy excluded | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-012 | 1.0 | Evidence class, weight, and judgement | GF-010 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-012-EVIDENCE-CLASS-WEIGHT-AND-JUDGEMENT.md) | No automatic decisive weight; no hierarchy, scoring, quantitative weighting, universal conflict rule, or complete D3 model | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-013 | 1.0 | Evidence sufficiency, gaps, and stop treatment | GF-011 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-013-EVIDENCE-SUFFICIENCY-GAPS-AND-STOP-TREATMENT.md) | Qualitative requirement accepted; thresholds, external completeness rules, and D3 residual-risk model excluded | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-014 | 1.0 | Frozen evidence baselines and change control | GF-012 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-014-FROZEN-EVIDENCE-BASELINES-AND-CHANGE-CONTROL.md) | Immutable freeze accepted; detailed successor, supplement, reopening, supersession, and D5 lifecycle mechanics provisional | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-015 | 1.0 | Evidence traceability and controlled reuse | GF-013 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-015-EVIDENCE-TRACEABILITY-AND-CONTROLLED-REUSE.md) | Mandatory traceability; D6 architecture, FEF-P1-002 hierarchy, complete reuse, and constitutional extraction excluded | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-016 | 1.0 | Evidence custody and authority boundary | GF-014 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-016-EVIDENCE-CUSTODY-AND-AUTHORITY-BOUNDARY.md) | Custody and combined-capacity controls accepted; D3 assurance and D4 information lifecycle excluded | Operative within exact conditions | Decision Record Validated | Pass |
 
 ## Change History
 
@@ -43,6 +49,7 @@
 | 1.2 | 2026-07-24 | FD-001 through FD-008 recorded from exact GF dispositions; FD-009 records the operational transition | Attributable Founder directive for FEF-FGR-002-005 |
 | 1.3 | 2026-07-25 | FEF-FGR-002-FD-010 registered and validated as Ready for Founder, linked to ORC-001; no disposition or effect recorded | ORC-001 preparation authority |
 | 1.4 | 2026-07-25 | FEF-FGR-002-FD-010 recorded as Approve with Conditions, synchronised, and validated; D2 mobilisation authorised but not commenced | Attributable Founder disposition for FEF-FGR-002-FD-010 |
+| 1.5 | 2026-07-25 | Six separate D2 Founder Decisions, FD-011 through FD-016, recorded and validated from the exact attributable dispositions of GF-009 through GF-014 | Founder Directive — D2 Governance Finding Dispositions |
 
 ## Boundary
 
@@ -50,4 +57,8 @@ FD-2026-07-24-009 is the programme commencement authority and predates review ex
 
 ## Non-Effects
 
-This register contains ten issued, recorded, and validated review-scoped Founder Decisions and zero `Ready for Founder` candidates. FEF-FGR-002-FD-010 authorises D2 mobilisation only after its exact recording, synchronisation, bidirectional ORC-001 linkage, and bounded post-approval validation; those controls have passed, but D2 remains unstarted. Recording any row does not create constitutional effect, close an Open Question, amend FEF-RGS-000, commence Engineering Discovery, or convert a bounded or provisional decision into a framework-wide rule.
+This register contains sixteen issued, recorded, and validated review-scoped
+Founder Decisions and zero `Ready for Founder` candidates. Recording any row
+does not create constitutional effect, close an Open Question, amend
+FEF-RGS-000, commence another review domain, commence Engineering Discovery, or
+convert a bounded or provisional decision into a broader rule.

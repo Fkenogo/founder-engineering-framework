@@ -3,17 +3,17 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.16 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.17 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 Founder Review Pending
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Unstarted
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Present GF-009 through GF-014 for attributable Founder disposition
+**Immediate next programme action:** Mobilise D3 — Governance Assurance through a separately authorised and controlled package
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1 closed; neutral D2 Founder Review Package Ready with Conditions
+**Current attributable governance review:** FEF-FGR-002 — D1 and D2 closed; 16 validated review-scoped Founder Decisions
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -49,10 +49,12 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-RECORD.md) — D2 session record; closed after bounded examination and validation;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-ENTRY-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-ENTRY-VALIDATION-REPORT.md) — DG-4 Pass with Conditions; formal session opening remains separate;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-RQ-EXAMINATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-RQ-EXAMINATION-RECORD.md) — evidence-bounded treatment of RQ-009 through RQ-015 using EP-002 only;
-- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md) — GF-009 through GF-014; Presented pending Founder disposition;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md) — historical Presented source set for GF-009 through GF-014; current dispositions are controlled by the registers and FD-011 through FD-016;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) — post-session Pass with Conditions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-SUMMARY.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-SUMMARY.md) — neutral Founder entry point for GF-009 through GF-014;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md) — package validation; Ready with Conditions and no disposition;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-TRACEABILITY-REGISTER.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-TRACEABILITY-REGISTER.md) — six complete D2 evidence-to-decision chains;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md) — D2 closure after six validated Founder Decisions;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -108,10 +110,12 @@ mobilisation is committed at
 `6d70ad81ccf03988dc8fd4edf35874a0dc491b56`, and the S02 entry baseline is
 committed at `e8095535b6551831e1a97350772622bd9d1a4469`. Seven D2 RQs were
 examined using Frozen EP-002 v1.0 only. The validated S02 examination baseline
-is committed at `4269c4dad60978643dcacb9729c50499d5a776fd`. S02 is closed,
-GF-009 through GF-014 remain Presented, and their neutral Founder Review
-Package is Ready with Conditions. No D2 Founder Decision identifier has been
-allocated and no constitutional effect exists.
+is committed at `4269c4dad60978643dcacb9729c50499d5a776fd`, and the neutral
+Founder Review Package baseline is committed at
+`63864f8177e0a3ce05513b9d33808660303227c7`. The Founder subsequently
+dispositioned GF-009 through GF-014 as `Accept with Conditions`. FD-011 through
+FD-016 are separately recorded and validated, D2 traceability is reconciled,
+and D2 is closed. No constitutional effect exists, and D3 remains unstarted.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 

@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.5 |
+| Register version | 1.6 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -24,6 +24,13 @@
 | FEF-FGR-002-EP-001 | 1.0 | D1 — Governance Authority | RQ-001–RQ-008 | 21 Evidence Records | Frozen | 2026-07-24 | S01 — Closed | Source and pack hashes recorded | Repository-controlled | None | Pass with disclosed non-independent condition |
 | FEF-FGR-002-EP-002 | 1.0 | D2 — Evidence Governance | RQ-009–RQ-015 | 21 Evidence Records | Frozen | 2026-07-25 | S02 — Closed; sole examination baseline | Source and pack hashes recorded in FEF-FGR-002-D2-EMVR-001 and reverified at entry and post-session validation | Repository-controlled | None | Pass with disclosed non-independent condition |
 
+## D2 Output Linkage
+
+EP-002 v1.0 is the sole frozen evidence baseline for S02, GF-009 through
+GF-014, and FD-011 through FD-016. Exact relationships are controlled by the
+[D2 Traceability Register](FEF-FGR-002-D2-TRACEABILITY-REGISTER.md). This
+linkage does not modify or re-freeze EP-002.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -34,6 +41,7 @@
 | 1.3 | 2026-07-25 | D2 Evidence Pack EP-002 v1.0 registered as Frozen and validated; no session use | FEF-FGR-002-D2-EMVR-001 |
 | 1.4 | 2026-07-25 | EP-002 fingerprint, membership, treatments, and RQ coverage reverified for S02 entry; session remains unopened | FEF-FGR-002-S02-EVR-001 |
 | 1.5 | 2026-07-25 | Frozen EP-002 recorded as the sole evidence baseline used for closed S02; no post-freeze source used | FEF-FGR-002-S02 |
+| 1.6 | 2026-07-25 | EP-002 linked to GF-009 through GF-014 and FD-011 through FD-016 without changing frozen content or treatment | Founder Directive — D2 Governance Finding Dispositions |
 
 ## Non-Effects
 

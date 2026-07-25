@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-ER-001 |
 | Register class | Evidence Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.2 |
+| Register version | 1.3 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -54,6 +54,21 @@
 | EV-030 | D1 Traceability Register | Controlled repository path | Validated FEF-FGR-002 record | D2 Catalogue EV-030 | 2026-07-25 | v1.1; D1 closed | Admitted | SHA-256 recorded | Repository | RQ-014–RQ-015 | Validated | Pass |
 | EV-031 | Evidence Recovery Report | Controlled repository path | Validated technical recovery record | D2 Catalogue EV-031 | 2026-07-25 | Evidence Not Recoverable | Admitted | SHA-256 recorded | Repository | RQ-009, RQ-012, RQ-015 | Validated | Pass within search-outcome scope |
 
+## D2 Output Linkage
+
+| Evidence Set | Related RQs | Governance Finding | Founder Decision |
+|---|---|---|---|
+| EV-005–EV-008; EV-012; EV-014; EV-017–EV-018; EV-021–EV-028; EV-031 | RQ-009; RQ-011 | GF-009 | FD-011 |
+| EV-005–EV-008; EV-012; EV-014; EV-022–EV-026 | RQ-010 | GF-010 | FD-012 |
+| EV-005–EV-008; EV-012; EV-014; EV-022–EV-027; EV-031 | RQ-012 | GF-011 | FD-013 |
+| EV-005–EV-008; EV-022–EV-023; EV-026–EV-029 | RQ-013 | GF-012 | FD-014 |
+| EV-005–EV-008; EV-012; EV-022–EV-030 | RQ-014 | GF-013 | FD-015 |
+| EV-005–EV-008; EV-012; EV-014; EV-016–EV-019; EV-021–EV-031 | RQ-015 | GF-014 | FD-016 |
+
+The [D2 Traceability Register](FEF-FGR-002-D2-TRACEABILITY-REGISTER.md)
+controls exact evidence-to-output relationships and preserves admissibility,
+limitations, and permitted use.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -61,7 +76,11 @@
 | 1.0 | 2026-07-24 | Empty register instantiated | FD-2026-07-24-009 and FEF-FRCD-001 |
 | 1.1 | 2026-07-24 | Twenty-one D1 Evidence Records registered and validated | FEF-FGR-002-RA-005 and RA-006 |
 | 1.2 | 2026-07-25 | Eleven stable Evidence Records reused and ten new D2 Evidence Records registered and validated; D2 set totals 21 | FEF-FGR-002-D2-ERC-001 |
+| 1.3 | 2026-07-25 | D2 evidence-to-GF-to-FD output linkages recorded without changing identity, admissibility, permitted use, or frozen pack membership | Founder Directive — D2 Governance Finding Dispositions |
 
 ## Non-Effects
 
-This register contains 31 unique Evidence Records. Twenty-one are mapped to D2 through controlled reuse or new registration. Registration and admissibility do not analyse evidence, determine any RQ answer, or create a finding.
+This register contains 31 unique Evidence Records. Twenty-one are mapped to D2
+through controlled reuse or new registration. Output linkage does not change a
+source's authority, admissibility, limitation, permitted use, or frozen-pack
+state.

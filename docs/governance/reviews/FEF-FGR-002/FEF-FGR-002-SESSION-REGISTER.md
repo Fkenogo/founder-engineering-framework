@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.3 |
+| Register version | 1.4 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -25,6 +25,14 @@
 | FEF-FGR-002-S01 | D1 — Governance Authority | Examine the eight admitted D1 RQs and produce validated GFs | RQ-001–RQ-008 | EP-001 v1.0 — Frozen | Execute and close | Pass with condition | Closed — Validated with Condition | [Session Record](FEF-FGR-002-S01-SESSION-RECORD.md) | Pass with recorded non-independent condition |
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
 
+## D2 Post-Session Linkage
+
+S02 remains closed. Its six Presented findings were subsequently dispositioned
+through FD-011 through FD-016, and D2 was closed after post-disposition
+validation. The [D2 Traceability Register](FEF-FGR-002-D2-TRACEABILITY-REGISTER.md)
+and [D2 Closure Report](FEF-FGR-002-D2-CLOSURE-REPORT.md) control those later
+domain-level effects without changing the historical S02 session state.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -33,10 +41,11 @@
 | 1.1 | 2026-07-24 | S01 created, opened after DG-4 pass, executed, and closed | FEF-FGR-002-003 |
 | 1.2 | 2026-07-25 | Collision-safe S02 identity allocated and DG-4 entry validated with conditions; session not opened | FEF-FGR-002-S02-EVR-001 |
 | 1.3 | 2026-07-25 | S02 opened under RA-002, seven RQs examined using EP-002 only, six GFs presented, and session closed after validation | FEF-FGR-002-S02 |
+| 1.4 | 2026-07-25 | Post-session link to six D2 decisions and D2 closure recorded without changing the closed S02 lifecycle state | Founder Directive — D2 Governance Finding Dispositions |
 
 ## Non-Effects
 
-This register contains two closed sessions. S02 produced six Presented
-Governance Findings pending Founder disposition; it issued no FD, created no
-Constitutional Candidate or Deferred Matter, modified no Open Question, and
-authorised no downstream work beyond neutral Founder review preparation.
+This register contains two closed sessions. S02 itself issued no FD and its
+historical state remains closed with findings presented. Later attributable
+dispositions and D2 closure are linked without being represented as session
+actions. No Open Question is modified.
