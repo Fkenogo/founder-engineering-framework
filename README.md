@@ -3,17 +3,17 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.15 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.16 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 S02 Closed
+**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; D2 Founder Review Pending
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare the neutral D2 Founder Review Package for GF-009 through GF-014
+**Immediate next programme action:** Present GF-009 through GF-014 for attributable Founder disposition
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1 closed; S02 closed with six Presented findings
+**Current attributable governance review:** FEF-FGR-002 — D1 closed; neutral D2 Founder Review Package Ready with Conditions
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -51,6 +51,8 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-RQ-EXAMINATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-RQ-EXAMINATION-RECORD.md) — evidence-bounded treatment of RQ-009 through RQ-015 using EP-002 only;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md) — GF-009 through GF-014; Presented pending Founder disposition;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) — post-session Pass with Conditions;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-SUMMARY.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-SUMMARY.md) — neutral Founder entry point for GF-009 through GF-014;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md) — package validation; Ready with Conditions and no disposition;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -105,9 +107,11 @@ the bounded reference implementation. ORC-001 is closed. D2 evidence
 mobilisation is committed at
 `6d70ad81ccf03988dc8fd4edf35874a0dc491b56`, and the S02 entry baseline is
 committed at `e8095535b6551831e1a97350772622bd9d1a4469`. Seven D2 RQs were
-examined using Frozen EP-002 v1.0 only. S02 is closed, and GF-009 through
-GF-014 are Presented pending Founder disposition. No D2 Founder Decision or
-constitutional effect exists.
+examined using Frozen EP-002 v1.0 only. The validated S02 examination baseline
+is committed at `4269c4dad60978643dcacb9729c50499d5a776fd`. S02 is closed,
+GF-009 through GF-014 remain Presented, and their neutral Founder Review
+Package is Ready with Conditions. No D2 Founder Decision identifier has been
+allocated and no constitutional effect exists.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 

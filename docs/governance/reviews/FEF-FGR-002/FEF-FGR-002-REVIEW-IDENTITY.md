@@ -2,12 +2,12 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.10
+**Identity version:** 1.11
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1 and ORC-001 Closed — D2 S02 Closed; Governance Findings Presented
+**Review state:** D1 and ORC-001 Closed — D2 Founder Review Package Prepared; Founder Consideration Pending
 
 **Mobilisation state:** Complete
 
@@ -91,7 +91,8 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D2 substantive review | S02 examination complete; six findings Presented |
 | D2 session | [FEF-FGR-002-S02](FEF-FGR-002-S02-SESSION-RECORD.md) — Closed; post-session validation passed with conditions |
 | D2 Governance Findings / Founder Decisions | 6 / 0 |
-| D2 next gate | Prepare the neutral Founder Review Package for GF-009 through GF-014 |
+| D2 Founder Review Package | [FEF-FGR-002-D2-FRS-001](FEF-FGR-002-D2-FOUNDER-REVIEW-SUMMARY.md) — Prepared; validation Ready with Conditions |
+| D2 next gate | Present GF-009 through GF-014 to the Founder for attributable disposition |
 
 ### 4.3 Substantive Review Boundary
 
@@ -122,8 +123,10 @@ evidence. FEF-FGR-002-S02-EVR-001 allocates the collision-safe S02 identity and
 validates DG-4 entry with conditions. S02 then opened under RA-002, examined
 the seven admitted D2 RQs using EP-002 only, presented GF-009 through GF-014,
 recorded zero candidates and zero deferrals, and closed after
-FEF-FGR-002-S02-SVR-001 passed with conditions. Any later change requires
-versioned change history and renewed validation.
+FEF-FGR-002-S02-SVR-001 passed with conditions. The neutral D2 Founder Review
+Package is validated by FEF-FGR-002-D2-FRPVR-001 without changing any finding
+lifecycle state or allocating a Founder Decision identifier. Any later change
+requires versioned change history and renewed validation.
 
 ## 6. Change History
 
@@ -139,3 +142,4 @@ versioned change history and renewed validation.
 | 1.8 | 2026-07-25 | Seven D2 RQs admitted, 21 sources validated, EP-002 v1.0 frozen, and separate session-entry preparation identified as next gate | FEF-FGR-002-D2-EMVR-001 |
 | 1.9 | 2026-07-25 | S02 identity allocated and DG-4 entry validated with five recorded conditions; session remains unopened and substantive review unstarted | FEF-FGR-002-S02-EVR-001 |
 | 1.10 | 2026-07-25 | S02 opened, seven D2 RQs examined using EP-002 only, six GFs presented, zero candidates/deferrals recorded, and session closed after validation | FEF-FGR-002-S02 |
+| 1.11 | 2026-07-25 | Neutral review materials for GF-009 through GF-014 prepared and validated; six findings remain Presented and zero D2 Founder Decisions exist | FEF-FGR-002-D2-FRPVR-001 |
