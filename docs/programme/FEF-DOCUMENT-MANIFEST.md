@@ -5,7 +5,7 @@
 | Document | Category | Status | Authority |
 |---|---|---|---|
 | `README.md` | Navigation | Draft | Informational only |
-| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.12 | Authoritative for programme status, sequence, dependencies, and next-work control only |
+| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.13 | Authoritative for programme status, sequence, dependencies, and next-work control only |
 | `docs/programme/FEF-FOUNDER-DASHBOARD.md` | Programme Governance Pilot Artefact — Dashboard | Current | Informational view derived from the Master Programme |
 | `docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md` | Programme Governance Pilot Artefact — Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; no constitutional effect and no D2 commencement |
 | `docs/programme/FEF-PROGRAMME-DEPENDENCY-REVIEW.md` | Programme Governance Pilot Artefact — Dependency Review | Current | Programme sequencing only; no governance effect |
@@ -25,11 +25,16 @@
 | `docs/governance/reviews/FEF-RQS-001-REVIEW-QUESTION-SPECIFICATION.md` | Review Question Specification | Approved preparation baseline | Controls future RQ structure, lifecycle, validation, and traceability |
 | `docs/governance/reviews/FEF-EPS-001-EVIDENCE-PACK-SPECIFICATION.md` | Evidence Pack Specification | Approved preparation baseline | Controls future Evidence Pack admissibility, versioning, freeze, and integrity |
 | `docs/governance/reviews/FEF-FGRER-001-REVIEW-EXECUTION-RULES.md` | Founder Governance Review Execution Rules | Approved preparation baseline | Controls review workflow, gates, reopening, dependency, and escalation |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | D1 and ORC-001 Closed — D2 Mobilisation Complete | Records sustained Operational Mode, D2 Ready-with-Conditions state, and substantive-review non-commencement |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md` | Founder Governance Review identity | D1 and ORC-001 Closed — D2 Evidence Mobilisation Complete | Records seven admitted D2 RQs, Frozen EP-002, session-entry readiness, and substantive-review non-commencement |
 | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md` | D2 domain mobilisation record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ/evidence state, roles, dependencies, interfaces, and next gate |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Active v1.3 | Controls 8 D1 RQs and records zero D2 RQs; no OQ closure |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Active v1.1 | Controls 21 validated D1 Evidence Records |
-| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-PACK-REGISTER.md` | Review execution register | Active v1.2 | Controls Frozen EP-001 v1.0 and its validated S01 use |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-REVIEW-QUESTION-SET.md` | D2 Review Question set | v1.1 — Seven RQs Validated and Admitted | Controls RQ-009 through RQ-015, evidence mappings, boundaries, and non-effects |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-RQ-VALIDATION-AND-ADMISSION-RECORD.md` | D2 RQ validation and DG-2 admission record | v1.0 — Pass with Condition | Records consolidated validation and admission without answering an RQ |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md` | D2 Evidence Record Catalogue and requirement matrix | v1.0 — Validated | Controls requirements, 21 mapped sources, admissibility, limitations, gaps, and non-analysis |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md` | D2 Evidence Governance Domain Pack | v1.0 — Frozen | Stable 21-record evidence input; separate session-entry validation required |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md` | D2 evidence mobilisation validation | v1.0 — Pass with Condition | Reconciles gates, records, coverage, limitations, pack integrity, and session-entry readiness |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-QUESTION-REGISTER.md` | Review execution register | Active v1.5 | Controls 8 answered D1 RQs and 7 admitted D2 RQs; no OQ closure |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-REGISTER.md` | Review execution register | Active v1.2 | Controls 31 unique Evidence Records; 21 mapped to D2 |
+| `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EVIDENCE-PACK-REGISTER.md` | Review execution register | Active v1.3 | Controls Frozen EP-001 and EP-002; EP-002 has no session use |
 | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-SESSION-REGISTER.md` | Review execution register | Active v1.1 | Controls one closed and conditionally validated session |
 | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-GOVERNANCE-FINDING-REGISTER.md` | Review output register | Active v1.2 | Controls 8 Founder-dispositioned D1 findings |
 | `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FOUNDER-DECISION-REGISTER.md` | Review output register | Active v1.4 | Controls 10 validated review-scoped Founder Decisions; zero candidates |

@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-ER-001 |
 | Register class | Evidence Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.1 |
+| Register version | 1.2 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,9 +13,10 @@
 | Control owner | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record; item-specific access treatment required before entry |
-| Integrity control | Per-item SHA-256 in D1 Evidence Record Catalogue |
-| Last validation date | 2026-07-24 |
-| Substantive entry count | 21 |
+| Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues |
+| Last validation date | 2026-07-25 |
+| Substantive entry count | 31 |
+| D2 mapped Evidence Record count | 21 |
 
 ## Register
 
@@ -25,23 +26,33 @@
 | EV-002 | Governance Preparation Completion Record | Controlled repository path | Founder | Catalogue EV-002 | 2026-07-24 | Recorded | Admitted | SHA-256 recorded | Repository | RQ-001–005, 007–008 | Validated | Pass |
 | EV-003 | Founder Review Commencement Decision Record | Controlled repository path | Founder | Catalogue EV-003 | 2026-07-24 | Effective | Admitted | SHA-256 recorded | Repository | RQ-001–002, 004–008 | Validated | Pass |
 | EV-004 | FEF-FRCD-001 | Controlled repository path | Founder approved | Catalogue EV-004 | 2026-07-24 | v0.1 | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
-| EV-005 | FEF-FGRC-001 Charter | Controlled repository path | Founder approved | Catalogue EV-005 | 2026-07-24 | Draft v0.1 content approved | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
-| EV-006 | FEF-FGRA-001 Agenda | Controlled repository path | Founder approved | Catalogue EV-006 | 2026-07-24 | Draft v0.1 content approved | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
-| EV-007 | FEF-FGRP-001 Plan | Controlled repository path | Founder approved | Catalogue EV-007 | 2026-07-24 | Draft v0.1 content approved | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
-| EV-008 | Review Execution Rules | Controlled repository path | Preparation baseline | Catalogue EV-008 | 2026-07-24 | v0.1 | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
+| EV-005 | FEF-FGRC-001 Charter | Controlled repository path | Founder approved | D1 Catalogue EV-005; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | Draft v0.1 content approved | Admitted | SHA-256 reverified | Repository | RQ-001–RQ-015 | Validated | Pass |
+| EV-006 | FEF-FGRA-001 Agenda | Controlled repository path | Founder approved | D1 Catalogue EV-006; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | Draft v0.1 content approved | Admitted | SHA-256 reverified | Repository | RQ-001–RQ-015 | Validated | Pass |
+| EV-007 | FEF-FGRP-001 Plan | Controlled repository path | Founder approved | D1 Catalogue EV-007; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | Draft v0.1 content approved | Admitted | SHA-256 reverified | Repository | RQ-001–RQ-015 | Validated | Pass |
+| EV-008 | Review Execution Rules | Controlled repository path | Preparation baseline | D1 Catalogue EV-008; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v0.1 | Admitted | SHA-256 reverified | Repository | RQ-001–RQ-015 | Validated | Pass |
 | EV-009 | FEF-FAR-001 | Controlled repository path | Founder | Catalogue EV-009 | 2026-07-24 | Recorded | Admitted | SHA-256 recorded | Repository | RQ-001, 003, 005, 007 | Validated | Pass |
 | EV-010 | FEF-FAR-002 | Controlled repository path | Founder | Catalogue EV-010 | 2026-07-24 | Recorded | Admitted | SHA-256 recorded | Repository | RQ-001, 003–005, 007 | Validated | Pass |
 | EV-011 | FEF Decision Register | Controlled repository path | Administrative | Catalogue EV-011 | 2026-07-24 | Current | Conditionally Admitted | SHA-256 recorded | Repository | RQ-001–005, 007–008 | Validated | Pass with limitation |
-| EV-012 | Open Questions Register | Controlled repository path | Controlled record | Catalogue EV-012 | 2026-07-24 | 23-question baseline | Admitted | SHA-256 recorded | Repository | RQ-001–008 | Validated | Pass |
+| EV-012 | Open Questions Register | Controlled repository path | Controlled record | D1 Catalogue EV-012; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | 23-question baseline | Admitted | SHA-256 reverified | Repository | RQ-001–RQ-012, RQ-014–RQ-015 | Validated | Pass |
 | EV-013 | FEF-RGS-000 | Controlled repository path | Draft standard | Catalogue EV-013 | 2026-07-24 | Draft v0.2 | Conditionally Admitted | SHA-256 recorded | Repository | RQ-001–003, 005, 007 | Validated | Pass with limitation |
-| EV-014 | FEF-FGR-001 | Controlled repository path | Historical gap record | Catalogue EV-014 | 2026-07-24 | Incomplete permanent record | Context Only | SHA-256 recorded | Repository | RQ-001, 003, 005 | Validated | Pass as context only |
+| EV-014 | FEF-FGR-001 | Controlled repository path | Historical gap record | D1 Catalogue EV-014; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | Incomplete permanent record | Context Only | SHA-256 reverified | Repository | RQ-001, RQ-003, RQ-005, RQ-009–RQ-010, RQ-012, RQ-015 | Validated | Pass as context only |
 | EV-015 | Master Programme | Controlled repository path | Programme authority only | Catalogue EV-015 | 2026-07-24 | v0.8 | Conditionally Admitted | SHA-256 recorded | Repository | RQ-001, 003, 005, 007 | Validated | Pass with limitation |
-| EV-016 | Operational Roles Standard | Controlled repository path | FEF-FGR-002 operational | Catalogue EV-016 | 2026-07-24 | v1.0 | Admitted | SHA-256 recorded | Repository | RQ-002, 004, 006–008 | Validated | Pass |
-| EV-017 | Operational Authority Boundary | Controlled repository path | FEF-FGR-002 operational | Catalogue EV-017 | 2026-07-24 | v1.0 | Admitted | SHA-256 recorded | Repository | RQ-002, 004, 006–008 | Validated | Pass |
-| EV-018 | Independence and Conflict Rules | Controlled repository path | FEF-FGR-002 operational | Catalogue EV-018 | 2026-07-24 | v1.0 | Admitted | SHA-256 recorded | Repository | RQ-004, 006, 008 | Validated | Pass |
-| EV-019 | Responsibility Matrix | Controlled repository path | FEF-FGR-002 operational | Catalogue EV-019 | 2026-07-24 | v1.0 | Admitted | SHA-256 recorded | Repository | RQ-002, 004, 006–008 | Validated | Pass |
+| EV-016 | Operational Roles Standard | Controlled repository path | FEF-FGR-002 operational | D1 Catalogue EV-016; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v1.0 | Admitted | SHA-256 reverified | Repository | RQ-002, RQ-004, RQ-006–RQ-008, RQ-015 | Validated | Pass |
+| EV-017 | Operational Authority Boundary | Controlled repository path | FEF-FGR-002 operational | D1 Catalogue EV-017; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v1.0 | Admitted | SHA-256 reverified | Repository | RQ-002, RQ-004, RQ-006–RQ-008, RQ-011, RQ-015 | Validated | Pass |
+| EV-018 | Independence and Conflict Rules | Controlled repository path | FEF-FGR-002 operational | D1 Catalogue EV-018; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v1.0 | Admitted | SHA-256 reverified | Repository | RQ-004, RQ-006, RQ-008, RQ-011, RQ-015 | Validated | Pass |
+| EV-019 | Responsibility Matrix | Controlled repository path | FEF-FGR-002 operational | D1 Catalogue EV-019; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v1.0 | Admitted | SHA-256 reverified | Repository | RQ-002, RQ-004, RQ-006–RQ-008, RQ-015 | Validated | Pass |
 | EV-020 | Role Assignment Procedure | Controlled repository path | FEF-FGR-002 operational | Catalogue EV-020 | 2026-07-24 | v1.0 | Admitted | SHA-256 recorded | Repository | RQ-002, 004, 006–008 | Validated | Pass |
-| EV-021 | Role Assignment Register | Controlled repository path | Founder-authorised assignments | Catalogue EV-021 | 2026-07-24 | v1.1 | Admitted | SHA-256 recorded | Repository | RQ-004, 006, 008 | Validated | Pass with disclosed combination |
+| EV-021 | Role Assignment Register | Controlled repository path | Founder-authorised assignments | D1 Catalogue EV-021; D2 Catalogue reuse | 2026-07-24; reverified 2026-07-25 | v1.1 | Admitted | SHA-256 reverified | Repository | RQ-004, RQ-006, RQ-008, RQ-011, RQ-015 | Validated | Pass with disclosed combination |
+| EV-022 | FEF-RQS-001 Review Question Specification | Controlled repository path | Review preparation baseline | D2 Catalogue EV-022 | 2026-07-25 | v0.1; draft header retained | Conditionally Admitted | SHA-256 recorded | Repository | RQ-009–RQ-015 | Validated | Pass with authority limitation |
+| EV-023 | FEF-EPS-001 Evidence Pack Specification | Controlled repository path | Review preparation baseline | D2 Catalogue EV-023 | 2026-07-25 | v0.1; draft header retained | Conditionally Admitted | SHA-256 recorded | Repository | RQ-009–RQ-015 | Validated | Pass with authority limitation |
+| EV-024 | D1 Evidence Record Catalogue | Controlled repository path | FEF-FGR-002 operated record | D2 Catalogue EV-024 | 2026-07-25 | v1.0; D1 acquisition state | Admitted | SHA-256 recorded | Repository | RQ-009–RQ-012, RQ-014–RQ-015 | Validated | Pass |
+| EV-025 | D1 Evidence Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D2 Catalogue EV-025 | 2026-07-25 | 2026-07-24 pass with limitations | Admitted | SHA-256 recorded | Repository | RQ-009–RQ-012, RQ-014–RQ-015 | Validated | Pass with disclosed combination |
+| EV-026 | D1 Evidence Pack EP-001 | Controlled repository path | Frozen FEF-FGR-002 pack | D2 Catalogue EV-026 | 2026-07-25 | v1.0 Frozen | Admitted | SHA-256 recorded | Repository | RQ-009–RQ-015 | Validated | Pass |
+| EV-027 | D1 Evidence Pack Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D2 Catalogue EV-027 | 2026-07-25 | 2026-07-24 pass | Admitted | SHA-256 recorded | Repository | RQ-009, RQ-011–RQ-015 | Validated | Pass with disclosed combination |
+| EV-028 | S01 Entry Validation Report | Controlled repository path | FEF-FGR-002 Validator record | D2 Catalogue EV-028 | 2026-07-25 | 2026-07-24 pass | Admitted | SHA-256 recorded | Repository | RQ-011, RQ-013–RQ-015 | Validated | Pass |
+| EV-029 | S01 Session Record | Controlled repository path | Closed FEF-FGR-002 session record | D2 Catalogue EV-029 | 2026-07-25 | S01 closed | Conditionally Admitted | SHA-256 recorded | Repository | RQ-013–RQ-014 | Validated | Pass for pack-use trace only |
+| EV-030 | D1 Traceability Register | Controlled repository path | Validated FEF-FGR-002 record | D2 Catalogue EV-030 | 2026-07-25 | v1.1; D1 closed | Admitted | SHA-256 recorded | Repository | RQ-014–RQ-015 | Validated | Pass |
+| EV-031 | Evidence Recovery Report | Controlled repository path | Validated technical recovery record | D2 Catalogue EV-031 | 2026-07-25 | Evidence Not Recoverable | Admitted | SHA-256 recorded | Repository | RQ-009, RQ-012, RQ-015 | Validated | Pass within search-outcome scope |
 
 ## Change History
 
@@ -49,7 +60,8 @@
 |---|---|---|---|
 | 1.0 | 2026-07-24 | Empty register instantiated | FD-2026-07-24-009 and FEF-FRCD-001 |
 | 1.1 | 2026-07-24 | Twenty-one D1 Evidence Records registered and validated | FEF-FGR-002-RA-005 and RA-006 |
+| 1.2 | 2026-07-25 | Eleven stable Evidence Records reused and ten new D2 Evidence Records registered and validated; D2 set totals 21 | FEF-FGR-002-D2-ERC-001 |
 
 ## Non-Effects
 
-This register contains 21 Evidence Records with explicit admissibility treatments. Registration does not analyse the evidence or determine any RQ answer.
+This register contains 31 unique Evidence Records. Twenty-one are mapped to D2 through controlled reuse or new registration. Registration and admissibility do not analyse evidence, determine any RQ answer, or create a finding.
