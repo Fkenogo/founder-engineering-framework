@@ -2,12 +2,12 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.4
+**Identity version:** 1.6
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1 Closed — Founder Dispositions and Decisions Validated; Remaining Domains Pending
+**Review state:** D1 Closed — ORC-001 Closed; Sustained Operational Mode Authorised; D2 Mobilisation Preparation Next
 
 **Mobilisation state:** Complete
 
@@ -50,7 +50,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 1 |
 | FEF-FGR-002-SR-001 | Session Register | 1 |
 | FEF-FGR-002-GFR-001 | Governance Finding Register | 8 |
-| FEF-FGR-002-FDR-001 | Founder Decision Register | 9 |
+| FEF-FGR-002-FDR-001 | Founder Decision Register | 10 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
 
@@ -80,7 +80,10 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Constitutional Candidates | 0 |
 | Deferred Matters | 0 |
 | D1 status | Formally closed after Founder disposition and decision validation |
-| Remaining review domains | Pending under approved domain dependency sequence |
+| Operational checkpoint | ORC-001 v1.0 — Closed; Founder Approved with Conditions; validation passed |
+| Operational readiness decision | FEF-FGR-002-FD-010 v1.0 — Decision Record Validated; Operative with Conditions |
+| Remaining review domains | D2–D8 pending under approved domain dependency sequence |
+| D2 state | Not commenced; mobilisation preparation is the next authorised programme action under Operational Mode |
 
 ### 4.3 Substantive Review Boundary
 
@@ -98,7 +101,7 @@ They do not:
 
 The initial identity and empty-register fingerprints are preserved in the FEF-FGR-002 commencement implementation validation report.
 
-The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Founder disposition, decision recording, D1 closure, and operational transition are validated by FEF-FGR-002-005. Any later change requires versioned change history and renewed validation.
+The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execution is validated by its entry, GF, and post-session validation records. The neutral Founder disposition package is validated by FEF-FGR-002-004. Founder disposition, decision recording, D1 closure, and operational transition are validated by FEF-FGR-002-005. ORC-001 records the completed operational-readiness checkpoint, and FEF-FGR-002-FD-010 records the attributable Founder approval with seven conditions. Post-approval synchronisation and validation passed without commencing D2. Any later change requires versioned change history and renewed validation.
 
 ## 6. Change History
 
@@ -109,3 +112,5 @@ The D1 preparation state is validated by the FEF-FGR-002-002 reports. S01 execut
 | 1.2 | 2026-07-24 | S01 closure, eight Presented GFs, and zero-decision/candidate/deferral state recorded | FEF-FGR-002-003 |
 | 1.3 | 2026-07-24 | Founder review package readiness recorded without changing GF or decision state | FEF-FGR-002-004 |
 | 1.4 | 2026-07-24 | Eight Founder dispositions, nine review-scoped FDs, D1 closure, and Operational mode recorded | Attributable Founder directive for FEF-FGR-002-005 |
+| 1.5 | 2026-07-25 | ORC-001 candidate checkpoint and validated FEF-FGR-002-FD-010 Ready-for-Founder state recorded; D2 remains unstarted | ORC-001 preparation authority |
+| 1.6 | 2026-07-25 | FEF-FGR-002-FD-010 approval with conditions, ORC-001 closure, sustained Operational Mode, and D2 mobilisation-preparation authority recorded after validation | Attributable Founder disposition for FEF-FGR-002-FD-010 |

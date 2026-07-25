@@ -3,17 +3,17 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.8 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.11 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — Commencement Authorised, Mobilisation Active
+**Current active review:** FEF-FGR-002 — D1 and ORC-001 Closed; Sustained Operational Mode Authorised; D2 Not Commenced
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Allocate operational roles and prepare initial D1 RQs and evidence through approved controls
+**Immediate next programme action:** Prepare D2 mobilisation under the established Operational Mode lifecycle
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — Assigned; eight empty registers; no session
+**Current attributable governance review:** FEF-FGR-002 — D1 closed; D2 not commenced
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -43,10 +43,11 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/`](docs/governance/) — governance proposals and draft principles;
 - [`docs/governance/research/`](docs/governance/research/) — draft research governance standards;
 - [`docs/governance/reviews/`](docs/governance/reviews/) — structured governance review evidence and explicitly recorded evidence gaps;
-- [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review identity and empty controlled execution registers;
+- [`docs/governance/reviews/FEF-FGR-002/`](docs/governance/reviews/FEF-FGR-002/) — active Founder Governance Review, closed D1 record set, registers, and validated FEF-FGR-002-FD-010;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
+- [`docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md`](docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md) — closed Operational Readiness Checkpoint and final Framework Engineering checkpoint;
 - [`docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md`](docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md) — informational description of the Phase 0 Programme Governance pilot;
 - [`docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md`](docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md) — preferred prospective review-handover protocol within the pilot;
 - [`docs/templates/FEF-WORK-PACKAGE-REVIEW-PACKAGE-TEMPLATE.md`](docs/templates/FEF-WORK-PACKAGE-REVIEW-PACKAGE-TEMPLATE.md) — reusable Review Package template with a protected Founder-only disposition section;
@@ -61,6 +62,7 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/records/`](docs/records/) — work-package, decision, source, and change records;
 - [`docs/records/founder-reviews/`](docs/records/founder-reviews/) — Founder review records and their explicit scope boundaries;
 - [`docs/records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md`](docs/records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md) — effective Founder Review Commencement Decision;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md) — Founder-approved with seven conditions; post-approval validation passed; D2 mobilisation authorised but not commenced;
 - [`prompts/`](prompts/) — controlled coding-agent task prompts.
 
 ## Current Phase 0 Programme Architecture
@@ -84,7 +86,7 @@ FEF-FGR-001 records that the Founder Governance Review was conducted across Sess
 
 FEF-WPK-001B.5 resumed on 2026-07-24 and completed a fresh audit of repository files, Git history, unreachable objects, reflogs, and the configured remote. FEF-WPK-001B.5A then searched the identified local external stores, coding-session archives, connected Google Drive, and configured GitHub repository. No qualifying source package was recoverable. FEF-FGR-001 therefore remains the permanent historical evidence-gap record and is not used as the new review.
 
-The Founder approved the new review Charter, Agenda, and Plan, declared Governance Preparation complete, and transitioned the programme to Phase 2. FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The collision-safe identifier FEF-FGR-002 is assigned and eight controlled registers are instantiated empty. The review is in Mobilisation: no RQ, evidence record, Evidence Pack, session, finding, review-scoped decision, or Constitutional Candidate exists.
+The Founder approved the new review Charter, Agenda, and Plan, declared Governance Preparation complete, and transitioned the programme to Phase 2. FD-2026-07-24-009 then approved FEF-FRCD-001 and authorised commencement. The collision-safe identifier FEF-FGR-002 was assigned. D1 — Governance Authority completed its governed lifecycle with eight dispositioned findings, nine validated review-scoped Founder Decisions, zero Constitutional Candidates, zero Deferred Matters, and formal closure. FEF-FGR-002-FD-010 subsequently approved sustained Operational Mode with seven conditions and accepted D1 as the bounded reference implementation. ORC-001 is closed after passed post-approval validation. D2 mobilisation preparation is authorised, but D2 has not commenced.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
@@ -92,7 +94,7 @@ FEF-FAR-002 recognises Programme Governance as a distinct FEF governance domain 
 
 FEF-WRP-001 is Founder-approved for Programme Governance Pilot use as the preferred prospective Review Package mechanism. It is non-mandatory, does not apply retrospectively, and reserves final disposition and next-work authorisation to the Founder.
 
-The validated Phase 0 programme checkpoint is preserved locally at commit `e5199eb18567799e30ef57a3546da6690b74a0c0`. Remote tracking remains unresolved; no push is recorded.
+D1 closure is recorded at commit `f28d12808e228903f5ecc0596801dc962e3fac42`. At the ORC-001 audit baseline, local `main`, `origin/main`, and the working tree were synchronised and clean.
 
 ## Founding Principle
 

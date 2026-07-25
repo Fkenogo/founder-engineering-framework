@@ -2,8 +2,8 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.9
-**Reconciliation date:** 2026-07-24
+**Programme record version:** 0.11
+**Reconciliation date:** 2026-07-25
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
 **Authority boundary:** Authoritative for FEF programme status, sequence, dependencies, and next-work control only
@@ -21,18 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.9 |
+| Programme version | Master Programme v0.11 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D1 — Governance Authority closed; operational review execution established |
+| Current milestone | ORC-001 operational-readiness checkpoint — Closed after Founder approval with conditions and validation |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | FEF-FGR-002 — D1 closed; remaining domains pending |
+| Current execution window | Prepare D2 mobilisation under the established Operational Mode lifecycle; D2 not commenced |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next authorised activity | Mobilize the next review domain under the approved dependency sequence and established operational workflow |
+| Immediate next governed activity | Prepare D2 mobilisation under the established Operational Mode lifecycle |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
+| Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
+| Next review domain | D2 — Evidence Governance; not commenced |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
 
@@ -105,7 +107,9 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
 | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
 | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
-| FEF-FGR-002 | Founder Governance Review | Active — D1 Closed; Operational | Eight D1 findings dispositioned; nine review-scoped decisions validated; remaining domains pending |
+| FEF-FGR-002 | Founder Governance Review | Active — D1 and ORC-001 Closed; Sustained Operational Mode | Eight D1 findings dispositioned; ten review-scoped decisions validated; remaining domains pending |
+| ORC-001 | Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation |
+| FEF-FGR-002-FD-010 | Operational Readiness Confirmation | Decision Record Validated — Operative with Conditions | Sustained Operational Mode and D2 mobilisation authorised after passed post-approval validation; D2 not commenced |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -134,30 +138,32 @@ FEF-WRP-001 is Founder-approved for pilot use as the preferred prospective revie
 The current controlling sequence is:
 
 1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
-2. execute each remaining review domain through the standard operational workflow under the approved dependency sequence;
-3. complete and validate the Founder Governance Review;
-4. perform separately authorised constitutional consolidation;
-5. amend and separately review FEF-RGS-000;
-6. prepare and approve FEF-RDS-001;
-7. execute Engineering Discovery only after all applicable authority gates pass.
+2. ORC-001: closed after attributable Founder approval with conditions and passed post-approval validation;
+3. D2 — Evidence Governance: prepare mobilisation under Operational Mode; D2 remains unstarted until its governed mobilisation activity begins;
+4. execute D3–D8 through the standard operational workflow under the approved dependency sequence;
+5. complete and validate the Founder Governance Review;
+6. perform separately authorised constitutional consolidation;
+7. amend and separately review FEF-RGS-000;
+8. prepare and approve FEF-RDS-001;
+9. execute Engineering Discovery only after all applicable authority gates pass.
 
 This sequence does not create an RQ, evidence item, pack, session, finding, decision, candidate, constitutional text, RGS amendment, or Engineering Discovery authority.
 
 ## 7. Immediate Next Programme Action
 
-**Mobilize the next review domain**
+**Prepare D2 mobilisation under the established Operational Mode lifecycle**
 
-D1 is formally closed. The next review domain shall enter the already-governed operational workflow under the approved domain dependency sequence. This record does not instantiate that domain's Review Questions, evidence, Evidence Pack, session, findings, or decisions.
+D1 is formally closed. FEF-FGR-002-FD-010 is recorded as `Approve with Conditions`, post-approval synchronisation and validation have passed, and ORC-001 is closed. D2 mobilisation is authorised under Operational Mode but has not commenced. The next governed action is preparation of D2 mobilisation using the established lifecycle and bounded refinements.
 
 The standard workflow is:
 
 `Mobilize → Review → Validate → Founder Review → Founder Decisions → Validation → Close Review`
 
-The Founder Engineering Framework operating mode is **Operational**. Framework Engineering remains available but is no longer the default operating mode.
+The Founder Engineering Framework is authorised for **sustained Operational Mode**. Framework Engineering remains available but is no longer the default operating mode.
 
 ## 8. Founder Actions Awaiting
 
-1. No D1 Founder disposition remains pending.
+1. No ORC-001 or D1 Founder disposition remains pending.
 2. Future domain findings require attributable Founder disposition only after their valid review gates.
 3. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
 4. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
@@ -175,9 +181,9 @@ For programme administration, a work package completion record must therefore be
 
 ## 10. Repository-State Qualification
 
-The repository is on branch `main`. The Founder-authorised Phase 0 programme checkpoint at `e5199eb18567799e30ef57a3546da6690b74a0c0` remains in local history.
+The repository is on branch `main`. D1 closure is recorded at `f28d12808e228903f5ecc0596801dc962e3fac42`, which matches `origin/main` at the ORC-001 audit baseline.
 
-This v0.9 revision records D1 closure, the Operational operating mode, and the standard execution workflow. FEF-FGR-002-005 remains uncommitted unless separately authorised.
+This v0.11 revision records FEF-FGR-002-FD-010 as `Approve with Conditions`, closes ORC-001 after passed synchronisation and validation, and authorises preparation of D2 mobilisation under sustained Operational Mode. D2 remains unstarted, FEF-P1-002 remains pending and unauthorised, and this implementation remains uncommitted unless separately authorised.
 
 ## 11. Change Control
 

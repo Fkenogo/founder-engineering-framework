@@ -6,12 +6,13 @@
 | Register class | D1 decision traceability register |
 | Review identifier | FEF-FGR-002 |
 | Domain | D1 — Governance Authority |
-| Register version | 1.0 |
+| Register version | 1.2 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Control owner | FEF-FGR-002-RA-004 — Review Recorder |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed and accepted for this review |
 | Substantive entry count | 9 |
+| Inter-domain checkpoint linkage count | 2 |
 
 ## Traceability
 
@@ -36,12 +37,21 @@
 - FD lifecycle: [Founder Decision Register](FEF-FGR-002-FOUNDER-DECISION-REGISTER.md)
 - Review state: [Review Identity](FEF-FGR-002-REVIEW-IDENTITY.md)
 
+## Inter-Domain Operational Checkpoint Linkage
+
+| Linkage ID | Source | Relationship | Target | Current Effect |
+|---|---|---|---|---|
+| ORC-LNK-001 | D1 mobilisation, evidence, S01, GF-001–GF-008, FEF-FGR-002-FD-001–FEF-FGR-002-FD-009, validation, and closure records | Supplies the complete reference-execution evidence assessed by ORC-001 | [ORC-001](../../../programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md) | D1 accepted as reference implementation with bounded operational refinements; D1 remains closed |
+| ORC-LNK-002 | [ORC-001](../../../programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md) | Supplies the decision basis for sustained Operational Mode and D2 mobilisation | [FEF-FGR-002-FD-010](FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md) | Approve with Conditions; post-approval validation passed; D2 mobilisation authorised but not commenced |
+
 ## Change History
 
 | Version | Date | Change | Authority |
 |---|---|---|---|
 | 1.0 | 2026-07-24 | D1 RQ-to-GF-to-FD traceability and operational-transition linkage recorded | Attributable Founder directive for FEF-FGR-002-005 |
+| 1.1 | 2026-07-25 | Bidirectional ORC-001 and FEF-FGR-002-FD-010 candidate linkage added without altering the nine D1 substantive entries | ORC-001 preparation authority |
+| 1.2 | 2026-07-25 | ORC-001 and FEF-FGR-002-FD-010 final bidirectional linkage, Founder conditions, and post-approval validation effect recorded; nine D1 substantive entries unchanged | Attributable Founder disposition for FEF-FGR-002-FD-010 |
 
 ## Non-Effects
 
-This register records relationships. It does not broaden a decision, close an Open Question, create a Constitutional Candidate, amend a controlled standard, or grant execution authority beyond the source decisions.
+This register records relationships and does not broaden the source decision. ORC-LNK-001 and ORC-LNK-002 preserve the ORC-001/FEF-FGR-002-FD-010 bidirectional link and the exact bounded programme effect: D2 mobilisation is authorised after passed post-approval validation, but D2 is not commenced. The register does not close an Open Question, create a Constitutional Candidate, amend a controlled standard, or grant authority beyond the source decisions.
