@@ -2,19 +2,19 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.9
+**Identity version:** 1.10
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1 and ORC-001 Closed — D2 Session Entry Validated with Conditions; Session Not Opened
+**Review state:** D1 and ORC-001 Closed — D2 S02 Closed; Governance Findings Presented
 
 **Mobilisation state:** Complete
 
 **Founder Engineering Framework operating mode:** Operational
 
 **First domain:** D1 — Governance Authority  
-**Session state:** FEF-FGR-002-S01 Closed; FEF-FGR-002-S02 Entry Validated — Not Opened
+**Session state:** FEF-FGR-002-S01 Closed; FEF-FGR-002-S02 Closed — Evidence Examination Complete
 
 ## 1. Assignment Record
 
@@ -48,8 +48,8 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | FEF-FGR-002-RQR-001 | Review Question Register | 15 |
 | FEF-FGR-002-ER-001 | Evidence Register | 31 |
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 2 |
-| FEF-FGR-002-SR-001 | Session identities / opened sessions | 2 / 1 |
-| FEF-FGR-002-GFR-001 | Governance Finding Register | 8 |
+| FEF-FGR-002-SR-001 | Session identities / opened sessions | 2 / 2 |
+| FEF-FGR-002-GFR-001 | Governance Finding Register | 14 |
 | FEF-FGR-002-FDR-001 | Founder Decision Register | 10 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
@@ -87,10 +87,11 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D2 RQ set | [FEF-FGR-002-D2-RQS-001](FEF-FGR-002-D2-REVIEW-QUESTION-SET.md) — 7 Validated and Admitted |
 | D2 evidence catalogue | [FEF-FGR-002-D2-ERC-001](FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md) — 21 mapped sources; validated |
 | D2 Evidence Pack | [FEF-FGR-002-EP-002 v1.0](FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md) — Frozen; validation passed with disclosed condition |
-| D2 Review Questions / evidence / packs / opened sessions | 7 / 21 / 1 / 0 |
-| D2 substantive review | Not commenced |
-| D2 session entry | [FEF-FGR-002-S02](FEF-FGR-002-S02-SESSION-RECORD.md) — Pass with Conditions; Entry Validated — Not Opened |
-| D2 next gate | Formally open the validated D2 evidence examination session |
+| D2 Review Questions / evidence / packs / opened sessions | 7 / 21 / 1 / 1 |
+| D2 substantive review | S02 examination complete; six findings Presented |
+| D2 session | [FEF-FGR-002-S02](FEF-FGR-002-S02-SESSION-RECORD.md) — Closed; post-session validation passed with conditions |
+| D2 Governance Findings / Founder Decisions | 6 / 0 |
+| D2 next gate | Prepare the neutral Founder Review Package for GF-009 through GF-014 |
 
 ### 4.3 Substantive Review Boundary
 
@@ -118,9 +119,11 @@ attributable Founder approval with seven conditions. FEF-FGR-002-D2-MOB-001
 records bounded D2 mobilisation. FEF-FGR-002-D2-EMVR-001 validates seven
 admitted D2 RQs, 21 mapped sources, and frozen EP-002 v1.0 without examining
 evidence. FEF-FGR-002-S02-EVR-001 allocates the collision-safe S02 identity and
-validates DG-4 entry with conditions while preserving a separate opening
-action. Any later change requires versioned change history and renewed
-validation.
+validates DG-4 entry with conditions. S02 then opened under RA-002, examined
+the seven admitted D2 RQs using EP-002 only, presented GF-009 through GF-014,
+recorded zero candidates and zero deferrals, and closed after
+FEF-FGR-002-S02-SVR-001 passed with conditions. Any later change requires
+versioned change history and renewed validation.
 
 ## 6. Change History
 
@@ -132,7 +135,7 @@ validation.
 | 1.3 | 2026-07-24 | Founder review package readiness recorded without changing GF or decision state | FEF-FGR-002-004 |
 | 1.4 | 2026-07-24 | Eight Founder dispositions, nine review-scoped FDs, D1 closure, and Operational mode recorded | Attributable Founder directive for FEF-FGR-002-005 |
 | 1.5 | 2026-07-25 | ORC-001 candidate checkpoint and validated FEF-FGR-002-FD-010 Ready-for-Founder state recorded; D2 remains unstarted | ORC-001 preparation authority |
-| 1.6 | 2026-07-25 | FEF-FGR-002-FD-010 approval with conditions, ORC-001 closure, sustained Operational Mode, and D2 mobilisation-preparation authority recorded after validation | Attributable Founder disposition for FEF-FGR-002-FD-010 |
 | 1.7 | 2026-07-25 | D2 Evidence Governance mobilisation completed with Ready-with-Conditions verdict; substantive review remains unstarted | FEF-FGR-002-D2-MOB-001 |
 | 1.8 | 2026-07-25 | Seven D2 RQs admitted, 21 sources validated, EP-002 v1.0 frozen, and separate session-entry preparation identified as next gate | FEF-FGR-002-D2-EMVR-001 |
 | 1.9 | 2026-07-25 | S02 identity allocated and DG-4 entry validated with five recorded conditions; session remains unopened and substantive review unstarted | FEF-FGR-002-S02-EVR-001 |
+| 1.10 | 2026-07-25 | S02 opened, seven D2 RQs examined using EP-002 only, six GFs presented, zero candidates/deferrals recorded, and session closed after validation | FEF-FGR-002-S02 |

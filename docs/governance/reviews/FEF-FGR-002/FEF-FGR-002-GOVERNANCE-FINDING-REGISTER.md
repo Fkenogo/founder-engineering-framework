@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.2 |
+| Register version | 1.3 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -14,8 +14,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-24 |
-| Substantive entry count | 8 |
+| Last validation date | 2026-07-25 |
+| Substantive entry count | 14 |
 
 ## Register
 
@@ -29,6 +29,12 @@
 | FEF-FGR-002-GF-006 | 1.1 | Functional Separation Exists; Current Validation Is Not Independent | RQ-006 | EV-005–EV-008; EV-016–EV-021 | Functions are distinct but five roles are combined in Codex | Independent assurance and residual risk unresolved | Dispositioned | Accept with Conditions | Current review valid; present non-independent condition accepted; independent validation is a future objective | FD-001 | Pass |
 | FEF-FGR-002-GF-007 | 1.1 | Material Lifecycle Transitions Require Explicit Authority | RQ-007 | EV-001–EV-013; EV-015–EV-021 | Material transitions require explicit authority; no universal map is approved | Artefact-wide model unresolved | Dispositioned | Accept with Conditions | Provisional until equivalent reviews complete across remaining domains | FD-008 | Pass |
 | FEF-FGR-002-GF-008 | 1.1 | Control Enforcement Is Distinct from Exception and Risk Authority | RQ-008 | EV-001–EV-008; EV-011; EV-016–EV-021 | Operational control cannot waive controls or accept reserved risk | FEF-wide mechanism unresolved | Dispositioned | Accept | None supplied | FD-007 | Pass |
+| FEF-FGR-002-GF-009 | 1.0 | Evidence Qualification Controls Permitted Reliance | RQ-009; RQ-011 | EV-005–EV-008; EV-012; EV-014; EV-017–EV-018; EV-021–EV-028; EV-031 | Evidential reliance requires attributable qualification and permitted-use controls; registration or pack inclusion is insufficient | External/protected-source sufficiency and permanent field catalogue unresolved | Presented | Pending | None | None | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-010 | 1.0 | Evidence Class Does Not Automatically Determine Weight | RQ-010 | EV-005–EV-008; EV-012; EV-014; EV-022–EV-026 | Evidence class constrains permitted support but does not automatically decide weight | Future hierarchy, thresholds, and E3 conflict treatment unresolved | Presented | Pending | None | None | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-011 | 1.0 | Sufficiency Requires Explicit Gap, Conflict, and Stop Treatment | RQ-012 | EV-005–EV-008; EV-012; EV-014; EV-022–EV-027; EV-031 | Sufficiency is proposition-specific and requires explicit coverage, limitation, conflict, gap, and proceed/stop treatment | Universal thresholds and external completeness duties unresolved | Presented | Pending | None | None | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-012 | 1.0 | Frozen Evidence Baselines Require Versioned Change Control | RQ-013 | EV-005–EV-008; EV-022–EV-023; EV-026–EV-029 | Frozen packs are immutable examination baselines; material change requires an attributable successor or Supplemental Pack | Successor/supplement paths remain unoperated; D5 interface preserved | Presented | Pending | None | None | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-013 | 1.0 | Traceability and Reuse Must Preserve Source Authority | RQ-014 | EV-005–EV-008; EV-012; EV-022–EV-030 | Outputs must trace through precise Evidence Records, RQs, sessions, findings, and decisions; reuse cannot elevate source authority | Full D2–D8 reuse and permanent D6 architecture untested | Presented | Pending | None | None | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-014 | 1.0 | Evidence Custody Is Operational and Does Not Decide Meaning | RQ-015 | EV-005–EV-008; EV-012; EV-014; EV-016–EV-019; EV-021–EV-031 | Custody preserves the evidential chain but does not decide meaning or exercise Founder authority | Independent assurance, durable handover, restricted evidence, and D4 model unresolved | Presented | Pending | None | None | Pass with disclosed validation combination |
 
 ## Change History
 
@@ -37,7 +43,11 @@
 | 1.0 | 2026-07-24 | Empty register instantiated | FD-2026-07-24-009 and FEF-FRCD-001 |
 | 1.1 | 2026-07-24 | GF-001 through GF-008 produced, validated, and presented in S01 | FEF-FGR-002-S01 |
 | 1.2 | 2026-07-24 | Exact Founder dispositions, conditions, and review-scoped FD linkages recorded | Attributable Founder directive for FEF-FGR-002-005 |
+| 1.3 | 2026-07-25 | GF-009 through GF-014 produced, validated, and presented in S02; no D2 Founder disposition recorded | FEF-FGR-002-S02 |
 
 ## Non-Effects
 
-This register contains eight Founder-dispositioned Governance Findings. Disposition does not label a finding Approved, Active, Constitutional, or sufficient to close an Open Question.
+This register contains eight Founder-dispositioned D1 Governance Findings and
+six Presented D2 Governance Findings pending Founder disposition. Presentation
+does not label a finding Approved, Active, Constitutional, or sufficient to
+close an Open Question.

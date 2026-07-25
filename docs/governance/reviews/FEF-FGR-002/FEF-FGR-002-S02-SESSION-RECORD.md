@@ -7,7 +7,9 @@
 | Session title | D2 Evidence Governance Review |
 | Primary domain | D2 — Evidence Governance |
 | Secondary domains | D1 and D3–D8 as bounded interfaces only |
-| Proposed opening date | Not scheduled — separate governed opening action required |
+| Opening date | 2026-07-25 |
+| Opening authority | FEF-FGR-002-RA-002 — Review Administrator under DG-4 |
+| Opening action | Formally opened after immediate condition, pack, RQ, role, and repository reconfirmation |
 | Location / medium | Repository-controlled review |
 | Charter | FEF-FGRC-001 — Founder Approved |
 | Agenda | FEF-FGRA-001 — Founder Approved |
@@ -15,13 +17,15 @@
 | Evidence Pack | FEF-FGR-002-EP-002 v1.0 — Frozen and Validated |
 | Recorder | FEF-FGR-002-RA-004 — Codex coding agent, Recorder capacity |
 | Validator | FEF-FGR-002-RA-006 — Codex coding agent, Validator capacity |
-| Session lifecycle state | Entry Validated — Not Opened |
-| Record version | 0.1 |
-| Substantive examination | Not commenced |
+| Session lifecycle state | Closed — Evidence Examination Complete; Governance Findings Presented |
+| Record version | 1.0 |
+| Substantive examination | Complete for RQ-009 through RQ-015 using EP-002 v1.0 only |
+| Closure date | 2026-07-25 |
+| Closure validation | Pass with Conditions — FEF-FGR-002-S02-SVR-001 |
 
 ## 1. Purpose and Authority
 
-The purpose of the future session is to conduct the bounded D2 evidence
+The purpose of the session was to conduct the bounded D2 evidence
 examination for FEF-FGR-002-RQ-009 through FEF-FGR-002-RQ-015 using only
 FEF-FGR-002-EP-002 v1.0.
 
@@ -34,9 +38,22 @@ Session entry is controlled by the approved
 [Execution Rules](../FEF-FGRER-001-REVIEW-EXECUTION-RULES.md).
 
 The [DG-4 validation record](FEF-FGR-002-S02-ENTRY-VALIDATION-REPORT.md)
-records a `Pass with Conditions`. Following the S01 operated precedent, this
-entry pass does not itself perform the separate Review Administrator opening
-action.
+records a `Pass with Conditions`. FEF-FGR-002-RA-002 subsequently performed
+the separate operational opening action on 2026-07-25 after reconfirming:
+
+- the DG-4 verdict and all five conditions;
+- the seven admitted and pending RQs;
+- EP-002 v1.0 status and SHA-256
+  `1bc82aefa4c67bf94d75352fbda828f1593560107d21583a1bdbec4c48bba16b`;
+- availability and fingerprint integrity of all 21 registered sources;
+- all six Effective role assignments;
+- absence of a material post-freeze source, blocking ambiguity, authority
+  conflict, scope conflict, or unrelated repository change.
+
+**Opening state:** Open — Evidence Examination Authorised.
+
+Opening does not establish that an RQ has been examined or answered and does
+not create a finding or decision.
 
 ## 2. Participants and Capacities
 
@@ -56,7 +73,7 @@ and complete separation of Founder authority.
 
 ## 3. Fixed Scope
 
-The future session is limited to:
+The session was limited to:
 
 - FEF-FGR-002-RQ-009 — Evidence Identity, Provenance, Authority, and Integrity;
 - FEF-FGR-002-RQ-010 — Evidence Classes, Weighting, Corroboration, and Challenge;
@@ -68,12 +85,12 @@ The future session is limited to:
 
 The only examination baseline is
 [FEF-FGR-002-EP-002 v1.0](FEF-FGR-002-EP-002-v1.0-D2-EVIDENCE-PACK.md).
-A later source may be used only after the applicable controlled Supplemental
-Pack or successor-pack process.
+No later source was used. Any future reliance on a post-freeze source requires
+the applicable controlled Supplemental Pack or successor-pack process.
 
 ## 4. Prohibited Evidence Use
 
-The future session shall not use:
+The session did not use:
 
 - uncited, unregistered, or post-freeze evidence;
 - silently substituted evidence;
@@ -115,35 +132,50 @@ shall be escalated and shall stop the affected examination path.
 | Scope and interface boundaries | FEF-FGR-002-D2-MOB-001 | Bounded |
 | Entry validation | FEF-FGR-002-S02 Entry Validation Report | Pass with Conditions |
 
-**Entry treatment:** Entry Validated — Session Not Yet Opened.
+**Entry treatment:** Pass with Conditions. The separately authorised opening
+was performed by FEF-FGR-002-RA-002 before examination.
 
-## 7. Intended Later Outputs
+## 7. Examination Outputs
 
-After a separate formal opening, authorised execution may produce:
+The session produced:
 
-- an RQ examination record;
-- evidence-bounded candidate Governance Findings;
-- required register updates;
-- Constitutional Candidate and Deferred Matter assessments;
-- post-session validation.
+- the [consolidated RQ Examination Record](FEF-FGR-002-S02-RQ-EXAMINATION-RECORD.md);
+- six [evidence-bounded Governance Findings](FEF-FGR-002-S02-GOVERNANCE-FINDINGS.md),
+  FEF-FGR-002-GF-009 through FEF-FGR-002-GF-014;
+- the [Constitutional Candidate and Deferred Matter Assessment](FEF-FGR-002-S02-CANDIDATE-AND-DEFERRAL-ASSESSMENT.md),
+  recording zero candidates and zero deferrals;
+- required register synchronisation; and
+- the [post-session Validation Report](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md),
+  recording `Pass with Conditions`.
 
-This list creates no output and predetermines no content.
+All seven RQs were examined and answered at finding level. The findings remain
+`Presented — Founder disposition pending`.
 
-## 8. Non-Effects and Next Action
+## 8. Closure
 
-This record does not:
+The post-session validation passed with the five carried conditions:
 
-- open FEF-FGR-002-S02;
-- examine evidence or answer an RQ;
-- create a Governance Finding, Founder Decision, Constitutional Candidate, or
-  Deferred Matter;
-- modify an Open Question;
-- approve FEF-P1-002;
-- amend the Constitution or FEF-RGS-000;
-- authorise Engineering Discovery.
+1. non-independent validation remains disclosed;
+2. FEF-RQS-001 and FEF-EPS-001 remain draft-status preparation controls;
+3. EP-002 contains no E3 external evidence;
+4. FEF-FGR-001 remains Context Only; and
+5. the D4 boundary remains intact.
 
-All seven RQs remain unanswered. D2 Governance Findings and D2 Founder
-Decisions remain zero.
+**Closure state:** Closed — Evidence Examination Complete; Governance Findings
+Presented.
 
-**Next governed action:** Formally open the validated D2 evidence examination
-session.
+## 9. Non-Effects and Next Action
+
+This session:
+
+- does not disposition or approve a Governance Finding;
+- creates no Founder Decision, Constitutional Candidate, or Deferred Matter;
+- modifies or closes no Open Question;
+- does not approve FEF-P1-002;
+- does not amend the Constitution or FEF-RGS-000;
+- does not authorise Engineering Discovery.
+
+D2 remains open pending Founder review. D2 Founder Decisions remain zero.
+
+**Next governed action:** Prepare the neutral D2 Founder Review Package for
+FEF-FGR-002-GF-009 through FEF-FGR-002-GF-014.

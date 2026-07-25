@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.14
+**Programme record version:** 0.15
 **Reconciliation date:** 2026-07-25
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.14 |
+| Programme version | Master Programme v0.15 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D2 session entry validated with conditions; S02 not opened |
+| Current milestone | D2 S02 evidence examination complete; six Governance Findings Presented |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | Formally open the validated D2 evidence examination session; substantive review not commenced |
+| Current execution window | Prepare the neutral D2 Founder Review Package; no Founder disposition recorded |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next governed activity | Formally open the validated D2 evidence examination session |
+| Immediate next governed activity | Prepare the neutral D2 Founder Review Package for GF-009 through GF-014 |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
-| Next review domain | D2 — Evidence Governance; S02 entry validated with conditions; session not opened |
+| Next review domain | D2 — Evidence Governance; S02 closed and six findings Presented pending Founder review |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
 
@@ -107,16 +107,17 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
 | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
 | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
-| FEF-FGR-002 | Founder Governance Review | Active — D1 and ORC-001 Closed; D2 Session Entry Validated with Conditions | S02 identity allocated against seven admitted RQs and EP-002; session not opened |
+| FEF-FGR-002 | Founder Governance Review | Active — D1 and ORC-001 Closed; D2 S02 Closed | Seven D2 RQs examined using EP-002 only; GF-009 through GF-014 Presented |
 | ORC-001 | Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation |
 | FEF-FGR-002-FD-010 | Operational Readiness Confirmation | Decision Record Validated — Operative with Conditions | Sustained Operational Mode and D2 mobilisation authorised after passed post-approval validation; D2 not commenced |
 | FEF-FGR-002-D2-MOB-001 | D2 Evidence Governance Mobilisation Record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ state, effective roles, dependencies, and next evidence-mobilisation gate |
 | FEF-FGR-002-D2-RQS-001 | D2 Review Question Set | v1.1 — Seven RQs Admitted | Controls RQ-009 through RQ-015 without answers or session assignment |
 | FEF-FGR-002-D2-ERC-001 | D2 Evidence Record Catalogue and Requirement Matrix | v1.0 — Validated | Controls 21 mapped sources, admissibility, limitations, gaps, and requirements |
-| FEF-FGR-002-EP-002 | D2 Evidence Governance Evidence Pack | v1.0 — Frozen; Validation Passed with Condition | Stable evidence input assigned only to entry-validated, unopened S02; no examination authority |
+| FEF-FGR-002-EP-002 | D2 Evidence Governance Evidence Pack | v1.0 — Frozen; Validation Passed with Condition | Sole evidence baseline used by closed S02 |
 | FEF-FGR-002-D2-EMVR-001 | D2 Evidence Mobilisation Validation Report | v1.0 — Pass with Condition | Reconciles RQs, evidence, pack, limitations, fingerprints, and session-entry readiness |
-| FEF-FGR-002-S02 | D2 Evidence Governance session identity and entry record | v0.1 — Entry Validated; Not Opened | Fixes seven-RQ/EP-002 scope and records five mandatory conditions without examination |
+| FEF-FGR-002-S02 | D2 Evidence Governance session record | v1.0 — Closed; Findings Presented | Seven RQs examined using EP-002 only; six findings presented and no D2 FD issued |
 | FEF-FGR-002-S02-EVR-001 | D2 session-entry validation | Pass with Conditions | Reconciles authority, identity, roles, pack integrity, source membership, scope, and protected state |
+| FEF-FGR-002-S02-SVR-001 | D2 post-session validation | Pass with Conditions | Reconciles scope, evidence fidelity, six findings, registers, zero candidates/deferrals, and protected state |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -146,7 +147,7 @@ The current controlling sequence is:
 
 1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
 2. ORC-001: closed after attributable Founder approval with conditions and passed post-approval validation;
-3. D2 — Evidence Governance: S02 entry validated with seven admitted RQs and frozen EP-002; perform a separate formal opening before any substantive examination;
+3. D2 — Evidence Governance: S02 closed after examining seven admitted RQs using frozen EP-002 and presenting six validated findings; prepare neutral Founder review;
 4. execute D3–D8 through the standard operational workflow under the approved dependency sequence;
 5. complete and validate the Founder Governance Review;
 6. perform separately authorised constitutional consolidation;
@@ -158,13 +159,13 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
 
 ## 7. Immediate Next Programme Action
 
-**Formally open the validated D2 evidence examination session**
+**Prepare the neutral D2 Founder Review Package**
 
-D1 and ORC-001 are closed. Seven D2 Review Questions are Validated and
-Admitted, 21 sources are registered and validated for D2, and EP-002 v1.0 is
-Frozen. FEF-FGR-002-S02-EVR-001 records `Pass with Conditions`; the S02
-identity is allocated but the session is not opened. Substantive evidence
-examination remains unstarted.
+D1 and ORC-001 remain closed. S02 examined all seven admitted D2 Review
+Questions using EP-002 v1.0 only. GF-009 through GF-014 are validated and
+`Presented — Founder disposition pending`. No D2 Founder Decision,
+Constitutional Candidate, Deferred Matter, or Open Question disposition
+exists.
 
 The standard workflow is:
 
@@ -192,15 +193,14 @@ For programme administration, a work package completion record must therefore be
 
 ## 10. Repository-State Qualification
 
-The repository is on branch `main`. D2 evidence mobilisation is committed and
-pushed at `6d70ad81ccf03988dc8fd4edf35874a0dc491b56`, which was the clean local
-and `origin/main` baseline before D2 session-entry changes began.
+The repository is on branch `main`. The validated S02 session-entry baseline is
+committed and pushed at `e8095535b6551831e1a97350772622bd9d1a4469`.
 
-This v0.14 revision records collision-safe S02 allocation and entry validation
-with five conditions. S02 is not opened; no substantive examination, D2
-finding, D2 decision, candidate, or constitutional effect is created.
-FEF-P1-002 remains pending and unauthorised. The session-entry changes remain
-uncommitted unless separately authorised.
+This v0.15 revision records the separately authorised S02 opening, bounded
+examination, six Presented findings, zero candidates, zero deferrals, and
+passed post-session validation. No D2 Founder Decision or constitutional effect
+is created. FEF-P1-002 remains pending and unauthorised. The S02 examination
+changes remain uncommitted unless separately authorised.
 
 ## 11. Change Control
 
