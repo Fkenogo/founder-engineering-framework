@@ -9,18 +9,18 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.18 |
+| Programme version | Master Programme v0.19 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — 9 temporary RQ candidates prepared and validated Pass with Conditions; Founder review pending |
+| Current milestone | D3 — nine Review Questions (RQ-016–024) admitted through DG-2 following genuine Founder Accept; evidence mobilisation pending |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D3 candidate preparation and validation complete; DG-2 admission not performed |
+| Current execution window | D3 Founder Review and DG-2 admission complete; evidence mobilisation not started |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D3 — Governance Assurance; Founder review and DG-2 admission pending |
+| Next review domain | D3 — Governance Assurance; evidence requirement derivation and mobilisation pending |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 
@@ -36,23 +36,23 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine validated temporary RQ candidates and zero canonical RQs or Evidence Records. |
-| What are we doing? | Holding the validated D3 candidate set (FEF-FGR-002-D3-RQC-001) for Founder review and a genuine DG-2 admission gate. |
-| Why are we doing it? | An uncommitted working state had self-admitted the candidates and registered evidence under a capacity held by the same acting agent, with no distinct Founder Decision record; that material was quarantined and preserved, and the active state was restored to the last authorised boundary. |
-| What must finish before anything else? | Founder review and a DG-2 admission distinct from candidate preparation, before any canonical RQ identifier, Evidence Record, or Evidence Pack is created. |
+| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) and zero Evidence Records. |
+| What are we doing? | Deriving evidence requirements for the nine admitted D3 Review Questions ahead of a separately governed evidence-mobilisation gate. |
+| Why are we doing it? | The nine candidates were presented to the Founder one at a time in a live D3-G1 Founder Review session; the Founder gave an explicit Accept to all nine, recorded verbatim in FEF-FGR-002-D3-G1-FDR-001, which grounded DG-2 admission. |
+| What must finish before anything else? | Evidence requirement derivation and qualified evidence registration against the nine admitted RQs, before any Evidence Pack is assembled. |
 
 ## Immediate Next Programme Action
 
-**Obtain Founder review and DG-2 admission of the validated D3 Review Question candidates**
+**Derive D3 evidence requirements and mobilise qualifying evidence against the nine admitted Review Questions**
 
-D3 has nine temporary candidates (D3-RQC-01 through D3-RQC-09), prepared and
-validated Pass with Conditions in FEF-FGR-002-D3-RQC-001 and
-FEF-FGR-002-D3-RQC-VALIDATION-REPORT. Zero canonical RQ identifiers are
-allocated. Zero D3 Evidence Records, packs, sessions, findings, or Founder
-Decisions exist. Six later-stage artefacts that had asserted admission and
-evidence registration without Founder authorisation are quarantined and
-preserved under
-`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`.
+D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
+FEF-FGR-002-RQ-024, recorded in FEF-FGR-002-D3-RQS-002 and admitted through
+FEF-FGR-002-D3-RQVA-002 on the strength of the genuine Founder Accept
+dispositions in FEF-FGR-002-D3-G1-FDR-001. Zero D3 Evidence Records, packs,
+sessions, findings, or Founder Decisions exist. Six earlier, non-genuinely-
+authorised artefacts remain quarantined and preserved under
+`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`
+and were not reused.
 
 ## Genuine Blockers
 
@@ -64,7 +64,7 @@ preserved under
 - No D1 finding disposition remains pending.
 - No ORC-001 or D1 Founder disposition remains pending.
 - No D2 Founder disposition remains pending.
-- Review and admit (or return) the nine validated D3 Review Question candidates through a DG-2 gate distinct from candidate preparation.
+- No D3-G1 Founder disposition remains pending — all nine candidates were reviewed and Accepted.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
@@ -76,6 +76,6 @@ All 23 RGS governance questions remain open.
 | Area | RAG | Reason |
 |---|---|---|
 | Governance | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved. |
-| Documentation | 🟢 Green | D3 candidate preparation and validation are controlled; quarantined material is preserved and traceable. |
-| Programme | 🟢 Green | D3 candidate preparation and validation are complete; Founder review and DG-2 admission remain separately gated. |
+| Documentation | 🟢 Green | D3 candidate preparation, Founder Review, and DG-2 admission are controlled; quarantined material is preserved and traceable. |
+| Programme | 🟢 Green | D3 Founder Review and DG-2 admission are complete; evidence mobilisation remains separately gated. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.18 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.19 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Mobilised, Candidates Prepared and Validated; Founder Review Pending
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Review Questions Admitted (RQ-016–024); Evidence Mobilisation Pending
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Obtain Founder review and DG-2 admission of the validated D3 Review Question candidates in FEF-FGR-002-D3-RQC-001
+**Immediate next programme action:** Derive D3 evidence requirements and mobilise qualifying evidence against the nine admitted Review Questions
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
@@ -57,8 +57,12 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D2-CLOSURE-REPORT.md) — D2 closure after six validated Founder Decisions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-MOB-001-GOVERNANCE-ASSURANCE-MOBILISATION-RECORD.md) — bounded D3 mobilisation, dependencies, themes, OQ interfaces, evidence outlook, gaps, and next RQ gate;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-001-GOVERNANCE-ASSURANCE-REVIEW-QUESTION-CANDIDATE-SET.md) — nine neutral temporary D3 candidates; no canonical identifier or admission effect;
-- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md) — separate Validator-capacity pass with conditions; last Founder-authorised D3 position;
-- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/) — six D3 artefacts (RQ admission record, evidence requirement matrix, evidence qualification, evidence registration/mapping, evidence mobilisation validation, canonical RQ set v1.1) that asserted DG-2 admission and evidence registration without a distinct Founder Decision record; preserved, not deleted;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQC-VALIDATION-REPORT.md) — separate Validator-capacity pass with conditions;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md) — Founder Review workbook presenting all nine candidates verbatim with no recommendation;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G1-FOUNDER-DISPOSITION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G1-FOUNDER-DISPOSITION-RECORD.md) — genuine, verbatim Founder Accept for all nine candidates; constitutional source of truth for DG-2 admission;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — canonical D3 RQ-016 through RQ-024 (FEF-FGR-002-D3-RQS-002), wording unchanged from the Founder-Accepted candidates;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — DG-2 admission record (FEF-FGR-002-D3-RQVA-002), grounded in the genuine Founder Disposition Record;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/) — six voided D3 artefacts (RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) that asserted DG-2 admission and evidence registration without a distinct Founder Decision record; preserved, not deleted, not reused;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -130,9 +134,18 @@ Founder Decision record. A repository governance recovery action preserved
 that material without deletion under
 `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`
 and restored the review identity and registers to the last Founder-authorised
-D3 boundary. RQ-016 through RQ-024 and EV-032 through EV-049 are not
-currently allocated. No D3 Evidence Pack, session, finding, or decision
-exists. No constitutional effect exists.
+D3 boundary. The nine candidates were then presented to the Founder one at a
+time in a live D3-G1 Founder Review session — exact wording, constitutional
+intent, validation summary, and coverage notes only, with no recommendation
+offered — and each received an explicit, verbatim-recorded Founder Accept
+with zero amendments, merges, splits, rejections, or deferrals. On the
+strength of that genuine disposition, FEF-FGR-002-RQ-016 through
+FEF-FGR-002-RQ-024 were admitted through DG-2, numbered -002
+(FEF-FGR-002-D3-RQS-002 / FEF-FGR-002-D3-RQVA-002) to avoid any identifier
+collision with the voided, quarantined -001 artefacts. No Evidence Record was
+created and the Evidence Register is unchanged; evidence mobilisation against
+the nine admitted Review Questions remains a separately governed next gate.
+No constitutional effect exists.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
