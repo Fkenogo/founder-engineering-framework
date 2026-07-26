@@ -9,12 +9,12 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.20 |
+| Programme version | Master Programme v0.21 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2, not yet dispositioned; evidence mobilisation pending |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; evidence mobilised and qualified (32 mapped Evidence Records); Evidence Pack not frozen |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D3 admission-readiness checkpoint complete; evidence mobilisation not started; Domain Exit Gate (DG-6) not reached |
+| Current execution window | D3 evidence mobilisation and qualification complete; Evidence Pack (DG-3) not frozen; Domain Exit Gate (DG-6) not reached |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -37,21 +37,24 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) and zero Evidence Records. |
-| What are we doing? | Deriving evidence requirements for the nine admitted D3 Review Questions ahead of a separately governed evidence-mobilisation gate. |
-| Why are we doing it? | The nine candidates were presented to the Founder one at a time in a live Founder Review session; the Founder gave an explicit Accept to all nine, recorded verbatim in FEF-FGR-002-D3-G1-FDR-001, which grounded DG-2 admission. D3 itself remains open — admission is not disposition, and disposition is required before the domain can exit (FEF-FGRP-001 §12.2). |
-| What must finish before anything else? | Evidence requirement derivation and qualified evidence registration against the nine admitted RQs, before any Evidence Pack is assembled. |
+| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) with 32 qualified Evidence Records mapped, none examined. |
+| What are we doing? | Holding the validated evidence-mobilisation baseline (FEF-FGR-002-D3-EMVR-002) ahead of a separately governed Evidence Pack freeze (DG-3). |
+| Why are we doing it? | Evidence requirements were derived and candidate sources qualified against FEF-FGRC-001 §9.2; two explicit gaps (RQ-018 dissent evidence; RQ-020/021 Founder Decision standalone-record limitation) and two preserved contradictions (EV-058, EV-059) remain open and must stay visible before any pack is frozen. |
+| What must finish before anything else? | An Evidence Custodian/Validator assessment of whether the two disclosed gaps and contradictions permit Evidence Pack freeze, before session-entry preparation can begin. |
 
 ## Immediate Next Programme Action
 
-**Derive D3 evidence requirements and mobilise qualifying evidence against the nine admitted Review Questions**
+**Assess D3 Evidence Pack readiness (DG-3) against the qualified evidence baseline**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
-FEF-FGR-002-RQ-024, recorded in FEF-FGR-002-D3-RQS-002 and admitted through
-FEF-FGR-002-D3-RQVA-002 on the strength of the genuine Founder Accept
-dispositions in FEF-FGR-002-D3-G1-FDR-001. Zero D3 Evidence Records, packs,
-sessions, findings, or Founder Decisions exist. Six earlier, non-genuinely-
-authorised artefacts remain quarantined and preserved under
+FEF-FGR-002-RQ-024. Evidence requirements were derived
+(FEF-FGR-002-D3-ERC-002), 32 candidate sources qualified
+(FEF-FGR-002-D3-EQR-002 — 17 reused, 15 newly registered as EV-050 through
+EV-064), and the baseline validated Pass with Conditions
+(FEF-FGR-002-D3-EMVR-002). EV-032 through EV-049 remain permanently
+retired. Zero D3 Evidence Pack, sessions, findings, or Founder Decisions
+exist. Six earlier, non-genuinely-authorised artefacts remain quarantined
+and preserved under
 `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`
 and were not reused.
 
