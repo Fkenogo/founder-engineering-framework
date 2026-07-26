@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.4 |
+| Register version | 1.5 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -14,8 +14,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-25 |
-| Substantive entry count | 14 |
+| Last validation date | 2026-07-26 |
+| Substantive entry count | 15 |
 
 ## Register
 
@@ -35,6 +35,7 @@
 | FEF-FGR-002-GF-012 | 1.1 | Frozen Evidence Baselines Require Versioned Change Control | RQ-013 | EV-005–EV-008; EV-022–EV-023; EV-026–EV-029 | Frozen packs are immutable examination baselines; material change requires an attributable successor or Supplemental Pack | Successor/supplement paths remain unoperated; D5 interface preserved | Dispositioned | Accept with Conditions | Immutable freeze accepted; detailed supplement, successor, reopening, supersession, and framework lifecycle remain provisional | FD-014 | Pass with disclosed validation combination |
 | FEF-FGR-002-GF-013 | 1.1 | Traceability and Reuse Must Preserve Source Authority | RQ-014 | EV-005–EV-008; EV-012; EV-022–EV-030 | Outputs must trace through precise Evidence Records, RQs, sessions, findings, and decisions; reuse cannot elevate source authority | Full D2–D8 reuse and permanent D6 architecture untested | Dispositioned | Accept with Conditions | Mandatory traceability; D6 architecture, FEF-P1-002 hierarchy, complete reuse, and constitutional extraction rules excluded | FD-015 | Pass with disclosed validation combination |
 | FEF-FGR-002-GF-014 | 1.1 | Evidence Custody Is Operational and Does Not Decide Meaning | RQ-015 | EV-005–EV-008; EV-012; EV-014; EV-016–EV-019; EV-021–EV-031 | Custody preserves the evidential chain but does not decide meaning or exercise Founder authority | Independent assurance, durable handover, restricted evidence, and D4 model unresolved | Dispositioned | Accept with Conditions | Combined-capacity controls accepted; independent assurance, handover, restricted evidence, and D4 lifecycle excluded | FD-016 | Pass with disclosed validation combination |
+| FEF-FGR-002-GF-015 | 1.0 | Assurance Is Applied in Layered Passes; Founder-Authority Transitions Lack a Distinct Proportionality Tier | RQ-016 | EV-024; EV-025; EV-028; EV-050; EV-052; EV-053; EV-058; EV-063 (Context Only) | Assurance is applied as layered, separately-timed passes; evidence-class tiering is operated, but no distinct heavier control tier is evidenced for transitions approaching Founder-reserved authority | No mapped positive counter-example; candidate factor, not settled conclusion; closure unexamined for RQ-016 | Presented | Pending | Pending | Pending | Pass with Conditions |
 
 ## Change History
 
@@ -45,9 +46,13 @@
 | 1.2 | 2026-07-24 | Exact Founder dispositions, conditions, and review-scoped FD linkages recorded | Attributable Founder directive for FEF-FGR-002-005 |
 | 1.3 | 2026-07-25 | GF-009 through GF-014 produced, validated, and presented in S02; no D2 Founder disposition recorded | FEF-FGR-002-S02 |
 | 1.4 | 2026-07-25 | Six attributable Accept-with-Conditions dispositions and FD-011 through FD-016 linkages recorded; exact source finding statements remain unchanged | Founder Directive — D2 Governance Finding Dispositions |
+| 1.5 | 2026-07-26 | GF-015 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's first bounded RQ-016 examination iteration (Execution Loop 001); no Founder disposition recorded; RQ-017 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-015-VR-001 |
 
 ## Non-Effects
 
-This register contains fourteen Founder-dispositioned Governance Findings.
-Disposition does not label a finding Approved, Active, or Constitutional and
-does not close an Open Question.
+This register contains fourteen Founder-dispositioned Governance Findings
+(GF-001 through GF-014) and one Presented, undispositioned D3 finding
+(GF-015). Disposition does not label a finding Approved, Active, or
+Constitutional and does not close an Open Question. GF-015's Presented
+state does not constitute Founder disposition, does not close D3, and
+does not disposition CE1–CE6.

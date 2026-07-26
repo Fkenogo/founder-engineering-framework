@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.25 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.26 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 formally Open (DG-4 Pass with Conditions) — Evidence Examination Not Yet Started
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Open — Examination In Progress (RQ-016 answered, GF-015 Presented; RQ-017–024 unexamined)
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Conduct the first bounded D3 Review Question examination iteration using EP-003 v1.0 only; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
+**Immediate next programme action:** Conduct the next bounded D3 Review Question examination iteration (RQ-017) using EP-003 v1.0 only; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None

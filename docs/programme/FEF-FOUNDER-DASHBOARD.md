@@ -9,18 +9,18 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.25 |
+| Programme version | Master Programme v0.26 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **S03** formally **Open** through DG-4 (Pass with Conditions) — evidence examination not yet started |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **S03** Open — **examination in progress**, RQ-016 answered (GF-015, Presented) |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D3 Evidence Pack frozen (EP-003 v1.0); session S03 Open, evidence examination not yet started; Domain Exit Gate (DG-6) not reached |
+| Current execution window | D3 Evidence Pack frozen (EP-003 v1.0); session S03 Open, 1 of 9 RQs examined (RQ-016); Domain Exit Gate (DG-6) not reached |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D3 — Governance Assurance; Evidence Pack frozen; session S03 Open, evidence examination not yet started |
+| Next review domain | D3 — Governance Assurance; 1 of 9 RQs examined (RQ-016 — GF-015), 8 remain Admitted and Pending |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 | Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
@@ -44,7 +44,7 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 ## Immediate Next Programme Action
 
-**Conduct the first bounded D3 Review Question examination iteration using EP-003 v1.0 only; FEF-FGR-002-S03 is now formally Open, evidence examination not yet started**
+**Conduct the next bounded D3 Review Question examination iteration (RQ-017) using EP-003 v1.0 only; RQ-016 has been examined and answered at finding level (GF-015, Presented)**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
 FEF-FGR-002-RQ-024. Evidence requirements were derived
@@ -60,12 +60,17 @@ validated through DG-4
 — Pass with Conditions, determining EP-003 v1.0 authorised as the
 examination baseline — and then formally opened under FEF-FGR-002-RA-002
 ([Session Opening Record](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md)).
-**Session state: Open — Evidence Examination Not Yet Started.** The RQ-018
-gap and the EV-058/EV-059 contradictions are carried forward as disclosed
+**Session state: Open.** The first bounded RQ examination iteration
+(Execution Loop 001) was then performed for RQ-016 only, producing one
+candidate Governance Finding,
+[FEF-FGR-002-GF-015](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GOVERNANCE-FINDINGS.md),
+validated [Pass with Conditions](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-015-VALIDATION-REPORT.md).
+GF-015 remains **Presented — Founder disposition pending**. RQ-017
+through RQ-024 remain Admitted and Pending, unexamined. The RQ-018 gap
+and the EV-058/EV-059 contradictions are carried forward as disclosed
 conditions, not resolved. EV-032 through EV-049 remain permanently
-retired. Zero D3 examinations, findings, or Founder Decisions exist. Six
-earlier, non-genuinely-authorised artefacts remain quarantined and
-preserved under
+retired. Zero Founder Decisions exist for D3. Six earlier,
+non-genuinely-authorised artefacts remain quarantined and preserved under
 `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`
 and were not reused.
 
