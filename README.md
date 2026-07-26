@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.23 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.24 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions)
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Entry-Validated (DG-4 Pass with Conditions), Prepared and Not Yet Opened
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare and perform D3 session-entry validation for DG-4
+**Immediate next programme action:** Open FEF-FGR-002-S03 and conduct substantive D3 examination of RQ-016–024 using EP-003 v1.0 only; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
@@ -68,6 +68,8 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md) — Charter §9.2 admissibility qualification of 39 candidate sources;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — mobilisation baseline validation, v1.1, Pass with Conditions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md) — **Frozen** D3 Evidence Pack; 39 Evidence Records; DG-3 Pass with Conditions; RQ-018 gap and EV-058/EV-059 contradictions disclosed, not resolved; no session use;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md) — DG-4 Pass with Conditions; reverifies EP-003 v1.0 unchanged and authorises it as the examination baseline; allocates session identity FEF-FGR-002-S03; 7 reusable session-entry observations recorded for later consideration only;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md) — Session Opening Record, **Prepared — Not Yet Opened**; documents planned scope, admitted RQs, participants, and carried-forward conditions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/) — six voided D3 artefacts (RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) that asserted DG-2 admission and evidence registration without a distinct Founder Decision record; preserved, not deleted, not reused;
 - [`docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md`](docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) — Governance Evolution Review (FEF-GER-D3-001), 6 candidate framework enhancements; completed, **deferred** — not on the critical path, routed to Domain D5 or later constitutional consolidation;
 - [`docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md`](docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — Founder review package for CE1–CE6; prepared, **deferred**, all disposition fields blank;
@@ -179,9 +181,27 @@ evidence for RQ-020/RQ-021). The qualified baseline was assembled into
 v1.0 and **frozen through DG-3** — Pass with Conditions, non-independent.
 One genuine gap (no operated dissent/challenge record for RQ-018) and two
 preserved contradictions (EV-058, EV-059) are carried forward as disclosed
-pack conditions, not resolved by freeze. No D3 session, Governance Finding,
-or Founder Decision exists. Session-entry validation for DG-4 is the next
-separately governed activity and is not commenced here.
+pack conditions, not resolved by freeze.
+
+A collision-safe session identity, FEF-FGR-002-S03, was then allocated and
+validated through **DG-4** — Pass with Conditions
+([FEF-FGR-002-S03-EVR-001](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md))
+— reverifying EP-003 v1.0's identity, fingerprint, and 39-record membership
+unchanged since freeze, and determining it is authorised as the examination
+baseline for a future D3 session. A
+[Session Opening Record](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md)
+was prepared, documenting scope, admitted RQs, participants, and the
+carried-forward RQ-018 gap and EV-058/EV-059 contradictions. **The session
+has not been opened.** No Review Question has been examined, and no
+Governance Finding or Founder Decision exists. Seven reusable session-entry
+observations, independent of D3, were recorded for later Domain D5 or
+framework-extraction consideration only; no FEF standard was amended and no
+constitutional proposal was created. Opening FEF-FGR-002-S03 for
+substantive D3 examination is the next separately governed activity and is
+not commenced here; that examination is itself governed by the Plan's
+V4–V6 validation checkpoints and the Session Exit Gate (§12.1), with DG-5
+(Issue Founder Decision) and DG-6 (Exit domain) remaining later, separate
+gates.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
