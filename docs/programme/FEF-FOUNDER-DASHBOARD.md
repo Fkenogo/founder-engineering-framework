@@ -9,9 +9,9 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.21 |
+| Programme version | Master Programme v0.22 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; evidence mobilised and qualified (32 mapped Evidence Records); Evidence Pack not frozen |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; evidence mobilisation and qualification **complete** (39 mapped Evidence Records); Evidence Pack not frozen |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
 | Current execution window | D3 evidence mobilisation and qualification complete; Evidence Pack (DG-3) not frozen; Domain Exit Gate (DG-6) not reached |
@@ -20,7 +20,7 @@
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D3 — Governance Assurance; evidence requirement derivation and mobilisation pending |
+| Next review domain | D3 — Governance Assurance; evidence mobilisation complete; Evidence Pack (DG-3) consideration pending |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 | Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
@@ -44,7 +44,7 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 ## Immediate Next Programme Action
 
-**Assess D3 Evidence Pack readiness (DG-3) against the qualified evidence baseline**
+**Prepare for and give separate consideration to D3 Evidence Pack readiness (DG-3); evidence mobilisation is now complete**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
 FEF-FGR-002-RQ-024. Evidence requirements were derived

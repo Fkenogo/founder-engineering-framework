@@ -6,7 +6,7 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D3 — Governance Assurance |
 | Record class | Evidence qualification record |
-| Version | 1.0 |
+| Version | 1.1 |
 | Qualification date | 2026-07-26 |
 | Preparation capacity | FEF-FGR-002-RA-005 — Evidence Custodian (with RA-003 Review Analyst input) |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
@@ -214,6 +214,37 @@ Same authority limitation as EV-063: **Class:** C1 (Context Only).
 **Admissibility:** Conditionally Admitted — Context Only, and only as
 evidence that the workbook was prepared with blank disposition fields, not
 as evidence of any disposition. **Role:** Contextual (D3-EVR-012).
+
+### EV-065 through EV-071 candidates — FEF-FGR-002-FD-010 through FD-016
+
+These seven Founder Decision records are qualified together; the ten-test
+result is identical in kind for each, with per-record provenance shown in
+FEF-FGR-002-D3-ERC-002 §4.
+
+| Test | Result |
+|---|---|
+| Identity | Pass — each FD carries a unique canonical identifier |
+| Provenance | Pass — FD-010 committed `2f84e11`; FD-011–016 committed `9b0f23e` |
+| Integrity | Pass — each is version 1.0, unedited since commitment |
+| Authority | **Pass — E1, Attributable Founder Evidence.** Each is a Founder decision record with an explicit disposition (FD-010: Approve with Conditions; FD-011–016: Accept with Conditions) and a named decision authority (Founder) |
+| Relevance | Pass — direct evidence for RQ-020 (residual risk / Founder conditions) and RQ-021 (assurance of Founder decision inputs and records) |
+| Temporal applicability | Pass |
+| Accessibility | Pass |
+| Conflict treatment | Pass — no contradiction found between any two FD records |
+| Uncertainty | Pass — each FD's conditions and non-effects are recorded in its own text, not inferred here |
+| Permitted use | Pass |
+
+**Class:** E1. **Admissibility:** Admitted, individually, as EV-065 (FD-010)
+through EV-071 (FD-016). **Role:** Direct (D3-EVR-006) for RQ-020, RQ-021.
+
+**Distinction preserved:** these seven records evidence *what the Founder
+decided*. They are not evidence, and are not treated as evidence, of
+whether the *validation process* that led to or followed each decision was
+itself adequate — that process is separately evidenced by EV-050–EV-057
+(D2's own operated validation, session, and closure records) and remains
+unexamined. Registering FD-010–016 does not itself establish that the
+assurance surrounding them was sufficient; it establishes only that the
+decisions exist, are attributable, and are available for later examination.
 
 ## 4. Excluded Sources
 

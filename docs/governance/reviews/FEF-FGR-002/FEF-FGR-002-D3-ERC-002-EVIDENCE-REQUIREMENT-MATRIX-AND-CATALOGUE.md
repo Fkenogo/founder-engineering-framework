@@ -6,7 +6,7 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D3 — Governance Assurance |
 | Record class | Evidence requirement matrix and candidate-source catalogue |
-| Version | 1.0 |
+| Version | 1.1 |
 | Preparation date | 2026-07-26 |
 | Preparation capacity | FEF-FGR-002-RA-003 — Review Analyst (with RA-005 Evidence Custodian input) |
 | Source RQs | FEF-FGR-002-RQ-016 through FEF-FGR-002-RQ-024 (canonical set FEF-FGR-002-D3-RQS-002) |
@@ -54,7 +54,7 @@ Excluded) — qualification itself is performed in FEF-FGR-002-D3-EQR-002.
 | D3-EVR-003 | Operated D1 validation and gate records must be evidenced as an example of assurance actually performed, to test RQ-016/019/024 against real practice rather than aspiration | Provide a worked example of validation outcomes and traceability from a closed domain | E2 / E4 | Record exists, is Admitted, and states a Validator result | Repository record | Identity, provenance, integrity, temporal applicability | S01 Entry Validation Report, D1 Evidence Validation Report, D1 Pack Validation Report, D1 Traceability Register (EV-028, EV-025, EV-027, EV-030, reuse) | All disclose non-independent validation (see D3-EVR-005) | RQ-016, RQ-019, RQ-024 | Located |
 | D3-EVR-004 | Operated D2 validation, session, disposition, and closure records must be evidenced, including records not yet in the Evidence Register, as the most recent worked example of the full Mobilise→Close workflow | Same as D3-EVR-003, for the more recent and more complete D2 cycle, including Founder disposition and domain closure | E2 / E4 | Record exists and states an outcome/verdict | Repository record | Identity, provenance, integrity, relevance | D2-EMVR-001, S02-EVR-001, S02 Session Record, S02-SVR-001, D2-FRPVR-001, D2-TR-001, D2-DVR-001, D2-CR-001 (new — see §4) | All disclose non-independent validation; D2-CR-001 notes "Active — D3 through D8 unstarted" as of its own date | RQ-016, RQ-019, RQ-022, RQ-024 | Located |
 | D3-EVR-005 | The recurring "non-independent validation combination disclosed" statement across every D1/D2/D3 validation record must itself be evidenced as a pattern, not asserted from memory | RQ-017 asks what independence is required; the actual operated pattern (zero independent passes to date) is the baseline it must be tested against | E4 — Technical Evidence (pattern observed across records) | Cross-document count/consistency check | Derived from D3-EVR-003/004 sources | Identity, conflict treatment, uncertainty | All validation records cited in D3-EVR-001–004 | This is an absence-of-independence finding, not a positive control; must not be filled by assumption of adequacy or inadequacy | RQ-017, RQ-022 | Located |
-| D3-EVR-006 | Founder Decision records bearing explicit conditions (FD-010, FD-011–016) must be evidenced to examine what assurance protects Founder decision inputs and outputs | RQ-020 (residual risk) and RQ-021 (Founder decision assurance) both depend on how conditions are recorded and preserved | E1 — Attributable Founder Evidence | Exact FD text and condition list | Repository record | Identity, authority, integrity | FEF-FGR-002-FD-010 through FD-016 (reuse where already registered; FD content itself not previously an independent EV row — see §4 gap note) | FD text is E1-class but has not itself been allocated a distinct Evidence Record; currently referenced only via GF/FD linkage rows | RQ-020, RQ-021 | Gap (see §5) |
+| D3-EVR-006 | Founder Decision records bearing explicit conditions (FD-010, FD-011–016) must be evidenced to examine what assurance protects Founder decision inputs and outputs | RQ-020 (residual risk) and RQ-021 (Founder decision assurance) both depend on how conditions are recorded and preserved | E1 — Attributable Founder Evidence | Exact FD text and condition list | Repository record | Identity, authority, integrity | FEF-FGR-002-FD-010 through FD-016, now individually registered as EV-065–EV-071 (see §4) | None remaining — see resolution note below | RQ-020, RQ-021 | **Registered** (resolved 2026-07-26; see §5.1) |
 | D3-EVR-007 | An operated example of an unauthorised admission being detected, quarantined, and recovered must be evidenced, since it is the only operated example in FEF-FGR-002 of a validation-outcome failure and its correction | Directly tests RQ-016 (coverage), RQ-018 (challenge/escalation), RQ-019 (outcomes/consequences), RQ-022 (continuity/revalidation triggers), RQ-024 (traceability) against a real, not hypothetical, case | E4 / E2 | Manifest + preserved diff + recovery commit exist and are internally consistent | Repository record + Git commit | Identity, provenance, integrity, conflict treatment | FEF-FGR-002-D3-QM-001 manifest; commit `182a190` (new — see §4) | This is a single incident; it demonstrates that detection and recovery are possible, not that they are systematically guaranteed | RQ-016, RQ-018, RQ-019, RQ-022, RQ-024 | Located |
 | D3-EVR-008 | A second, independent-in-time operated example of a governance record being found inaccurate and corrected (the D3-C1 closure-claim correction) must be evidenced, to test whether the recovery pattern generalises beyond the single quarantine incident | Strengthens or weakens RQ-019/022/024 depending on whether one or two operated corrections show a consistent pattern | E4 / E2 | Correction record + commit exist | Repository record + Git commit | Identity, provenance, integrity | FEF-FGR-002-D3-C1-001 v1.1 Correction Notice; commit `38ff850` (new — see §4) | Both corrections were performed by the same acting capacity that could, in principle, also be the source of a future undetected error; this is a limitation, not a defect, and is recorded as such | RQ-019, RQ-022, RQ-024 | Located |
 | D3-EVR-009 | The design adopted for the D3 Founder Review (a live, verbatim-recorded Founder disposition inserted before DG-2) must be evidenced as a worked example bearing on RQ-017 and RQ-021 | Tests whether a genuinely distinct Founder input, as opposed to a self-labelled capacity, changes the assurance available at an admission gate | E1 / E2 | FRP-001 and FDR-001 exist, are internally consistent, and FDR-001 traces to real recorded Founder responses | Repository record | Identity, provenance, authority | FEF-FGR-002-D3-G1-FRP-001, FEF-FGR-002-D3-G1-FDR-001 (new — see §4) | Single operated instance; not yet repeated for any other domain or gate | RQ-017, RQ-021 | Located |
@@ -83,13 +83,35 @@ Excluded) — qualification itself is performed in FEF-FGR-002-D3-EQR-002.
 | D3 RQ Validation and Admission Record | `FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md` | FEF-FGR-002-D3-RQVA-002 | v1.0 — Admit | `955c7b7` | D3-EVR-010 |
 | D3 Governance Evolution Review | `FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md` | FEF-GER-D3-001 | v1.0 — Assessment Complete | `97d6c1e` | D3-EVR-012 (Context Only) |
 | FAP-001 Founder review package | `FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md` | FEF-FAP-001 | v1.0 — Prepared | `76c0df0` | D3-EVR-012 (Context Only) |
+| FEF-FGR-002-FD-010 — Operational Readiness Confirmation | `FEF-FGR-002-FD-010-OPERATIONAL-READINESS-CONFIRMATION.md` | FEF-FGR-002-FD-010 | v1.0; Decision Record Validated — Operative with Conditions | `2f84e11` | D3-EVR-006 |
+| FEF-FGR-002-FD-011 — Evidence Qualification and Permitted Reliance | `FEF-FGR-002-FD-011-EVIDENCE-QUALIFICATION-AND-PERMITTED-RELIANCE.md` | FEF-FGR-002-FD-011 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
+| FEF-FGR-002-FD-012 — Evidence Class, Weight, and Judgement | `FEF-FGR-002-FD-012-EVIDENCE-CLASS-WEIGHT-AND-JUDGEMENT.md` | FEF-FGR-002-FD-012 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
+| FEF-FGR-002-FD-013 — Evidence Sufficiency, Gaps, and Stop Treatment | `FEF-FGR-002-FD-013-EVIDENCE-SUFFICIENCY-GAPS-AND-STOP-TREATMENT.md` | FEF-FGR-002-FD-013 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
+| FEF-FGR-002-FD-014 — Frozen Evidence Baselines and Change Control | `FEF-FGR-002-FD-014-FROZEN-EVIDENCE-BASELINES-AND-CHANGE-CONTROL.md` | FEF-FGR-002-FD-014 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
+| FEF-FGR-002-FD-015 — Evidence Traceability and Controlled Reuse | `FEF-FGR-002-FD-015-EVIDENCE-TRACEABILITY-AND-CONTROLLED-REUSE.md` | FEF-FGR-002-FD-015 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
+| FEF-FGR-002-FD-016 — Evidence Custody and Authority Boundary | `FEF-FGR-002-FD-016-EVIDENCE-CUSTODY-AND-AUTHORITY-BOUNDARY.md` | FEF-FGR-002-FD-016 | v1.0; Accept with Conditions | `9b0f23e` | D3-EVR-006 |
 
 ## 5. Explicit Gaps
 
+### 5.1 Resolved: Standalone Founder Decision Evidence Records
+
+**Resolved 2026-07-26.** FD-010 through FD-016 are now individually
+registered as EV-065 through EV-071 (see FEF-FGR-002-D3-EQR-002 for
+qualification). Registration closes the standalone-record limitation for
+RQ-020/RQ-021. It does **not** evidence that the assurance surrounding
+these decisions was adequate — that remains examination work reserved for
+a later gate — and it is kept distinct from the separately registered
+evidence of the *validation process* around each decision (D2-DVR-001 /
+EV-056, and the underlying D2 session/closure records at EV-050–EV-057).
+The FD record itself (E1, what the Founder decided) and the process record
+around it (E2/E4, how the decision was validated and recorded) are not
+conflated.
+
+### 5.2 Remaining Gaps
+
 | Gap | Requirement Affected | Description | Treatment |
 |---|---|---|---|
-| No standalone Founder Decision Evidence Records | D3-EVR-006 | FD-010 through FD-016 are cited via GF/FD output-linkage rows in the Evidence Register but have never themselves been allocated distinct Evidence Record identifiers | Recorded as a gap here; qualification/registration decision is made in FEF-FGR-002-D3-EQR-002, not assumed |
-| No operated dissent, challenge, or rebuttal record | D3-EVR-013 | No GF, FD, or session record across D1 or D2 documents a contrary Founder view, a returned finding, or an escalated disagreement | Recorded as an explicit absence per Charter §9.3; RQ-018 examination will need to proceed on this gap rather than a worked example |
+| No operated dissent, challenge, or rebuttal record | D3-EVR-013 | No GF, FD, or session record across D1 or D2 documents a contrary Founder view, a returned finding, or an escalated disagreement | **Preserved, not resolved.** This is a genuine evidentiary absence, not a defect to engineer away. No dissent record is reconstructed or inferred. RQ-018 examination will need to proceed on this gap rather than a worked example. |
 
 ## 6. Non-Effects
 

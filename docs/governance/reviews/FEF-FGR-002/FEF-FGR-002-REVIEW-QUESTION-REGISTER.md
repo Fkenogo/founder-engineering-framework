@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.9 |
+| Register version | 1.10 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -62,6 +62,7 @@
 | 1.7 | 2026-07-25 | D2 RQ-to-GF-to-FD disposition linkages recorded; all related Open Questions remain unchanged and open | Founder Directive — D2 Governance Finding Dispositions |
 | 1.8 | 2026-07-25 | Nine D3 candidates (D3-RQC-01–09), each carrying a genuine Founder Accept disposition recorded in FEF-FGR-002-D3-G1-FDR-001, confirmed without material wording change, allocated RQ-016 through RQ-024, and admitted through DG-2; evidence mobilisation not started; Evidence Register unchanged | FEF-FGR-002-D3-RQVA-002 |
 | 1.9 | 2026-07-26 | Evidence Status updated for RQ-016 through RQ-024 from "Evidence Mobilisation Not Started" to "Evidence Mobilised — Qualified, Not Examined" following FEF-FGR-002-D3-ERC-002 and FEF-FGR-002-D3-EQR-002; no RQ wording, lifecycle state, or disposition changed; no examination performed | FEF-FGR-002-D3-EMVR-002 |
+| 1.10 | 2026-07-26 | Domain Coverage row for D3 corrected to agree with the nine individual RQ rows ("evidence mobilised and qualified; not packed, not examined, not dispositioned"), replacing the stale "evidence mobilisation not started" statement; no RQ wording, lifecycle state, or disposition changed | Reconciliation task following the D3 evidence-mobilisation baseline review |
 
 ## Non-Effects
 
@@ -76,7 +77,7 @@ answered. No existing Open Question is modified, answered, or closed.
 |---|---:|---|
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
-| D3 — Governance Assurance | 9 | Admitted through DG-2 following genuine Founder Accept; evidence mobilisation not started |
+| D3 — Governance Assurance | 9 | Admitted through DG-2 following genuine Founder Accept; evidence mobilised and qualified; not packed, not examined, not dispositioned |
 | D4 — Records and Information Governance | 0 | Not reached |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |

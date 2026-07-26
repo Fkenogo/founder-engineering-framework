@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-ER-001 |
 | Register class | Evidence Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.4 |
+| Register version | 1.5 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -15,9 +15,9 @@
 | Access treatment | Repository-controlled governance record; item-specific access treatment required before entry |
 | Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues; D3 items qualified in FEF-FGR-002-D3-EQR-002 |
 | Last validation date | 2026-07-26 |
-| Substantive entry count | 46 |
+| Substantive entry count | 53 |
 | D2 mapped Evidence Record count | 21 |
-| D3 mapped Evidence Record count | 32 (17 reused from D1/D2 + 15 newly registered EV-050–EV-064) |
+| D3 mapped Evidence Record count | 39 (17 reused from D1/D2 + 22 newly registered EV-050–EV-071) |
 | Identifier note | EV-032 through EV-049 are permanently retired and not reused: those identifiers were asserted, without genuine Founder authorisation, by the quarantined D3 artefacts under FEF-FGR-002-D3-QM-001. New D3 registrations begin at EV-050 per FEF-FGRC-001 §8 ("shall not be renumbered after issue; shall remain reserved if withdrawn"). |
 
 ## Register
@@ -70,12 +70,19 @@
 | EV-062 | D3 RQ Validation and Admission Record | Controlled repository path | FEF-FGR-002 Validator/Administrator record | D3 Qualification Record EV-062 | 2026-07-26 | v1.0; Admit | Admitted | Repository-committed `955c7b7` | Repository | RQ-019, RQ-021, RQ-024 | Validated | Pass with disclosed non-independent combination |
 | EV-063 | D3 Governance Evolution Review | Controlled repository path | Coding-agent assessment record | D3 Qualification Record EV-063 | 2026-07-26 | v1.0; Assessment Complete | Conditionally Admitted — Context Only | Repository-committed `97d6c1e` | Repository | RQ-016, RQ-019, RQ-022 | Validated | Pass as context only; not authority for CE1–CE6 |
 | EV-064 | FAP-001 Founder review package | Controlled repository path | Founder-facing workbook, blank | D3 Qualification Record EV-064 | 2026-07-26 | v1.0; Prepared | Conditionally Admitted — Context Only | Repository-committed `76c0df0` | Repository | RQ-016, RQ-019, RQ-022 | Validated | Pass as context only; no disposition evidenced |
+| EV-065 | FEF-FGR-002-FD-010 — Operational Readiness Confirmation | Controlled repository path | Founder | D3 Qualification Record EV-065 | 2026-07-26 | v1.0; Decision Record Validated — Operative with Conditions | Admitted | Repository-committed `2f84e11` | Repository | RQ-020, RQ-021 | Validated | Pass — E1, direct Founder decision evidence; distinct from the validation process surrounding it |
+| EV-066 | FEF-FGR-002-FD-011 — Evidence Qualification and Permitted Reliance | Controlled repository path | Founder | D3 Qualification Record EV-066 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
+| EV-067 | FEF-FGR-002-FD-012 — Evidence Class, Weight, and Judgement | Controlled repository path | Founder | D3 Qualification Record EV-067 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
+| EV-068 | FEF-FGR-002-FD-013 — Evidence Sufficiency, Gaps, and Stop Treatment | Controlled repository path | Founder | D3 Qualification Record EV-068 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
+| EV-069 | FEF-FGR-002-FD-014 — Frozen Evidence Baselines and Change Control | Controlled repository path | Founder | D3 Qualification Record EV-069 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
+| EV-070 | FEF-FGR-002-FD-015 — Evidence Traceability and Controlled Reuse | Controlled repository path | Founder | D3 Qualification Record EV-070 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
+| EV-071 | FEF-FGR-002-FD-016 — Evidence Custody and Authority Boundary | Controlled repository path | Founder | D3 Qualification Record EV-071 | 2026-07-26 | v1.0; Accept with Conditions | Admitted | Repository-committed `9b0f23e` | Repository | RQ-020, RQ-021 | Validated | Pass — E1 |
 
 ## D3 Mapped Evidence (Requirement Reference Only — No Examination Performed)
 
 | Evidence Set | Applicable RQs | Requirement Reference | Examination / GF / FD |
 |---|---|---|---|
-| EV-005–EV-008, EV-012, EV-016–EV-022, EV-024–EV-025, EV-027–EV-028, EV-030 (reused); EV-050–EV-064 (new) | RQ-016 through RQ-024 (see FEF-FGR-002-D3-ERC-002 §3 for exact per-requirement mapping) | FEF-FGR-002-D3-ERC-002; qualification FEF-FGR-002-D3-EQR-002 | None — no session opened, no RQ examined, no GF or FD exists for D3 |
+| EV-005–EV-008, EV-012, EV-016–EV-022, EV-024–EV-025, EV-027–EV-028, EV-030 (reused); EV-050–EV-071 (new) | RQ-016 through RQ-024 (see FEF-FGR-002-D3-ERC-002 §3 for exact per-requirement mapping) | FEF-FGR-002-D3-ERC-002; qualification FEF-FGR-002-D3-EQR-002 | None — no session opened, no RQ examined, no GF or FD exists for D3 |
 
 This mapping records evidence-to-requirement linkage only. It is not an
 Evidence Pack, does not freeze a baseline, and creates no examination,
@@ -105,11 +112,12 @@ limitations, and permitted use.
 | 1.2 | 2026-07-25 | Eleven stable Evidence Records reused and ten new D2 Evidence Records registered and validated; D2 set totals 21 | FEF-FGR-002-D2-ERC-001 |
 | 1.3 | 2026-07-25 | D2 evidence-to-GF-to-FD output linkages recorded without changing identity, admissibility, permitted use, or frozen pack membership | Founder Directive — D2 Governance Finding Dispositions |
 | 1.4 | 2026-07-26 | Seventeen existing records reused and EV-050 through EV-064 registered for D3 evidence mobilisation, following qualification in FEF-FGR-002-D3-EQR-002 against requirements in FEF-FGR-002-D3-ERC-002; EV-032–EV-049 confirmed permanently retired and not reused; no Evidence Pack created, no examination performed | FEF-FGR-002-D3-ERC-002 and FEF-FGR-002-D3-EQR-002 |
+| 1.5 | 2026-07-26 | EV-065 through EV-071 registered: FEF-FGR-002-FD-010 through FD-016 as direct, attributable (E1) Founder Decision evidence for RQ-020/RQ-021, closing the standalone-record gap identified in FEF-FGR-002-D3-ERC-002 v1.0; registration does not evidence that the assurance surrounding these decisions was adequate, and is distinguished from the separately registered validation-process evidence (EV-050–EV-057); no Evidence Pack created, no examination performed | FEF-FGR-002-D3-ERC-002 v1.1 and FEF-FGR-002-D3-EQR-002 v1.1 |
 
 ## Non-Effects
 
-This register contains 46 unique Evidence Records. Twenty-one are mapped to
-D2, and 32 are mapped to D3 (17 reused, 15 new) through controlled reuse or
+This register contains 53 unique Evidence Records. Twenty-one are mapped to
+D2, and 39 are mapped to D3 (17 reused, 22 new) through controlled reuse or
 new registration. Output linkage does not change a source's authority,
 admissibility, limitation, permitted use, or frozen-pack state. No D3
 Evidence Pack exists. No D3 Review Question has been examined or answered.

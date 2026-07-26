@@ -2,14 +2,14 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.21
+**Identity version:** 1.22
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
 **Review state:** D1, ORC-001, and D2 Closed — D3 **Active, Not Closed**: Mobilised; Candidates Prepared, Validated, and Founder-Reviewed; DG-2 Admission Complete; Evidence Mobilised and Qualified; Not Examined; Not Dispositioned; Evidence Pack Not Frozen
 
-**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; each remains `Disposition: Pending`; 32 Evidence Records mapped (17 reused, 15 new — EV-050 through EV-064; EV-032–049 permanently retired); Evidence Pack not frozen; the Domain Exit Gate (FEF-FGRP-001 §12.2 / DG-6) is not reached
+**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; each remains `Disposition: Pending`; 39 Evidence Records mapped (17 reused, 22 new — EV-050 through EV-071; EV-032–049 permanently retired); evidence mobilisation baseline complete; Evidence Pack not frozen; the Domain Exit Gate (FEF-FGRP-001 §12.2 / DG-6) is not reached
 
 **Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
@@ -48,7 +48,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Register Identifier | Register | Current Substantive Entry Count |
 |---|---|---:|
 | FEF-FGR-002-RQR-001 | Review Question Register | 24 |
-| FEF-FGR-002-ER-001 | Evidence Register | 46 |
+| FEF-FGR-002-ER-001 | Evidence Register | 53 |
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 2 |
 | FEF-FGR-002-SR-001 | Session identities / opened sessions | 2 / 2 |
 | FEF-FGR-002-GFR-001 | Governance Finding Register | 14 |
@@ -105,8 +105,8 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D3 RQ set | [FEF-FGR-002-D3-RQS-002](FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — RQ-016 through RQ-024, v1.0, Admitted, not dispositioned |
 | D3 DG-2 admission | [FEF-FGR-002-D3-RQVA-002](FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — Admit; grounded in genuine Founder Accept dispositions |
 | D3 admission-readiness checkpoint | [FEF-FGR-002-D3-C1-001](FEF-FGR-002-D3-C1-GOVERNANCE-ASSURANCE-STAGE-CLOSURE-AND-E1-READINESS-ASSESSMENT.md) — v1.1, corrected; verifies deliverables and traceability only, does **not** close D3 or satisfy DG-6 |
-| D3 canonical RQs / Evidence Records / packs / sessions / GFs / FDs | 9 / 32 / 0 / 0 / 0 / 0 |
-| D3 evidence mobilisation | [FEF-FGR-002-D3-ERC-002](FEF-FGR-002-D3-ERC-002-EVIDENCE-REQUIREMENT-MATRIX-AND-CATALOGUE.md) / [-EQR-002](FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md) / [-EMVR-002](FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — Pass with Conditions; 2 gaps and 2 preserved contradictions disclosed; Evidence Pack not frozen |
+| D3 canonical RQs / Evidence Records / packs / sessions / GFs / FDs | 9 / 39 / 0 / 0 / 0 / 0 |
+| D3 evidence mobilisation | [FEF-FGR-002-D3-ERC-002](FEF-FGR-002-D3-ERC-002-EVIDENCE-REQUIREMENT-MATRIX-AND-CATALOGUE.md) v1.1 / [-EQR-002](FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md) v1.1 / [-EMVR-002](FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) v1.1 — Pass with Conditions; RQ-020/021 standalone-record gap resolved (EV-065–071); 1 genuine gap (RQ-018) and 2 preserved contradictions (EV-058, EV-059) remain disclosed; Evidence Pack not frozen |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
 | Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
 | Next gate | Assess D3 Evidence Pack readiness (DG-3) against the qualified baseline and disclosed gaps/contradictions, through a separately governed gate |
@@ -228,3 +228,4 @@ framework effect.
 | 1.19 | 2026-07-25 | Nine Founder-Accepted candidates verified against the Candidate Set, Validation Report, and Disposition Record with zero discrepancy, allocated canonical identifiers RQ-016 through RQ-024, and admitted through DG-2 on the strength of the genuine Founder disposition; zero Evidence Records created; Evidence Register unchanged | FEF-FGR-002-D3-RQVA-002; FEF-FGR-002-D3-RQS-002 |
 | 1.20 | 2026-07-25 | Programme audit found this identity, the Master Programme, Dashboard, and Manifest all stale since 1.19, and found FEF-FGR-002-D3-C1-001's original closure claim inconsistent with the Register and FEF-FGRP-001 §12.2; corrected FEF-FGR-002-D3-C1-001 to v1.1 (D3 active, not closed; does not satisfy DG-6); recorded the Governance Evolution Review and FAP-001 as completed but deferred, routed to Domain D5 or later constitutional consolidation; CE1–CE6 remain undecided; no Evidence Register or Review Question wording change | Programme-control reconciliation task, following the read-only FEF Programme Audit |
 | 1.21 | 2026-07-26 | Evidence requirements derived (FEF-FGR-002-D3-ERC-002), 32 candidate sources qualified against FEF-FGRC-001 §9.2 (FEF-FGR-002-D3-EQR-002 — 17 reused, 15 new), and the baseline validated Pass with Conditions (FEF-FGR-002-D3-EMVR-002) without freezing an Evidence Pack; Evidence Register updated to v1.4 (46 entries; EV-050–EV-064 registered; EV-032–EV-049 confirmed permanently retired); RQ-016–024 Evidence Status updated, wording/lifecycle/disposition unchanged; two gaps and two preserved contradictions disclosed; no examination, GF, FD, or CE disposition | FEF-FGR-002-D3-ERC-002; FEF-FGR-002-D3-EQR-002; FEF-FGR-002-D3-EMVR-002 |
+| 1.22 | 2026-07-26 | Corrected stale cross-references (Master Programme table/header version mismatch, Founder Dashboard "next review domain," Document Manifest's own Review Identity row, Review Question Register D3 Domain Coverage row); registered FEF-FGR-002-FD-010 through FD-016 as direct E1 evidence (EV-065–071), resolving the RQ-020/RQ-021 standalone-record gap while explicitly distinguishing decision evidence from process-validation evidence; corrected FEF-FGR-002-D3-EMVR-002's validation-scope language so it no longer risks reading as an independence claim; RQ-018 gap and EV-058/EV-059 contradictions preserved unresolved; Evidence Register updated to v1.5 (53 entries; 39 mapped to D3); no examination, GF, FD, or CE disposition | Reconciliation task following the D3 evidence-mobilisation baseline review |
