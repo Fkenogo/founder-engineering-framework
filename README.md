@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.22 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.23 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Mobilisation Complete (39 records); Evidence Pack Not Frozen
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions)
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare for and give separate consideration to D3 Evidence Pack readiness (DG-3)
+**Immediate next programme action:** Prepare and perform D3 session-entry validation for DG-4
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
@@ -64,6 +64,10 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — canonical D3 RQ-016 through RQ-024 (FEF-FGR-002-D3-RQS-002), wording unchanged from the Founder-Accepted candidates, not yet dispositioned;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — DG-2 admission record (FEF-FGR-002-D3-RQVA-002), grounded in the genuine Founder Disposition Record;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-C1-GOVERNANCE-ASSURANCE-STAGE-CLOSURE-AND-E1-READINESS-ASSESSMENT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-C1-GOVERNANCE-ASSURANCE-STAGE-CLOSURE-AND-E1-READINESS-ASSESSMENT.md) — D3 admission-readiness checkpoint, v1.1 corrected; verifies deliverables and traceability only — does **not** close D3 or satisfy DG-6;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-ERC-002-EVIDENCE-REQUIREMENT-MATRIX-AND-CATALOGUE.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-ERC-002-EVIDENCE-REQUIREMENT-MATRIX-AND-CATALOGUE.md) — evidence requirements and candidate-source catalogue for RQ-016–024;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md) — Charter §9.2 admissibility qualification of 39 candidate sources;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — mobilisation baseline validation, v1.1, Pass with Conditions;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md) — **Frozen** D3 Evidence Pack; 39 Evidence Records; DG-3 Pass with Conditions; RQ-018 gap and EV-058/EV-059 contradictions disclosed, not resolved; no session use;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/) — six voided D3 artefacts (RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) that asserted DG-2 admission and evidence registration without a distinct Founder Decision record; preserved, not deleted, not reused;
 - [`docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md`](docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) — Governance Evolution Review (FEF-GER-D3-001), 6 candidate framework enhancements; completed, **deferred** — not on the critical path, routed to Domain D5 or later constitutional consolidation;
 - [`docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md`](docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — Founder review package for CE1–CE6; prepared, **deferred**, all disposition fields blank;
@@ -166,6 +170,18 @@ amendments to FEF-FGRER-001 and FEF-RQS-001) belongs to Domain D5 —
 Governance Lifecycle and Evolution, or a later, separately authorised
 constitutional consolidation. CE1–CE6 remain undecided and have no
 framework effect.
+
+Evidence requirements were then derived and 39 candidate sources qualified
+against Charter §9.2 (17 reused from D1/D2, 22 newly registered as EV-050
+through EV-071, including FD-010 through FD-016 as direct Founder-decision
+evidence for RQ-020/RQ-021). The qualified baseline was assembled into
+[FEF-FGR-002-EP-003](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md)
+v1.0 and **frozen through DG-3** — Pass with Conditions, non-independent.
+One genuine gap (no operated dissent/challenge record for RQ-018) and two
+preserved contradictions (EV-058, EV-059) are carried forward as disclosed
+pack conditions, not resolved by freeze. No D3 session, Governance Finding,
+or Founder Decision exists. Session-entry validation for DG-4 is the next
+separately governed activity and is not commenced here.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 

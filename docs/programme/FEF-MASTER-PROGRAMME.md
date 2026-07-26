@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.22
+**Programme record version:** 0.23
 **Reconciliation date:** 2026-07-25
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.22 |
+| Programme version | Master Programme v0.23 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; evidence mobilisation and qualification **complete** (39 mapped Evidence Records); not examined, not dispositioned; Evidence Pack not frozen |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **FEF-FGR-002-EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); not examined, not dispositioned |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | D3 evidence mobilisation baseline reconciled and complete (FEF-FGR-002-D3-ERC-002, -EQR-002, -EMVR-002, and the FD-010–016 direct-evidence registration); Evidence Pack (DG-3) not frozen; Domain Exit Gate (DG-6 / Plan §12.2) not reached |
+| Current execution window | D3 Evidence Pack frozen (FEF-FGR-002-EP-003 v1.0, DG-3 Pass with Conditions); session-entry preparation (DG-4) not started; Domain Exit Gate (DG-6 / Plan §12.2) not reached |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next governed activity | The D3 evidence-mobilisation baseline is complete and reconciled. Prepare for, and give separate Founder/Evidence Custodian consideration to, D3 Evidence Pack freeze (DG-3), against the one remaining genuine gap (RQ-018 dissent/challenge evidence) and the two preserved contradictions (EV-058, EV-059) in FEF-FGR-002-D3-EMVR-002 |
+| Immediate next governed activity | The D3 Evidence Pack (FEF-FGR-002-EP-003 v1.0) is frozen. Prepare and perform D3 session-entry validation for DG-4, carrying forward the disclosed RQ-018 gap and EV-058/EV-059 contradictions as pack conditions. Session entry itself is not commenced by this milestone. |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
-| Next review domain | D3 — Governance Assurance; nine RQs admitted and not dispositioned, 39 Evidence Records mapped and qualified, mobilisation complete, Evidence Pack not frozen |
+| Next review domain | D3 — Governance Assurance; nine RQs admitted and not dispositioned, Evidence Pack EP-003 v1.0 frozen, session-entry preparation (DG-4) pending |
 | Framework Evolution status | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist as completed assessment/preparation artefacts; **deferred** — not on the current critical path; substantive consideration routed to Domain D5 — Governance Lifecycle and Evolution or separately authorised constitutional consolidation; CE1–CE6 undecided, zero framework effect |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
@@ -138,7 +138,8 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FAP-001 | Founder Framework Evolution Review Package | v1.0 — Prepared | Blank Founder workbook for CE1–CE6, one section per enhancement, all disposition fields unfilled. **Deferred** — visible and preserved, not active work; requires no Founder action until the sequencing question above is resolved |
 | FEF-FGR-002-D3-ERC-002 | D3 Evidence Requirement Matrix and Catalogue | v1.1 — Prepared | Derives 14 evidence requirements from RQ-016–024 and catalogues 22 new + 17 reused candidate sources; RQ-020/021 standalone-record gap resolved (EV-065–071); one explicit gap remains (RQ-018 dissent evidence) |
 | FEF-FGR-002-D3-EQR-002 | D3 Evidence Qualification Record | v1.1 — Qualification Complete | Applies FEF-FGRC-001 §9.2 admissibility tests to all 39 mapped sources; 2 contradictory-evidence items (EV-058, EV-059) explicitly preserved, not resolved |
-| FEF-FGR-002-D3-EMVR-002 | D3 Evidence Mobilisation Validation Report | v1.1 — Revalidated; Pass with Conditions | Validates completeness, traceability, admissibility, and identifier integrity of the reconciled mobilisation baseline; corrected validation-scope language no longer risks an independence claim; explicitly does not freeze an Evidence Pack |
+| FEF-FGR-002-D3-EMVR-002 | D3 Evidence Mobilisation Validation Report | v1.1 — Revalidated; Pass with Conditions | Validates completeness, traceability, admissibility, and identifier integrity of the reconciled mobilisation baseline; corrected validation-scope language no longer risks an independence claim |
+| FEF-FGR-002-EP-003 | D3 Governance Assurance Evidence Pack | v1.0 — **Frozen** | 39 Evidence Records (17 reused, 22 new) assembled per FEF-EPS-001; DG-3 Pass with Conditions — non-independent, RQ-018 gap and EV-058/EV-059 contradictions carried forward disclosed, not resolved; no session use, no examination, no GF or FD |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -180,7 +181,7 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
 
 ## 7. Immediate Next Programme Action
 
-**Prepare for and give separate consideration to D3 Evidence Pack readiness (DG-3); the evidence-mobilisation baseline itself is now complete**
+**Prepare and perform D3 session-entry validation for DG-4; the D3 Evidence Pack (FEF-FGR-002-EP-003 v1.0) is now frozen**
 
 D1 and ORC-001 remain closed. D2 is closed after six attributable decisions and
 reconciled traceability. D3 is mobilised, and the nine candidates prepared in
@@ -202,11 +203,12 @@ individually registered as EV-065–071 to close the RQ-020/RQ-021
 standalone-record gap, distinguished from the separately registered
 evidence of the validation process around each decision.
 FEF-FGR-002-D3-EMVR-002 validated the reconciled baseline Pass with
-Conditions and explicitly stopped short of freezing an Evidence Pack: one
-genuine gap remains (no operated dissent/challenge record for RQ-018) and
-two preserved contradictions (EV-058, EV-059) remain open. No D3 Evidence
-Pack, session, finding, or decision exists, and substantive review remains
-unstarted.
+Conditions. That baseline was then assembled into FEF-FGR-002-EP-003 v1.0
+and frozen through DG-3 — Pass with Conditions, non-independent — carrying
+forward one genuine gap (no operated dissent/challenge record for RQ-018)
+and two preserved contradictions (EV-058, EV-059) as disclosed pack
+conditions, neither resolved by freeze. No D3 session, finding, or decision
+exists, and substantive review remains unstarted.
 
 **D3 is active, not closed.** FEF-FGR-002-D3-C1-001 verifies the
 admission-readiness checkpoint only; it does not satisfy the Domain Exit
@@ -295,6 +297,17 @@ No RQ was examined or dispositioned, no Governance Finding or Founder
 Decision was created, D3 remains active and not closed, and CE1–CE6 remain
 undecided. Evidence Pack freeze (DG-3) is the next permissible activity and
 is not commenced by this revision.
+
+This v0.23 revision records that Evidence Pack freeze was subsequently
+performed: FEF-FGR-002-EP-003 v1.0 was assembled from the 39 qualified D3
+Evidence Records, validated, and frozen through DG-3 (Pass with
+Conditions, non-independent). The pack carries forward the RQ-018 gap and
+the EV-058/EV-059 contradictions as explicit, unresolved conditions rather
+than closing them. The Evidence Pack Register is updated to v1.7 (3
+entries). No D3 session was opened, no RQ was examined, no Governance
+Finding or Founder Decision was created, D3 remains active and not closed,
+and CE1–CE6 remain undecided. Session-entry validation for DG-4 is the next
+permissible activity and is not commenced by this revision.
 
 ## 11. Change Control
 

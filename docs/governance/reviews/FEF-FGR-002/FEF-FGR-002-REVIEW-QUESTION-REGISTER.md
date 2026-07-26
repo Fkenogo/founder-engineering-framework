@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.10 |
+| Register version | 1.11 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -38,15 +38,15 @@
 | FEF-FGR-002-RQ-013 | 1.1 | Evidence Freeze, Versioning, and Change Control | See controlled D2 RQ set v1.1 | D2 | EPS and Execution Rules pack controls | None | EP-002 v1.0 examined in S02 | Potential | Answered | GF-012; FD-014 — Accept with Conditions | Pass with disclosed validation combination |
 | FEF-FGR-002-RQ-014 | 1.1 | Evidence Traceability, Reuse, Transparency, and Explainability | See controlled D2 RQ set v1.1 | D2 | Charter evidence-chain and EPS traceability controls | OQ-005 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-013; FD-015 — Accept with Conditions | Pass with disclosed validation combination |
 | FEF-FGR-002-RQ-015 | 1.1 | Evidence Custody, Preservation, and Operational Responsibility | See controlled D2 RQ set v1.1 | D2 | Charter evidence roles and preservation scope | OQ-010; OQ-011 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-014; FD-016 — Accept with Conditions | Pass with disclosed validation combination |
-| FEF-FGR-002-RQ-016 | 1.0 | Assurance Coverage and Proportionality | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation themes 1–2; D3-RQC-01; Founder Accept | OQ-004; OQ-007; OQ-021 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-017 | 1.0 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 3; D3-RQC-02; Founder Accept | OQ-002 partial; OQ-003 direct | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-018 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 4; D3-RQC-03; Founder Accept | OQ-007; OQ-012 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-019 | 1.0 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 5; D3-RQC-04; Founder Accept | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-021 | 1.0 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 7; D3-RQC-06; Founder Accept | OQ-008; OQ-021 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
-| FEF-FGR-002-RQ-024 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 10; D3-RQC-09; Founder Accept | OQ-004; OQ-012; OQ-021; OQ-022 partial | Evidence Mobilised — Qualified, Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-016 | 1.0 | Assurance Coverage and Proportionality | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation themes 1–2; D3-RQC-01; Founder Accept | OQ-004; OQ-007; OQ-021 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-017 | 1.0 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 3; D3-RQC-02; Founder Accept | OQ-002 partial; OQ-003 direct | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-018 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 4; D3-RQC-03; Founder Accept | OQ-007; OQ-012 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-019 | 1.0 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 5; D3-RQC-04; Founder Accept | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-021 | 1.0 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 7; D3-RQC-06; Founder Accept | OQ-008; OQ-021 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-024 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 10; D3-RQC-09; Founder Accept | OQ-004; OQ-012; OQ-021; OQ-022 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
 
 ## Change History
 
@@ -63,6 +63,7 @@
 | 1.8 | 2026-07-25 | Nine D3 candidates (D3-RQC-01–09), each carrying a genuine Founder Accept disposition recorded in FEF-FGR-002-D3-G1-FDR-001, confirmed without material wording change, allocated RQ-016 through RQ-024, and admitted through DG-2; evidence mobilisation not started; Evidence Register unchanged | FEF-FGR-002-D3-RQVA-002 |
 | 1.9 | 2026-07-26 | Evidence Status updated for RQ-016 through RQ-024 from "Evidence Mobilisation Not Started" to "Evidence Mobilised — Qualified, Not Examined" following FEF-FGR-002-D3-ERC-002 and FEF-FGR-002-D3-EQR-002; no RQ wording, lifecycle state, or disposition changed; no examination performed | FEF-FGR-002-D3-EMVR-002 |
 | 1.10 | 2026-07-26 | Domain Coverage row for D3 corrected to agree with the nine individual RQ rows ("evidence mobilised and qualified; not packed, not examined, not dispositioned"), replacing the stale "evidence mobilisation not started" statement; no RQ wording, lifecycle state, or disposition changed | Reconciliation task following the D3 evidence-mobilisation baseline review |
+| 1.11 | 2026-07-26 | Evidence Status updated for RQ-016 through RQ-024 to "Evidence Pack Frozen (EP-003 v1.0) — Not Examined" following DG-3 freeze (Pass with Conditions); no RQ wording, lifecycle state, or disposition changed; no examination performed | FEF-FGR-002-EP-003 |
 
 ## Non-Effects
 
@@ -77,7 +78,7 @@ answered. No existing Open Question is modified, answered, or closed.
 |---|---:|---|
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
-| D3 — Governance Assurance | 9 | Admitted through DG-2 following genuine Founder Accept; evidence mobilised and qualified; not packed, not examined, not dispositioned |
+| D3 — Governance Assurance | 9 | Admitted through DG-2 following genuine Founder Accept; Evidence Pack EP-003 v1.0 frozen through DG-3 (Pass with Conditions); not examined, not dispositioned |
 | D4 — Records and Information Governance | 0 | Not reached |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
