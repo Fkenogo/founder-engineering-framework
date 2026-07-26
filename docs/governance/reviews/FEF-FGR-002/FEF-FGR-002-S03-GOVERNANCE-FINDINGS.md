@@ -104,3 +104,106 @@ Deferred Matter; resolve the RQ-018 gap or the EV-058/EV-059
 contradictions; amend any FEF standard; or close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-016
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-016 |
+| Version | 1.0 |
+| Title | Combined Roles Are Founder-Approved and Compensated at Assignment Level, but the Independent-Revalidation-or-Risk-Acceptance Closing Condition Remains Unsatisfied at Artefact Level |
+| Reviewed RQ | FEF-FGR-002-RQ-017 — Independence and Combined Operational Capacities |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-016, EV-017, EV-018, EV-021, EV-061 |
+| Contrary evidence considered | EV-060 (framing statement, incorporated as a disclosed qualification, not treated as an independent Founder act) |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+Two distinct forms of Founder involvement bear on the combined-role
+structure operated throughout FEF-FGR-002, and they answer different
+parts of RQ-017. First, the combination itself (RA-002 through RA-006
+held by the same acting capacity) was assigned under explicit, recorded
+Founder authority at review mobilisation (EV-021: "Assignment Authority:
+Founder" for each role), together with a distinct, recorded compensating-
+control set for each role — together satisfying FEF-FGR-002-ICR-001
+§6.2's requirement that High-Risk Combinations receive "explicit Founder
+approval and compensating controls." Second, and separately, FEF-FGR-002-
+OGRS-001 §9.6's narrower artefact-level test — that a combined preparer/
+validator must have "a recorded exception, stated limitation, and later
+independent revalidation or Founder-accepted procedural risk" — is only
+partially evidenced: the exception and limitation are consistently
+recorded, but neither later independent revalidation nor an express
+Founder risk-acceptance (distinct from accepting a Review Question for
+future examination) is evidenced for any artefact within RQ-017's mapped
+set. Combined roles are therefore evidenced as usable at the structural/
+assignment level; whether any specific combined-role artefact meets the
+stricter artefact-level closing condition remains open.
+
+### Supporting Evidence
+
+- EV-021 — Role Assignment Register, recording explicit Founder
+  assignment authority and per-role compensating controls for all six
+  combined roles.
+- EV-018 — Independence and Conflict Rules §6.2, defining the High-Risk-
+  Combination test (explicit Founder approval and compensating controls)
+  that EV-021 satisfies.
+- EV-016 — Operational Governance Roles Standard §9.6, defining the
+  stricter artefact-level closing condition (independent revalidation or
+  Founder-accepted procedural risk) that remains unsatisfied.
+- EV-017 — Operational Authority Boundary §5, establishing that risk is
+  not accepted "unless the Founder expressly accepts it."
+- EV-061 — D3 Founder Disposition Record, showing the Founder's Accept of
+  the RQ-017 candidate carried no Observations or Rationale, and so does
+  not constitute an express risk-acceptance under EV-017 §5.
+
+### Contrary Evidence
+
+EV-060's statement that "D1 and D2 accepted the current non-independent
+role combination... without establishing an enduring independence model"
+could be read as a broader acceptance than the EV-021 assignment record
+alone shows. This finding treats EV-060 as a neutral candidate-framing
+document, not as an independent Founder act, and discloses the
+alternative reading rather than omitting it.
+
+### Limitations
+
+- EV-021 has not been revalidated since 2026-07-24, despite D2 and D3
+  activity since occurring under the same combined-role assignments;
+  currency of the independence/combination record is limited accordingly.
+- No independent revalidation record exists anywhere in RQ-017's mapped
+  evidence; this finding treats that absence as unresolved, not as proof
+  revalidation is unnecessary.
+- Does not state a risk-differentiated independence standard ("what
+  degree of independence is required... for different assurance risks")
+  — the mapped evidence establishes procedural facts, not a general
+  standard, and none is inferred here.
+- Does not extend to D4 or D6; RQ-017's declared exclusions bar any
+  complete D4/D6 model or individual reassignment mandate.
+
+### Confidence Statement
+
+**Confidence: Moderate.** The combination-level Founder-approval
+observation is well supported by EV-021's explicit assignment-authority
+field, corroborated by EV-018's matching control test. The artefact-level
+closing-condition gap is supported by the absence of any independent-
+revalidation record and by EV-061's explicit lack of Observations or
+Rationale, but rests on reading EV-060's framing statement narrowly
+(§ Contrary Evidence); a broader reading would qualify, not reverse, the
+conclusion.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-017 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion about
+RQ-016 or RQ-018 through RQ-024, and states no Founder recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015; close RQ-017 or any Open Question; create a
+Constitutional Candidate or Deferred Matter; resolve the RQ-018 gap or
+the EV-058/EV-059 contradictions; amend any FEF standard; or close
+FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.
