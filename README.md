@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.35 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.36 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Open — All Nine RQs Answered (GF-015/016/017/018/019/020/021/022/023 Presented — GF-017 a negative/gap finding); Session Not Yet Closed
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Closed — Examination Complete; Governance Findings Presented (GF-015/016/017/018/019/020/021/022/023 — GF-017 a negative/gap finding); Session Exit Gate (Plan §12.1) passed
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Conduct the Session Exit Gate (post-session validation, Founder Review package preparation, and Founder consideration of GF-015 through GF-023); DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
+**Immediate next programme action:** Prepare a neutral D3 Founder Review package for GF-015 through GF-023 and conduct Founder consideration; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
@@ -197,18 +197,29 @@ Domain D5 or framework-extraction consideration only; no FEF standard was
 amended and no constitutional proposal was created.
 
 FEF-FGR-002-S03 was then formally opened under FEF-FGR-002-RA-002, within
-the exact scope and conditions validated at DG-4. **Session state at
-opening: Open — Evidence Examination Not Yet Started.**
+the exact scope and conditions validated at DG-4. Session state at
+opening: Open — Evidence Examination Not Yet Started.
 FEF-FGR-002-EP-003 v1.0 was not altered by the opening action. All nine
 bounded D3 Review Question examination iterations (Execution Loops 001
-through 009) have since been performed against EP-003 v1.0 only,
-examining RQ-016 through RQ-024 and producing GF-015 through GF-023 (all
+through 009) were then performed against EP-003 v1.0 only, examining
+RQ-016 through RQ-024 and producing GF-015 through GF-023 (all
 Presented, Founder disposition pending; GF-017 is a negative/gap
 finding). No RQ remains unexamined, and no Founder Decision exists for
-D3. Completing examination of all nine RQs does not close the session or
-D3: the Session Exit Gate (§12.1) — post-session validation, Founder
-Review package preparation, and Founder consideration of GF-015 through
-GF-023 — is the next separately governed activity and is not commenced
+D3.
+
+The Session Exit Gate (FEF-FGRP-001 §12.1) was then performed:
+[FEF-FGR-002-S03-SESSION-EXIT-RECORD.md](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-SESSION-EXIT-RECORD.md)
+and its companion
+[Session Exit Validation Report](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md)
+confirm all nine RQ examination records exist, GF-015 through GF-023 are
+present, validated, and remain Presented — Founder disposition pending,
+every protected artefact and EP-003 remain byte-identical, and no
+cross-finding synthesis, recommendation, or constitutional content was
+introduced. **FEF-FGR-002-S03 is now Closed — Examination Complete;
+Governance Findings Presented.** This closes the session only: D3 —
+Governance Assurance remains active, not closed. The next separately
+governed activity is preparation of a neutral D3 Founder Review package
+for GF-015 through GF-023 and Founder consideration of it, not commenced
 here, with DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remaining
 later, separate gates.
 

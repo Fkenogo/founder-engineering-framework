@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.15 |
+| Register version | 1.16 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -24,7 +24,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | FEF-FGR-002-S01 | D1 — Governance Authority | Examine the eight admitted D1 RQs and produce validated GFs | RQ-001–RQ-008 | EP-001 v1.0 — Frozen | Execute and close | Pass with condition | Closed — Validated with Condition | [Session Record](FEF-FGR-002-S01-SESSION-RECORD.md) | Pass with recorded non-independent condition |
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
-| FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Open — All 9 of 9 RQs Examined; Not Yet Closed | [RQ-024 Examination Record](FEF-FGR-002-S03-RQ-024-EXAMINATION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-GF-023-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S03-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -54,16 +54,18 @@ domain-level effects without changing the historical S02 session state.
 | 1.13 | 2026-07-27 | Seventh bounded D3 examination iteration (Execution Loop 007) completed for RQ-022 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-021) produced and validated Pass with Conditions; GF-015 through GF-020 unchanged; RQ-023 and RQ-024 remain unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-021-VR-001 |
 | 1.14 | 2026-07-27 | Eighth bounded D3 examination iteration (Execution Loop 008) completed for RQ-023 only, using EP-003 v1.0 only (its own unusual evidentiary posture — full commit history and the corpus of validation records — treated as the mapped evidence per EP-003 §8.1); one candidate Governance Finding (GF-022) produced and validated Pass with Conditions; GF-015 through GF-021 unchanged; RQ-024 remains unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-022-VR-001 |
 | 1.15 | 2026-07-27 | Ninth bounded D3 examination iteration (Execution Loop 009) completed for RQ-024 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-023) produced and validated Pass with Conditions; GF-015 through GF-022 unchanged; all nine admitted D3 RQs are now examined and answered at finding level; zero FD created, zero disposition, no cross-finding synthesis performed, session not closed | FEF-FGR-002-S03-GF-023-VR-001 |
+| 1.16 | 2026-07-27 | Session Exit Gate (FEF-FGRP-001 §12.1) performed for FEF-FGR-002-S03: all six §12.1 criteria confirmed satisfied across all nine Execution Loops; GF-015 through GF-023 confirmed present, validated, and Presented/Pending; EP-003 and all protected artefacts confirmed unchanged; no cross-finding synthesis, recommendation, or constitutional content found; session state updated to Closed — Examination Complete; Governance Findings Presented; D3 domain remains Active, Not Closed; no Founder Review package prepared, no DG-5 or DG-6 invoked | FEF-FGR-002-S03-SEVR-001 |
 
 ## Non-Effects
 
-This register contains two closed sessions and one open session (S03) in
-which all nine admitted D3 RQs have now been examined (RQ-016 through
-RQ-024), producing GF-015 through GF-023 (all Presented, undispositioned).
-S02 itself issued no FD and its historical state remains closed with
-findings presented. Later attributable dispositions and D2 closure are
-linked without being represented as session actions. Completing
-examination of all nine RQs does not itself close S03 or D3: no Founder
-Review package has been prepared, no cross-finding synthesis has been
-performed, and DG-5 and DG-6 remain later, separately governed gates not
-reached by this register. No Open Question is modified.
+This register contains three closed sessions (S01, S02, S03). S03 closed
+after all nine admitted D3 RQs were examined (RQ-016 through RQ-024),
+producing GF-015 through GF-023 (all Presented, undispositioned), and
+after the Session Exit Gate confirmed every §12.1 criterion. S02 itself
+issued no FD and its historical state remains closed with findings
+presented. Later attributable dispositions and D2 closure are linked
+without being represented as session actions. S03's closure is a session
+exit only: it does not close D3 — Governance Assurance, does not
+disposition any Governance Finding, does not create a Founder Decision,
+and does not invoke DG-5 or DG-6. No Founder Review package has been
+prepared for D3, and no Open Question is modified.
