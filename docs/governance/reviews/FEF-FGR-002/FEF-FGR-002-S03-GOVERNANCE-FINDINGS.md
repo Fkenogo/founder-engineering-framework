@@ -400,3 +400,107 @@ Deferred Matter; resolve the RQ-018 gap or the EV-058/EV-059
 contradictions; amend any FEF standard; or close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-019
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-019 |
+| Version | 1.0 |
+| Title | Founder Conditions Repeatedly Disclose "No Risk Accepted Beyond Exact Conditions," and FD-010's Non-Automation Boundary Is the Clearest Process-Level Control; No Operated Escalation or Reassessment Example Is Evidenced |
+| Reviewed RQ | FEF-FGR-002-RQ-020 — Residual Governance Risk and Founder Consideration |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-056; EV-065; EV-066; EV-067; EV-068; EV-069; EV-070; EV-071 |
+| Contrary evidence considered | None identified within the mapped set |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+RQ-020's mapped evidence shows two distinct kinds of control operating,
+neither of which constitutes an operated residual-risk assurance model.
+First, six of the eight mapped items (FD-011 through FD-016) carry an
+identical control-field row, "Accepted risks | None inferred beyond the
+exact conditions and limitations," recurring unchanged across six
+separately numbered Founder Decisions — the mapped set's operating
+mechanism for keeping acceptance of a finding distinct from acceptance of
+a risk. Second, FD-010 supplies a process-level non-automation boundary
+(execution loops "shall not exercise, simulate, infer, or automate"
+Founder judgement, disposition, approval, constitutional authority, or
+interpretation of materially ambiguous evidence) and an artefact-necessity
+gate requiring any new governance artefact to demonstrate a distinct
+governance-risk reduction. FD-013 explicitly states it does not create "a
+general D3 residual-risk model" and defers that subject to later governed
+treatment — an acknowledgement, recorded before D3 began, that no such
+model yet existed. FD-014 and FD-016 supply forward-looking conditioning
+and escalation obligations (impact assessment and re-freeze before
+reliance on a materially changed pack; "ambiguity escalation" and
+"independent revalidation where later assurance controls require it"),
+but no mapped item records either obligation as having actually been
+exercised.
+
+### Supporting Evidence
+
+- EV-056 — D2 Disposition Validation Report; Pass with Conditions; its own
+  §6 and §8 disclose non-independent validation and enumerate what the
+  validation does not do.
+- EV-065 (FD-010) — non-automation boundary (§2.2) and artefact-necessity
+  gate (§2.4); creates no constitutional effect (§4).
+- EV-066 through EV-071 (FD-011 through FD-016) — each "Accept with
+  Conditions," each carrying "Accepted risks: None inferred beyond the
+  exact conditions and limitations," each with an exact, itemised list of
+  subjects reserved for later governed treatment.
+- EV-068 (FD-013) — explicitly declines to create a general D3
+  residual-risk model.
+- EV-069 (FD-014) — impact-assessment, revalidation, and re-freeze
+  requirement before reliance on a materially changed frozen pack.
+- EV-071 (FD-016) — "ambiguity escalation" and "independent revalidation
+  where later assurance controls require it."
+
+### Contrary Evidence
+
+None identified. No mapped item contradicts the recurring "Accepted
+risks: None inferred ..." field or the absence of an operated escalation
+or reassessment example. EV-058 and EV-059 are not mapped to RQ-020 and
+are not considered here.
+
+### Limitations
+
+- No mapped item records an operated instance of escalation,
+  reassessment, or conditional-reliance being actually triggered; FD-014
+  and FD-016 state obligations for future operation only.
+- RQ-020's own declared evidence need references "Accepted D1
+  risk/exception decisions"; the mapped set is predominantly D2
+  (FD-011–016), with FD-010 at the D1/ORC-001 boundary — a mismatch
+  reported, not resolved by substitution.
+- Per EP-003 §7.4, EV-065 through EV-071 evidence the Founder's decisions
+  only, not the adequacy of the validation process around them; this
+  finding does not read them as process-adequacy evidence.
+- Does not state a residual-risk assurance model, an automatic risk
+  score, a risk-acceptance decision, or a FEF-wide exception model; these
+  are RQ-020's own declared exclusions.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the recurring "Accepted risks: None
+inferred ..." disclosure pattern and FD-010's non-automation boundary,
+both directly and repeatedly evidenced across the mapped set. **Lower
+confidence** on whether that recurring field was deliberately designed as
+a risk-acceptance-conflation control or is an administrative artefact of
+a repeated template, since no mapped record states its design rationale.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-020 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion about
+RQ-016 through RQ-019 or RQ-021 through RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015 through GF-018; close RQ-020 or any Open Question;
+create a Constitutional Candidate or Deferred Matter; resolve the RQ-018
+gap, the EV-058/EV-059 contradictions, or the D1/D2 evidence-need
+mismatch; amend any FEF standard; or close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.

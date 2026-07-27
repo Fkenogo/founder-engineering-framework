@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.15 |
+| Register version | 1.16 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -42,7 +42,7 @@
 | FEF-FGR-002-RQ-017 | 1.0 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 3; D3-RQC-02; Founder Accept | OQ-002 partial; OQ-003 direct | EP-003 v1.0 examined in S03 (Execution Loop 002) | Potential | Answered | GF-016 — Presented; Founder disposition pending | Pass with Conditions |
 | FEF-FGR-002-RQ-018 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 4; D3-RQC-03; Founder Accept | OQ-007; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 003) — sole mapped item insufficient; gap not resolved | Potential | Answered | GF-017 — Presented; Founder disposition pending; negative/gap finding | Pass with Conditions |
 | FEF-FGR-002-RQ-019 | 1.0 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 5; D3-RQC-04; Founder Accept | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | EP-003 v1.0 examined in S03 (Execution Loop 004) | Potential | Answered | GF-018 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
+| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | EP-003 v1.0 examined in S03 (Execution Loop 005) | Potential | Answered | GF-019 — Presented; Founder disposition pending | Pass with Conditions |
 | FEF-FGR-002-RQ-021 | 1.0 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 7; D3-RQC-06; Founder Accept | OQ-008; OQ-021 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
 | FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
 | FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | Evidence Pack Frozen (EP-003 v1.0) — Not Examined | Potential | Admitted | Pending | Pass with disclosed non-independent validation condition |
@@ -68,6 +68,7 @@
 | 1.13 | 2026-07-26 | RQ-017 examined in FEF-FGR-002-S03 (Execution Loop 002) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 002)"; Disposition updated to reference GF-016, Presented, Founder disposition pending; RQ-016 and RQ-018 through RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-016-VR-001 |
 | 1.14 | 2026-07-27 | RQ-018 examined in FEF-FGR-002-S03 (Execution Loop 003) using EP-003 v1.0 only; sole mapped item (EV-058) found insufficient to substantively answer the RQ; Lifecycle State updated to Answered; Evidence Status records the gap as not resolved; Disposition updated to reference GF-017 (negative/gap finding), Presented, Founder disposition pending; RQ-016, RQ-017, and RQ-019 through RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-017-VR-001 |
 | 1.15 | 2026-07-27 | RQ-019 examined in FEF-FGR-002-S03 (Execution Loop 004) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 004)"; Disposition updated to reference GF-018, Presented, Founder disposition pending; RQ-016 through RQ-018 and RQ-020 through RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-018-VR-001 |
+| 1.16 | 2026-07-27 | RQ-020 examined in FEF-FGR-002-S03 (Execution Loop 005) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 005)"; Disposition updated to reference GF-019, Presented, Founder disposition pending; RQ-016 through RQ-019 and RQ-021 through RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-019-VR-001 |
 
 ## Non-Effects
 
@@ -82,7 +83,7 @@ answered. No existing Open Question is modified, answered, or closed.
 |---|---:|---|
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
-| D3 — Governance Assurance | 9 | Admitted through DG-2; Evidence Pack EP-003 v1.0 frozen through DG-3; Session S03 Open (DG-4); 4 of 9 RQs answered at finding level (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017, negative/gap finding; RQ-019 — GF-018; all Presented, Founder disposition pending); 5 remain Admitted, Pending, unexamined |
+| D3 — Governance Assurance | 9 | Admitted through DG-2; Evidence Pack EP-003 v1.0 frozen through DG-3; Session S03 Open (DG-4); 5 of 9 RQs answered at finding level (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017, negative/gap finding; RQ-019 — GF-018; RQ-020 — GF-019; all Presented, Founder disposition pending); 4 remain Admitted, Pending, unexamined |
 | D4 — Records and Information Governance | 0 | Not reached |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
