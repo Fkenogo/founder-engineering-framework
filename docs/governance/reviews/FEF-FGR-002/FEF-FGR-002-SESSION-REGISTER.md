@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.16 |
+| Register version | 1.17 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -34,6 +34,19 @@ validation. The [D2 Traceability Register](FEF-FGR-002-D2-TRACEABILITY-REGISTER.
 and [D2 Closure Report](FEF-FGR-002-D2-CLOSURE-REPORT.md) control those later
 domain-level effects without changing the historical S02 session state.
 
+## D3 Post-Session Linkage
+
+S03 remains closed. Its nine Presented findings (GF-015 through GF-023) were
+subsequently assembled into a neutral D3-G2 Founder Review Package
+([FEF-FGR-002-D3-G2-FRP-001](FEF-FGR-002-D3-G2-FOUNDER-REVIEW-PACKAGE.md),
+validated Pass with Conditions in
+[FEF-FGR-002-D3-G2-FRPVR-001](FEF-FGR-002-D3-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md)),
+which controls this later, separately governed package-preparation effect
+without changing the historical S03 session state or its `Closed —
+Examination Complete; Governance Findings Presented` record above. No
+Founder Decision, Constitutional Candidate, or Deferred Matter is created
+by this linkage.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -55,6 +68,7 @@ domain-level effects without changing the historical S02 session state.
 | 1.14 | 2026-07-27 | Eighth bounded D3 examination iteration (Execution Loop 008) completed for RQ-023 only, using EP-003 v1.0 only (its own unusual evidentiary posture — full commit history and the corpus of validation records — treated as the mapped evidence per EP-003 §8.1); one candidate Governance Finding (GF-022) produced and validated Pass with Conditions; GF-015 through GF-021 unchanged; RQ-024 remains unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-022-VR-001 |
 | 1.15 | 2026-07-27 | Ninth bounded D3 examination iteration (Execution Loop 009) completed for RQ-024 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-023) produced and validated Pass with Conditions; GF-015 through GF-022 unchanged; all nine admitted D3 RQs are now examined and answered at finding level; zero FD created, zero disposition, no cross-finding synthesis performed, session not closed | FEF-FGR-002-S03-GF-023-VR-001 |
 | 1.16 | 2026-07-27 | Session Exit Gate (FEF-FGRP-001 §12.1) performed for FEF-FGR-002-S03: all six §12.1 criteria confirmed satisfied across all nine Execution Loops; GF-015 through GF-023 confirmed present, validated, and Presented/Pending; EP-003 and all protected artefacts confirmed unchanged; no cross-finding synthesis, recommendation, or constitutional content found; session state updated to Closed — Examination Complete; Governance Findings Presented; D3 domain remains Active, Not Closed; no Founder Review package prepared, no DG-5 or DG-6 invoked | FEF-FGR-002-S03-SEVR-001 |
+| 1.17 | 2026-07-27 | D3 Post-Session Linkage recorded: a neutral D3-G2 Founder Review Package assembling GF-015 through GF-023 verbatim, with blank Founder workbook sections, was prepared and validated Pass with Conditions; S03's historical Closed state and Record Location/Validation columns above are unchanged; no Founder Decision, Constitutional Candidate, or Deferred Matter created; D3 domain remains Active, Not Closed | FEF-FGR-002-D3-G2-FRPVR-001 |
 
 ## Non-Effects
 
@@ -67,5 +81,8 @@ presented. Later attributable dispositions and D2 closure are linked
 without being represented as session actions. S03's closure is a session
 exit only: it does not close D3 — Governance Assurance, does not
 disposition any Governance Finding, does not create a Founder Decision,
-and does not invoke DG-5 or DG-6. No Founder Review package has been
-prepared for D3, and no Open Question is modified.
+and does not invoke DG-5 or DG-6. A neutral D3-G2 Founder Review Package
+has since been prepared for GF-015 through GF-023 as a post-session
+linkage, analogous to D2's post-session decision linkage; it does not
+change S03's historical session state, does not disposition a finding,
+and no Open Question is modified.
