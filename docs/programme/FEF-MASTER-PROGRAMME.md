@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.31
+**Programme record version:** 0.32
 **Reconciliation date:** 2026-07-27
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.31 |
+| Programme version | Master Programme v0.32 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
 | Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **FEF-FGR-002-EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **FEF-FGR-002-S03** Open through DG-4; **examination in progress — RQ-016 through RQ-021 answered (GF-015 through GF-020; GF-017 is a negative/gap finding)**, RQ-022–024 unexamined; not dispositioned |
@@ -152,6 +152,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
 | FEF-RDS-001 | Planned discovery standard | Pending | Must remain separate from RGS and precede discovery execution |
+| FRAS (working title) | [Founder Repository Architecture Standard — candidate proposal](FEF-FRAS-CANDIDATE-PROPOSAL.md) | Candidate — Not Authored; Not Active | Registers a future cross-project repository-architecture standard as a recommendation only; no standard identifier allocated, no work package authorised, no repository design created |
 | FEF Constitution | Future constitutional deliverable | Pending | Cannot commence before discovery and Founder decisions |
 
 ### 5.1 Programme Governance Pilot Recognition
@@ -509,6 +510,21 @@ invoked, and FEF-FGR-002-S03 remains open, not closed. Conducting the
 next bounded D3 Review Question examination iteration (RQ-022),
 repeating this same template, is the next permissible activity and is
 not commenced by this revision.
+
+This v0.32 revision registers a working-title framework capability
+candidate, the Founder Repository Architecture Standard (FRAS), as a new
+row in Section 5's deliverables table, pointing to
+[FEF-FRAS-CANDIDATE-PROPOSAL.md](FEF-FRAS-CANDIDATE-PROPOSAL.md). This is
+a bounded housekeeping addition and creates no D3 examination effect.
+FRAS is not authored, designed, or activated by this revision; no
+standard identifier is allocated; no work package is created or
+authorised; and no repository architecture is designed. The candidate
+proposal cross-references FEF-P0-004 and FEF-P1-002 and notes OQ-016
+informationally without changing any of their current status, authority,
+or lifecycle. This revision creates no Evidence Record, Evidence Pack,
+session, finding, decision, Constitutional Candidate, or Deferred Matter,
+changes no Open Question, and does not alter the authorised programme
+sequence in Section 6.
 
 ## 11. Change Control
 

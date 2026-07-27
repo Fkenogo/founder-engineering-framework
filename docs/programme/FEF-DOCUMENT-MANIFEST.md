@@ -5,7 +5,7 @@
 | Document | Category | Status | Authority |
 |---|---|---|---|
 | `README.md` | Navigation | Draft | Informational only |
-| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.25 | Authoritative for programme status, sequence, dependencies, and next-work control only |
+| `docs/programme/FEF-MASTER-PROGRAMME.md` | Programme Governance Pilot Artefact — Master Programme | Current v0.32 | Authoritative for programme status, sequence, dependencies, and next-work control only |
 | `docs/programme/FEF-FOUNDER-DASHBOARD.md` | Programme Governance Pilot Artefact — Dashboard | Current | Informational view derived from the Master Programme |
 | `docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md` | Programme Governance Pilot Artefact — Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; no constitutional effect and no D2 commencement |
 | `docs/programme/FEF-PROGRAMME-DEPENDENCY-REVIEW.md` | Programme Governance Pilot Artefact — Dependency Review | Current | Programme sequencing only; no governance effect |
@@ -15,6 +15,7 @@
 | `docs/programme/FEF-PROGRAMME-INITIATION.md` | Programme | Draft | Non-authoritative programme record |
 | `docs/programme/FEF-INITIAL-ROADMAP.md` | Programme | Draft | Non-authoritative programme plan |
 | `docs/programme/FEF-DOCUMENT-MANIFEST.md` | Programme | Draft | Non-authoritative document index |
+| `docs/programme/FEF-FRAS-CANDIDATE-PROPOSAL.md` | Programme — Framework Capability Candidate | Candidate — Not Authored; Not Active | Registers the Founder Repository Architecture Standard (FRAS) working title as a future cross-project recommendation only; no standard identifier, work package, or repository design created |
 | `docs/governance/FEF-DRAFT-PRINCIPLES.md` | Governance | Exploratory Draft | Non-authoritative proposal |
 | `docs/governance/research/FEF-RGS-000-RESEARCH-GOVERNANCE-STANDARD.md` | Research governance standard | Draft v0.2 | Founder Review Required; not approved |
 | `docs/governance/research/archive/FEF-RGS-000-v0.1-DRAFT.md` | Preserved prior draft | Draft v0.1 snapshot | Historical review evidence only; not approved or active |
