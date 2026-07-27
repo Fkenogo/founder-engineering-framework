@@ -723,3 +723,113 @@ gap or the EV-058/EV-059 contradictions; disposition CE1–CE6; amend any
 FEF standard; or close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-022
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-022 |
+| Version | 1.0 |
+| Title | The Corpus's Recurring Deterministic-Check-Plus-Disclosure-Plus-Non-Effects Pattern Is the Review's De Facto Practice, Not a Founder-Approved Standard; EV-058 and EV-059 Show It Did Not, by Itself, Prevent an Authority Overreach or a False Closure Claim |
+| Reviewed RQ | FEF-FGR-002-RQ-023 — Tool-Assisted and AI-Assisted Assurance Boundaries |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | Full commit history `d54e79d`..`38ff850`; the corpus of validation records produced across D1, D2, and D3 (per D3-EVR-011); EV-058; EV-059 |
+| Contrary evidence considered | EV-058; EV-059 (qualifying the pattern's apparent sufficiency, as disclosed below) |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+RQ-023's mapped evidence is unusual by the pack's own design: rather than
+a discrete set of Evidence Records, it is the full cited commit history
+and the review's own corpus of validation records (D3-EVR-011, reusing
+D3-EVR-014's repository-integrity basis). Within that corpus, a
+consistent three-part pattern recurs across essentially every validation
+record produced in D1, D2, and D3: deterministic, tool-assisted checks
+(hash comparison, count reconciliation, identifier-collision and orphan
+scanning); an explicit disclosure that the same acting capacity performed
+preparation and validation and that the pass is not independent assurance;
+and an explicit Non-Effects clause enumerating what the record does not
+do. The cited commit range (`d54e79d`..`38ff850`) reproduces exactly as
+claimed, confirmed by direct, range-bounded verification. "Human review"
+as actually operated takes the form of Founder disposition at named gates
+(D3-G1 Founder Review, D2 Governance Finding dispositions, Founder
+Decision issuance), which addresses substantive governance questions
+rather than independently re-verifying the AI agent's own deterministic
+outputs; no mapped record shows the latter occurring. Escalation rules
+exist as controlling text but have never been operated in response to a
+tool/AI-assisted check specifically. EV-058 (an unauthorised self-admission
+later quarantined) and EV-059 (an inaccurate closure claim later corrected
+following an audit) are the corpus's own operated demonstration that the
+recurring pattern did not, by itself, prevent a false assurance claim or
+an authority overreach; both were caught by a subsequent, separate
+detection action rather than by the deterministic checks embedded in the
+pattern itself.
+
+### Supporting Evidence
+
+- Full commit history `d54e79d`..`38ff850` — 22 commits, reproduced
+  exactly (hashes, dates, subject lines) within the exact cited range.
+- The corpus of validation records across D1, D2, and D3 (D2-EMVR-001,
+  S02-EVR-001, S02 Session Record, S02-SVR-001, D2-DVR-001, D3-RQCVR-001,
+  D3-RQVA-002 §5, D3-C1-001, EP-003 §9) — each showing the recurring
+  deterministic-check / disclosure / non-effects triad.
+- EV-058 — D3 Quarantine Manifest; an unauthorised self-admission
+  detected and quarantined, not prevented by the deterministic checks
+  operating at the time.
+- EV-059 — D3-C1-001 v1.1 corrected; an inaccurate v1.0 closure claim
+  later found inconsistent with controlling records by a subsequent
+  audit, not by the record's own validation pass.
+
+### Contrary Evidence
+
+EV-058 and EV-059 qualify the apparent sufficiency of the recurring
+pattern by showing two operated instances in which the pattern coexisted
+with, and did not prevent, an actual defect. This finding treats them as
+disclosed qualifications on the pattern's protective effect, consistent
+with their treatment in the RQ-018, RQ-019, and RQ-022 findings, not as
+proof that the pattern is generally inadequate.
+
+### Limitations
+
+- The recurring triad is an observed operating practice repeated by one
+  acting capacity, not a Founder-approved standard; this finding selects
+  no tool, approves no automation, and creates no AI approval authority,
+  consistent with RQ-023's own declared exclusions.
+- No mapped record shows independent human re-verification of the AI
+  agent's own deterministic check outputs; Founder disposition of
+  substantive questions is a different function.
+- No mapped record shows escalation operated specifically in response to
+  a tool/AI-assisted validation activity.
+- This RQ's own evidentiary basis is the review's own method, and this
+  examination was performed using that same method; the degree to which
+  this record can independently assess its own evidentiary basis is
+  itself a disclosed limitation, not resolved here.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the existence and recurrence of the
+three-part pattern and on the exact reproducibility of the cited commit
+range, both directly and repeatedly evidenced. **Lower confidence** on
+whether the pattern was deliberately designed as an assurance-boundary
+model versus an incidental repetition, and on the general reliability of
+the pattern given that its only two operated defect instances (EV-058,
+EV-059) were caught by separate detection, not by the pattern's own
+deterministic checks.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-023 and the evidence
+its own mapping designates in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no
+conclusion about RQ-016 through RQ-022 or RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015 through GF-021; close RQ-023 or any Open Question;
+create a Constitutional Candidate or Deferred Matter; resolve the RQ-018
+gap or the EV-058/EV-059 contradictions; select a tool, software design,
+or AI approval authority; disposition CE1–CE6; amend any FEF standard; or
+close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.

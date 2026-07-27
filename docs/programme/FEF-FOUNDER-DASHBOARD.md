@@ -9,18 +9,18 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.33 |
+| Programme version | Master Programme v0.34 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **S03** Open — **examination in progress**, RQ-016 through RQ-022 answered (GF-015 through GF-021 — GF-017 a negative/gap finding) |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **S03** Open — **examination in progress**, RQ-016 through RQ-023 answered (GF-015 through GF-022 — GF-017 a negative/gap finding) |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D3 Evidence Pack frozen (EP-003 v1.0); session S03 Open, 7 of 9 RQs examined (RQ-016, RQ-017, RQ-018, RQ-019, RQ-020, RQ-021, RQ-022); Domain Exit Gate (DG-6) not reached |
+| Current execution window | D3 Evidence Pack frozen (EP-003 v1.0); session S03 Open, 8 of 9 RQs examined (RQ-016, RQ-017, RQ-018, RQ-019, RQ-020, RQ-021, RQ-022, RQ-023); Domain Exit Gate (DG-6) not reached |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D3 — Governance Assurance; 7 of 9 RQs examined (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017; RQ-019 — GF-018; RQ-020 — GF-019; RQ-021 — GF-020; RQ-022 — GF-021), 2 remain Admitted and Pending |
+| Next review domain | D3 — Governance Assurance; 8 of 9 RQs examined (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017; RQ-019 — GF-018; RQ-020 — GF-019; RQ-021 — GF-020; RQ-022 — GF-021; RQ-023 — GF-022), 1 remains Admitted and Pending |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 | Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
@@ -37,14 +37,14 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) with a frozen 39-record Evidence Pack (EP-003 v1.0) and an open session (S03); seven RQs examined (RQ-016 through RQ-022, GF-015 through GF-021 Presented); RQ-023 and RQ-024 remain unexamined. |
-| What are we doing? | Session FEF-FGR-002-S03 is open under FEF-FGR-002-RA-002; seven bounded RQ examination iterations (Execution Loops 001–007) are complete; the next bounded iteration (RQ-023) has not yet been conducted. |
+| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) with a frozen 39-record Evidence Pack (EP-003 v1.0) and an open session (S03); eight RQs examined (RQ-016 through RQ-023, GF-015 through GF-022 Presented); RQ-024 remains unexamined. |
+| What are we doing? | Session FEF-FGR-002-S03 is open under FEF-FGR-002-RA-002; eight bounded RQ examination iterations (Execution Loops 001–008) are complete; the next bounded iteration (RQ-024) has not yet been conducted. |
 | Why are we doing it? | Evidence requirements were derived, candidate sources qualified, the baseline frozen through DG-3, and the frozen pack reverified at entry — matching identity, fingerprint, and membership unchanged — before authorising it as the examination baseline and formally opening the session. One genuine gap (RQ-018 dissent evidence) and two preserved contradictions (EV-058, EV-059) are carried forward as disclosed conditions into the open session, not resolved. |
-| What must finish before anything else? | The next bounded D3 Review Question examination iteration (RQ-023) must be conducted against EP-003 v1.0 only, under the applicable V4–V6 validation checkpoints. |
+| What must finish before anything else? | The next bounded D3 Review Question examination iteration (RQ-024) must be conducted against EP-003 v1.0 only, under the applicable V4–V6 validation checkpoints. |
 
 ## Immediate Next Programme Action
 
-**Conduct the next bounded D3 Review Question examination iteration (RQ-023) using EP-003 v1.0 only; RQ-016 through RQ-022 have been examined and answered at finding level (GF-015 through GF-021, all Presented)**
+**Conduct the next bounded D3 Review Question examination iteration (RQ-024) using EP-003 v1.0 only; RQ-016 through RQ-023 have been examined and answered at finding level (GF-015 through GF-022, all Presented)**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
 FEF-FGR-002-RQ-024. Evidence requirements were derived
@@ -60,11 +60,11 @@ validated through DG-4
 — Pass with Conditions, determining EP-003 v1.0 authorised as the
 examination baseline — and then formally opened under FEF-FGR-002-RA-002
 ([Session Opening Record](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md)).
-**Session state: Open.** The first seven bounded RQ examination
-iterations (Execution Loops 001–007) were then performed for RQ-016,
-RQ-017, RQ-018, RQ-019, RQ-020, RQ-021, and RQ-022 respectively, producing
-seven candidate Governance Findings,
-[FEF-FGR-002-GF-015 through GF-021](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GOVERNANCE-FINDINGS.md),
+**Session state: Open.** The first eight bounded RQ examination
+iterations (Execution Loops 001–008) were then performed for RQ-016,
+RQ-017, RQ-018, RQ-019, RQ-020, RQ-021, RQ-022, and RQ-023 respectively,
+producing eight candidate Governance Findings,
+[FEF-FGR-002-GF-015 through GF-022](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GOVERNANCE-FINDINGS.md),
 each validated Pass with Conditions
 ([GF-015](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-015-VALIDATION-REPORT.md),
 [GF-016](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-016-VALIDATION-REPORT.md),
@@ -72,15 +72,16 @@ each validated Pass with Conditions
 [GF-018](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-018-VALIDATION-REPORT.md),
 [GF-019](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-019-VALIDATION-REPORT.md),
 [GF-020](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-020-VALIDATION-REPORT.md),
-[GF-021](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-021-VALIDATION-REPORT.md)).
+[GF-021](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-021-VALIDATION-REPORT.md),
+[GF-022](../governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-GF-022-VALIDATION-REPORT.md)).
 All remain **Presented — Founder disposition pending**. GF-017 is a
 negative/gap finding: RQ-018's sole mapped item (EV-058) was found
 insufficient to substantively answer the RQ, and **the RQ-018 gap itself
-remains open**. RQ-023 and RQ-024 remain Admitted and Pending,
-unexamined. The EV-058/EV-059 contradictions are carried forward as
-disclosed conditions, not resolved. EV-032 through EV-049 remain
-permanently retired. Zero Founder Decisions exist for D3. Six earlier,
-non-genuinely-authorised artefacts remain quarantined and preserved under
+remains open**. RQ-024 remains Admitted and Pending, unexamined. The
+EV-058/EV-059 contradictions are carried forward as disclosed conditions,
+not resolved. EV-032 through EV-049 remain permanently retired. Zero
+Founder Decisions exist for D3. Six earlier, non-genuinely-authorised
+artefacts remain quarantined and preserved under
 `docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`
 and were not reused.
 
