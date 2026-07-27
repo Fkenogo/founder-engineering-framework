@@ -623,3 +623,103 @@ asymmetry identified above; amend any FEF standard; or close
 FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-021
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-021 |
+| Version | 1.0 |
+| Title | Routine Fingerprint Reverification and Two Operated Defect/Challenge-Correction Episodes Are Evidenced; Whether Independent Revalidation Should Become a Standing Requirement Remains Explicitly Undecided Within the Mapped Set |
+| Reviewed RQ | FEF-FGR-002-RQ-022 — Assurance Continuity and Revalidation Triggers |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-018; EV-050; EV-051; EV-052; EV-053; EV-058; EV-059 |
+| Contrary evidence considered | None identified within the mapped set |
+| Context-only evidence cited | EV-063 |
+
+### Conclusion
+
+RQ-022's mapped evidence shows two distinct, separately evidenced
+practices, neither of which settles a general rule for when independent
+revalidation is required. First, scheduled fingerprint reverification
+operates at every observed gate transition regardless of any suspected
+defect: pack SHA-256, version, and source fingerprints are recomputed and
+compared at mobilisation validation, session-entry validation, session
+opening, and post-session validation alike (EV-050 through EV-053).
+Second, the mapped set's only two operated instances of an actual defect
+or challenge — an unauthorised admission (EV-058) and an inaccurate
+closure claim later found inconsistent with controlling records by a
+"read-only programme audit" (EV-059) — were each corrected by the same
+non-independent capacity that produced the original material, not by a
+separately performed independent revalidation. EV-018 supplies a
+structural recusal-and-vacancy trigger for exactly this review's own
+single-capacity condition, but it has never been operated. EV-059's own
+text is the mapped set's most direct statement on RQ-022's question: it
+explicitly identifies whether independent revalidation should become a
+standing template for future admissions as a matter reserved for Founder
+consideration, not settled here.
+
+### Supporting Evidence
+
+- EV-018 — ICR-001 §8 recusal/vacancy trigger provisions; §6.3
+  independent-revalidation expectation where the Founder is the sole
+  Validator; §10 `Reopened` conflict-lifecycle state.
+- EV-050 through EV-053 — D2 mobilisation validation, session-entry
+  validation, session record, and post-session validation, each recording
+  an operated fingerprint/pack reverification step.
+- EV-058 — D3 Quarantine Manifest; detection, quarantine, and restoration
+  of an unauthorised D3 state; §6 states a future revalidation-of-currency
+  requirement for reuse of quarantined material specifically.
+- EV-059 — D3-C1-001 v1.1 corrected; documents its own v1.0 closure claim
+  being found inconsistent by a subsequent audit and corrected; §4.5 and
+  §4.7 state the quarantine-and-recovery procedure is reusable and that
+  standing independent-revalidation practice remains an open matter for
+  the Founder.
+
+### Contrary Evidence
+
+None identified within the mapped set. EV-059's correction of its own
+prior version is disclosed as a qualification consistent with its
+treatment in the RQ-019 and RQ-020 findings, not as evidence contradicting
+the observations above.
+
+### Limitations
+
+- No mapped item records an operated instance of independent revalidation
+  performed by a party separate from the one that produced the original
+  result.
+- EV-018's recusal/vacancy provisions have never been triggered in this
+  review; whether they would function as described if triggered is not
+  tested by the mapped evidence.
+- RQ-022's own question — under what circumstances revalidation *should*
+  be required — is left explicitly undecided by the mapped evidence's own
+  most direct statement on the subject (EV-059 §4.7); this finding does
+  not resolve it.
+- EV-063 is cited as Context Only per its admissibility condition and
+  confers no authority for this finding.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the existence of two distinct
+practices — scheduled reverification and same-capacity defect/challenge
+correction — both directly and repeatedly evidenced. **Lower confidence**
+on any general rule for when independent (as opposed to same-capacity)
+revalidation should be required, since the mapped evidence's own most
+direct statement on that question declares it unresolved.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-022 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion about
+RQ-016 through RQ-021 or RQ-023 through RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015 through GF-020; close RQ-022 or any Open Question;
+create a Constitutional Candidate or Deferred Matter; resolve the RQ-018
+gap or the EV-058/EV-059 contradictions; disposition CE1–CE6; amend any
+FEF standard; or close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.

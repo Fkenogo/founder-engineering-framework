@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.12 |
+| Register version | 1.13 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -24,7 +24,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 | FEF-FGR-002-S01 | D1 — Governance Authority | Examine the eight admitted D1 RQs and produce validated GFs | RQ-001–RQ-008 | EP-001 v1.0 — Frozen | Execute and close | Pass with condition | Closed — Validated with Condition | [Session Record](FEF-FGR-002-S01-SESSION-RECORD.md) | Pass with recorded non-independent condition |
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
-| FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Open — Examination In Progress (6 of 9 RQs examined) | [RQ-021 Examination Record](FEF-FGR-002-S03-RQ-021-EXAMINATION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-GF-020-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Open — Examination In Progress (7 of 9 RQs examined) | [RQ-022 Examination Record](FEF-FGR-002-S03-RQ-022-EXAMINATION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-GF-021-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -51,14 +51,15 @@ domain-level effects without changing the historical S02 session state.
 | 1.10 | 2026-07-27 | Fourth bounded D3 examination iteration (Execution Loop 004) completed for RQ-019 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-018) produced and validated Pass with Conditions; GF-015 through GF-017 unchanged; RQ-020 through RQ-024 remain unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-018-VR-001 |
 | 1.11 | 2026-07-27 | Fifth bounded D3 examination iteration (Execution Loop 005) completed for RQ-020 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-019) produced and validated Pass with Conditions; GF-015 through GF-018 unchanged; RQ-021 through RQ-024 remain unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-019-VR-001 |
 | 1.12 | 2026-07-27 | Sixth bounded D3 examination iteration (Execution Loop 006) completed for RQ-021 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-020) produced and validated Pass with Conditions; GF-015 through GF-019 unchanged; RQ-022 through RQ-024 remain unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-020-VR-001 |
+| 1.13 | 2026-07-27 | Seventh bounded D3 examination iteration (Execution Loop 007) completed for RQ-022 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-021) produced and validated Pass with Conditions; GF-015 through GF-020 unchanged; RQ-023 and RQ-024 remain unexamined; zero FD created, zero disposition, session not closed | FEF-FGR-002-S03-GF-021-VR-001 |
 
 ## Non-Effects
 
 This register contains two closed sessions and one open session (S03) in
-which evidence examination is in progress (6 of 9 RQs examined). S02
+which evidence examination is in progress (7 of 9 RQs examined). S02
 itself issued no FD and its historical state remains closed with findings
 presented. Later attributable dispositions and D2 closure are linked
 without being represented as session actions. S03 has examined only
-RQ-016 through RQ-021, has produced only GF-015 through GF-020 (all
+RQ-016 through RQ-022, has produced only GF-015 through GF-021 (all
 Presented, undispositioned), and remains open. No Open Question is
 modified.

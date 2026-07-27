@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.31 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.33 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Open — Examination In Progress (RQ-016 through RQ-021 answered, GF-015/016/017/018/019/020 Presented — GF-017 a negative/gap finding; RQ-022–024 unexamined)
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Open — Examination In Progress (RQ-016 through RQ-022 answered, GF-015/016/017/018/019/020/021 Presented — GF-017 a negative/gap finding; RQ-023–024 unexamined)
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Conduct the next bounded D3 Review Question examination iteration (RQ-022) using EP-003 v1.0 only; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
+**Immediate next programme action:** Conduct the next bounded D3 Review Question examination iteration (RQ-023) using EP-003 v1.0 only; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
@@ -199,15 +199,15 @@ amended and no constitutional proposal was created.
 FEF-FGR-002-S03 was then formally opened under FEF-FGR-002-RA-002, within
 the exact scope and conditions validated at DG-4. **Session state at
 opening: Open — Evidence Examination Not Yet Started.**
-FEF-FGR-002-EP-003 v1.0 was not altered by the opening action. Six bounded
-D3 Review Question examination iterations (Execution Loops 001 through
-006) have since been performed against EP-003 v1.0 only, examining RQ-016
-through RQ-021 and producing GF-015 through GF-020 (all Presented,
-Founder disposition pending; GF-017 is a negative/gap finding); RQ-022
-through RQ-024 remain unexamined. No Founder Decision exists for D3.
-Conducting the next bounded D3 Review Question examination iteration
-(RQ-022) using EP-003 v1.0 only is the next separately governed activity
-and is not commenced here; that examination is itself governed by the
+FEF-FGR-002-EP-003 v1.0 was not altered by the opening action. Seven
+bounded D3 Review Question examination iterations (Execution Loops 001
+through 007) have since been performed against EP-003 v1.0 only,
+examining RQ-016 through RQ-022 and producing GF-015 through GF-021 (all
+Presented, Founder disposition pending; GF-017 is a negative/gap
+finding); RQ-023 and RQ-024 remain unexamined. No Founder Decision exists
+for D3. Conducting the next bounded D3 Review Question examination
+iteration (RQ-023) using EP-003 v1.0 only is the next separately governed
+activity and is not commenced here; that examination is itself governed by the
 Plan's V4–V6 validation checkpoints and the Session Exit Gate (§12.1),
 with DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remaining
 later, separate gates.
