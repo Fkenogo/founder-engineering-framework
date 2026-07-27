@@ -833,3 +833,115 @@ or AI approval authority; disposition CE1–CE6; amend any FEF standard; or
 close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-023
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-023 |
+| Version | 1.0 |
+| Title | The FEF-RQS-001 §12 Traceability Template Is Operated End-to-End for D1 and D2 but Reaches Only the GF Node for D3; Later-Reconsideration Triggers Are Evidenced Only at the Pre-Disposition Stage |
+| Reviewed RQ | FEF-FGR-002-RQ-024 — Assurance Traceability, Closure, and Downstream Reliance |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-022; EV-028; EV-030; EV-050; EV-051; EV-052; EV-053; EV-054; EV-055; EV-057; EV-058; EV-059; EV-062 |
+| Contrary evidence considered | EV-058; EV-059 (already-disclosed qualifications, not new contrary evidence) |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+RQ-024's mapped evidence shows the controlling traceability template
+(FEF-RQS-001 §12: Agenda/Domain → Source/OQ → RQ → Evidence Records/Pack
+→ Session Record → GF or Recorded Non-Finding → FD or Recorded
+Non-Decision → OQ/Candidate/Deferral Treatment) operated completely,
+end-to-end, exactly twice: once for D1 (EV-030, reaching Founder
+Disposition, review-scoped FD, and an explicit "None" Constitutional
+Candidate entry in every row) and once for D2 (EV-055, reaching the same
+nodes plus an explicit "None / None" Candidate/Deferral entry and a
+"Dispositioned; D2 requirement satisfied" closure treatment in every
+row). For D3, the mapped evidence shows the identical chain discipline
+applied at the domain's outset (EV-062's candidate-to-canonical mapping
+and mandatory-field reconciliation) and at entry validation (EV-028's
+front-end checks), but the chain currently stops at the GF node: every D3
+finding produced so far (GF-015 through GF-022) explicitly and
+individually discloses "Founder Disposition: Pending," which is itself
+the specification's own "explicit reason for a missing link" rather than
+a silent gap. Downstream reliance across a domain boundary is evidenced
+concretely by EV-030's linkage of D1's closure through ORC-001 to FD-010's
+authorisation of D2 mobilisation. The mapped set's two "later
+reconsideration trigger" examples (EV-058, EV-059) both occurred during
+D3's preparation and admission stages, before any D3 GF or FD existed,
+so they evidence pre-disposition reconsideration rather than the
+post-closure, post-downstream-reliance reconsideration RQ-024 also asks
+about.
+
+### Supporting Evidence
+
+- EV-022 — FEF-RQS-001 §12; states the controlling eight-node traceability
+  template and its missing-link rule.
+- EV-030 — D1 Traceability Register; operates the template end-to-end for
+  all eight D1 RQs, with an Inter-Domain Operational Checkpoint Linkage
+  table tracing D1 closure through ORC-001 to FD-010.
+- EV-055 — D2 Traceability Register; operates the template end-to-end for
+  all seven D2 RQs, explicitly recording "None / None" for Candidate/
+  Deferral in every row.
+- EV-028 — S01 Entry Validation Report; front-end traceability check
+  preceding D1 substantive examination.
+- EV-054 — D2-FRPVR-001; validates neutral Founder Review materials
+  without altering finding lifecycle state, a distinct pre-FD checkpoint.
+- EV-057 — D2-CR-001; documents the D2 domain-closure gate itself via a
+  seven-item closure checklist.
+- EV-062 — D3-RQ-VALIDATION-AND-ADMISSION-RECORD; shows the same
+  candidate-to-canonical mapping and mandatory-field discipline applied
+  at D3's own outset.
+- EV-058, EV-059 — the mapped set's operated "later reconsideration
+  trigger" examples, both pre-dating any D3 GF or FD.
+
+### Contrary Evidence
+
+None beyond the qualifications on EV-058 and EV-059 already disclosed in
+the RQ-018, RQ-019, RQ-022, and RQ-023 findings. No mapped item
+contradicts the observation that the template reaches completion for D1
+and D2 but stops at the GF node for D3.
+
+### Limitations
+
+- D3's own FD and Candidate/Deferral traceability nodes are not yet
+  populated for any finding produced so far; this is reported, not
+  resolved or anticipated.
+- No single "D3 Traceability Register" analogous to EV-030/EV-055 exists
+  yet within the mapped evidence.
+- EV-058 and EV-059 evidence reconsideration triggered before a D3 GF or
+  FD existed, not after closure and downstream reliance as RQ-024 also
+  asks about; this finding does not extend them to the post-disposition
+  case.
+- Does not design D4 retention, D5 lifecycle, D6 register architecture,
+  D7 candidate creation, or D8 disposition; these are RQ-024's own
+  declared exclusions.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the existence and completeness of the
+D1 and D2 traceability chains and on D3's chain currently stopping at the
+GF node, both directly evidenced. **Lower confidence** on whether D3's
+eventual FD/Candidate/Deferral traceability will take the same
+single-register form used for D1 and D2, since the mapped evidence shows
+no operated example of that stage for D3.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-024 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion
+about RQ-016 through RQ-023, performs no cross-finding synthesis, and
+states no Founder recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015 through GF-022; close RQ-024 or any Open Question;
+create a Constitutional Candidate or Deferred Matter; resolve the RQ-018
+gap or the EV-058/EV-059 contradictions; design D4, D5, D6, D7, or D8
+policy; perform cross-finding synthesis; prepare a Founder Review
+package; commence Governance Evolution or FRAS work; amend any FEF
+standard; or close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.

@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.12 |
+| Register version | 1.13 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-07-27 |
-| Substantive entry count | 22 |
+| Substantive entry count | 23 |
 
 ## Register
 
@@ -43,6 +43,7 @@
 | FEF-FGR-002-GF-020 | 1.0 | A Complete Before/After Founder-Gate Assurance Cycle Is Evidenced Once (D3-G1); the D2 FD Track Evidences Only the After Side, and Downstream Implementation Reliance Is Stated as a Precondition, Not Independently Confirmed | RQ-021 | EV-017; EV-018; EV-021; EV-022; EV-056; EV-060; EV-061; EV-062; EV-065; EV-066; EV-067; EV-068; EV-069; EV-070; EV-071 | A neutral package, verbatim disposition capture, and exact-source-comparison admission together evidence a complete before/after assurance cycle for the D3-G1 gate; the D2 FD track (FD-011–016) evidences only the after side within this mapped set | Cycle evidenced once, not established as a general model; downstream implementation reliance stated and self-reported, not independently confirmed; neutrality claims self-stated, not corroborated | Presented | Pending | Pending | Pending | Pass with Conditions |
 | FEF-FGR-002-GF-021 | 1.0 | Routine Fingerprint Reverification and Two Operated Defect/Challenge-Correction Episodes Are Evidenced; Whether Independent Revalidation Should Become a Standing Requirement Remains Explicitly Undecided | RQ-022 | EV-018; EV-050; EV-051; EV-052; EV-053; EV-058; EV-059 | Scheduled fingerprint reverification operates at every gate transition; EV-058 and EV-059 are the sole operated defect/challenge-correction episodes, both handled by the same non-independent capacity; EV-018's recusal/vacancy provisions have never been triggered | No operated instance of independent revalidation by a separate party; whether independent revalidation should become a standing requirement is left explicitly undecided by EV-059 §4.7 itself | Presented | Pending | Pending | Pending | Pass with Conditions |
 | FEF-FGR-002-GF-022 | 1.0 | The Corpus's Recurring Deterministic-Check-Plus-Disclosure-Plus-Non-Effects Pattern Is the Review's De Facto Practice, Not a Founder-Approved Standard; EV-058 and EV-059 Show It Did Not, by Itself, Prevent an Authority Overreach or a False Closure Claim | RQ-023 | Full commit history `d54e79d`..`38ff850`; corpus of D1–D3 validation records; EV-058; EV-059 | A recurring deterministic-check/disclosure/non-effects triad operates across essentially every validation record in the review; the cited commit range reproduces exactly; EV-058 and EV-059 show the pattern did not by itself prevent a defect | No independent human re-verification of deterministic outputs evidenced; no tool/AI-triggered escalation operated; RQ-023's own evidence is the reviewer's own method, a disclosed self-referential limitation | Presented | Pending | Pending | Pending | Pass with Conditions |
+| FEF-FGR-002-GF-023 | 1.0 | The FEF-RQS-001 §12 Traceability Template Is Operated End-to-End for D1 and D2 but Reaches Only the GF Node for D3; Later-Reconsideration Triggers Are Evidenced Only at the Pre-Disposition Stage | RQ-024 | EV-022; EV-028; EV-030; EV-050; EV-051; EV-052; EV-053; EV-054; EV-055; EV-057; EV-058; EV-059; EV-062 | The FEF-RQS-001 traceability template is operated end-to-end for D1 (EV-030) and D2 (EV-055) through Founder Disposition/FD/Candidate-Deferral; D3's chain currently stops at the GF node, explicitly disclosed as pending | D3's FD/Candidate/Deferral nodes not yet populated; no D3 Traceability Register exists yet; EV-058/EV-059's reconsideration examples predate any D3 GF or FD | Presented | Pending | Pending | Pending | Pass with Conditions |
 
 ## Change History
 
@@ -61,12 +62,13 @@
 | 1.10 | 2026-07-27 | GF-020 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's sixth bounded RQ-021 examination iteration (Execution Loop 006); GF-015 through GF-019 unchanged; no Founder disposition recorded; RQ-022 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-020-VR-001 |
 | 1.11 | 2026-07-27 | GF-021 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's seventh bounded RQ-022 examination iteration (Execution Loop 007); GF-015 through GF-020 unchanged; no Founder disposition recorded; RQ-023 and RQ-024 remain unexamined | FEF-FGR-002-S03-GF-021-VR-001 |
 | 1.12 | 2026-07-27 | GF-022 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's eighth bounded RQ-023 examination iteration (Execution Loop 008); GF-015 through GF-021 unchanged; no Founder disposition recorded; RQ-024 remains unexamined | FEF-FGR-002-S03-GF-022-VR-001 |
+| 1.13 | 2026-07-27 | GF-023 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's ninth bounded RQ-024 examination iteration (Execution Loop 009); GF-015 through GF-022 unchanged; no Founder disposition recorded; all nine admitted D3 RQs now answered at finding level; D3 remains active, not closed | FEF-FGR-002-S03-GF-023-VR-001 |
 
 ## Non-Effects
 
 This register contains fourteen Founder-dispositioned Governance Findings
-(GF-001 through GF-014) and eight Presented, undispositioned D3 findings
-(GF-015 through GF-022). Disposition does not label a finding Approved,
+(GF-001 through GF-014) and nine Presented, undispositioned D3 findings
+(GF-015 through GF-023). Disposition does not label a finding Approved,
 Active, or Constitutional and does not close an Open Question. GF-015
-through GF-022's Presented state does not constitute Founder disposition,
+through GF-023's Presented state does not constitute Founder disposition,
 does not close D3, and does not disposition CE1–CE6.
