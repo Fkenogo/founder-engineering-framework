@@ -108,7 +108,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
 | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
 | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
-| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, and D2 Closed | D3 has nine admitted Review Questions (RQ-016–024), a Frozen Evidence Pack (EP-003 v1.0), and an open session (S03) in which evidence examination has not yet started; zero D3 findings or decisions |
+| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, and D2 Closed | D3 has nine admitted Review Questions (RQ-016–024), a Frozen Evidence Pack (EP-003 v1.0), and an open session (S03) in which six RQs (RQ-016 through RQ-021) have been examined, producing GF-015 through GF-020 (all Presented, Founder disposition pending); RQ-022 through RQ-024 remain unexamined; zero D3 Founder Decisions |
 | ORC-001 | Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation |
 | FEF-FGR-002-FD-010 | Operational Readiness Confirmation | Decision Record Validated — Operative with Conditions | Sustained Operational Mode and bounded D2 mobilisation authorised; the decision did not itself commence D2 |
 | FEF-FGR-002-D2-MOB-001 | D2 Evidence Governance Mobilisation Record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ state, effective roles, dependencies, and next evidence-mobilisation gate |
@@ -219,8 +219,12 @@ conditions, neither resolved by freeze. Session FEF-FGR-002-S03 was
 subsequently entry-validated through DG-4 (Pass with Conditions,
 FEF-FGR-002-S03-EVR-001) and then formally opened under FEF-FGR-002-RA-002
 (FEF-FGR-002-S03-OPENING-RECORD.md) — session state Open, evidence
-examination not yet started. No D3 finding or decision exists, and
-substantive review remains unstarted.
+examination not yet started at that time. Six bounded Review Question
+examination iterations (Execution Loops 001 through 006) have since been
+performed, examining RQ-016 through RQ-021 and producing GF-015 through
+GF-020 (all Presented, Founder disposition pending; GF-017 is a
+negative/gap finding); RQ-022 through RQ-024 remain unexamined. No D3
+Founder Decision exists, and the session remains open, not closed.
 
 **D3 is active, not closed.** FEF-FGR-002-D3-C1-001 verifies the
 admission-readiness checkpoint only; it does not satisfy the Domain Exit

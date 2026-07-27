@@ -37,10 +37,10 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) with a frozen 39-record Evidence Pack (EP-003 v1.0) and an open session (S03), none examined. |
-| What are we doing? | Session FEF-FGR-002-S03 has passed DG-4 entry validation and has been formally opened under FEF-FGR-002-RA-002; evidence examination has not yet started. |
+| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 has nine admitted Review Questions (RQ-016–024) with a frozen 39-record Evidence Pack (EP-003 v1.0) and an open session (S03); six RQs examined (RQ-016 through RQ-021, GF-015 through GF-020 Presented); RQ-022 through RQ-024 remain unexamined. |
+| What are we doing? | Session FEF-FGR-002-S03 is open under FEF-FGR-002-RA-002; six bounded RQ examination iterations (Execution Loops 001–006) are complete; the next bounded iteration (RQ-022) has not yet been conducted. |
 | Why are we doing it? | Evidence requirements were derived, candidate sources qualified, the baseline frozen through DG-3, and the frozen pack reverified at entry — matching identity, fingerprint, and membership unchanged — before authorising it as the examination baseline and formally opening the session. One genuine gap (RQ-018 dissent evidence) and two preserved contradictions (EV-058, EV-059) are carried forward as disclosed conditions into the open session, not resolved. |
-| What must finish before anything else? | The first bounded D3 Review Question examination iteration must be conducted against EP-003 v1.0 only, under the applicable V4–V6 validation checkpoints. |
+| What must finish before anything else? | The next bounded D3 Review Question examination iteration (RQ-022) must be conducted against EP-003 v1.0 only, under the applicable V4–V6 validation checkpoints. |
 
 ## Immediate Next Programme Action
 

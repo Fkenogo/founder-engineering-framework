@@ -197,15 +197,20 @@ Domain D5 or framework-extraction consideration only; no FEF standard was
 amended and no constitutional proposal was created.
 
 FEF-FGR-002-S03 was then formally opened under FEF-FGR-002-RA-002, within
-the exact scope and conditions validated at DG-4. **Session state: Open —
-Evidence Examination Not Yet Started.** FEF-FGR-002-EP-003 v1.0 was not
-altered by the opening action. No Review Question has been examined, and
-no Governance Finding or Founder Decision exists. Conducting the first
-bounded D3 Review Question examination iteration using EP-003 v1.0 only is
-the next separately governed activity and is not commenced here; that
-examination is itself governed by the Plan's V4–V6 validation checkpoints
-and the Session Exit Gate (§12.1), with DG-5 (Issue Founder Decision) and
-DG-6 (Exit domain) remaining later, separate gates.
+the exact scope and conditions validated at DG-4. **Session state at
+opening: Open — Evidence Examination Not Yet Started.**
+FEF-FGR-002-EP-003 v1.0 was not altered by the opening action. Six bounded
+D3 Review Question examination iterations (Execution Loops 001 through
+006) have since been performed against EP-003 v1.0 only, examining RQ-016
+through RQ-021 and producing GF-015 through GF-020 (all Presented,
+Founder disposition pending; GF-017 is a negative/gap finding); RQ-022
+through RQ-024 remain unexamined. No Founder Decision exists for D3.
+Conducting the next bounded D3 Review Question examination iteration
+(RQ-022) using EP-003 v1.0 only is the next separately governed activity
+and is not commenced here; that examination is itself governed by the
+Plan's V4–V6 validation checkpoints and the Session Exit Gate (§12.1),
+with DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remaining
+later, separate gates.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
