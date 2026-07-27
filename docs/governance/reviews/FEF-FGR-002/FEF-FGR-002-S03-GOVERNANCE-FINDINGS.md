@@ -207,3 +207,94 @@ the EV-058/EV-059 contradictions; amend any FEF standard; or close
 FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-017
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-017 |
+| Version | 1.0 |
+| Title | RQ-018's Mapped Evidence Cannot Substantively Answer the Question; the Sole Item Evidences a Different Event Class |
+| Reviewed RQ | FEF-FGR-002-RQ-018 — Challenge, Rebuttal, Dissent, and Escalation |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-058 (sole mapped item) |
+| Contrary evidence considered | None located inside EP-003 for this RQ (single-item mapped set) |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+FEF-FGR-002-RQ-018's mapped evidence within FEF-FGR-002-EP-003 v1.0 §8.1
+consists of exactly one item, EV-058, and that item evidences a
+detection-and-recovery episode for an unauthorised admission — a
+different event class than the challenge, rebuttal, dissent, or escalated
+disagreement RQ-018 asks about. No normative challenge/escalation
+control, operated contrary-evidence or dissent record, session/finding
+validation addressing dissent, or attributable escalation example is
+present in the mapped set. RQ-018 is therefore evidence-bounded to a
+negative finding: the frozen pack does not contain sufficient evidence to
+substantively answer what assurance controls, if any, are needed to
+enable and preserve attributable challenge, rebuttal, dissent, and
+unresolved disagreement. This absence is not evidence that such controls
+exist, that they are absent, that dissent has been permitted, or that
+dissent has been prevented — per FEF-FGRC-001 §9.3 and FEF-FGR-002-EP-003
+§7.3, the absence is recorded as a limitation only.
+
+### Supporting Evidence
+
+- EV-058 — D3 Quarantine Manifest and recovery baseline; documents a
+  detection-and-recovery episode for an unauthorised DG-2-equivalent
+  admission, with no statement of a contrary Founder view, a returned
+  finding, an escalated disagreement, or a rebuttal.
+- FEF-FGR-002-EP-003 §7.3 — states directly that "no GF, FD, or session
+  record across D1 or D2 documents a contrary Founder view, a returned
+  finding, or an escalated disagreement" and that EV-058 "evidences a
+  detection-and-recovery episode, not a dissent episode."
+
+### Contrary Evidence
+
+None located inside EP-003. RQ-018's mapped set contains a single item;
+no second item exists against which a contrary or qualifying reading
+could be tested.
+
+### Limitations
+
+- This finding does not, and cannot from the mapped evidence, state what
+  assurance controls RQ-018 asks about; proposing one would exceed the
+  evidence boundary.
+- The absence of dissent/challenge evidence is not read as proof that
+  dissent was permitted, prevented, or irrelevant (FEF-FGRC-001 §9.3).
+- EV-058's detection-and-recovery success is not extended to a claim that
+  challenge/dissent mechanisms specifically are adequate; it is a
+  different event class.
+- Whether the absence reflects no disagreement having arisen, an absence
+  of preserving controls, or another cause cannot be determined from the
+  mapped evidence.
+- Does not address any evidence-weight hierarchy, conflict-priority rule,
+  speech or employment policy, D4 retention rule, or Founder disposition;
+  these are RQ-018's own declared exclusions.
+
+### Confidence Statement
+
+**Confidence: Low, on the RQ's substantive question; High, on the gap
+finding itself.** No confidence is offered on what controls are needed —
+the mapped evidence does not support any such conclusion. Confidence is
+high that the mapped evidence is insufficient to answer the question,
+because RQ-018's entire mapped set (one item) has been examined and shown
+not to address the event class the RQ asks about.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-018 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion
+about RQ-016, RQ-017, or RQ-019 through RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself,
+FEF-FGR-002-GF-015, or FEF-FGR-002-GF-016; close RQ-018 or any Open
+Question; create a Constitutional Candidate or Deferred Matter; resolve
+the RQ-018 gap or the EV-058/EV-059 contradictions; amend any FEF
+standard; or close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.

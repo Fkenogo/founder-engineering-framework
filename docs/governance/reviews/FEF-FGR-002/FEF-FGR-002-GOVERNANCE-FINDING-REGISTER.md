@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.6 |
+| Register version | 1.7 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -14,8 +14,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-26 |
-| Substantive entry count | 16 |
+| Last validation date | 2026-07-27 |
+| Substantive entry count | 17 |
 
 ## Register
 
@@ -37,6 +37,7 @@
 | FEF-FGR-002-GF-014 | 1.1 | Evidence Custody Is Operational and Does Not Decide Meaning | RQ-015 | EV-005–EV-008; EV-012; EV-014; EV-016–EV-019; EV-021–EV-031 | Custody preserves the evidential chain but does not decide meaning or exercise Founder authority | Independent assurance, durable handover, restricted evidence, and D4 model unresolved | Dispositioned | Accept with Conditions | Combined-capacity controls accepted; independent assurance, handover, restricted evidence, and D4 lifecycle excluded | FD-016 | Pass with disclosed validation combination |
 | FEF-FGR-002-GF-015 | 1.0 | Assurance Is Applied in Layered Passes; Founder-Authority Transitions Lack a Distinct Proportionality Tier | RQ-016 | EV-024; EV-025; EV-028; EV-050; EV-052; EV-053; EV-058; EV-063 (Context Only) | Assurance is applied as layered, separately-timed passes; evidence-class tiering is operated, but no distinct heavier control tier is evidenced for transitions approaching Founder-reserved authority | No mapped positive counter-example; candidate factor, not settled conclusion; closure unexamined for RQ-016 | Presented | Pending | Pending | Pending | Pass with Conditions |
 | FEF-FGR-002-GF-016 | 1.0 | Combined Roles Are Founder-Approved and Compensated at Assignment Level, but the Independent-Revalidation-or-Risk-Acceptance Closing Condition Remains Unsatisfied at Artefact Level | RQ-017 | EV-016; EV-017; EV-018; EV-021; EV-061 | Combined roles are usable at the structural/assignment level (explicit Founder approval, compensating controls); the stricter artefact-level closing condition (independent revalidation or express Founder risk-acceptance) remains unsatisfied for any specific combined-role artefact | Rests partly on a narrow reading of EV-060; EV-021 unrevalidated since 2026-07-24; no risk-differentiated independence standard stated | Presented | Pending | Pending | Pending | Pass with Conditions |
+| FEF-FGR-002-GF-017 | 1.0 | RQ-018's Mapped Evidence Cannot Substantively Answer the Question; the Sole Item Evidences a Different Event Class | RQ-018 | EV-058 (sole mapped item) | Mapped evidence is insufficient to answer what assurance controls, if any, preserve attributable challenge, rebuttal, dissent, and unresolved disagreement; the sole mapped item evidences an unrelated detection-and-recovery episode | RQ-018 gap remains open; no substantive answer offered; absence not read as proof of permission, prevention, or irrelevance | Presented | Pending | Pending | Pending | Pass with Conditions |
 
 ## Change History
 
@@ -49,12 +50,13 @@
 | 1.4 | 2026-07-25 | Six attributable Accept-with-Conditions dispositions and FD-011 through FD-016 linkages recorded; exact source finding statements remain unchanged | Founder Directive — D2 Governance Finding Dispositions |
 | 1.5 | 2026-07-26 | GF-015 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's first bounded RQ-016 examination iteration (Execution Loop 001); no Founder disposition recorded; RQ-017 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-015-VR-001 |
 | 1.6 | 2026-07-26 | GF-016 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's second bounded RQ-017 examination iteration (Execution Loop 002); GF-015 unchanged; no Founder disposition recorded; RQ-018 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-016-VR-001 |
+| 1.7 | 2026-07-27 | GF-017 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's third bounded RQ-018 examination iteration (Execution Loop 003); a negative/gap finding — RQ-018's sole mapped item (EV-058) does not substantively address the RQ; GF-015 and GF-016 unchanged; no Founder disposition recorded; RQ-019 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-017-VR-001 |
 
 ## Non-Effects
 
 This register contains fourteen Founder-dispositioned Governance Findings
-(GF-001 through GF-014) and two Presented, undispositioned D3 findings
-(GF-015, GF-016). Disposition does not label a finding Approved, Active,
-or Constitutional and does not close an Open Question. GF-015 and GF-016's
-Presented state does not constitute Founder disposition, does not close
-D3, and does not disposition CE1–CE6.
+(GF-001 through GF-014) and three Presented, undispositioned D3 findings
+(GF-015, GF-016, GF-017). Disposition does not label a finding Approved,
+Active, or Constitutional and does not close an Open Question. GF-015,
+GF-016, and GF-017's Presented state does not constitute Founder
+disposition, does not close D3, and does not disposition CE1–CE6.
