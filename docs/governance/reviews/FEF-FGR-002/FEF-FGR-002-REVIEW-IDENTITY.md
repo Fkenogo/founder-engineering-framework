@@ -2,14 +2,14 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.28
+**Identity version:** 1.29
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** D1, ORC-001, and D2 Closed — D3 **Active, Not Closed**: Mobilised; Candidates Prepared, Validated, and Founder-Reviewed; DG-2 Admission Complete; DG-3 Evidence Pack Frozen (EP-003 v1.0, Pass with Conditions); DG-4 Session Entry Validated and S03 Open; Examination In Progress — 3 of 9 RQs Answered (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017, negative/gap finding; all Presented); Not Dispositioned
+**Review state:** D1, ORC-001, and D2 Closed — D3 **Active, Not Closed**: Mobilised; Candidates Prepared, Validated, and Founder-Reviewed; DG-2 Admission Complete; DG-3 Evidence Pack Frozen (EP-003 v1.0, Pass with Conditions); DG-4 Session Entry Validated and S03 Open; Examination In Progress — 4 of 9 RQs Answered (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017, negative/gap finding; RQ-019 — GF-018; all Presented); Not Dispositioned
 
-**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; RQ-016, RQ-017, and RQ-018 are `Lifecycle State: Answered` (GF-015, GF-016, and GF-017 respectively, all Presented, Founder disposition pending; GF-017 is a negative/gap finding, not a substantive answer); RQ-019 through RQ-024 remain `Disposition: Pending`, unexamined; 39 Evidence Records mapped and frozen into FEF-FGR-002-EP-003 v1.0 (17 reused, 22 new — EV-050 through EV-071; EV-032–049 permanently retired); the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed conditions, unresolved even after RQ-018's own examination; the Domain Exit Gate (FEF-FGRP-001 §12.2 / DG-6) is not reached
+**D3 preparation state:** 9 canonical RQs (RQ-016 through RQ-024) admitted following genuine Founder Accept dispositions recorded in FEF-FGR-002-D3-G1-FDR-001; RQ-016 through RQ-019 are `Lifecycle State: Answered` (GF-015, GF-016, GF-017, and GF-018 respectively, all Presented, Founder disposition pending; GF-017 is a negative/gap finding, not a substantive answer); RQ-020 through RQ-024 remain `Disposition: Pending`, unexamined; 39 Evidence Records mapped and frozen into FEF-FGR-002-EP-003 v1.0 (17 reused, 22 new — EV-050 through EV-071; EV-032–049 permanently retired); the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed conditions, unresolved even after RQ-018's and RQ-019's own examinations; the Domain Exit Gate (FEF-FGRP-001 §12.2 / DG-6) is not reached
 
 **Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
@@ -51,7 +51,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | FEF-FGR-002-ER-001 | Evidence Register | 53 |
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 3 |
 | FEF-FGR-002-SR-001 | Session identities / opened sessions | 3 / 3 |
-| FEF-FGR-002-GFR-001 | Governance Finding Register | 17 |
+| FEF-FGR-002-GFR-001 | Governance Finding Register | 18 |
 | FEF-FGR-002-FDR-001 | Founder Decision Register | 16 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
@@ -105,14 +105,14 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D3 RQ set | [FEF-FGR-002-D3-RQS-002](FEF-FGR-002-D3-REVIEW-QUESTION-SET.md) — RQ-016 through RQ-024, v1.0, Admitted, not dispositioned |
 | D3 DG-2 admission | [FEF-FGR-002-D3-RQVA-002](FEF-FGR-002-D3-RQ-VALIDATION-AND-ADMISSION-RECORD.md) — Admit; grounded in genuine Founder Accept dispositions |
 | D3 admission-readiness checkpoint | [FEF-FGR-002-D3-C1-001](FEF-FGR-002-D3-C1-GOVERNANCE-ASSURANCE-STAGE-CLOSURE-AND-E1-READINESS-ASSESSMENT.md) — v1.1, corrected; verifies deliverables and traceability only, does **not** close D3 or satisfy DG-6 |
-| D3 canonical RQs / Evidence Records / packs / sessions / GFs / FDs | 9 / 39 / 1 / 1 / 3 / 0 |
+| D3 canonical RQs / Evidence Records / packs / sessions / GFs / FDs | 9 / 39 / 1 / 1 / 4 / 0 |
 | D3 evidence mobilisation | [FEF-FGR-002-D3-ERC-002](FEF-FGR-002-D3-ERC-002-EVIDENCE-REQUIREMENT-MATRIX-AND-CATALOGUE.md) v1.1 / [-EQR-002](FEF-FGR-002-D3-EQR-002-EVIDENCE-QUALIFICATION-RECORD.md) v1.1 / [-EMVR-002](FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) v1.1 — Pass with Conditions; RQ-020/021 standalone-record gap resolved (EV-065–071); 1 genuine gap (RQ-018) and 2 preserved contradictions (EV-058, EV-059) remain disclosed |
 | D3 Evidence Pack | [FEF-FGR-002-EP-003](FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md) v1.0 — **Frozen** via DG-3; Pass with Conditions; 39 Evidence Records; no session use |
 | D3 session entry | [FEF-FGR-002-S03-EVR-001](FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md) — DG-4 Pass with Conditions; EP-003 v1.0 authorised as the examination baseline; [Opening Record](FEF-FGR-002-S03-OPENING-RECORD.md) — session formally **Open** |
-| D3 examination | [RQ-016](FEF-FGR-002-S03-RQ-016-EXAMINATION-RECORD.md) (Loop 001), [RQ-017](FEF-FGR-002-S03-RQ-017-EXAMINATION-RECORD.md) (Loop 002), and [RQ-018](FEF-FGR-002-S03-RQ-018-EXAMINATION-RECORD.md) (Loop 003) examined; [GF-015, GF-016, and GF-017](FEF-FGR-002-S03-GOVERNANCE-FINDINGS.md) produced, validated Pass with Conditions ([GF-015](FEF-FGR-002-S03-GF-015-VALIDATION-REPORT.md), [GF-016](FEF-FGR-002-S03-GF-016-VALIDATION-REPORT.md), [GF-017](FEF-FGR-002-S03-GF-017-VALIDATION-REPORT.md)); all Presented, Founder disposition pending; GF-017 is a negative/gap finding; RQ-019 through RQ-024 remain unexamined |
+| D3 examination | [RQ-016](FEF-FGR-002-S03-RQ-016-EXAMINATION-RECORD.md) (Loop 001), [RQ-017](FEF-FGR-002-S03-RQ-017-EXAMINATION-RECORD.md) (Loop 002), [RQ-018](FEF-FGR-002-S03-RQ-018-EXAMINATION-RECORD.md) (Loop 003), and [RQ-019](FEF-FGR-002-S03-RQ-019-EXAMINATION-RECORD.md) (Loop 004) examined; [GF-015 through GF-018](FEF-FGR-002-S03-GOVERNANCE-FINDINGS.md) produced, validated Pass with Conditions ([GF-015](FEF-FGR-002-S03-GF-015-VALIDATION-REPORT.md), [GF-016](FEF-FGR-002-S03-GF-016-VALIDATION-REPORT.md), [GF-017](FEF-FGR-002-S03-GF-017-VALIDATION-REPORT.md), [GF-018](FEF-FGR-002-S03-GF-018-VALIDATION-REPORT.md)); all Presented, Founder disposition pending; GF-017 is a negative/gap finding; RQ-020 through RQ-024 remain unexamined |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
 | Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
-| Next gate | RQ-016, RQ-017, and RQ-018 have been examined and answered at finding level (GF-015, GF-016, GF-017, all Presented). The next authorised action is to conduct the next bounded D3 RQ examination iteration (RQ-019) using EP-003 v1.0 only, repeating the same execution-loop template, under the applicable V4–V6 validation checkpoints and the Session Exit Gate (FEF-FGRP-001 §12.1). DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates within that flow and are not reached by this record |
+| Next gate | RQ-016 through RQ-019 have been examined and answered at finding level (GF-015, GF-016, GF-017, GF-018, all Presented). The next authorised action is to conduct the next bounded D3 RQ examination iteration (RQ-020) using EP-003 v1.0 only, repeating the same execution-loop template, under the applicable V4–V6 validation checkpoints and the Session Exit Gate (FEF-FGRP-001 §12.1). DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates within that flow and are not reached by this record |
 
 ### 4.3 Substantive Review Boundary
 

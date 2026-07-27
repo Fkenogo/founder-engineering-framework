@@ -298,3 +298,105 @@ the RQ-018 gap or the EV-058/EV-059 contradictions; amend any FEF
 standard; or close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-018
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-018 |
+| Version | 1.0 |
+| Title | Four Distinct Outcome Levels Are Operated, Each Denying Approval/Activation/Founder Authority in Its Own Text; Blocked, Returned, Failed, Reopened, and Superseded Outcomes Are Unevidenced |
+| Reviewed RQ | FEF-FGR-002-RQ-019 — Validation Outcomes and Reliance Consequences |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-022; EV-025; EV-028; EV-050; EV-053; EV-054; EV-057; EV-059; EV-062 |
+| Contrary evidence considered | EV-058 (a second, different consequence path for a defective outcome, incorporated as a qualification, not a contradiction) |
+| Context-only evidence cited | EV-063 |
+
+### Conclusion
+
+RQ-019's mapped evidence shows validation outcomes operating at four
+distinct levels — item-level evidentiary admissibility (EV-022:
+Conditionally Admitted), artefact-level check verdicts (Pass / Pass with
+Conditions, recurring across EV-025, EV-028, EV-050, EV-053, EV-054),
+gate-specific outcomes (EV-062: Admit, with five numbered forward-looking
+conditions), and domain-lifecycle outcomes (EV-057: Closed — Validation
+Passed with Conditions, gated by a seven-item closure checklist). The
+consequence control that recurs across all four levels is the same: every
+mapped record that reaches an outcome carries its own explicit
+"Non-Effects" or "Gate Non-Effects" clause denying that the outcome
+constitutes approval, activation, or the exercise of Founder authority.
+EV-059 supplies the mapped set's only operated example of *correction*:
+the original claim is preserved and remains visible, the correction cites
+the specific controlling authority contradicted, and no Founder decision
+is fabricated to justify the correction. EV-058 shows a second, different
+consequence path for a defective outcome (quarantine and restoration)
+rather than in-place correction, and the mapped evidence does not state a
+rule for when each path applies. No mapped record evidences a Blocked,
+Returned, Failed, Reopened, or Superseded outcome as having actually
+occurred, although RQ-019's own declared evidence need lists these as
+items to examine.
+
+### Supporting Evidence
+
+- EV-022 — FEF-RQS-001, carrying a Conditionally Admitted evidentiary
+  status distinct from any session/domain verdict.
+- EV-025, EV-028, EV-050, EV-053 — repeated operated examples of bare
+  Pass and Pass with Conditions artefact-level verdicts, each with an
+  explicit non-effects clause.
+- EV-054 — Pass with Conditions on a neutral Founder-review package,
+  explicitly not selecting a Founder option or creating an FD.
+- EV-057 — Closed — Validation Passed with Conditions, gated by a
+  seven-item closure checklist, with its own non-effects clause.
+- EV-059 — the sole operated correction example (v1.0 to v1.1), with its
+  own Correction Notice preserving the original claim and citing the
+  controlling authority it contradicted.
+- EV-062 — Admit, with five numbered conditions restricting later
+  reliance and a Gate Non-Effects clause.
+
+### Contrary Evidence
+
+EV-058 documents a different consequence path (quarantine and
+restoration) for a defective outcome than EV-059's in-place correction.
+This finding treats the two as distinct, co-existing mechanisms rather
+than as contradictory, and discloses that no mapped record states when
+one applies rather than the other.
+
+### Limitations
+
+- No Blocked, Returned, Failed, Reopened, or Superseded outcome is
+  evidenced in the mapped set; this finding reports the absence and does
+  not infer what such an outcome would look like from the Charter or
+  Plan, neither of which is mapped to RQ-019.
+- No stated rule distinguishes in-place correction (EV-059) from
+  quarantine-and-restoration (EV-058) as consequence paths for a
+  defective outcome.
+- Does not state a final outcome vocabulary or universal lifecycle map;
+  these are RQ-019's own declared exclusions.
+- EV-063 is cited as Context Only per its admissibility condition and is
+  not treated as authoritative.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the four-level outcome structure and
+the recurring non-effects-clause pattern, both directly and repeatedly
+evidenced across nine of the thirteen mapped items. **Lower confidence**
+on any general rule for choosing between correction and quarantine as
+consequence paths, since only one example of each exists in the mapped
+set and no governing rule is stated.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-019 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion about
+RQ-016, RQ-017, RQ-018, or RQ-020 through RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself,
+FEF-FGR-002-GF-017, FEF-FGR-002-GF-016, or FEF-FGR-002-GF-015; close
+RQ-019 or any Open Question; create a Constitutional Candidate or
+Deferred Matter; resolve the RQ-018 gap or the EV-058/EV-059
+contradictions; amend any FEF standard; or close FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.
