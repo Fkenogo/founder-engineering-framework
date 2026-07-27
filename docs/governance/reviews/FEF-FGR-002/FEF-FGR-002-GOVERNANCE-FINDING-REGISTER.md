@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.9 |
+| Register version | 1.10 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-07-27 |
-| Substantive entry count | 19 |
+| Substantive entry count | 20 |
 
 ## Register
 
@@ -40,6 +40,7 @@
 | FEF-FGR-002-GF-017 | 1.0 | RQ-018's Mapped Evidence Cannot Substantively Answer the Question; the Sole Item Evidences a Different Event Class | RQ-018 | EV-058 (sole mapped item) | Mapped evidence is insufficient to answer what assurance controls, if any, preserve attributable challenge, rebuttal, dissent, and unresolved disagreement; the sole mapped item evidences an unrelated detection-and-recovery episode | RQ-018 gap remains open; no substantive answer offered; absence not read as proof of permission, prevention, or irrelevance | Presented | Pending | Pending | Pending | Pass with Conditions |
 | FEF-FGR-002-GF-018 | 1.0 | Four Distinct Outcome Levels Are Operated, Each Denying Approval/Activation/Founder Authority in Its Own Text; Blocked, Returned, Failed, Reopened, and Superseded Outcomes Are Unevidenced | RQ-019 | EV-022; EV-025; EV-028; EV-050; EV-053; EV-054; EV-057; EV-059; EV-062 | Four outcome levels (item, artefact, gate, domain) are evidenced, each carrying an explicit non-effects clause; correction (EV-059) and quarantine (EV-058) are two distinct, unranked consequence paths for a defective outcome | No rule stated for choosing correction versus quarantine; Blocked/Returned/Failed/Reopened/Superseded outcomes unevidenced in the mapped set | Presented | Pending | Pending | Pending | Pass with Conditions |
 | FEF-FGR-002-GF-019 | 1.0 | Founder Conditions Repeatedly Disclose "No Risk Accepted Beyond Exact Conditions," and FD-010's Non-Automation Boundary Is the Clearest Process-Level Control; No Operated Escalation or Reassessment Example Is Evidenced | RQ-020 | EV-056; EV-065; EV-066; EV-067; EV-068; EV-069; EV-070; EV-071 | Six FDs (FD-011–016) carry an identical "Accepted risks: None inferred beyond the exact conditions and limitations" row; FD-010 supplies a process-level non-automation boundary and artefact-necessity gate; FD-013 explicitly declines to create a general D3 residual-risk model | No operated escalation or reassessment example evidenced; RQ-020's declared evidence need ("D1 risk/exception decisions") mismatches its predominantly-D2 mapped set | Presented | Pending | Pending | Pending | Pass with Conditions |
+| FEF-FGR-002-GF-020 | 1.0 | A Complete Before/After Founder-Gate Assurance Cycle Is Evidenced Once (D3-G1); the D2 FD Track Evidences Only the After Side, and Downstream Implementation Reliance Is Stated as a Precondition, Not Independently Confirmed | RQ-021 | EV-017; EV-018; EV-021; EV-022; EV-056; EV-060; EV-061; EV-062; EV-065; EV-066; EV-067; EV-068; EV-069; EV-070; EV-071 | A neutral package, verbatim disposition capture, and exact-source-comparison admission together evidence a complete before/after assurance cycle for the D3-G1 gate; the D2 FD track (FD-011–016) evidences only the after side within this mapped set | Cycle evidenced once, not established as a general model; downstream implementation reliance stated and self-reported, not independently confirmed; neutrality claims self-stated, not corroborated | Presented | Pending | Pending | Pending | Pass with Conditions |
 
 ## Change History
 
@@ -55,12 +56,14 @@
 | 1.7 | 2026-07-27 | GF-017 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's third bounded RQ-018 examination iteration (Execution Loop 003); a negative/gap finding — RQ-018's sole mapped item (EV-058) does not substantively address the RQ; GF-015 and GF-016 unchanged; no Founder disposition recorded; RQ-019 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-017-VR-001 |
 | 1.8 | 2026-07-27 | GF-018 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's fourth bounded RQ-019 examination iteration (Execution Loop 004); GF-015 through GF-017 unchanged; no Founder disposition recorded; RQ-020 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-018-VR-001 |
 | 1.9 | 2026-07-27 | GF-019 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's fifth bounded RQ-020 examination iteration (Execution Loop 005); GF-015 through GF-018 unchanged; no Founder disposition recorded; RQ-021 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-019-VR-001 |
+| 1.10 | 2026-07-27 | GF-020 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's sixth bounded RQ-021 examination iteration (Execution Loop 006); GF-015 through GF-019 unchanged; no Founder disposition recorded; RQ-022 through RQ-024 remain unexamined | FEF-FGR-002-S03-GF-020-VR-001 |
 
 ## Non-Effects
 
 This register contains fourteen Founder-dispositioned Governance Findings
-(GF-001 through GF-014) and five Presented, undispositioned D3 findings
-(GF-015, GF-016, GF-017, GF-018, GF-019). Disposition does not label a
-finding Approved, Active, or Constitutional and does not close an Open
-Question. GF-015 through GF-019's Presented state does not constitute
-Founder disposition, does not close D3, and does not disposition CE1–CE6.
+(GF-001 through GF-014) and six Presented, undispositioned D3 findings
+(GF-015, GF-016, GF-017, GF-018, GF-019, GF-020). Disposition does not
+label a finding Approved, Active, or Constitutional and does not close an
+Open Question. GF-015 through GF-020's Presented state does not
+constitute Founder disposition, does not close D3, and does not
+disposition CE1–CE6.

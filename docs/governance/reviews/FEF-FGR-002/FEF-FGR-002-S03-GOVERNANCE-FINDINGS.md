@@ -504,3 +504,122 @@ gap, the EV-058/EV-059 contradictions, or the D1/D2 evidence-need
 mismatch; amend any FEF standard; or close FEF-FGR-002-S03 or D3.
 
 **Lifecycle state:** Presented — Founder disposition pending.
+
+## FEF-FGR-002-GF-020
+
+| Control Field | Recorded Value |
+|---|---|
+| Finding identifier | FEF-FGR-002-GF-020 |
+| Version | 1.0 |
+| Title | A Complete Before/After Founder-Gate Assurance Cycle Is Evidenced Once (D3-G1); the D2 FD Track Evidences Only the After Side, and Downstream Implementation Reliance Is Stated as a Precondition, Not Independently Confirmed, Within the Mapped Set |
+| Reviewed RQ | FEF-FGR-002-RQ-021 — Assurance of Founder Decision Inputs and Records |
+| Domain | D3 — Governance Assurance |
+| Supporting evidence | EV-017; EV-018; EV-021; EV-022; EV-056; EV-060; EV-061; EV-062; EV-065; EV-066; EV-067; EV-068; EV-069; EV-070; EV-071 |
+| Contrary evidence considered | None identified within the mapped set |
+| Context-only evidence cited | None |
+
+### Conclusion
+
+RQ-021's mapped evidence demonstrates a complete before-and-after
+assurance cycle for one specific Founder gate, D3-G1: a neutral,
+non-recommending Founder Review Package assembled from separately
+validated inputs (EV-060), followed by a verbatim Founder-disposition
+capture record stating the facilitation capacity exercised "no
+constitutional decision authority" (EV-061), followed by an exact-source
+comparison and admission record that explicitly distinguishes the
+Founder's own authorising input from any operational capacity's assertion
+(EV-062). Structural documents (EV-017, EV-018, EV-021, EV-022) supply the
+general rules this cycle operates within, most directly EV-018's
+statement that a Founder's substantive decision is "not validated for
+correctness" — only the record's exactness, authority source, conditions,
+boundaries, and traceability are tested. For the six D2 Founder Decisions
+(FD-011 through FD-016), the mapped set evidences only the after side
+directly — the issued records themselves (EV-066–071) and a separate
+post-decision validation pass confirming exact wording and condition
+preservation (EV-056) — because the neutral pre-disposition package used
+to prepare those six dispositions is mapped to other Review Questions, not
+to RQ-021. Downstream implementation reliance is evidenced only as a
+stated precondition in FD-010, which both states that a dependent domain
+"shall not commence until" specified steps pass and later, within the
+same document, reports that they passed; no separately mapped, independent
+record confirms that the authorised downstream activity in fact occurred.
+
+### Supporting Evidence
+
+- EV-060 — D3 Founder Review Package; non-recommending; reproduces
+  candidate wording and validation findings from separately prepared and
+  validated sources without reinterpretation.
+- EV-061 — D3 Founder Disposition Record; captures the Founder's verbatim
+  Accept disposition for all nine candidates; facilitation capacity
+  states no decision authority was exercised.
+- EV-062 — D3 RQ Validation and Admission Record; exact-source comparison
+  across three prior documents; explicitly distinguishes the Founder's
+  Accept from any operational capacity's assertion; records DG-2
+  admission with enumerated Gate Non-Effects.
+- EV-056 — D2 Disposition Validation Report; validates exact Founder
+  wording, conditions, and reserved subjects were preserved for FD-011
+  through FD-016.
+- EV-065 through EV-071 (FD-010 through FD-016) — issued decision
+  records, each with exact Decision, Conditions, and Non-Effects
+  sections; FD-011 through FD-016 additionally carry Traceability
+  sections; FD-010 states and later self-reports satisfaction of a
+  downstream-reliance precondition.
+- EV-017, EV-018, EV-021, EV-022 — structural rules governing capacity
+  separation, recommendation boundaries, decision-record-only validation,
+  and the requirement that an RQ record the exact FD reference and effect
+  when one is issued.
+
+### Contrary Evidence
+
+None identified. No mapped item shows a discrepancy between a Founder's
+recorded response and a later decision record, an admission proceeding
+without a distinct Founder-origin input, or a condition or non-effect
+lost between an issued decision and its later citation. EV-058 and EV-059
+are not mapped to RQ-021 and are not considered here.
+
+### Limitations
+
+- The complete before-and-after cycle is evidenced for only one Founder
+  gate (D3-G1); the D2 FD-011–016 track's before-side steps are not
+  mapped to this RQ, so the cycle does not generalise from this mapped
+  evidence to a confirmed uniform model across both tracks.
+- Downstream implementation reliance is evidenced only as a stated
+  precondition and a same-document self-report that it was satisfied;
+  independent confirmation that the authorised activity actually occurred
+  is not present in the mapped set.
+- EV-060's and EV-061's own claims of neutrality and non-influence are
+  self-stated by the same non-independent capacity that prepared the
+  underlying material and are not independently corroborated within the
+  mapped set.
+- Does not evaluate, and takes no position on, the correctness or quality
+  of either Founder's substantive judgement; this is RQ-021's own declared
+  exclusion.
+
+### Confidence Statement
+
+**Confidence: Moderate to High** on the existence and mechanics of the
+D3-G1 before-and-after cycle and on the recurring Decision/Conditions/
+Non-Effects structure across FD-010 through FD-016, both directly
+evidenced. **Lower confidence** on whether this reflects a deliberately
+designed, repeatable assurance sequence intended to generalise to future
+Founder gates, and on whether downstream implementation reliance is
+reliably confirmed rather than merely authorised, since no mapped item
+resolves either question.
+
+### Scope
+
+This finding is scoped strictly to FEF-FGR-002-RQ-021 and the evidence
+mapped to it in FEF-FGR-002-EP-003 v1.0 §8.1. It draws no conclusion about
+RQ-016 through RQ-020 or RQ-022 through RQ-024, and states no Founder
+recommendation.
+
+### Non-Effects
+
+This finding does not: constitute a Founder Decision; disposition itself
+or FEF-FGR-002-GF-015 through GF-019; close RQ-021 or any Open Question;
+create a Constitutional Candidate or Deferred Matter; resolve the RQ-018
+gap, the EV-058/EV-059 contradictions, or the before/after evidentiary
+asymmetry identified above; amend any FEF standard; or close
+FEF-FGR-002-S03 or D3.
+
+**Lifecycle state:** Presented — Founder disposition pending.
