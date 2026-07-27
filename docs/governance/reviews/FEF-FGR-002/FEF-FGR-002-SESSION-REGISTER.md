@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.17 |
+| Register version | 1.18 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -41,11 +41,17 @@ subsequently assembled into a neutral D3-G2 Founder Review Package
 ([FEF-FGR-002-D3-G2-FRP-001](FEF-FGR-002-D3-G2-FOUNDER-REVIEW-PACKAGE.md),
 validated Pass with Conditions in
 [FEF-FGR-002-D3-G2-FRPVR-001](FEF-FGR-002-D3-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md)),
-which controls this later, separately governed package-preparation effect
-without changing the historical S03 session state or its `Closed —
-Examination Complete; Governance Findings Presented` record above. No
+and then subjected to a live D3-G2 Founder Review, recorded verbatim in
+[FEF-FGR-002-D3-G2-FDR-001](FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-RECORD.md)
+and validated Pass with Conditions in
+[FEF-FGR-002-D3-G2-FDVR-001](FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md).
+GF-015 through GF-023 are now Dispositioned (GF-019: Accept; the other
+eight: Accept with Conditions); no Founder Decision Record has yet been
+issued. These later, separately governed linkages control their own
+effects without changing the historical S03 session state or its `Closed
+— Examination Complete; Governance Findings Presented` record above. No
 Founder Decision, Constitutional Candidate, or Deferred Matter is created
-by this linkage.
+by either linkage, and DG-6 has not been invoked.
 
 ## Change History
 
@@ -69,20 +75,23 @@ by this linkage.
 | 1.15 | 2026-07-27 | Ninth bounded D3 examination iteration (Execution Loop 009) completed for RQ-024 only, using EP-003 v1.0 only; one candidate Governance Finding (GF-023) produced and validated Pass with Conditions; GF-015 through GF-022 unchanged; all nine admitted D3 RQs are now examined and answered at finding level; zero FD created, zero disposition, no cross-finding synthesis performed, session not closed | FEF-FGR-002-S03-GF-023-VR-001 |
 | 1.16 | 2026-07-27 | Session Exit Gate (FEF-FGRP-001 §12.1) performed for FEF-FGR-002-S03: all six §12.1 criteria confirmed satisfied across all nine Execution Loops; GF-015 through GF-023 confirmed present, validated, and Presented/Pending; EP-003 and all protected artefacts confirmed unchanged; no cross-finding synthesis, recommendation, or constitutional content found; session state updated to Closed — Examination Complete; Governance Findings Presented; D3 domain remains Active, Not Closed; no Founder Review package prepared, no DG-5 or DG-6 invoked | FEF-FGR-002-S03-SEVR-001 |
 | 1.17 | 2026-07-27 | D3 Post-Session Linkage recorded: a neutral D3-G2 Founder Review Package assembling GF-015 through GF-023 verbatim, with blank Founder workbook sections, was prepared and validated Pass with Conditions; S03's historical Closed state and Record Location/Validation columns above are unchanged; no Founder Decision, Constitutional Candidate, or Deferred Matter created; D3 domain remains Active, Not Closed | FEF-FGR-002-D3-G2-FRPVR-001 |
+| 1.18 | 2026-07-27 | D3 Post-Session Linkage updated: a live D3-G2 Founder Review was conducted and recorded verbatim (GF-015 through GF-023 each received an attributable Founder disposition, condition, rationale, observation, and follow-up), validated Pass with Conditions; GF-019 Accept, the other eight Accept with Conditions; S03's historical Closed state and Record Location/Validation columns above remain unchanged; zero Founder Decision Records created, zero Constitutional Candidates or Deferred Matters created; D3 domain remains Active, Not Closed; DG-6 not invoked | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-G2-FDVR-001 |
 
 ## Non-Effects
 
 This register contains three closed sessions (S01, S02, S03). S03 closed
 after all nine admitted D3 RQs were examined (RQ-016 through RQ-024),
-producing GF-015 through GF-023 (all Presented, undispositioned), and
-after the Session Exit Gate confirmed every §12.1 criterion. S02 itself
-issued no FD and its historical state remains closed with findings
-presented. Later attributable dispositions and D2 closure are linked
-without being represented as session actions. S03's closure is a session
-exit only: it does not close D3 — Governance Assurance, does not
-disposition any Governance Finding, does not create a Founder Decision,
-and does not invoke DG-5 or DG-6. A neutral D3-G2 Founder Review Package
-has since been prepared for GF-015 through GF-023 as a post-session
-linkage, analogous to D2's post-session decision linkage; it does not
-change S03's historical session state, does not disposition a finding,
-and no Open Question is modified.
+producing GF-015 through GF-023, and after the Session Exit Gate
+confirmed every §12.1 criterion. S02 itself issued no FD and its
+historical state remains closed with findings presented. Later
+attributable dispositions and D2 closure are linked without being
+represented as session actions. S03's closure is a session exit only: it
+does not itself disposition any Governance Finding, does not create a
+Founder Decision, and does not invoke DG-6. A neutral D3-G2 Founder
+Review Package was subsequently prepared for GF-015 through GF-023, and a
+live D3-G2 Founder Review was then conducted and recorded verbatim,
+dispositioning all nine findings (GF-019 Accept; the other eight Accept
+with Conditions), as post-session linkages analogous to D2's post-session
+decision linkage; neither changes S03's historical session state, and no
+Open Question is modified. No Founder Decision Record has yet been issued
+for GF-015 through GF-023, and DG-6 has not been invoked.

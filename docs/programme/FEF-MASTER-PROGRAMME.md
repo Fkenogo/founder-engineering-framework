@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.37
+**Programme record version:** 0.38
 **Reconciliation date:** 2026-07-27
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.37 |
+| Programme version | Master Programme v0.38 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **FEF-FGR-002-EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **FEF-FGR-002-S03** **Closed** — Examination Complete; Governance Findings Presented (GF-015 through GF-023; GF-017 is a negative/gap finding); neutral **D3-G2 Founder Review Package Prepared** — Pass with Conditions; not dispositioned |
+| Current milestone | D3 — **active, not closed**; nine Review Questions (RQ-016–024) admitted through DG-2; Evidence Pack **FEF-FGR-002-EP-003 v1.0 Frozen** through DG-3 (Pass with Conditions, 39 Evidence Records); session **FEF-FGR-002-S03** **Closed** — Examination Complete; D3-G2 Founder Review **Conducted and Recorded** — GF-015 through GF-023 **Dispositioned** (GF-019 Accept; the other eight Accept with Conditions); Founder Decision Records **Not Yet Issued** |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | D3 Evidence Pack frozen (FEF-FGR-002-EP-003 v1.0, DG-3 Pass with Conditions); session FEF-FGR-002-S03 Closed — 9 of 9 RQs examined (RQ-016 through RQ-024), Session Exit Gate (Plan §12.1) passed; D3-G2 Founder Review Package for GF-015 through GF-023 prepared and validated Pass with Conditions; Domain Exit Gate (DG-6 / Plan §12.2) not reached |
+| Current execution window | D3 Evidence Pack frozen (FEF-FGR-002-EP-003 v1.0, DG-3 Pass with Conditions); session FEF-FGR-002-S03 Closed — 9 of 9 RQs examined (RQ-016 through RQ-024), Session Exit Gate (Plan §12.1) passed; D3-G2 Founder Review Package prepared and validated; D3-G2 Founder Review conducted and recorded, GF-015 through GF-023 Dispositioned; Founder Decision Records not yet issued; Domain Exit Gate (DG-6 / Plan §12.2) not reached |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next governed activity | A neutral D3-G2 Founder Review Package for GF-015 through GF-023 has been prepared and validated Pass with Conditions. The next permissible activity is conducting the D3 Founder Review of GF-015 through GF-023 — not performed by this milestone. DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates within that flow and are not reached by this milestone. |
+| Immediate next governed activity | The D3-G2 Founder Review has been conducted and recorded: GF-015 through GF-023 are Dispositioned with exact Founder conditions and follow-up preserved verbatim. The next permissible activity is drafting and issuing Founder Decision Records (FDs) for GF-015 through GF-023 — not performed by this milestone. DG-6 (Exit domain) remains a later, separate gate and is not reached by this milestone. |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
-| Next review domain | D3 — Governance Assurance; 9 of 9 RQs examined (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017; RQ-019 — GF-018; RQ-020 — GF-019; RQ-021 — GF-020; RQ-022 — GF-021; RQ-023 — GF-022; RQ-024 — GF-023); Session Exit Gate passed; D3-G2 Founder Review Package prepared; D3 Founder Review of GF-015 through GF-023 next |
+| Next review domain | D3 — Governance Assurance; 9 of 9 RQs examined and dispositioned (RQ-016 — GF-015; RQ-017 — GF-016; RQ-018 — GF-017; RQ-019 — GF-018; RQ-020 — GF-019; RQ-021 — GF-020; RQ-022 — GF-021; RQ-023 — GF-022; RQ-024 — GF-023); Session Exit Gate passed; D3-G2 Founder Review Package prepared and Founder Review conducted; Founder Decision Record issuance next |
 | Framework Evolution status | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist as completed assessment/preparation artefacts; **deferred** — not on the current critical path; substantive consideration routed to Domain D5 — Governance Lifecycle and Evolution or separately authorised constitutional consolidation; CE1–CE6 undecided, zero framework effect |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
@@ -193,7 +193,7 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
 
 ## 7. Immediate Next Programme Action
 
-**A neutral D3-G2 Founder Review Package for GF-015 through GF-023 has been prepared and validated Pass with Conditions. The next permissible activity is conducting the D3 Founder Review of GF-015 through GF-023, not commenced by this revision. No further progression is authorised.**
+**The D3-G2 Founder Review has been conducted and recorded: GF-015 through GF-023 are Dispositioned (GF-019 Accept; the other eight Accept with Conditions). The next permissible activity is drafting and issuing Founder Decision Records (FDs) for GF-015 through GF-023, not commenced by this revision. DG-6 (Exit domain) is not reached. No further progression is authorised.**
 
 D1 and ORC-001 remain closed. D2 is closed after six attributable decisions and
 reconciled traceability. D3 is mobilised, and the nine candidates prepared in
@@ -679,6 +679,48 @@ and D3 remain unaffected in lifecycle state (S03 Closed, D3 Active and
 not closed), and no DG-5 or DG-6 gate was invoked. **The next permissible
 activity is conducting the D3 Founder Review of GF-015 through GF-023.
 No further progression is authorised by this revision.**
+
+This v0.38 revision records that the D3-G2 Founder Review was
+subsequently **conducted and recorded**. The Founder reviewed GF-015
+through GF-023 from the prepared package and supplied an attributable
+Founder Observation, Rationale, Disposition, Condition (where
+applicable), and Follow-up for each finding. That verbatim text was
+recorded, without paraphrase, expansion, or shortening, in
+[FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-RECORD.md](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-RECORD.md)
+and validated Pass with Conditions in
+[FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md),
+which confirmed, by direct programmatic comparison against the
+Founder-supplied text, an exact match on all nine findings, with zero
+recording-capacity-authored observations, rationale, conditions, or
+follow-up. GF-019 received **Accept**; GF-015, GF-016, GF-017, GF-018,
+GF-020, GF-021, GF-022, and GF-023 each received **Accept with
+Conditions**, with the exact condition text preserved verbatim. No
+finding received Accept with Amendment, Merge, Split, Reject, Defer,
+Return for Additional Evidence, or Require Independent Revalidation. The
+D3-G2 Founder Review Package's blank workbook sections were **not**
+edited — consistent with the FEF-FGR-002-D3-G1-FOUNDER-REVIEW-PACKAGE.md
+precedent, the neutral workbook remains preserved as prepared, and the
+authoritative disposition capture lives only in the separate Disposition
+Record. The Governance Finding Register (now v1.14) and Review Question
+Register (now v1.21) were updated to reflect Lifecycle State
+`Dispositioned` and the recorded Founder Disposition and Conditions for
+GF-015 through GF-023, each with Decision Record `Pending — FD not yet
+issued`. GF-015 through GF-023's substantive wording, evidence,
+limitations, confidence statements, and scope are unchanged; the RQ-018
+gap and EV-058/EV-059 contradictions remain disclosed, unresolved.
+Every other protected artefact (EP-003, the Governance Findings set, all
+nine RQ examination records, all nine GF Validation Reports, the Session
+Exit Record/Validation Report, the D3-G2 Package and its Summary,
+Readiness Assessment, Decision Agenda, and Decision Sequencing, the D1/D2
+Traceability Registers, the Evidence Register, the Evidence Pack
+Register, the Constitutional Candidate Register, the Deferred Matter
+Register, and the FRAS candidate proposal) was reverified byte-identical.
+**No Founder Decision Record was created by this revision.** DG-5
+recording of the Founder Review is complete; drafting and issuing the
+Founder Decision Records for GF-015 through GF-023 remains a separately
+governed next step, and DG-6 (Exit domain) remains a later, separate gate
+— neither is performed here. FEF-FGR-002-S03 remains Closed and D3
+remains Active, not closed.
 
 ## 11. Change Control
 

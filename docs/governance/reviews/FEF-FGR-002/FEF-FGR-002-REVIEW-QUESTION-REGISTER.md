@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.20 |
+| Register version | 1.21 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -38,15 +38,15 @@
 | FEF-FGR-002-RQ-013 | 1.1 | Evidence Freeze, Versioning, and Change Control | See controlled D2 RQ set v1.1 | D2 | EPS and Execution Rules pack controls | None | EP-002 v1.0 examined in S02 | Potential | Answered | GF-012; FD-014 — Accept with Conditions | Pass with disclosed validation combination |
 | FEF-FGR-002-RQ-014 | 1.1 | Evidence Traceability, Reuse, Transparency, and Explainability | See controlled D2 RQ set v1.1 | D2 | Charter evidence-chain and EPS traceability controls | OQ-005 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-013; FD-015 — Accept with Conditions | Pass with disclosed validation combination |
 | FEF-FGR-002-RQ-015 | 1.1 | Evidence Custody, Preservation, and Operational Responsibility | See controlled D2 RQ set v1.1 | D2 | Charter evidence roles and preservation scope | OQ-010; OQ-011 partial | EP-002 v1.0 examined in S02 | Potential | Answered | GF-014; FD-016 — Accept with Conditions | Pass with disclosed validation combination |
-| FEF-FGR-002-RQ-016 | 1.0 | Assurance Coverage and Proportionality | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation themes 1–2; D3-RQC-01; Founder Accept | OQ-004; OQ-007; OQ-021 partial | EP-003 v1.0 examined in S03 (Execution Loop 001) | Potential | Answered | GF-015 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-017 | 1.0 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 3; D3-RQC-02; Founder Accept | OQ-002 partial; OQ-003 direct | EP-003 v1.0 examined in S03 (Execution Loop 002) | Potential | Answered | GF-016 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-018 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 4; D3-RQC-03; Founder Accept | OQ-007; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 003) — sole mapped item insufficient; gap not resolved | Potential | Answered | GF-017 — Presented; Founder disposition pending; negative/gap finding | Pass with Conditions |
-| FEF-FGR-002-RQ-019 | 1.0 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 5; D3-RQC-04; Founder Accept | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | EP-003 v1.0 examined in S03 (Execution Loop 004) | Potential | Answered | GF-018 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | EP-003 v1.0 examined in S03 (Execution Loop 005) | Potential | Answered | GF-019 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-021 | 1.0 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 7; D3-RQC-06; Founder Accept | OQ-008; OQ-021 partial | EP-003 v1.0 examined in S03 (Execution Loop 006) | Potential | Answered | GF-020 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 007) | Potential | Answered | GF-021 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | EP-003 v1.0 examined in S03 (Execution Loop 008) | Potential | Answered | GF-022 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-024 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 10; D3-RQC-09; Founder Accept | OQ-004; OQ-012; OQ-021; OQ-022 partial | EP-003 v1.0 examined in S03 (Execution Loop 009) | Potential | Answered | GF-023 — Presented; Founder disposition pending | Pass with Conditions |
+| FEF-FGR-002-RQ-016 | 1.0 | Assurance Coverage and Proportionality | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation themes 1–2; D3-RQC-01; Founder Accept | OQ-004; OQ-007; OQ-021 partial | EP-003 v1.0 examined in S03 (Execution Loop 001) | Potential | Answered | GF-015 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-017 | 1.0 | Independence and Combined Operational Capacities | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 3; D3-RQC-02; Founder Accept | OQ-002 partial; OQ-003 direct | EP-003 v1.0 examined in S03 (Execution Loop 002) | Potential | Answered | GF-016 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-018 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 4; D3-RQC-03; Founder Accept | OQ-007; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 003) — sole mapped item insufficient; gap not resolved | Potential | Answered | GF-017 — Dispositioned (Accept with Conditions); negative/gap finding; FD not yet issued; RQ-018 gap remains open | Pass with Conditions |
+| FEF-FGR-002-RQ-019 | 1.0 | Validation Outcomes and Reliance Consequences | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 5; D3-RQC-04; Founder Accept | OQ-004; OQ-007; OQ-008; OQ-014; OQ-021; OQ-022 bounded | EP-003 v1.0 examined in S03 (Execution Loop 004) | Potential | Answered | GF-018 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-020 | 1.0 | Residual Governance Risk and Founder Consideration | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 6; D3-RQC-05; Founder Accept | OQ-008; OQ-012 direct | EP-003 v1.0 examined in S03 (Execution Loop 005) | Potential | Answered | GF-019 — Dispositioned (Accept); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-021 | 1.0 | Assurance of Founder Decision Inputs and Records | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 7; D3-RQC-06; Founder Accept | OQ-008; OQ-021 partial | EP-003 v1.0 examined in S03 (Execution Loop 006) | Potential | Answered | GF-020 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 007) | Potential | Answered | GF-021 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | EP-003 v1.0 examined in S03 (Execution Loop 008) | Potential | Answered | GF-022 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
+| FEF-FGR-002-RQ-024 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 10; D3-RQC-09; Founder Accept | OQ-004; OQ-012; OQ-021; OQ-022 partial | EP-003 v1.0 examined in S03 (Execution Loop 009) | Potential | Answered | GF-023 — Dispositioned (Accept with Conditions); FD not yet issued | Pass with Conditions |
 
 ## Change History
 
@@ -73,16 +73,19 @@
 | 1.18 | 2026-07-27 | RQ-022 examined in FEF-FGR-002-S03 (Execution Loop 007) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 007)"; Disposition updated to reference GF-021, Presented, Founder disposition pending; RQ-016 through RQ-021, RQ-023, and RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-021-VR-001 |
 | 1.19 | 2026-07-27 | RQ-023 examined in FEF-FGR-002-S03 (Execution Loop 008) using EP-003 v1.0 only; unusual evidentiary posture (full commit history and corpus of validation records, per D3-EVR-011) treated as the mapped evidence, consistent with EP-003 §8.1; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 008)"; Disposition updated to reference GF-022, Presented, Founder disposition pending; RQ-016 through RQ-022 and RQ-024 unchanged; RQ wording not changed | FEF-FGR-002-S03-GF-022-VR-001 |
 | 1.20 | 2026-07-27 | RQ-024 examined in FEF-FGR-002-S03 (Execution Loop 009) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 009)"; Disposition updated to reference GF-023, Presented, Founder disposition pending; RQ-016 through RQ-023 unchanged; all nine admitted D3 RQs are now answered at finding level; D3 remains active, not closed; RQ wording not changed | FEF-FGR-002-S03-GF-023-VR-001 |
+| 1.21 | 2026-07-27 | D3-G2 Founder Review conducted; Disposition field updated for RQ-016 through RQ-024 to reference each finding's recorded Founder disposition (GF-019: Accept; the other eight: Accept with Conditions), with "FD not yet issued" noted since no Founder Decision Record was created by this recording activity; RQ wording, Evidence Status, and Lifecycle State (Answered) unchanged; the RQ-018 gap remains explicitly disclosed as open; D3 remains active, not closed; no DG-6 invoked | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-G2-FDVR-001 |
 
 ## Non-Effects
 
 This register contains eight D1 RQs examined in S01, seven D2 RQs examined
 in S02, and nine D3 RQs admitted following genuine Founder Accept
 dispositions, all now answered at finding level in FEF-FGR-002-S03. No
-existing Open Question is modified, answered, or closed. Answered does
-not mean dispositioned: all nine D3 findings (GF-015 through GF-023)
-remain Presented, Founder disposition pending, and D3 remains active, not
-closed.
+existing Open Question is modified, answered, or closed. All nine D3
+findings (GF-015 through GF-023) have now received an attributable
+Founder disposition, recorded verbatim in FEF-FGR-002-D3-G2-FDR-001;
+Dispositioned does not mean a Founder Decision Record has been issued —
+each remains `FD not yet issued` pending a separately governed DG-5 FD
+gate. D3 remains active, not closed, and DG-6 has not been invoked.
 
 ## Domain Coverage
 
