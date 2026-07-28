@@ -9,7 +9,7 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.41 |
+| Programme version | Master Programme v0.42 |
 | Current phase | Phase 2 — Founder Governance Review |
 | Current milestone | Phase 2 Founder Milestone Decision recorded and validated — **Approve with Conditions**; D4 **Not Started** |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
@@ -23,7 +23,7 @@
 | Next review domain | D4 — Records and Information Governance; Not Started |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
-| Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
+| Framework Evolution status | FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as **Future Framework Evolution**, **Non-critical path**, with **No impact on D4 sequencing**; not commenced |
 
 ## Progress
 
@@ -136,9 +136,11 @@ is now recorded in
 and validated in
 [FEF-FGR-002-P2-FMDVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-FOUNDER-DECISION-VALIDATION-REPORT.md)
 as **Approve with Conditions**. The prepared package remains unchanged.
-The future FEF-CCF-001 follow-up is recorded but is not registered or
-commenced by this task. No D4 preparation, mobilisation, entry, or
-commencement was performed.
+FEF-CCF-001 — Context Continuity Framework is registered in the Master
+Programme as a Future Framework Evolution candidate. It is non-critical-path,
+has no impact on D4 sequencing, and is not commenced. The registration creates
+no design, implementation, constitutional, governance, or review artefact.
+No D4 preparation, mobilisation, entry, or commencement was performed.
 
 ## Genuine Blockers
 
@@ -153,6 +155,7 @@ commencement was performed.
 - No D3 Review Question candidate disposition remains pending — all nine were reviewed and Accepted (FEF-FGR-002-D3-G1-FDR-001).
 - No D3 Founder Decision Record remains awaiting issuance — FD-017 through FD-025 are issued and validated through DG-5.
 - No Phase 2 Founder Milestone disposition remains pending — it is recorded and validated as Approve with Conditions.
+- FEF-CCF-001 is registered at programme-planning level only; its evaluation and commencement remain future Framework Evolution work.
 - D4 commencement remains subject to separate Founder authorisation and its governed entry sequence.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.

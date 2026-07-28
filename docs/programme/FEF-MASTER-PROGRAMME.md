@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.41
+**Programme record version:** 0.42
 **Reconciliation date:** 2026-07-28
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.41 |
+| Programme version | Master Programme v0.42 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
 | Current milestone | Phase 2 Founder Milestone Decision recorded and validated — **Approve with Conditions**; D1, D2, and D3 Closed; D4 **Not Started** |
@@ -35,7 +35,7 @@ This precedence does not make the Master Programme a governance standard and doe
 | First review domain | D1 — Governance Authority |
 | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
 | Next review domain | D4 — Records and Information Governance; Not Started |
-| Framework Evolution status | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist as completed assessment/preparation artefacts; **deferred** — not on the current critical path; substantive consideration routed to Domain D5 — Governance Lifecycle and Evolution or separately authorised constitutional consolidation; CE1–CE6 undecided, zero framework effect |
+| Framework Evolution status | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
 
@@ -136,6 +136,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGR-002-D3-C1-001 | D3 Admission-Readiness Checkpoint (Corrected — Domain Not Closed) | v1.1 — Corrected | Verifies DG-2-admission deliverables and traceability; does **not** close D3 or satisfy DG-6/Plan §12.2; corrected 2026-07-25 after a programme audit found its original v1.0 closure claim inconsistent with the live Register (RQ-016–024 remain `Disposition: Pending`) |
 | FEF-GER-D3-001 | D3 Governance Evolution Review | v1.0 — Assessment Complete | Assessment only; identifies 7 observations, 6 proven practices, 6 candidate framework enhancements (CE1–CE6), and 3 matters not recommended, drawn solely from D3 evidence; amends no framework document. **Deferred** — not on the current critical path; substantive subject matter belongs to Domain D5 or later constitutional consolidation |
 | FEF-FAP-001 | Founder Framework Evolution Review Package | v1.0 — Prepared | Blank Founder workbook for CE1–CE6, one section per enhancement, all disposition fields unfilled. **Deferred** — visible and preserved, not active work; requires no Founder action until the sequencing question above is resolved |
+| FEF-CCF-001 | Context Continuity Framework | **Future Framework Evolution Candidate — Registered; Not Commenced** | **Future Framework Evolution; Non-critical path; No impact on D4 sequencing.** Future evaluation may include Engineering Context Snapshots and related continuity artefacts. This registration creates no design, implementation, constitutional, governance, or review effect |
 | FEF-FGR-002-D3-ERC-002 | D3 Evidence Requirement Matrix and Catalogue | v1.1 — Prepared | Derives 14 evidence requirements from RQ-016–024 and catalogues 22 new + 17 reused candidate sources; RQ-020/021 standalone-record gap resolved (EV-065–071); one explicit gap remains (RQ-018 dissent evidence) |
 | FEF-FGR-002-D3-EQR-002 | D3 Evidence Qualification Record | v1.1 — Qualification Complete | Applies FEF-FGRC-001 §9.2 admissibility tests to all 39 mapped sources; 2 contradictory-evidence items (EV-058, EV-059) explicitly preserved, not resolved |
 | FEF-FGR-002-D3-EMVR-002 | D3 Evidence Mobilisation Validation Report | v1.1 — Revalidated; Pass with Conditions | Validates completeness, traceability, admissibility, and identifier integrity of the reconciled mobilisation baseline; corrected validation-scope language no longer risks an independence claim |
@@ -217,9 +218,12 @@ Deferred Matter was created.
 
 The prepared milestone review package remains historically unchanged. The
 Founder approved continued use of the demonstrated methodology under the
-exact recorded conditions. The FEF-CCF-001 follow-up is preserved in the
-decision record but is not registered or commenced by this bounded task.
-No D4 preparation, mobilisation, entry, or commencement was performed.
+exact recorded conditions. FEF-CCF-001 — Context Continuity Framework is now
+registered as a Future Framework Evolution candidate. It is non-critical-path,
+has no impact on D4 sequencing, and is not commenced. No design,
+implementation, constitutional, governance, or review artefact is created by
+the registration. No D4 preparation, mobilisation, entry, or commencement was
+performed.
 
 **The Phase 2 milestone decision is complete. FEF-FGR-002 remains Active.
 D1, D2, and D3 remain Closed. D4 is Not Started.**
@@ -239,10 +243,11 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 3. No D3 Review Question candidate disposition remains pending — all nine were reviewed and Accepted (recorded in FEF-FGR-002-D3-G1-FDR-001).
 4. No D3 Founder Decision Record remains awaiting issuance — FD-017 through FD-025 are issued and validated.
 5. No Phase 2 Founder Milestone disposition remains pending — the Founder disposition is recorded and validated as Approve with Conditions.
-6. D4 commencement remains subject to separate Founder authorisation and its governed entry sequence.
-7. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
-8. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
-9. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
+6. The Founder follow-up to register FEF-CCF-001 is complete at programme-planning level only; evaluation and commencement remain future Framework Evolution work.
+7. D4 commencement remains subject to separate Founder authorisation and its governed entry sequence; FEF-CCF-001 has no impact on that sequencing.
+8. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
+9. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
+10. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
 
 The remaining 23 RGS open questions remain unresolved. They are not silently closed or converted into immediate programme decisions by this reconciliation.
 
@@ -748,6 +753,15 @@ expressly excludes that action and the Founder wording routes the future work
 through Framework Evolution. No D4 preparation or entry artefact, governance
 change, constitutional material, Framework Evolution work, Constitutional
 Candidate, or Deferred Matter was introduced.
+
+This v0.42 revision fulfils the programme-registration portion of the Phase 2
+Founder follow-up by registering FEF-CCF-001 — Context Continuity Framework as
+a Future Framework Evolution candidate. It is explicitly classified as
+Non-critical path and as having No impact on D4 sequencing. Registration does
+not commence the initiative, authorise evaluation or implementation, define
+Engineering Context Snapshots or related continuity artefacts, create
+constitutional or governance content, modify review execution, or commence
+D4. FEF-FGR-002 remains Active; D1–D3 remain Closed; D4 remains Not Started.
 
 ## 11. Change Control
 

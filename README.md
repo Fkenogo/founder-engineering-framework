@@ -3,12 +3,12 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.41 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.42 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
 **Current active review:** FEF-FGR-002 — D1, ORC-001, D2, and D3 Closed; Phase 2 Founder Milestone Decision recorded and validated as Approve with Conditions; D4 Not Started
 **First review domain:** D1 — Governance Authority
 **Immediate next programme action:** The Phase 2 milestone decision is complete; D4 remains Not Started and requires separate Founder authorisation and its governed entry sequence
-**Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
+**Framework Evolution status:** FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as Future Framework Evolution, non-critical path, with no impact on D4 sequencing; not commenced
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
