@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.16 |
+| Register version | 1.17 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-07-28 |
-| Substantive entry count | 23 |
+| Substantive entry count | 24 |
 
 ## Register
 
@@ -44,6 +44,7 @@
 | FEF-FGR-002-GF-021 | 1.0 | Routine Fingerprint Reverification and Two Operated Defect/Challenge-Correction Episodes Are Evidenced; Whether Independent Revalidation Should Become a Standing Requirement Remains Explicitly Undecided | RQ-022 | EV-018; EV-050; EV-051; EV-052; EV-053; EV-058; EV-059 | Scheduled fingerprint reverification operates at every gate transition; EV-058 and EV-059 are the sole operated defect/challenge-correction episodes, both handled by the same non-independent capacity; EV-018's recusal/vacancy provisions have never been triggered | No operated instance of independent revalidation by a separate party; whether independent revalidation should become a standing requirement is left explicitly undecided by EV-059 §4.7 itself | Dispositioned | Accept with Conditions | The finding shall not resolve future independence policy | FD-023 | Pass with Conditions |
 | FEF-FGR-002-GF-022 | 1.0 | The Corpus's Recurring Deterministic-Check-Plus-Disclosure-Plus-Non-Effects Pattern Is the Review's De Facto Practice, Not a Founder-Approved Standard; EV-058 and EV-059 Show It Did Not, by Itself, Prevent an Authority Overreach or a False Closure Claim | RQ-023 | Full commit history `d54e79d`..`38ff850`; corpus of D1–D3 validation records; EV-058; EV-059 | A recurring deterministic-check/disclosure/non-effects triad operates across essentially every validation record in the review; the cited commit range reproduces exactly; EV-058 and EV-059 show the pattern did not by itself prevent a defect | No independent human re-verification of deterministic outputs evidenced; no tool/AI-triggered escalation operated; RQ-023's own evidence is the reviewer's own method, a disclosed self-referential limitation | Dispositioned | Accept with Conditions | The finding shall not create a permanent assurance standard | FD-024 | Pass with Conditions |
 | FEF-FGR-002-GF-023 | 1.0 | The FEF-RQS-001 §12 Traceability Template Is Operated End-to-End for D1 and D2 but Reaches Only the GF Node for D3; Later-Reconsideration Triggers Are Evidenced Only at the Pre-Disposition Stage | RQ-024 | EV-022; EV-028; EV-030; EV-050; EV-051; EV-052; EV-053; EV-054; EV-055; EV-057; EV-058; EV-059; EV-062 | The FEF-RQS-001 traceability template is operated end-to-end for D1 (EV-030) and D2 (EV-055) through Founder Disposition/FD/Candidate-Deferral; D3's chain currently stops at the GF node, explicitly disclosed as pending | D3's FD/Candidate/Deferral nodes not yet populated; no D3 Traceability Register exists yet; EV-058/EV-059's reconsideration examples predate any D3 GF or FD | Dispositioned | Accept with Conditions | The finding remains bounded to the current D3 lifecycle state | FD-025 | Pass with Conditions |
+| FEF-FGR-002-GF-024 | 1.0 | Review-Scoped Record Classes Have Explicit Type-Specific Controls and Operated Traceability, but No Approved FEF-Wide Taxonomy or Universal Minimum Characteristic Set Is Evidenced | RQ-025 | EV-005; EV-007; EV-008; EV-013; EV-072; EV-073 | Approved review instruments identify review-scoped record types and type-specific controls, and operated records demonstrate categorisation and traceability; the mapped corpus does not evidence an approved FEF-wide taxonomy or universal minimum characteristic set | EV-013 and EV-072 remain Conditionally Admitted; EV-073 is one domain example; completeness, universal applicability, and enduring treatment require Founder judgement | Presented | Pending | None | None | Pass with Conditions |
 
 ## Change History
 
@@ -66,13 +67,17 @@
 | 1.14 | 2026-07-27 | D3-G2 Founder Review conducted and recorded: GF-015 through GF-023 each received an attributable Founder disposition (GF-019: Accept; GF-015, GF-016, GF-017, GF-018, GF-020, GF-021, GF-022, GF-023: Accept with Conditions), with exact Founder-supplied conditions recorded verbatim; Lifecycle State updated to Dispositioned for all nine; Decision Record marked Pending — FD not yet issued, since no Founder Decision Record was created by this recording activity; exact finding wording, evidence, limitations, confidence, and scope unchanged; no Constitutional Candidate or Deferred Matter created; D3 remains active, not closed; no DG-6 invoked | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-G2-FDVR-001 |
 | 1.15 | 2026-07-28 | DG-5 Founder Decision Record issuance completed: Decision Record links updated one-to-one from Pending to FD-017 through FD-025; no finding wording, evidence basis, uncertainty, disposition, or condition changed; D3 remains active and DG-6 is not reached | FEF-FGR-002-D3-DG5-FDVR-001 |
 | 1.16 | 2026-07-28 | DG-6 domain-exit lifecycle linkage recorded after V7 validation passed; D3 Closed; all 23 finding rows, including GF-015 through GF-023 wording, evidence, uncertainty, dispositions, conditions, Decision Record links, and validation states unchanged | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
+| 1.17 | 2026-07-28 | GF-024 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 001 after examining RQ-025 only against its six-item EP-004 v1.0 mapping; no Founder disposition or Decision created; RQ-026 through RQ-031 remain unexamined; S04 remains open | FEF-FGR-002-S04-GF-024-VR-001 |
 
 ## Non-Effects
 
 This register contains twenty-three Founder-dispositioned Governance
-Findings, each linked to an issued Founder Decision Record. DG-5 issuance
+Findings, each linked to an issued Founder Decision Record, and one
+Presented D4 finding awaiting Founder disposition. DG-5 issuance
 does not alter any finding wording, evidence basis, uncertainty,
 disposition, or condition; label a finding Approved, Active, or
 Constitutional; close an Open Question; close FEF-FGR-002-S03 or D3;
-commence D4 or D5; or disposition CE1–CE6. DG-6 closes D3 without
-changing any Governance Finding.
+commence D5; or disposition CE1–CE6. DG-6 closes D3 without changing any
+Governance Finding. GF-024 does not establish a taxonomy, universal
+minimum characteristic set, D5 lifecycle rule, D6 administrative model,
+Founder Decision, or Open Question disposition.
