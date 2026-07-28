@@ -2,16 +2,18 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.41
+**Identity version:** 1.42
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** FEF-FGR-002 **Active**; **Phase 2 Complete**; D1, ORC-001, D2, and D3 **Closed**; methodology operationally stable; RQ-018 remains open; D4 **Not Started**
+**Review state:** FEF-FGR-002 **Active**; **Phase 2 Complete**; D1, ORC-001, D2, and D3 **Closed**; methodology operationally stable; RQ-018 remains open; D4 **Mobilised — Effective**; substantive D4 review not commenced
 
 **D3 state:** Closed through DG-6 after V7 validation; 9 canonical RQs (RQ-016 through RQ-024) remain `Lifecycle State: Answered`; 39 Evidence Records remain frozen in FEF-FGR-002-EP-003 v1.0; GF-015 through GF-023 remain dispositioned; FD-017 through FD-025 remain issued and validated; the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed and unresolved; no Constitutional Candidate or Deferred Matter exists; D4 has not started
 
-**Phase 2 milestone state:** **Complete**; PTC-001 Passed; neutral Founder review package prepared and validated; Founder disposition **Approve with Conditions** recorded and validated; programme synchronized; FEF-CCF-001 registered as future work only; completion validated in FEF-FGR-002-P2-CVR-001; D4 Not Started
+**Phase 2 milestone state:** **Complete**; PTC-001 Passed; neutral Founder review package prepared and validated; Founder disposition **Approve with Conditions** recorded and validated; programme synchronized; FEF-CCF-001 registered as future work only; completion validated in FEF-FGR-002-P2-CVR-001; D4 was Not Started at Phase 2 completion
+
+**D4 state:** [FEF-FGR-002-D4-MOB-001](FEF-FGR-002-D4-MOB-001-RECORDS-AND-INFORMATION-GOVERNANCE-MOBILISATION-RECORD.md) v1.1 — **Mobilised — Effective** through [FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md), validated in [FEF-FGR-002-D4-FMAVR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md); zero D4 RQs, evidence items, packs, sessions, findings, or review-scoped decisions; substantive review not commenced
 
 **Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
@@ -122,9 +124,10 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Phase 2 Founder Milestone Review Package | [FEF-FGR-002-P2-FMR-001](FEF-FGR-002-PHASE-2-FOUNDER-MILESTONE-REVIEW.md), [FEF-FGR-002-P2-MA-001](FEF-FGR-002-PHASE-2-METHODOLOGY-ASSESSMENT.md), [FEF-FGR-002-P2-FDA-001](FEF-FGR-002-PHASE-2-FOUNDER-DECISION-AGENDA.md), and [FEF-FGR-002-P2-FMRVR-001](FEF-FGR-002-PHASE-2-REVIEW-PACKAGE-VALIDATION-REPORT.md) — neutral package prepared and validated; historically unchanged |
 | Phase 2 Founder Milestone Decision | [FEF-FGR-002-P2-FMDR-001](FEF-FGR-002-PHASE-2-FOUNDER-DECISION-RECORD.md) / [FEF-FGR-002-P2-FMDVR-001](FEF-FGR-002-PHASE-2-FOUNDER-DECISION-VALIDATION-REPORT.md) — **Approve with Conditions**; exact Founder wording recorded and validated; package unchanged; FEF-CCF-001 not registered by this task; D4 Not Started |
 | Phase 2 Completion | [FEF-FGR-002-P2-CR-001](FEF-FGR-002-PHASE-2-COMPLETION-REPORT.md) / [FEF-FGR-002-P2-CVR-001](FEF-FGR-002-PHASE-2-COMPLETION-VALIDATION-REPORT.md) — **Complete; Pass**; methodology operationally stable; FEF-FGR-002 Active; FEF-CCF-001 future work only; D4 Not Started |
+| D4 mobilisation | [FEF-FGR-002-D4-MOB-001](FEF-FGR-002-D4-MOB-001-RECORDS-AND-INFORMATION-GOVERNANCE-MOBILISATION-RECORD.md) v1.1 / [FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) / [FEF-FGR-002-D4-FMAVR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md) — Founder Approve; **Mobilised — Effective**; no conditions; substantive review not commenced |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
 | Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
-| Next gate | Phase 2 is Complete. D4 remains the next governed domain but is Not Started; it requires separate Founder authorisation and its governed entry sequence. |
+| Next gate | D4 mobilisation is effective. Prepare and validate D4 Review Question candidates under a subsequent separately governed task; no evidence activity or substantive review is authorised by mobilisation alone. |
 
 ### 4.3 Substantive Review Boundary
 
@@ -263,3 +266,4 @@ framework effect.
 | 1.39 | 2026-07-28 | DG-6 Domain Exit completed after V7 validation: all FEF-FGRP-001 §12.2 criteria passed; D3 changed from Active to Closed; DG-1 through DG-6 complete; nine RQ/Evidence/EP-003/S03/GF/FD chains remain intact; RQ-018 and EV-058/EV-059 preserved; protected artefacts byte-identical; zero Constitutional Candidates or Deferred Matters; D4 Not Started | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
 | 1.40 | 2026-07-28 | PTC-001 Passed and the neutral Phase 2 Founder Milestone Review Package was prepared and validated; the attributable Founder disposition Approve with Conditions was then recorded and validated with exact wording; prepared package and protected review state unchanged; FEF-FGR-002 remains Active, D1–D3 remain Closed, D4 Not Started; FEF-CCF-001 follow-up recorded but not implemented or registered in this bounded task; no Framework Evolution or D4 activity | FEF-FGR-002-P2-FMDR-001; FEF-FGR-002-P2-FMDVR-001 |
 | 1.41 | 2026-07-28 | Phase 2 formally completed as an administrative programme milestone; methodology recorded as the operational execution baseline for remaining domains; future improvements routed through Framework Evolution unless necessary for governance integrity or execution safety; FEF-CCF-001 remains future work only; protected and review content unchanged; FEF-FGR-002 Active; D1–D3 Closed; D4 Not Started | FEF-FGR-002-P2-CR-001; FEF-FGR-002-P2-CVR-001 |
+| 1.42 | 2026-07-28 | Founder approved D4 mobilisation with no conditions; exact wording recorded and validated; FEF-FGR-002-D4-MOB-001 advanced to v1.1 and Mobilised — Effective; Review Question preparation is next; zero D4 RQ, evidence, pack, session, finding, or review-scoped decision activity; substantive review not commenced; no methodology or checkpoint-cadence amendment; no Framework Evolution | FEF-FGR-002-D4-FMAR-001; FEF-FGR-002-D4-FMAVR-001 |

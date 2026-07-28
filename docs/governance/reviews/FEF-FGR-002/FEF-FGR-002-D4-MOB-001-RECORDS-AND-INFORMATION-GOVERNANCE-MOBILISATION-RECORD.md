@@ -6,16 +6,16 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
 | Record class | Prepared domain mobilisation record |
-| Version | 1.0 |
-| Status | **Prepared and Validated — Awaiting Founder Authorisation** |
+| Version | 1.1 |
+| Status | **Mobilised — Effective** |
 | Record date | 2026-07-28 |
 | Operating mode | Sustained Operational Mode |
 | Preparation authority | Attributable Founder task authorising preparation and validation of the D4 Mobilisation Record only |
-| Mobilisation authority | Not granted by this record |
+| Mobilisation authority | [FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — Founder Approve; validated in FEF-FGR-002-D4-FMAVR-001 |
 | Predecessors | D1, D2, and D3 Closed; ORC-001 Closed; PTC-001 Passed; Phase 2 Complete |
 | Responsible operational capacity | FEF-FGR-002-RA-002 — Review Administrator |
 | Validator | FEF-FGR-002-RA-006 — non-independent combination disclosed |
-| Current lifecycle stage | Pre-mobilisation record prepared; D4 Not Started |
+| Current lifecycle stage | `Mobilize` complete; Review Question preparation next |
 | Substantive D4 review | Not commenced |
 
 ## 1. Purpose
@@ -23,8 +23,9 @@
 This record prepares the bounded mobilisation state for D4 — Records and
 Information Governance. It defines the domain purpose, boundaries,
 dependencies, roles, mobilisation assumptions, known limitations, validation
-result, and next governed activity without making the mobilisation effective
-or commencing D4.
+result, and next governed activity. Version 1.0 prepared the record without
+making mobilisation effective. Founder authorisation subsequently made D4
+mobilisation effective without commencing substantive D4 review.
 
 One consolidated record follows the D2 and D3 mobilisation precedent and
 avoids a duplicative validation report. The validation in Section 10 is a
@@ -57,16 +58,22 @@ The repository baseline at preparation is
 `68b9f1db62b9bb9d2bc1c5e076fcd496227e6f50`, with local `main`,
 `origin/main`, and the worktree synchronized and clean.
 
-This authority prepares a record only. It does not authorise D4 mobilisation,
-prepare or admit a Review Question, identify or register evidence, assemble or
-freeze an Evidence Pack, create or open a session, produce a Governance
-Finding, issue a Founder Decision, or create constitutional effect.
+The preparation authority permitted a record only. The Founder subsequently
+approved mobilisation in
+[FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md),
+validated in
+[FEF-FGR-002-D4-FMAVR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md).
+That authorisation makes mobilisation effective only. It does not prepare or
+admit a Review Question, identify or register evidence, assemble or freeze an
+Evidence Pack, create or open a session, produce a Governance Finding, issue a
+review-scoped Founder Decision, or create constitutional effect.
 
 ## 3. D4 Review Purpose
 
-Subject to separate Founder mobilisation authority, D4 will examine the
-governance controls required to preserve auditable records, decisions,
-evidence, versions, and organisational knowledge under explicit controls.
+Under the recorded Founder mobilisation authority, D4 may proceed to the next
+separately governed preparation stage to examine the governance controls
+required to preserve auditable records, decisions, evidence, versions, and
+organisational knowledge under explicit controls.
 
 The approved scope comprises:
 
@@ -142,10 +149,10 @@ D4 mobilisation preparation does not:
 | D3 predecessor | Satisfied | Closed through DG-6; assurance and protected-state controls preserved |
 | PTC-001 | Satisfied | Passed |
 | Phase 2 Founder decision | Satisfied | Approve with Conditions — recorded and validated |
-| Programme synchronization | Satisfied | Master Programme v0.43 and current programme controls reconciled |
-| D4 placement | Satisfied | D4 is the next domain and remains Not Started |
+| Programme synchronization | Satisfied | Master Programme and current programme controls reconciled |
+| D4 placement | Satisfied | D4 is the next domain; mobilisation is effective |
 | Effective role assignments | Satisfied with disclosed condition | Six assignments remain Effective; Validator combination is non-independent |
-| D4 mobilisation authority | Not satisfied | Separate attributable Founder authorisation is required before this record becomes effective |
+| D4 mobilisation authority | Satisfied | FEF-FGR-002-D4-FMAR-001 — Founder Approve; exact-fidelity validation passed |
 | D4 Review Questions | Not applicable to this task | None prepared, validated, allocated, or admitted |
 | D4 evidence | Not applicable to this task | No source identified and no Evidence Record registered |
 
@@ -161,7 +168,7 @@ remain Effective:
 
 | Capacity | D4 Mobilisation-Preparation Treatment |
 |---|---|
-| Founder — RA-001 | Reserved authority to authorise D4 mobilisation and make Founder Decisions; no D4 authorisation or decision is inferred |
+| Founder — RA-001 | D4 mobilisation authorised through FEF-FGR-002-D4-FMAR-001; all later Founder Decisions remain reserved and are not inferred |
 | Review Administrator — RA-002 | Prepares this bounded record and controls sequence, scope, dependencies, and the next authority gate |
 | Review Analyst — RA-003 | No D4 Review Question, evidence mapping, or substantive analysis performed |
 | Review Recorder — RA-004 | Records attributable administrative state without creating authority |
@@ -194,7 +201,7 @@ qualification, or a later governance decision.
 
 ## 8. Known Limitations
 
-- D4 mobilisation has not been authorised or made effective.
+- D4 mobilisation is effective, but substantive D4 review has not commenced.
 - No D4 Review Question exists or is prepared by this task.
 - No D4 evidence source is identified, registered, qualified, or examined.
 - No D4 Evidence Pack, session, Governance Finding, Founder Decision,
@@ -228,8 +235,13 @@ The conditions are:
 6. stop and escalate any material authority, scope, independence, privacy,
    security, legal, or records-treatment ambiguity.
 
+Conditions 1 and 2 were satisfied by the attributable Founder authorisation
+and its exact-fidelity validation. Conditions 3 through 6 remain operative for
+subsequent D4 preparation and execution.
+
 This verdict is not DG-2 admission, evidence mobilisation, DG-3 freeze, DG-4
-session entry, DG-5 decision issuance, DG-6 domain exit, or D4 commencement.
+session entry, DG-5 decision issuance, DG-6 domain exit, or substantive D4
+review commencement.
 
 ## 10. Validation and Current State
 
@@ -239,41 +251,50 @@ The Validator-capacity pass confirms:
 |---|---|
 | Baseline | Pass — preparation began from clean, synchronized, pushed commit `68b9f1db62b9bb9d2bc1c5e076fcd496227e6f50` |
 | Identifier | Pass — FEF-FGR-002-D4-MOB-001 is unique and collision-safe |
-| Authority | Pass — preparation authority recorded; D4 mobilisation authority explicitly absent |
+| Authority | Pass — preparation authority and subsequent Founder mobilisation authorisation are attributable and separately recorded |
 | Purpose | Pass — bounded to the approved D4 records and information governance purpose |
 | Scope and exclusions | Pass — implementation systems and D5–D8 boundaries preserved |
-| Dependencies | Pass with Condition — D1–D3 and Phase 2 prerequisites satisfied; separate D4 mobilisation authority remains required |
+| Dependencies | Pass — D1–D3 and Phase 2 prerequisites satisfied; separate D4 mobilisation authority recorded and validated |
 | Roles | Pass with Condition — six assignments Effective; validation is non-independent |
 | Assumptions and limitations | Pass — explicit, bounded, and non-substitutive |
 | RQ state | Pass — no D4 Review Question prepared, allocated, validated, admitted, or answered |
 | Evidence state | Pass — no source identified; no Evidence Record or Evidence Pack created or modified |
 | Review execution | Pass — no D4 session, finding, decision, candidate, deferral, or substantive examination |
-| Protected state | Pass — all pre-existing tracked artefacts remain unchanged |
+| Protected state | Pass — v1.1 changes only lifecycle fields and authorisation linkage; all other protected artefacts remain unchanged |
 | Methodology | Pass — no amendment or Framework Evolution performed |
 | Artefact necessity | Pass — one consolidated mobilisation record contains its validation |
 | Repository integrity | Pass — only this mobilisation deliverable is introduced |
 
 Current state:
 
-> **D4 Not Started — Mobilisation Record Prepared and Validated; Founder Authorisation Pending.**
+> **D4 Mobilised — Effective; Review Question Preparation Not Yet Started.**
 
 ## 11. Next Governed Activity
 
-**Next governed activity:** Obtain a separate attributable Founder
-authorisation to make D4 mobilisation effective.
+**Next governed activity:** Prepare D4 Review Question candidates under a
+subsequent separately governed task and validate them through the existing
+methodology.
 
-Only after that authority is recorded may the programme determine the next
-separately governed D4 preparation action under the existing methodology. This
-record does not authorise or prepare Review Questions or evidence.
+This record does not prepare, validate, allocate, admit, or answer a Review
+Question and does not authorise evidence activity.
 
 ## 12. Non-Effects
 
-This record does not commence or mobilise D4; prepare, allocate, validate,
-admit, or answer a Review Question; identify, register, qualify, admit, or
-examine evidence; assemble or freeze an Evidence Pack; create or open a
-session; produce or modify a Governance Finding; issue or modify a Founder
-Decision; modify a Review Question, Open Question, traceability record,
-validation report, or protected artefact; create a Constitutional Candidate or
-Deferred Matter; amend the review methodology; perform Framework Evolution;
-register an additional Framework Evolution candidate; commence FEF-CCF-001;
-create constitutional content; or establish an implementation system.
+This record does not commence substantive D4 review; prepare, allocate,
+validate, admit, or answer a Review Question; identify, register, qualify,
+admit, or examine evidence; assemble or freeze an Evidence Pack; create or
+open a session; produce or modify a Governance Finding; issue or modify a
+review-scoped Founder Decision; modify a Review Question, Open Question,
+traceability record, existing validation report, or protected artefact beyond
+the authorised lifecycle linkage in this record; create a Constitutional
+Candidate or Deferred Matter; amend the review methodology or checkpoint
+cadence; perform Framework Evolution; register an additional Framework
+Evolution candidate; commence FEF-CCF-001; create constitutional content; or
+establish an implementation system.
+
+## 13. Change History
+
+| Version | Date | Change | Authority |
+|---|---|---|---|
+| 1.0 | 2026-07-28 | Prepared and validated; awaiting Founder authorisation; D4 Not Started | Attributable Founder preparation task |
+| 1.1 | 2026-07-28 | Founder Approve recorded and validated; mobilisation changed to Mobilised — Effective; Review Question preparation next; substantive D4 review not commenced | FEF-FGR-002-D4-FMAR-001; FEF-FGR-002-D4-FMAVR-001 |
