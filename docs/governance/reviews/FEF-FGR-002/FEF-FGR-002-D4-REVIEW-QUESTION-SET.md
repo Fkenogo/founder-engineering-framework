@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.6 |
+| Set version | 1.7 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | Seven RQs Founder-Accepted and Admitted |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 not started |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 in Loop 007; all seven qualified with conditions; none packed or examined |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -251,7 +251,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-031 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Information Lifecycle Integrity and Checkpoints |
 | Question Text | What information-integrity checkpoints and traceability, if any, are required from record creation through maintenance, correction, transfer, archival, restriction, and authorised disposition to preserve identity, version lineage, completeness, accessibility, and reproducibility without establishing the D5 governance lifecycle model? |
 | Originating candidate | D4-RQC-07 |
@@ -265,8 +265,8 @@ substantive answer is introduced.
 | Scope | End-to-end record integrity and traceability across information-handling transitions |
 | Exclusions | No D5 lifecycle state, activation model, supersession rule, D6 register architecture, automated workflow, repository design, or implementation system |
 | Evidence Need | Information-integrity and transition requirements; identity, lineage, correction, transfer, archival, restriction, disposition, and reproducibility records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | None — evidence mobilisation not commenced |
-| Contrary Evidence | Unassessed — evidence mobilisation not commenced; no source identified or registered |
+| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-023, EV-059, EV-069, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 007; not packed; not examined |
+| Contrary Evidence | No substantive source contradiction identified. Approved and operated sources establish bounded identity, version, correction, frozen-baseline, custody, traceability, and non-retrospective controls; EV-012 preserves OQ-021 and OQ-022 as unresolved; EV-013 and EV-023 remain authority-limited; D5 lifecycle rules remain separately governed. No approved end-to-end FEF information-lifecycle model or operated full-chain transition example was located |
 | Dependencies | D1: Transition responsibility and authority must remain attributable. D2: Evidence lineage and frozen-pack integrity remain controlled and cannot be generalized in a way that changes evidence treatment. D3: Assurance inputs, checks, results, conditions, and protected-state controls must remain traceable without creating a new assurance verdict. Interface: D5 later governs status, applicability, supersession, withdrawal, and controlled evolution; D6 later governs permanent administrative architecture |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Undetermined |
@@ -280,7 +280,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-28 / 2026-07-28 |
-| Change Rationale | First canonical admission following Founder Accept; no wording change from D4-RQC-07 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-031-only evidence mobilisation and qualification from Execution Loop 007 while preserving OQ-021/OQ-022, the D5 interface, authority limitations, and gaps; Question Text, purpose, scope, exclusions, dependencies, lifecycle state, and disposition unchanged |
 
 ## 9. Canonical Mapping
 
@@ -305,13 +305,14 @@ substantive answer is introduced.
 | 1.4 | 2026-07-28 | RQ-028 Evidence Records, authority limitations, open OQ-010, gaps, and D6 dependency synchronized to Execution Loop 004; RQ-025 through RQ-027 evidence unchanged; RQ-029 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ028-EMQR-001; FEF-FGR-002-D4-RQ028-EMVR-001 |
 | 1.5 | 2026-07-28 | RQ-029 Evidence Records, authority limitations, open OQ-011/OQ-012 interfaces, gaps, and D5/external-authority dependencies synchronized to Execution Loop 005; RQ-025 through RQ-028 evidence unchanged; RQ-030 and RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ029-EMQR-001; FEF-FGR-002-D4-RQ029-EMVR-001 |
 | 1.6 | 2026-07-28 | RQ-030 Evidence Records, authority limitations, open OQ-021/OQ-023 interfaces, FEF-CCF-001 future-work boundary, gaps, and D6 dependency synchronized to Execution Loop 006; RQ-025 through RQ-029 evidence unchanged; RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ030-EMQR-001; FEF-FGR-002-D4-RQ030-EMVR-001 |
+| 1.7 | 2026-07-28 | RQ-031 Evidence Records, authority limitations, open OQ-021/OQ-022 interfaces, information-integrity gaps, and D5/D6 boundaries synchronized to Execution Loop 007; RQ-025 through RQ-030 evidence unchanged; all seven D4 RQs now evidence-mobilised and qualified with conditions; no pack or examination | FEF-FGR-002-D4-RQ031-EMQR-001; FEF-FGR-002-D4-RQ031-EMVR-001 |
 
 ## 11. Non-Effects
 
 This canonical set records qualified evidence mappings for RQ-025 through
-RQ-030 only. Execution Loop 006 registers EV-074 solely as attributable
-evidence of the FEF-CCF-001 future-work boundary. It does not evaluate or
-commence FEF-CCF-001, assemble or freeze an Evidence Pack, assign or create a
-session, commence examination, answer an RQ, produce a Governance Finding,
-prepare a review-scoped Founder Decision, amend the methodology, or perform
-Framework Evolution.
+RQ-031. Execution Loop 007 creates no new Evidence Record and does not infer
+D5 lifecycle rules. The set does not evaluate or commence FEF-CCF-001,
+assemble or freeze an Evidence Pack, assign or create a session, commence
+examination, answer an RQ, produce a Governance Finding, prepare a
+review-scoped Founder Decision, amend the methodology, or perform Framework
+Evolution.

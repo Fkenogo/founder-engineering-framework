@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.30 |
+| Register version | 1.31 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,7 +13,7 @@
 | Control owner | FEF-FGR-002-RA-002 — Review Administrator |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
-| Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report; D3 admission traced to FEF-FGR-002-D3-G1-FDR-001; D4 admission traced through temporary candidate, FEF-FGR-002-D4-G1-FDR-001, and FEF-FGR-002-D4-RQAR-001; RQ-025 evidence mobilisation traced to FEF-FGR-002-D4-RQ025-EMQR-001 and FEF-FGR-002-D4-RQ025-EMVR-001; RQ-026 evidence mobilisation traced to FEF-FGR-002-D4-RQ026-EMQR-001 and FEF-FGR-002-D4-RQ026-EMVR-001; RQ-027 evidence mobilisation traced to FEF-FGR-002-D4-RQ027-EMQR-001 and FEF-FGR-002-D4-RQ027-EMVR-001; RQ-028 evidence mobilisation traced to FEF-FGR-002-D4-RQ028-EMQR-001 and FEF-FGR-002-D4-RQ028-EMVR-001; RQ-029 evidence mobilisation traced to FEF-FGR-002-D4-RQ029-EMQR-001 and FEF-FGR-002-D4-RQ029-EMVR-001; RQ-030 evidence mobilisation traced to FEF-FGR-002-D4-RQ030-EMQR-001 and FEF-FGR-002-D4-RQ030-EMVR-001 |
+| Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report; D3 admission traced to FEF-FGR-002-D3-G1-FDR-001; D4 admission traced through temporary candidate, FEF-FGR-002-D4-G1-FDR-001, and FEF-FGR-002-D4-RQAR-001; RQ-025 evidence mobilisation traced to FEF-FGR-002-D4-RQ025-EMQR-001 and FEF-FGR-002-D4-RQ025-EMVR-001; RQ-026 evidence mobilisation traced to FEF-FGR-002-D4-RQ026-EMQR-001 and FEF-FGR-002-D4-RQ026-EMVR-001; RQ-027 evidence mobilisation traced to FEF-FGR-002-D4-RQ027-EMQR-001 and FEF-FGR-002-D4-RQ027-EMVR-001; RQ-028 evidence mobilisation traced to FEF-FGR-002-D4-RQ028-EMQR-001 and FEF-FGR-002-D4-RQ028-EMVR-001; RQ-029 evidence mobilisation traced to FEF-FGR-002-D4-RQ029-EMQR-001 and FEF-FGR-002-D4-RQ029-EMVR-001; RQ-030 evidence mobilisation traced to FEF-FGR-002-D4-RQ030-EMQR-001 and FEF-FGR-002-D4-RQ030-EMVR-001; RQ-031 evidence mobilisation traced to FEF-FGR-002-D4-RQ031-EMQR-001 and FEF-FGR-002-D4-RQ031-EMVR-001 |
 | Last validation date | 2026-07-28 |
 | Substantive entry count | 31 |
 | D2 substantive entry count | 7 |
@@ -54,7 +54,7 @@
 | FEF-FGR-002-RQ-028 | 1.1 | Access, Confidentiality, Privacy, and Security Governance | See controlled D4 RQ set v1.4 | D4 | D4-RQC-04; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-010 direct | Evidence Mobilised — Qualified with Conditions (EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-066, EV-071); Not Packed; Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
 | FEF-FGR-002-RQ-029 | 1.1 | Legal Hold, Deletion, and Disposition Control | See controlled D4 RQ set v1.5 | D4 | D4-RQC-05; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-011 direct; OQ-012 partial | Evidence Mobilised — Qualified with Conditions (EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071); Not Packed; Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
 | FEF-FGR-002-RQ-030 | 1.1 | Organisational Knowledge and Continuity | See controlled D4 RQ set v1.6 | D4 | D4-RQC-06; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 partial; OQ-023 partial | Evidence Mobilised — Qualified with Conditions (EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074); Not Packed; Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
-| FEF-FGR-002-RQ-031 | 1.0 | Information Lifecycle Integrity and Checkpoints | See controlled D4 RQ set v1.0 | D4 | D4-RQC-07; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 direct; OQ-022 partial | Evidence Mobilisation Not Started | Undetermined | Admitted | Pending | Pass with Conditions |
+| FEF-FGR-002-RQ-031 | 1.1 | Information Lifecycle Integrity and Checkpoints | See controlled D4 RQ set v1.7 | D4 | D4-RQC-07; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 direct; OQ-022 partial | Evidence Mobilised — Qualified with Conditions (EV-005, EV-008, EV-012, EV-013, EV-023, EV-059, EV-069, EV-070, EV-071, EV-073, EV-074); Not Packed; Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
 
 ## Change History
 
@@ -91,18 +91,18 @@
 | 1.28 | 2026-07-28 | D4 Evidence Mobilisation Execution Loop 004 updated RQ-028 only to v1.1 and recorded nine reused, qualified Evidence Records with authority limitations, OQ-010, external-authority and operated-practice gaps, and the D6 dependency; RQ-028 remains Admitted, Pending, not packed, and not examined; RQ-025 through RQ-027 evidence unchanged; RQ-029 through RQ-031 unchanged | FEF-FGR-002-D4-RQ028-EMQR-001; FEF-FGR-002-D4-RQ028-EMVR-001 |
 | 1.29 | 2026-07-28 | D4 Evidence Mobilisation Execution Loop 005 updated RQ-029 only to v1.1 and recorded nine reused, qualified Evidence Records with authority limitations, open OQ-011/OQ-012 interfaces, legal-hold/deletion/disposition gaps, and D5/external-authority dependencies; RQ-029 remains Admitted, Pending, not packed, and not examined; RQ-025 through RQ-028 evidence unchanged; RQ-030 and RQ-031 byte-identical | FEF-FGR-002-D4-RQ029-EMQR-001; FEF-FGR-002-D4-RQ029-EMVR-001 |
 | 1.30 | 2026-07-28 | D4 Evidence Mobilisation Execution Loop 006 updated RQ-030 only to v1.1 and recorded ten reused and one newly registered Evidence Record with authority limitations, open OQ-021/OQ-023 interfaces, FEF-CCF-001 future-work separation, continuity/handover gaps, and the D6 dependency; RQ-030 remains Admitted, Pending, not packed, and not examined; RQ-025 through RQ-029 evidence unchanged; RQ-031 byte-identical | FEF-FGR-002-D4-RQ030-EMQR-001; FEF-FGR-002-D4-RQ030-EMVR-001 |
+| 1.31 | 2026-07-28 | D4 Evidence Mobilisation Execution Loop 007 updated RQ-031 only to v1.1 and recorded eleven reused, qualified Evidence Records with authority limitations, open OQ-021/OQ-022 interfaces, information-integrity gaps, and preserved D5/D6 boundaries; RQ-031 remains Admitted, Pending, not packed, and not examined; RQ-025 through RQ-030 evidence unchanged; all seven D4 RQs now evidence-mobilised and qualified with conditions | FEF-FGR-002-D4-RQ031-EMQR-001; FEF-FGR-002-D4-RQ031-EMVR-001 |
 
 ## Non-Effects
 
 This register contains eight D1 RQs examined in S01, seven D2 RQs examined
 in S02, nine D3 RQs examined in S03, and seven admitted D4 RQs. Evidence
-mobilisation is complete for RQ-025 through RQ-030 only. No existing Open Question is
+mobilisation is complete for RQ-025 through RQ-031. No existing Open Question is
 modified, answered, or closed. DG-5 links FD-017 through FD-025 without
 changing any Review Question wording, evidence status, lifecycle state,
 or OQ mapping. RQ-018's gap remains open. D3 DG-6 is complete and D3 is
 closed. D4 remains Mobilised — Effective; Review Question Admission is
-complete; RQ-031 evidence mobilisation and all substantive
-D4 review have not commenced.
+complete; all substantive D4 review remains not commenced.
 
 ## Domain Coverage
 
@@ -111,7 +111,7 @@ D4 review have not commenced.
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
 | D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
-| D4 — Records and Information Governance | 7 | RQ-025 evidence mobilised and qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; none is packed or examined; RQ-031 evidence mobilisation not commenced; substantive review not commenced |
+| D4 — Records and Information Governance | 7 | RQ-025 through RQ-031 evidence mobilised and qualified with conditions in Execution Loops 001–007 respectively; none is packed or examined; substantive review not commenced |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |
