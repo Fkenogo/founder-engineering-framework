@@ -9,18 +9,18 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.39 |
+| Programme version | Master Programme v0.40 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | D3 — **active, not closed**; D3-G2 Founder Review completed; GF-015 through GF-023 dispositioned; Founder Decision Records **FD-017 through FD-025 Issued and Validated**; DG-5 complete; DG-6 not reached; D4 not started |
+| Current milestone | D3 — **Closed** through DG-6; DG-1 through DG-6 complete; D4 **Not Started** |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | DG-5 complete: FD-017 through FD-025 issued one-to-one for GF-015 through GF-023 and validated; D3 remains active; Domain Exit Gate (DG-6) not reached; D4 not started |
+| Current execution window | D3 Domain Exit complete and validated; nine traceability chains intact; RQ-018 and EV-058/EV-059 preserved; D4 Not Started |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | FEF operating mode | Sustained Operational Mode — Framework Engineering available, not default |
 | Operational readiness | Ready for Operational Mode, subject to the approved operating conditions |
-| Next review domain | D3 — Governance Assurance remains active; DG-5 complete; DG-6 not reached; no D4 activity |
+| Next review domain | D4 — Records and Information Governance; Not Started |
 | Programme Governance | Operating Pilot — FAR-002; no standard created |
 | Review mechanism | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory |
 | Framework Evolution status | Governance Evolution Review + FAP-001 exist, completed, **deferred** — not on the critical path; routed to Domain D5 or later constitutional consolidation; CE1–CE6 undecided |
@@ -37,14 +37,14 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, and D2 closed; D3 remains active and not closed; the D3-G2 Founder Review is complete and FD-017 through FD-025 have been issued and validated through DG-5. |
-| What are we doing? | DG-5 Founder Decision Record issuance is complete. No DG-6 or D4 activity has been performed. |
+| Where are we? | Phase 2, with D1, ORC-001, D2, and D3 closed; D3 passed DG-6 Domain Exit after complete lifecycle, traceability, and protected-state validation. |
+| What are we doing? | D3 closure is recorded. No D4 or D5 activity has been performed. |
 | Why are we doing it? | Evidence requirements were derived, candidate sources qualified, the baseline frozen through DG-3, and the frozen pack reverified at entry — matching identity, fingerprint, and membership unchanged — before authorising it as the examination baseline and formally opening the session. One genuine gap (RQ-018 dissent evidence) and two preserved contradictions (EV-058, EV-059) are carried forward as disclosed conditions, not resolved even by the Founder's own recorded Conditions. |
-| What must finish before anything else? | DG-6 remains a separate, later gate. D3 is not closed and D4 has not started. |
+| What must finish before anything else? | D4 remains Not Started and requires its own separately governed entry sequence. |
 
 ## Immediate Next Programme Action
 
-**DG-5 is complete: FD-017 through FD-025 are issued and validated one-to-one for GF-015 through GF-023. DG-6 (Exit domain) is not reached. D3 remains active and not closed. D4 is not started. No further progression is recorded by this revision.**
+**DG-6 is complete and D3 — Governance Assurance is Closed. D4 has not started. No downstream activity is commenced or authorised by this revision.**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
 FEF-FGR-002-RQ-024. Evidence requirements were derived
@@ -123,7 +123,11 @@ and finding Non-Effects. The issuance is validated in
 [FEF-FGR-002-D3-DG5-FDVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md)
 and traced in
 [FEF-FGR-002-D3-TR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-TRACEABILITY-REGISTER.md).
-DG-6 remains not reached; D3 remains active and D4 has not started.
+DG-6 then passed V7 validation and closed D3 through the
+[D3 Closure Report](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-CLOSURE-REPORT.md)
+and
+[Domain Exit Validation Report](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-DG6-DOMAIN-EXIT-VALIDATION-REPORT.md).
+D4 remains Not Started.
 
 ## Genuine Blockers
 
@@ -150,5 +154,5 @@ All 23 RGS governance questions remain open.
 |---|---|---|
 | Governance | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved. |
 | Documentation | 🟢 Green | D3 Founder Review, DG-5 decision issuance, validation, and traceability are controlled; protected artefacts remain unchanged. |
-| Programme | 🟢 Green | DG-5 is complete; D3 remains active; DG-6 is not reached and D4 is not started. |
+| Programme | 🟢 Green | DG-6 is complete; D3 is Closed; D4 is Not Started. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

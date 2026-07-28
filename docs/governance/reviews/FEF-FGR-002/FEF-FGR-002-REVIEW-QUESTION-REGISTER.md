@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.22 |
+| Register version | 1.23 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -75,6 +75,7 @@
 | 1.20 | 2026-07-27 | RQ-024 examined in FEF-FGR-002-S03 (Execution Loop 009) using EP-003 v1.0 only; Lifecycle State updated to Answered; Evidence Status updated to "EP-003 v1.0 examined in S03 (Execution Loop 009)"; Disposition updated to reference GF-023, Presented, Founder disposition pending; RQ-016 through RQ-023 unchanged; all nine admitted D3 RQs are now answered at finding level; D3 remains active, not closed; RQ wording not changed | FEF-FGR-002-S03-GF-023-VR-001 |
 | 1.21 | 2026-07-27 | D3-G2 Founder Review conducted; Disposition field updated for RQ-016 through RQ-024 to reference each finding's recorded Founder disposition (GF-019: Accept; the other eight: Accept with Conditions), with "FD not yet issued" noted since no Founder Decision Record was created by this recording activity; RQ wording, Evidence Status, and Lifecycle State (Answered) unchanged; the RQ-018 gap remains explicitly disclosed as open; D3 remains active, not closed; no DG-6 invoked | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-G2-FDVR-001 |
 | 1.22 | 2026-07-28 | DG-5 Founder Decision Record references FD-017 through FD-025 linked to RQ-016 through RQ-024 respectively; exact RQ wording, Evidence Status, Lifecycle State, and OQ mappings unchanged; RQ-018 gap remains open; D3 remains active and DG-6 is not reached | FEF-FGR-002-D3-DG5-FDVR-001 |
+| 1.23 | 2026-07-28 | DG-6 domain-exit lifecycle recorded in Domain Coverage only; all 24 RQ rows, exact wording, Evidence Status, Disposition, Lifecycle State, and OQ mappings unchanged; RQ-018 remains open; D3 Closed; D4 Not Started | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
 
 ## Non-Effects
 
@@ -82,8 +83,8 @@ This register contains eight D1 RQs examined in S01, seven D2 RQs examined
 in S02, and nine D3 RQs examined in S03. No existing Open Question is
 modified, answered, or closed. DG-5 links FD-017 through FD-025 without
 changing any Review Question wording, evidence status, lifecycle state,
-or OQ mapping. RQ-018's gap remains open. D3 remains active, not closed;
-DG-6 has not been invoked and D4 has not started.
+or OQ mapping. RQ-018's gap remains open. DG-6 is complete, D3 is closed,
+and D4 has not started.
 
 ## Domain Coverage
 
@@ -91,8 +92,8 @@ DG-6 has not been invoked and D4 has not started.
 |---|---:|---|
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
-| D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; RQ-018 gap remains open; D3 remains active and not closed; DG-6 not reached |
-| D4 — Records and Information Governance | 0 | Not reached |
+| D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
+| D4 — Records and Information Governance | 0 | Not Started |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |

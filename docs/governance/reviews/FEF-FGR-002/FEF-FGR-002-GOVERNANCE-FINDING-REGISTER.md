@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.15 |
+| Register version | 1.16 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -65,6 +65,7 @@
 | 1.13 | 2026-07-27 | GF-023 produced, validated Pass with Conditions, and presented from FEF-FGR-002-S03's ninth bounded RQ-024 examination iteration (Execution Loop 009); GF-015 through GF-022 unchanged; no Founder disposition recorded; all nine admitted D3 RQs now answered at finding level; D3 remains active, not closed | FEF-FGR-002-S03-GF-023-VR-001 |
 | 1.14 | 2026-07-27 | D3-G2 Founder Review conducted and recorded: GF-015 through GF-023 each received an attributable Founder disposition (GF-019: Accept; GF-015, GF-016, GF-017, GF-018, GF-020, GF-021, GF-022, GF-023: Accept with Conditions), with exact Founder-supplied conditions recorded verbatim; Lifecycle State updated to Dispositioned for all nine; Decision Record marked Pending — FD not yet issued, since no Founder Decision Record was created by this recording activity; exact finding wording, evidence, limitations, confidence, and scope unchanged; no Constitutional Candidate or Deferred Matter created; D3 remains active, not closed; no DG-6 invoked | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-G2-FDVR-001 |
 | 1.15 | 2026-07-28 | DG-5 Founder Decision Record issuance completed: Decision Record links updated one-to-one from Pending to FD-017 through FD-025; no finding wording, evidence basis, uncertainty, disposition, or condition changed; D3 remains active and DG-6 is not reached | FEF-FGR-002-D3-DG5-FDVR-001 |
+| 1.16 | 2026-07-28 | DG-6 domain-exit lifecycle linkage recorded after V7 validation passed; D3 Closed; all 23 finding rows, including GF-015 through GF-023 wording, evidence, uncertainty, dispositions, conditions, Decision Record links, and validation states unchanged | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
 
 ## Non-Effects
 
@@ -73,4 +74,5 @@ Findings, each linked to an issued Founder Decision Record. DG-5 issuance
 does not alter any finding wording, evidence basis, uncertainty,
 disposition, or condition; label a finding Approved, Active, or
 Constitutional; close an Open Question; close FEF-FGR-002-S03 or D3;
-invoke DG-6; commence D4; or disposition CE1–CE6.
+commence D4 or D5; or disposition CE1–CE6. DG-6 closes D3 without
+changing any Governance Finding.

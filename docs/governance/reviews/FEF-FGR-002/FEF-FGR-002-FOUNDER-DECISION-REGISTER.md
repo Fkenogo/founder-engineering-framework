@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-FDR-001 |
 | Register class | Founder Decision Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.6 |
+| Register version | 1.7 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -60,6 +60,7 @@
 | 1.4 | 2026-07-25 | FEF-FGR-002-FD-010 recorded as Approve with Conditions, synchronised, and validated; D2 mobilisation authorised but not commenced | Attributable Founder disposition for FEF-FGR-002-FD-010 |
 | 1.5 | 2026-07-25 | Six separate D2 Founder Decisions, FD-011 through FD-016, recorded and validated from the exact attributable dispositions of GF-009 through GF-014 | Founder Directive — D2 Governance Finding Dispositions |
 | 1.6 | 2026-07-28 | Nine separate D3 Founder Decision Records, FD-017 through FD-025, issued and validated one-to-one from the exact attributable dispositions of GF-015 through GF-023; DG-5 complete; no DG-6 or domain closure effect | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-DG5-FDVR-001 |
+| 1.7 | 2026-07-28 | DG-6 domain-exit lifecycle linkage recorded after V7 validation passed; D3 Closed; all 25 Founder Decision rows, exact decision records, dispositions, conditions, scope, non-effects, and validation states unchanged | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
 
 ## Boundary
 
@@ -71,5 +72,6 @@ This register contains twenty-five issued, recorded, and validated
 review-scoped Founder Decisions and zero `Ready for Founder` candidates.
 DG-5 issuance of FD-017 through FD-025 does not create constitutional
 effect, close an Open Question, amend FEF-RGS-000, perform DG-6, close D3,
-commence D4, commence Engineering Discovery, or convert a bounded decision
-into a broader rule.
+commence D4 or D5, commence Engineering Discovery, or convert a bounded
+decision into a broader rule. DG-6 closes D3 without modifying any Founder
+Decision.
