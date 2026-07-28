@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.7 |
+| Set version | 1.8 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -35,7 +35,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-025 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Governed Record Classes and Minimum Record Characteristics |
 | Question Text | Which classes of governance record, if any, require controlled creation and preservation within FEF, and what minimum characteristics are necessary for each class to remain attributable, understandable, authoritative, and auditable without prescribing an implementation system? |
 | Originating candidate | D4-RQC-01 |
@@ -306,6 +306,7 @@ substantive answer is introduced.
 | 1.5 | 2026-07-28 | RQ-029 Evidence Records, authority limitations, open OQ-011/OQ-012 interfaces, gaps, and D5/external-authority dependencies synchronized to Execution Loop 005; RQ-025 through RQ-028 evidence unchanged; RQ-030 and RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ029-EMQR-001; FEF-FGR-002-D4-RQ029-EMVR-001 |
 | 1.6 | 2026-07-28 | RQ-030 Evidence Records, authority limitations, open OQ-021/OQ-023 interfaces, FEF-CCF-001 future-work boundary, gaps, and D6 dependency synchronized to Execution Loop 006; RQ-025 through RQ-029 evidence unchanged; RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ030-EMQR-001; FEF-FGR-002-D4-RQ030-EMVR-001 |
 | 1.7 | 2026-07-28 | RQ-031 Evidence Records, authority limitations, open OQ-021/OQ-022 interfaces, information-integrity gaps, and D5/D6 boundaries synchronized to Execution Loop 007; RQ-025 through RQ-030 evidence unchanged; all seven D4 RQs now evidence-mobilised and qualified with conditions; no pack or examination | FEF-FGR-002-D4-RQ031-EMQR-001; FEF-FGR-002-D4-RQ031-EMVR-001 |
+| 1.8 | 2026-07-28 | Reconciled the stale RQ-025 section version from 1.0 to 1.1 to match its Execution Loop 001 update and the Review Question Register; RQ wording, evidence mapping, lifecycle state, and disposition unchanged; no pack or examination | FEF-FGR-002-D4-EMCR-001; FEF-FGR-002-D4-EPRVR-001 |
 
 ## 11. Non-Effects
 
