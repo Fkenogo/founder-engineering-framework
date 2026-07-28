@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-FDR-001 |
 | Register class | Founder Decision Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.5 |
+| Register version | 1.6 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,8 +15,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-25 |
-| Substantive entry count | 16 |
+| Last validation date | 2026-07-28 |
+| Substantive entry count | 25 |
 | Ready for Founder candidate count | 0 |
 
 ## Register
@@ -39,6 +39,15 @@
 | FEF-FGR-002-FD-014 | 1.0 | Frozen evidence baselines and change control | GF-012 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-014-FROZEN-EVIDENCE-BASELINES-AND-CHANGE-CONTROL.md) | Immutable freeze accepted; detailed successor, supplement, reopening, supersession, and D5 lifecycle mechanics provisional | Operative within exact conditions | Decision Record Validated | Pass |
 | FEF-FGR-002-FD-015 | 1.0 | Evidence traceability and controlled reuse | GF-013 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-015-EVIDENCE-TRACEABILITY-AND-CONTROLLED-REUSE.md) | Mandatory traceability; D6 architecture, FEF-P1-002 hierarchy, complete reuse, and constitutional extraction excluded | Operative within exact conditions | Decision Record Validated | Pass |
 | FEF-FGR-002-FD-016 | 1.0 | Evidence custody and authority boundary | GF-014 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-016-EVIDENCE-CUSTODY-AND-AUTHORITY-BOUNDARY.md) | Custody and combined-capacity controls accepted; D3 assurance and D4 information lifecycle excluded | Operative within exact conditions | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-017 | 1.0 | Assurance Coverage and Proportionality | GF-015 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-017-ASSURANCE-COVERAGE-AND-PROPORTIONALITY.md) | The finding shall remain bounded to the evidence examined and shall not establish a general proportionality doctrine. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-018 | 1.0 | Independence and Combined Operational Capacities | GF-016 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-018-INDEPENDENCE-AND-COMBINED-CAPACITIES.md) | No universal independent-validation requirement is created by this finding. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-019 | 1.0 | Challenge, Rebuttal, Dissent, and Escalation | GF-017 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-019-CHALLENGE-REBUTTAL-DISSENT-AND-ESCALATION.md) | Acceptance of the finding shall not be interpreted as closure of RQ-018. | Operative within exact scope and non-effects; RQ-018 gap remains open | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-020 | 1.0 | Validation Outcomes and Reliance Consequences | GF-018 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-020-VALIDATION-OUTCOMES-AND-RELIANCE-CONSEQUENCES.md) | No universal lifecycle model is established. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-021 | 1.0 | Residual Governance Risk and Founder Consideration | GF-019 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-021-RESIDUAL-GOVERNANCE-RISK-AND-FOUNDER-CONSIDERATION.md) | None. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-022 | 1.0 | Assurance of Founder Decision Inputs and Records | GF-020 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-022-ASSURANCE-OF-FOUNDER-DECISION-INPUTS-AND-RECORDS.md) | The assurance cycle shall be recognised only as evidenced operational practice. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-023 | 1.0 | Assurance Continuity and Revalidation Triggers | GF-021 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-023-ASSURANCE-CONTINUITY-AND-REVALIDATION-TRIGGERS.md) | The finding shall not resolve future independence policy. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-024 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | GF-022 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-024-TOOL-AND-AI-ASSISTED-ASSURANCE-BOUNDARIES.md) | The finding shall not create a permanent assurance standard. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
+| FEF-FGR-002-FD-025 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | GF-023 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-025-ASSURANCE-TRACEABILITY-CLOSURE-AND-DOWNSTREAM-RELIANCE.md) | The finding remains bounded to the current D3 lifecycle state. | Operative within exact scope and non-effects | Decision Record Validated | Pass |
 
 ## Change History
 
@@ -50,6 +59,7 @@
 | 1.3 | 2026-07-25 | FEF-FGR-002-FD-010 registered and validated as Ready for Founder, linked to ORC-001; no disposition or effect recorded | ORC-001 preparation authority |
 | 1.4 | 2026-07-25 | FEF-FGR-002-FD-010 recorded as Approve with Conditions, synchronised, and validated; D2 mobilisation authorised but not commenced | Attributable Founder disposition for FEF-FGR-002-FD-010 |
 | 1.5 | 2026-07-25 | Six separate D2 Founder Decisions, FD-011 through FD-016, recorded and validated from the exact attributable dispositions of GF-009 through GF-014 | Founder Directive — D2 Governance Finding Dispositions |
+| 1.6 | 2026-07-28 | Nine separate D3 Founder Decision Records, FD-017 through FD-025, issued and validated one-to-one from the exact attributable dispositions of GF-015 through GF-023; DG-5 complete; no DG-6 or domain closure effect | FEF-FGR-002-D3-G2-FDR-001; FEF-FGR-002-D3-DG5-FDVR-001 |
 
 ## Boundary
 
@@ -57,8 +67,9 @@ FD-2026-07-24-009 is the programme commencement authority and predates review ex
 
 ## Non-Effects
 
-This register contains sixteen issued, recorded, and validated review-scoped
-Founder Decisions and zero `Ready for Founder` candidates. Recording any row
-does not create constitutional effect, close an Open Question, amend
-FEF-RGS-000, commence another review domain, commence Engineering Discovery, or
-convert a bounded or provisional decision into a broader rule.
+This register contains twenty-five issued, recorded, and validated
+review-scoped Founder Decisions and zero `Ready for Founder` candidates.
+DG-5 issuance of FD-017 through FD-025 does not create constitutional
+effect, close an Open Question, amend FEF-RGS-000, perform DG-6, close D3,
+commence D4, commence Engineering Discovery, or convert a bounded decision
+into a broader rule.

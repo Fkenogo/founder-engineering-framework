@@ -3,18 +3,18 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.36 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.39 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed) — Review Questions Admitted (RQ-016–024); Evidence Pack EP-003 v1.0 Frozen (39 records, DG-3 Pass with Conditions); Session S03 Closed — Examination Complete; Governance Findings Presented (GF-015/016/017/018/019/020/021/022/023 — GF-017 a negative/gap finding); Session Exit Gate (Plan §12.1) passed
+**Current active review:** FEF-FGR-002 — D1, ORC-001, and D2 Closed; D3 Active (Not Closed); Founder Review Completed; GF-015 through GF-023 Dispositioned; FD-017 through FD-025 Issued and Validated through DG-5; DG-6 Not Reached; D4 Not Started
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare a neutral D3 Founder Review package for GF-015 through GF-023 and conduct Founder consideration; DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remain later, separate gates
+**Immediate next programme action:** DG-5 is complete; DG-6 remains a separate later gate and is not reached
 **Framework Evolution status:** Governance Evolution Review and FAP-001 review package completed and preserved; deferred, not on the critical path; CE1–CE6 undecided
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1 and D2 closed; 16 validated review-scoped Founder Decisions
+**Current attributable governance review:** FEF-FGR-002 — D1 and D2 closed; D3 active; 25 validated review-scoped Founder Decisions
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -69,10 +69,14 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-EMVR-002-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md) — mobilisation baseline validation, v1.1, Pass with Conditions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-003-v1.0-D3-EVIDENCE-PACK.md) — **Frozen** D3 Evidence Pack; 39 Evidence Records; DG-3 Pass with Conditions; RQ-018 gap and EV-058/EV-059 contradictions disclosed, not resolved; no session use;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-ENTRY-VALIDATION-REPORT.md) — DG-4 Pass with Conditions; reverifies EP-003 v1.0 unchanged and authorises it as the examination baseline; allocates session identity FEF-FGR-002-S03; 7 reusable session-entry observations recorded for later consideration only;
-- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md) — Session Opening Record, **Open — Evidence Examination Not Yet Started**; formally opened under FEF-FGR-002-RA-002; documents scope, admitted RQs, participants, and carried-forward conditions;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-S03-OPENING-RECORD.md) — historical Session Opening Record; S03 was subsequently examined and closed through the Session Exit Gate;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-QUARANTINE-2026-07-25/) — six voided D3 artefacts (RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) that asserted DG-2 admission and evidence registration without a distinct Founder Decision record; preserved, not deleted, not reused;
 - [`docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md`](docs/governance/reviews/FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) — Governance Evolution Review (FEF-GER-D3-001), 6 candidate framework enhancements; completed, **deferred** — not on the critical path, routed to Domain D5 or later constitutional consolidation;
 - [`docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md`](docs/governance/reviews/FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — Founder review package for CE1–CE6; prepared, **deferred**, all disposition fields blank;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-G2-FOUNDER-DISPOSITION-RECORD.md) — verbatim Founder Review record for GF-015 through GF-023;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FOUNDER-DECISION-REGISTER.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-FOUNDER-DECISION-REGISTER.md) — 25 validated review-scoped Founder Decisions, including D3 FD-017 through FD-025;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-TRACEABILITY-REGISTER.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-TRACEABILITY-REGISTER.md) — nine D3 RQ/evidence/session/finding/decision chains through DG-5;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D3-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md) — DG-5 exact-fidelity and protected-state validation;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
@@ -222,6 +226,13 @@ governed activity is preparation of a neutral D3 Founder Review package
 for GF-015 through GF-023 and Founder consideration of it, not commenced
 here, with DG-5 (Issue Founder Decision) and DG-6 (Exit domain) remaining
 later, separate gates.
+
+The D3-G2 Founder Review was subsequently conducted and recorded verbatim.
+DG-5 then issued and validated FD-017 through FD-025 one-to-one for
+GF-015 through GF-023. D3 remains active and not closed; DG-6 is not
+reached and D4 has not started. No constitutional extraction, Framework
+Evolution work, Constitutional Candidate, or Deferred Matter was introduced
+by DG-5.
 
 FEF-PGM-001 reconciled the programme on 2026-07-24. For current programme status and sequencing, the Master Programme takes precedence over earlier programme planning records. This programme-management precedence does not approve governance or any standard.
 
