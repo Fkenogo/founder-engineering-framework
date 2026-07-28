@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.24 |
+| Register version | 1.25 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,7 +13,7 @@
 | Control owner | FEF-FGR-002-RA-002 — Review Administrator |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
-| Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report; D3 admission traced to FEF-FGR-002-D3-G1-FDR-001; D4 admission traced through temporary candidate, FEF-FGR-002-D4-G1-FDR-001, and FEF-FGR-002-D4-RQAR-001 |
+| Integrity control | RQ set and validation hashes recorded in FEF-FGR-002-002 readiness report; D3 admission traced to FEF-FGR-002-D3-G1-FDR-001; D4 admission traced through temporary candidate, FEF-FGR-002-D4-G1-FDR-001, and FEF-FGR-002-D4-RQAR-001; RQ-025 evidence mobilisation traced to FEF-FGR-002-D4-RQ025-EMQR-001 and FEF-FGR-002-D4-RQ025-EMVR-001 |
 | Last validation date | 2026-07-28 |
 | Substantive entry count | 31 |
 | D2 substantive entry count | 7 |
@@ -48,7 +48,7 @@
 | FEF-FGR-002-RQ-022 | 1.0 | Assurance Continuity and Revalidation Triggers | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 8; D3-RQC-07; Founder Accept | OQ-002; OQ-003; OQ-012 partial | EP-003 v1.0 examined in S03 (Execution Loop 007) | Potential | Answered | GF-021; FD-023 — Accept with Conditions | Pass with Conditions |
 | FEF-FGR-002-RQ-023 | 1.0 | Tool-Assisted and AI-Assisted Assurance Boundaries | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 9; D3-RQC-08; Founder Accept | OQ-003; OQ-007 partial | EP-003 v1.0 examined in S03 (Execution Loop 008) | Potential | Answered | GF-022; FD-024 — Accept with Conditions | Pass with Conditions |
 | FEF-FGR-002-RQ-024 | 1.0 | Assurance Traceability, Closure, and Downstream Reliance | See controlled D3 RQ set v1.0 | D3 | D3 mobilisation theme 10; D3-RQC-09; Founder Accept | OQ-004; OQ-012; OQ-021; OQ-022 partial | EP-003 v1.0 examined in S03 (Execution Loop 009) | Potential | Answered | GF-023; FD-025 — Accept with Conditions | Pass with Conditions |
-| FEF-FGR-002-RQ-025 | 1.0 | Governed Record Classes and Minimum Record Characteristics | See controlled D4 RQ set v1.0 | D4 | D4-RQC-01; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-023 partial | Evidence Mobilisation Not Started | Undetermined | Admitted | Pending | Pass with Conditions |
+| FEF-FGR-002-RQ-025 | 1.1 | Governed Record Classes and Minimum Record Characteristics | See controlled D4 RQ set v1.1 | D4 | D4-RQC-01; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-023 partial | Evidence Mobilised — Qualified with Conditions (EV-005, EV-007, EV-008, EV-013, EV-072, EV-073); Not Packed; Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
 | FEF-FGR-002-RQ-026 | 1.0 | Registers, Custodianship, and Responsibility | See controlled D4 RQ set v1.0 | D4 | D4-RQC-02; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-002 partial; OQ-021 partial; OQ-023 direct | Evidence Mobilisation Not Started | Undetermined | Admitted | Pending | Pass with Conditions |
 | FEF-FGR-002-RQ-027 | 1.0 | Retention and Archival Governance | See controlled D4 RQ set v1.0 | D4 | D4-RQC-03; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-011 direct | Evidence Mobilisation Not Started | Undetermined | Admitted | Pending | Pass with Conditions |
 | FEF-FGR-002-RQ-028 | 1.0 | Access, Confidentiality, Privacy, and Security Governance | See controlled D4 RQ set v1.0 | D4 | D4-RQC-04; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-010 direct | Evidence Mobilisation Not Started | Undetermined | Admitted | Pending | Pass with Conditions |
@@ -85,6 +85,7 @@
 | 1.22 | 2026-07-28 | DG-5 Founder Decision Record references FD-017 through FD-025 linked to RQ-016 through RQ-024 respectively; exact RQ wording, Evidence Status, Lifecycle State, and OQ mappings unchanged; RQ-018 gap remains open; D3 remains active and DG-6 is not reached | FEF-FGR-002-D3-DG5-FDVR-001 |
 | 1.23 | 2026-07-28 | DG-6 domain-exit lifecycle recorded in Domain Coverage only; all 24 RQ rows, exact wording, Evidence Status, Disposition, Lifecycle State, and OQ mappings unchanged; RQ-018 remains open; D3 Closed; D4 Not Started | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001 |
 | 1.24 | 2026-07-28 | Seven Founder-accepted D4 candidates admitted without wording change as FEF-FGR-002-RQ-025 through FEF-FGR-002-RQ-031; temporary-candidate, Founder-disposition, and admission-record traceability recorded; evidence mobilisation not commenced | FEF-FGR-002-D4-RQAR-001; FEF-FGR-002-D4-RQAVR-001 |
+| 1.25 | 2026-07-28 | D4 Evidence Mobilisation Execution Loop 001 updated RQ-025 only to v1.1 and recorded six qualified Evidence Records with limitations and gaps; RQ-025 remains Admitted, Pending, not packed, and not examined; RQ-026 through RQ-031 unchanged | FEF-FGR-002-D4-RQ025-EMQR-001; FEF-FGR-002-D4-RQ025-EMVR-001 |
 
 ## Non-Effects
 
@@ -104,7 +105,7 @@ complete; evidence mobilisation and substantive review have not commenced.
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
 | D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
-| D4 — Records and Information Governance | 7 | RQ-025 through RQ-031 admitted; evidence mobilisation not commenced; substantive review not commenced |
+| D4 — Records and Information Governance | 7 | RQ-025 evidence mobilised and qualified with conditions in Execution Loop 001, not packed or examined; RQ-026 through RQ-031 evidence mobilisation not commenced; substantive review not commenced |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |
