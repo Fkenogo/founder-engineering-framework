@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-ER-001 |
 | Register class | Evidence Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.6 |
+| Register version | 1.7 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,12 +13,12 @@
 | Control owner | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record; item-specific access treatment required before entry |
-| Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues; D3 items qualified in FEF-FGR-002-D3-EQR-002; D4 RQ-025 items qualified in FEF-FGR-002-D4-RQ025-EMQR-001 |
+| Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues; D3 items qualified in FEF-FGR-002-D3-EQR-002; D4 RQ-025 items qualified in FEF-FGR-002-D4-RQ025-EMQR-001; D4 RQ-026 items qualified in FEF-FGR-002-D4-RQ026-EMQR-001 |
 | Last validation date | 2026-07-28 |
 | Substantive entry count | 55 |
 | D2 mapped Evidence Record count | 21 |
 | D3 mapped Evidence Record count | 39 (17 reused from D1/D2 + 22 newly registered EV-050–EV-071) |
-| D4 mapped Evidence Record count | 6 for RQ-025 only (4 reused + 2 newly registered EV-072–EV-073) |
+| D4 mapped Evidence Record count | 13 unique across RQ-025 and RQ-026: 6 mapped to RQ-025; 10 mapped to RQ-026; 3 shared; 2 newly registered in D4 (EV-072–EV-073) |
 | Identifier note | EV-032 through EV-049 are permanently retired and not reused: those identifiers were asserted, without genuine Founder authorisation, by the quarantined D3 artefacts under FEF-FGR-002-D3-QM-001. New D3 registrations begin at EV-050 and new D4 registrations begin at EV-072 per FEF-FGRC-001 §8 ("shall not be renumbered after issue; shall remain reserved if withdrawn"). |
 
 ## Register
@@ -91,13 +91,14 @@ This mapping records evidence-to-requirement linkage only. It is not an
 Evidence Pack, does not freeze a baseline, and creates no examination,
 finding, or decision effect.
 
-## D4 Mapped Evidence — Execution Loop 001 (RQ-025 Only)
+## D4 Mapped Evidence
 
 | Evidence Set | Applicable RQ | Requirement Reference | Qualification | Evidence Pack / Examination |
 |---|---|---|---|---|
 | EV-005, EV-007, EV-008, EV-013 (reused); EV-072–EV-073 (new) | RQ-025 only | D4-RQ025-EVR-001 through D4-RQ025-EVR-003 | FEF-FGR-002-D4-RQ025-EMQR-001; validated by FEF-FGR-002-D4-RQ025-EMVR-001 | None — not packed and not examined |
+| EV-005, EV-008, EV-016, EV-017, EV-019, EV-020, EV-021, EV-059, EV-071, EV-073 (reused); no new record | RQ-026 only | D4-RQ026-EVR-001 through D4-RQ026-EVR-003 | FEF-FGR-002-D4-RQ026-EMQR-001; validated by FEF-FGR-002-D4-RQ026-EMVR-001 | None — not packed and not examined |
 
-No D4 evidence is mapped to RQ-026 through RQ-031. The reused Evidence
+No D4 evidence is mapped to RQ-027 through RQ-031. The reused Evidence
 Records retain their existing identifiers, authority, admissibility, and
 limitations. This mapping does not elevate source authority or state what any
 source proves.
@@ -128,13 +129,15 @@ limitations, and permitted use.
 | 1.4 | 2026-07-26 | Seventeen existing records reused and EV-050 through EV-064 registered for D3 evidence mobilisation, following qualification in FEF-FGR-002-D3-EQR-002 against requirements in FEF-FGR-002-D3-ERC-002; EV-032–EV-049 confirmed permanently retired and not reused; no Evidence Pack created, no examination performed | FEF-FGR-002-D3-ERC-002 and FEF-FGR-002-D3-EQR-002 |
 | 1.5 | 2026-07-26 | EV-065 through EV-071 registered: FEF-FGR-002-FD-010 through FD-016 as direct, attributable (E1) Founder Decision evidence for RQ-020/RQ-021, closing the standalone-record gap identified in FEF-FGR-002-D3-ERC-002 v1.0; registration does not evidence that the assurance surrounding these decisions was adequate, and is distinguished from the separately registered validation-process evidence (EV-050–EV-057); no Evidence Pack created, no examination performed | FEF-FGR-002-D3-ERC-002 v1.1 and FEF-FGR-002-D3-EQR-002 v1.1 |
 | 1.6 | 2026-07-28 | D4 Execution Loop 001 mobilised and qualified evidence for RQ-025 only: EV-005, EV-007, EV-008, and EV-013 reused; EV-072 and EV-073 newly registered; explicit authority limitations and record-taxonomy/minimum-characteristic gaps preserved; no evidence mapped to RQ-026–RQ-031; no Evidence Pack or examination | FEF-FGR-002-D4-RQ025-EMQR-001; FEF-FGR-002-D4-RQ025-EMVR-001 |
+| 1.7 | 2026-07-28 | D4 Execution Loop 002 mobilised and qualified evidence for RQ-026 only: EV-005, EV-008, EV-016, EV-017, EV-019, EV-020, EV-021, EV-059, EV-071, and EV-073 reused; no new Evidence Record allocated; authority limitations, EV-059 contradiction, and ownership/handover/correction/accountability gaps preserved; RQ-025 evidence unchanged; no evidence mapped to RQ-027–RQ-031; no Evidence Pack or examination | FEF-FGR-002-D4-RQ026-EMQR-001; FEF-FGR-002-D4-RQ026-EMVR-001 |
 
 ## Non-Effects
 
 This register contains 55 unique Evidence Records. Twenty-one are mapped to
-D2, 39 are mapped to D3 (17 reused, 22 new), and six are mapped to D4 RQ-025
-(four reused, two new) through controlled reuse or new registration. Output
+D2, 39 are mapped to D3 (17 reused, 22 new), and 13 unique records are mapped
+across D4 RQ-025 and RQ-026 (three shared; two new in D4) through controlled
+reuse or new registration. Output
 linkage does not change a source's authority, admissibility, limitation,
 permitted use, or frozen-pack state. No D4 Evidence Pack exists. No D4 Review
-Question has been examined or answered, and RQ-026 through RQ-031 have no
-mobilised evidence.
+Question has been examined or answered, and RQ-027 through RQ-031 have no
+mobilised evidence. RQ-025 evidence identity and qualification are unchanged.
