@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.2 |
+| Set version | 1.3 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | Seven RQs Founder-Accepted and Admitted |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 qualified with conditions in Execution Loop 002; RQ-027 through RQ-031 not started |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 qualified with conditions in Execution Loop 002; RQ-027 qualified with conditions in Execution Loop 003; RQ-028 through RQ-031 not started |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -107,7 +107,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-027 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Retention and Archival Governance |
 | Question Text | What governance criteria, authority, and traceability, if any, are required to determine retention, preservation review, archival transfer, and continued accessibility of FEF records without prescribing storage technology, fixed retention periods, or implementation procedures? |
 | Originating candidate | D4-RQC-03 |
@@ -121,8 +121,8 @@ substantive answer is introduced.
 | Scope | Ordinary retention, preservation review, archival transfer, and continuing accessibility |
 | Exclusions | No retention schedule, duration, storage tier, archive platform, deletion decision, legal conclusion, or technical migration design |
 | Evidence Need | Retention and archival requirements; preservation-review and transfer records; accessibility, continuity, exception, and loss treatments — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | None — evidence mobilisation not commenced |
-| Contrary Evidence | Unassessed — evidence mobilisation not commenced; no source identified or registered |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-069, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ027-EMQR-001; not packed; not examined |
+| Contrary Evidence | No substantive source contradiction identified; OQ-011 remains open; no approved FEF-wide retention schedule, retention-decision or exception authority, archival-transfer control, continued-accessibility requirement, or operated archive example located; D5 and D6 interfaces remain unexamined; limitations and gaps preserved in FEF-FGR-002-D4-RQ027-EMQR-001 |
 | Dependencies | D1: Any authority to set or approve obligations must remain attributable and bounded. D2: Evidence-chain preservation needs remain distinct from general retention treatment and cannot be weakened by administrative convenience. D3: Protected-state and reproducibility controls remain assurance inputs rather than retention conclusions. Interface: D5 later governs record status transitions and withdrawal; D6 later governs administrative implementation |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Undetermined |
@@ -136,7 +136,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-28 / 2026-07-28 |
-| Change Rationale | First canonical admission following Founder Accept; no wording change from D4-RQC-03 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-027-only evidence mobilisation and qualification from Execution Loop 003; Question Text, purpose, scope, exclusions, dependencies, lifecycle state, and disposition unchanged |
 
 ## 5. FEF-FGR-002-RQ-028 — Access, Confidentiality, Privacy, and Security Governance
 
@@ -301,6 +301,7 @@ substantive answer is introduced.
 | 1.0 | 2026-07-28 | Seven Founder-accepted D4 Review Questions admitted as RQ-025 through RQ-031 | FEF-FGR-002-D4-RQAR-001 |
 | 1.1 | 2026-07-28 | RQ-025 Evidence Records, contrary-evidence/gap treatment, and update rationale synchronized to Execution Loop 001; RQ-026 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ025-EMQR-001; FEF-FGR-002-D4-RQ025-EMVR-001 |
 | 1.2 | 2026-07-28 | RQ-026 Evidence Records, contradiction/gap treatment, and update rationale synchronized to Execution Loop 002; RQ-025 evidence unchanged; RQ-027 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ026-EMQR-001; FEF-FGR-002-D4-RQ026-EMVR-001 |
+| 1.3 | 2026-07-28 | RQ-027 Evidence Records, authority limitations, open OQ-011, gaps, and D5/D6 dependencies synchronized to Execution Loop 003; RQ-025 and RQ-026 evidence unchanged; RQ-028 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ027-EMQR-001; FEF-FGR-002-D4-RQ027-EMVR-001 |
 
 ## 11. Non-Effects
 
