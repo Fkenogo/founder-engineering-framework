@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.8 |
+| Set version | 1.9 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | Seven RQs Founder-Accepted and Admitted |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 in Loop 007; all seven qualified with conditions; none packed or examined |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 in Loop 007; all seven packed in Frozen EP-004 v1.0; none examined |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -49,7 +49,7 @@ substantive answer is introduced.
 | Scope | Definition and minimum governance characteristics of controlled record classes |
 | Exclusions | No canonical record taxonomy, document template, identifier schema, software repository design, D5 lifecycle state, or implementation requirement |
 | Evidence Need | Normative record obligations; operated governance record classes and metadata characteristics; records-coverage and gap treatments — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-073 — qualified with conditions in FEF-FGR-002-D4-RQ025-EMQR-001; not packed; not examined |
+| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-073 — qualified with conditions in FEF-FGR-002-D4-RQ025-EMQR-001; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified during qualification; no approved FEF-wide record taxonomy or universal minimum characteristic set located; limitations and gaps preserved in FEF-FGR-002-D4-RQ025-EMQR-001 |
 | Dependencies | D1: Record authority and accountability must remain attributable; D4 cannot create authority by defining a record. D2: Evidence identity, provenance, and permitted use remain controlled by D2 and are not redefined as general record requirements. D3: Assurance and exact-record controls remain validated inputs; D4 does not alter their verdicts or historical form. Interface: D5 later governs status and supersession; D6 later governs permanent taxonomy and identifier administration |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -85,7 +85,7 @@ substantive answer is introduced.
 | Scope | Responsibility and authority for controlled registers and record custody |
 | Exclusions | No reassignment, staffing model, register redesign, automatic correction authority, evidence-weight decision, or Founder delegation |
 | Evidence Need | Role and authority requirements; register-control and custody records; correction, handover, access, and accountability records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-008, EV-016, EV-017, EV-019, EV-020, EV-021, EV-059, EV-071, EV-073 — qualified with conditions in FEF-FGR-002-D4-RQ026-EMQR-001; not packed; not examined |
+| Evidence Records | EV-005, EV-008, EV-016, EV-017, EV-019, EV-020, EV-021, EV-059, EV-071, EV-073 — qualified with conditions in FEF-FGR-002-D4-RQ026-EMQR-001; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive contradiction identified among the role, authority, responsibility, and assignment sources; EV-059's v1.0/v1.1 contradiction remains preserved; no approved FEF-wide register-ownership standard, operated custody handover, or general correction-authority model located; limitations and gaps preserved in FEF-FGR-002-D4-RQ026-EMQR-001 |
 | Dependencies | D1: Role combination does not combine authority; Founder authority remains reserved. D2: Evidence Custody preserves provenance and integrity but does not decide evidence meaning or governance outcomes. D3: Role disclosure, validation boundaries, exact recording, and protected-state controls remain unchanged. Interface: D6 later governs enduring administrative structures and identifier policy |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -121,7 +121,7 @@ substantive answer is introduced.
 | Scope | Ordinary retention, preservation review, archival transfer, and continuing accessibility |
 | Exclusions | No retention schedule, duration, storage tier, archive platform, deletion decision, legal conclusion, or technical migration design |
 | Evidence Need | Retention and archival requirements; preservation-review and transfer records; accessibility, continuity, exception, and loss treatments — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-069, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ027-EMQR-001; not packed; not examined |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-069, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ027-EMQR-001; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified; OQ-011 remains open; no approved FEF-wide retention schedule, retention-decision or exception authority, archival-transfer control, continued-accessibility requirement, or operated archive example located; D5 and D6 interfaces remain unexamined; limitations and gaps preserved in FEF-FGR-002-D4-RQ027-EMQR-001 |
 | Dependencies | D1: Any authority to set or approve obligations must remain attributable and bounded. D2: Evidence-chain preservation needs remain distinct from general retention treatment and cannot be weakened by administrative convenience. D3: Protected-state and reproducibility controls remain assurance inputs rather than retention conclusions. Interface: D5 later governs record status transitions and withdrawal; D6 later governs administrative implementation |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -157,7 +157,7 @@ substantive answer is introduced.
 | Scope | Classification, access authorisation, restriction, disclosure, and review |
 | Exclusions | No access-control system, security architecture, privacy notice, confidentiality agreement, legal determination, universal transparency rule, or project-specific policy |
 | Evidence Need | Classification and access requirements; authorisation, restriction, disclosure, review, exception, and audit records; documented limitations and conflicts — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-066, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ028-EMQR-001; not packed; not examined |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-066, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ028-EMQR-001; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified; OQ-010 remains open; no approved FEF-wide classification scheme, access-authority lifecycle, confidentiality/privacy/disclosure/transparency/security policy, external E3 authority, or operated restricted-evidence case located; D6 interface remains unexamined; limitations and gaps preserved in FEF-FGR-002-D4-RQ028-EMQR-001 |
 | Dependencies | D1: Access decisions cannot create or transfer substantive governance authority. D2: Access constraints and permitted use for evidence remain visible and cannot be silently broadened. D3: Assurance may verify classification and access records but cannot substitute for reserved or professional judgement. Interface: D6 may later govern administrative classification structures; project and external legal/security controls remain outside this review |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -193,7 +193,7 @@ substantive answer is introduced.
 | Scope | Exceptional preservation, deletion, disposal, irreversible restriction, and conflict treatment |
 | Exclusions | No legal advice, hold instruction, deletion authorisation, disposal schedule, erasure method, security procedure, or project-specific decision |
 | Evidence Need | Hold, deletion, disposal, exception, conflict, approval, notification, and audit requirements and records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071 — mobilised and qualified with conditions in Execution Loop 005; not packed; not examined |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071 — mobilised and qualified with conditions in Execution Loop 005; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified. Approved sources establish bounded review/evidence preservation, escalation, and immutable-history controls; EV-012 preserves OQ-011 and OQ-012 as unresolved; EV-013 and EV-023 remain authority-limited. No approved FEF-wide legal-hold, deletion, disposal, irreversible-restriction, exception, notification, or audit control was located |
 | Dependencies | D1: Material ambiguity and reserved authority conflicts require attributable escalation. D2: Evidence gaps, unavailable sources, and chain-of-custody limitations cannot be concealed by deletion or disposition treatment. D3: Validation cannot itself authorise legal hold, destruction, risk acceptance, or exceptional restriction. Interface: D5 later governs status and withdrawal; external legal authority remains outside the present review |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -229,7 +229,7 @@ substantive answer is introduced.
 | Scope | Preservation of context, rationale, dependencies, limitations, and handover knowledge |
 | Exclusions | No FEF-CCF-001 evaluation, Engineering Context Snapshot, template, handover system, knowledge base, tooling, Framework Evolution, or retrospective reinterpretation |
 | Evidence Need | Knowledge-preservation and handover requirements; context, rationale, dependency, limitation, recovery, and continuity records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 006; not packed; not examined |
+| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 006; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified. Approved and operated sources establish bounded traceability, preserved context, assignment, handover, custody, and authority controls; EV-012 preserves OQ-021 and OQ-023 as unresolved; EV-013 remains authority-limited; EV-074 preserves FEF-CCF-001 as future Framework Evolution only. No approved FEF-wide organisational-knowledge or continuity model was located |
 | Dependencies | D1: Context cannot expand the authority of the underlying record or infer Founder intent. D2: Contextual material cannot be elevated into evidence or alter evidence meaning without D2 controls. D3: Assurance reproducibility and later reliance require preserved limitations and validation context. Interface: FEF-CCF-001 remains a separate future Framework Evolution candidate; D6 may later govern administrative ownership |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -265,7 +265,7 @@ substantive answer is introduced.
 | Scope | End-to-end record integrity and traceability across information-handling transitions |
 | Exclusions | No D5 lifecycle state, activation model, supersession rule, D6 register architecture, automated workflow, repository design, or implementation system |
 | Evidence Need | Information-integrity and transition requirements; identity, lineage, correction, transfer, archival, restriction, disposition, and reproducibility records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-023, EV-059, EV-069, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 007; not packed; not examined |
+| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-023, EV-059, EV-069, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 007; Frozen in EP-004 v1.0; not examined |
 | Contrary Evidence | No substantive source contradiction identified. Approved and operated sources establish bounded identity, version, correction, frozen-baseline, custody, traceability, and non-retrospective controls; EV-012 preserves OQ-021 and OQ-022 as unresolved; EV-013 and EV-023 remain authority-limited; D5 lifecycle rules remain separately governed. No approved end-to-end FEF information-lifecycle model or operated full-chain transition example was located |
 | Dependencies | D1: Transition responsibility and authority must remain attributable. D2: Evidence lineage and frozen-pack integrity remain controlled and cannot be generalized in a way that changes evidence treatment. D3: Assurance inputs, checks, results, conditions, and protected-state controls must remain traceable without creating a new assurance verdict. Interface: D5 later governs status, applicability, supersession, withdrawal, and controlled evolution; D6 later governs permanent administrative architecture |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
@@ -307,13 +307,13 @@ substantive answer is introduced.
 | 1.6 | 2026-07-28 | RQ-030 Evidence Records, authority limitations, open OQ-021/OQ-023 interfaces, FEF-CCF-001 future-work boundary, gaps, and D6 dependency synchronized to Execution Loop 006; RQ-025 through RQ-029 evidence unchanged; RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ030-EMQR-001; FEF-FGR-002-D4-RQ030-EMVR-001 |
 | 1.7 | 2026-07-28 | RQ-031 Evidence Records, authority limitations, open OQ-021/OQ-022 interfaces, information-integrity gaps, and D5/D6 boundaries synchronized to Execution Loop 007; RQ-025 through RQ-030 evidence unchanged; all seven D4 RQs now evidence-mobilised and qualified with conditions; no pack or examination | FEF-FGR-002-D4-RQ031-EMQR-001; FEF-FGR-002-D4-RQ031-EMVR-001 |
 | 1.8 | 2026-07-28 | Reconciled the stale RQ-025 section version from 1.0 to 1.1 to match its Execution Loop 001 update and the Review Question Register; RQ wording, evidence mapping, lifecycle state, and disposition unchanged; no pack or examination | FEF-FGR-002-D4-EMCR-001; FEF-FGR-002-D4-EPRVR-001 |
+| 1.9 | 2026-07-28 | Evidence status for RQ-025 through RQ-031 synchronized to Frozen EP-004 v1.0; exact evidence lists, RQ wording, purpose, scope, exclusions, dependencies, lifecycle state, disposition, and OQ mappings unchanged; no examination | FEF-FGR-002-EP-004-FR-001; FEF-FGR-002-EP-004-VR-001 |
 
 ## 11. Non-Effects
 
-This canonical set records qualified evidence mappings for RQ-025 through
-RQ-031. Execution Loop 007 creates no new Evidence Record and does not infer
-D5 lifecycle rules. The set does not evaluate or commence FEF-CCF-001,
-assemble or freeze an Evidence Pack, assign or create a session, commence
-examination, answer an RQ, produce a Governance Finding, prepare a
-review-scoped Founder Decision, amend the methodology, or perform Framework
-Evolution.
+This canonical set records the unchanged qualified evidence mappings for
+RQ-025 through RQ-031 as Frozen in EP-004 v1.0. Freeze does not infer D5
+lifecycle rules, evaluate or commence FEF-CCF-001, assign or create a
+session, commence examination, answer an RQ, produce a Governance Finding,
+prepare a review-scoped Founder Decision, amend the methodology, or perform
+Framework Evolution.
