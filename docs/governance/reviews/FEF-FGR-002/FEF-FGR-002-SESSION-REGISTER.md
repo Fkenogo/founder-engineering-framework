@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.30 |
+| Register version | 1.31 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -61,6 +61,25 @@ DG-6 subsequently passed V7 domain validation and closed D3 through
 [FEF-FGR-002-D3-DG6-DEVR-001](FEF-FGR-002-D3-DG6-DOMAIN-EXIT-VALIDATION-REPORT.md).
 This domain-level linkage does not change S03's historical state.
 
+## D4 Post-Session Linkage
+
+S04 remains closed. Its seven Presented findings (GF-024 through GF-030)
+have been assembled without alteration into the neutral
+[D4-G2 Founder Review Package](FEF-FGR-002-D4-G2-FOUNDER-REVIEW-PACKAGE.md).
+The package is supported by a
+[Founder Review Summary](FEF-FGR-002-D4-G2-FOUNDER-REVIEW-SUMMARY.md),
+[Founder Readiness Assessment](FEF-FGR-002-D4-G2-FOUNDER-READINESS-ASSESSMENT.md),
+[Founder Decision Agenda](FEF-FGR-002-D4-G2-FOUNDER-DECISION-AGENDA.md),
+and
+[Founder Decision Sequencing](FEF-FGR-002-D4-G2-FOUNDER-DECISION-SEQUENCING.md),
+and is validated Pass with Conditions in
+[FEF-FGR-002-D4-G2-FRPVR-001](FEF-FGR-002-D4-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md).
+
+The package contains blank Founder workbook fields only. No Founder Review,
+disposition, or Founder Decision has occurred. This separately governed
+post-session linkage does not change S04's historical Closed state, does not
+close D4, and does not commence DG-5, DG-6, D5, or D6.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -96,6 +115,7 @@ This domain-level linkage does not change S03's historical state.
 | 1.28 | 2026-07-28 | S04 Execution Loop 006 examined RQ-030 only against its exact eleven-item EP-004 v1.0 mapping and produced GF-029, validated Pass with Conditions and Presented pending Founder disposition; source qualifications, OQ-021/OQ-023, and FEF-CCF-001 separation preserved; GF-024 through GF-028 and RQ-025 through RQ-029 unchanged; RQ-031 remains unexamined; EP-004 unchanged; zero Founder Decision; session remains open | FEF-FGR-002-S04-GF-029-VR-001 |
 | 1.29 | 2026-07-28 | S04 Execution Loop 007 examined RQ-031 only against its exact eleven-item EP-004 v1.0 mapping and produced GF-030, validated Pass with Conditions and Presented pending Founder disposition; EV-059 contradiction, source qualifications, OQ-021/OQ-022, and D5/D6 separation preserved; GF-024 through GF-029 and RQ-025 through RQ-030 unchanged; all seven D4 RQs are answered at finding level; EP-004 unchanged; zero Founder Decision; session remains open; no session exit or Founder Review Package | FEF-FGR-002-S04-GF-030-VR-001 |
 | 1.30 | 2026-07-28 | S04 Session Exit Gate passed after deterministic reconciliation of all seven RQ-to-GF-to-validation chains; session state changed to Closed — Examination Complete; Governance Findings Presented; GF-024 through GF-030 remain Presented with Founder disposition pending; EP-004 and protected state unchanged; no post-examination Founder Review Package, Founder Decision, D5/D6 activity, Framework Evolution, or cross-finding synthesis; D4 remains Active and Not Closed | FEF-FGR-002-S04-SEVR-001 |
+| 1.31 | 2026-07-28 | D4 Post-Session Linkage recorded: a neutral D4-G2 Founder Review Package assembled GF-024 through GF-030 verbatim with 42 blank Founder workbook fields and was validated Pass with Conditions; S04 remains Closed; findings remain Presented/Pending; no Founder Review, Founder Decision, Candidate, Deferred Matter, DG-5, DG-6, D5/D6, recommendation, constitutional interpretation, or cross-finding synthesis; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FRPVR-001 |
 
 ## Non-Effects
 
@@ -117,7 +137,9 @@ modify an Open Question. DG-6 subsequently closed D3 without changing
 S03. S04 closed after Execution Loops 001–007 examined RQ-025 through
 RQ-031 and Presented GF-024 through GF-030 pending Founder disposition,
 and after its Session Exit Gate confirmed every §12.1 criterion. This S04
-closure is a session-only exit: D4 remains Active and Not Closed. No
-post-examination Founder Review Package was prepared, no Founder Decision
-was created, no Open Question was resolved, EP-004 remains unchanged, no
-cross-finding synthesis occurred, and D5 and D6 have not commenced.
+closure is a session-only exit: D4 remains Active and Not Closed. A neutral
+D4-G2 Founder Review Package was subsequently prepared and validated with
+all Founder fields blank. No Founder Review or disposition occurred, no
+Founder Decision was created, no Open Question was resolved, EP-004 remains
+unchanged, no cross-finding synthesis occurred, and D5 and D6 have not
+commenced.
