@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.37 |
+| Register version | 1.38 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -53,7 +53,7 @@
 | FEF-FGR-002-RQ-027 | 1.2 | Retention and Archival Governance | See controlled D4 RQ set v1.2 | D4 | D4-RQC-03; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-011 direct | EP-004 v1.0 examined in S04 (Execution Loop 003): EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-069, EV-071 only | Required | Answered | GF-026 — Presented; Founder disposition pending | Pass with Conditions |
 | FEF-FGR-002-RQ-028 | 1.2 | Access, Confidentiality, Privacy, and Security Governance | See controlled D4 RQ set v1.2 | D4 | D4-RQC-04; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-010 direct | EP-004 v1.0 examined in S04 (Execution Loop 004): EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-066, EV-071 only | Required | Answered | GF-027 — Presented; Founder disposition pending | Pass with Conditions |
 | FEF-FGR-002-RQ-029 | 1.2 | Legal Hold, Deletion, and Disposition Control | See controlled D4 RQ set v1.2 | D4 | D4-RQC-05; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-011 direct; OQ-012 partial | EP-004 v1.0 examined in S04 (Execution Loop 005): EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071 only | Required | Answered | GF-028 — Presented; Founder disposition pending | Pass with Conditions |
-| FEF-FGR-002-RQ-030 | 1.1 | Organisational Knowledge and Continuity | See controlled D4 RQ set v1.6 | D4 | D4-RQC-06; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 partial; OQ-023 partial | Evidence Pack Frozen — EP-004 v1.0 (EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074); Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
+| FEF-FGR-002-RQ-030 | 1.2 | Organisational Knowledge and Continuity | See controlled D4 RQ set v1.2 | D4 | D4-RQC-06; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 partial; OQ-023 partial | EP-004 v1.0 examined in S04 (Execution Loop 006): EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074 only | Required | Answered | GF-029 — Presented; Founder disposition pending | Pass with Conditions |
 | FEF-FGR-002-RQ-031 | 1.1 | Information Lifecycle Integrity and Checkpoints | See controlled D4 RQ set v1.7 | D4 | D4-RQC-07; FEF-FGR-002-D4-G1-FDR-001 — Founder Accept; FEF-FGR-002-D4-RQAR-001 | OQ-021 direct; OQ-022 partial | Evidence Pack Frozen — EP-004 v1.0 (EV-005, EV-008, EV-012, EV-013, EV-023, EV-059, EV-069, EV-070, EV-071, EV-073, EV-074); Not Examined | Undetermined | Admitted | Pending | Pass with Conditions |
 
 ## Change History
@@ -98,6 +98,7 @@
 | 1.35 | 2026-07-28 | RQ-027 examined in S04 Execution Loop 003 using only its nine mapped EP-004 v1.0 Evidence Records; version updated to 1.2, Lifecycle State to Answered, and Disposition linked to Presented GF-026 pending Founder disposition; exact Question Text and OQ-011 mapping unchanged; RQ-025, RQ-026, and RQ-028 through RQ-031 unchanged | FEF-FGR-002-S04-GF-026-VR-001 |
 | 1.36 | 2026-07-28 | RQ-028 examined in S04 Execution Loop 004 using only its nine mapped EP-004 v1.0 Evidence Records; version updated to 1.2, Lifecycle State to Answered, and Disposition linked to Presented GF-027 pending Founder disposition; exact Question Text and OQ-010 mapping unchanged; RQ-025 through RQ-027 and RQ-029 through RQ-031 unchanged | FEF-FGR-002-S04-GF-027-VR-001 |
 | 1.37 | 2026-07-28 | RQ-029 examined in S04 Execution Loop 005 using only its nine mapped EP-004 v1.0 Evidence Records; version updated to 1.2, Lifecycle State to Answered, and Disposition linked to Presented GF-028 pending Founder disposition; exact Question Text and OQ-011/OQ-012 mappings unchanged; RQ-025 through RQ-028, RQ-030, and RQ-031 unchanged | FEF-FGR-002-S04-GF-028-VR-001 |
+| 1.38 | 2026-07-28 | RQ-030 examined in S04 Execution Loop 006 using only its eleven mapped EP-004 v1.0 Evidence Records; version updated to 1.2, Lifecycle State to Answered, and Disposition linked to Presented GF-029 pending Founder disposition; exact Question Text and OQ-021/OQ-023 mappings unchanged; RQ-025 through RQ-029 and RQ-031 unchanged | FEF-FGR-002-S04-GF-029-VR-001 |
 
 ## Non-Effects
 
@@ -106,7 +107,7 @@ in S02, nine D3 RQs examined in S03, and seven admitted D4 RQs. RQ-025
 has been examined in S04 and answered at finding level through Presented
 GF-024, RQ-026 through Presented GF-025, and RQ-027 through Presented
 GF-026, RQ-028 through Presented GF-027, and RQ-029 through Presented
-GF-028. Evidence
+GF-028, and RQ-030 through Presented GF-029. Evidence
 mobilisation is complete for RQ-025 through RQ-031 and the unchanged
 evidence mappings are Frozen in EP-004 v1.0. No existing Open Question is
 modified, answered, or closed. DG-5 links FD-017 through FD-025 without
@@ -114,7 +115,7 @@ changing any Review Question wording, evidence status, lifecycle state,
 or OQ mapping. RQ-018's gap remains open. D3 DG-6 is complete and D3 is
 closed. D4 remains Mobilised — Effective; Review Question Admission and
 Evidence Pack freeze are complete; S04 remains open after Execution Loop
-005; RQ-030 and RQ-031 remain unexamined.
+006; RQ-031 remains unexamined.
 
 ## Domain Coverage
 
@@ -123,7 +124,7 @@ Evidence Pack freeze are complete; S04 remains open after Execution Loop
 | D1 — Governance Authority | 8 | Answered at finding level; D1 closed |
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
 | D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
-| D4 — Records and Information Governance | 7 | RQ-025 through RQ-029 answered at finding level through Presented GF-024 through GF-028 after S04 Execution Loops 001–005; RQ-030 and RQ-031 remain Admitted and unexamined; all mappings remain Frozen in EP-004 v1.0; S04 remains open |
+| D4 — Records and Information Governance | 7 | RQ-025 through RQ-030 answered at finding level through Presented GF-024 through GF-029 after S04 Execution Loops 001–006; RQ-031 remains Admitted and unexamined; all mappings remain Frozen in EP-004 v1.0; S04 remains open |
 | D5 — Governance Lifecycle and Evolution | 0 | Not reached |
 | D6 — Framework Administration | 0 | Not reached |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |
