@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.3 |
+| Set version | 1.4 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | Seven RQs Founder-Accepted and Admitted |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 qualified with conditions in Execution Loop 002; RQ-027 qualified with conditions in Execution Loop 003; RQ-028 through RQ-031 not started |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 through RQ-031 not started |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -143,7 +143,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-028 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Access, Confidentiality, Privacy, and Security Governance |
 | Question Text | What information classification, access authority, confidentiality, privacy, and security governance, if any, are required for FEF records so that availability and restriction remain attributable, proportionate, reviewable, and consistent with governance transparency without selecting technical controls? |
 | Originating candidate | D4-RQC-04 |
@@ -157,8 +157,8 @@ substantive answer is introduced.
 | Scope | Classification, access authorisation, restriction, disclosure, and review |
 | Exclusions | No access-control system, security architecture, privacy notice, confidentiality agreement, legal determination, universal transparency rule, or project-specific policy |
 | Evidence Need | Classification and access requirements; authorisation, restriction, disclosure, review, exception, and audit records; documented limitations and conflicts — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | None — evidence mobilisation not commenced |
-| Contrary Evidence | Unassessed — evidence mobilisation not commenced; no source identified or registered |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-016, EV-023, EV-066, EV-071 — qualified with conditions in FEF-FGR-002-D4-RQ028-EMQR-001; not packed; not examined |
+| Contrary Evidence | No substantive source contradiction identified; OQ-010 remains open; no approved FEF-wide classification scheme, access-authority lifecycle, confidentiality/privacy/disclosure/transparency/security policy, external E3 authority, or operated restricted-evidence case located; D6 interface remains unexamined; limitations and gaps preserved in FEF-FGR-002-D4-RQ028-EMQR-001 |
 | Dependencies | D1: Access decisions cannot create or transfer substantive governance authority. D2: Access constraints and permitted use for evidence remain visible and cannot be silently broadened. D3: Assurance may verify classification and access records but cannot substitute for reserved or professional judgement. Interface: D6 may later govern administrative classification structures; project and external legal/security controls remain outside this review |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Undetermined |
@@ -172,7 +172,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-28 / 2026-07-28 |
-| Change Rationale | First canonical admission following Founder Accept; no wording change from D4-RQC-04 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-028-only evidence mobilisation and qualification from Execution Loop 004; Question Text, purpose, scope, exclusions, dependencies, lifecycle state, and disposition unchanged |
 
 ## 6. FEF-FGR-002-RQ-029 — Legal Hold, Deletion, and Disposition Control
 
@@ -302,6 +302,7 @@ substantive answer is introduced.
 | 1.1 | 2026-07-28 | RQ-025 Evidence Records, contrary-evidence/gap treatment, and update rationale synchronized to Execution Loop 001; RQ-026 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ025-EMQR-001; FEF-FGR-002-D4-RQ025-EMVR-001 |
 | 1.2 | 2026-07-28 | RQ-026 Evidence Records, contradiction/gap treatment, and update rationale synchronized to Execution Loop 002; RQ-025 evidence unchanged; RQ-027 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ026-EMQR-001; FEF-FGR-002-D4-RQ026-EMVR-001 |
 | 1.3 | 2026-07-28 | RQ-027 Evidence Records, authority limitations, open OQ-011, gaps, and D5/D6 dependencies synchronized to Execution Loop 003; RQ-025 and RQ-026 evidence unchanged; RQ-028 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ027-EMQR-001; FEF-FGR-002-D4-RQ027-EMVR-001 |
+| 1.4 | 2026-07-28 | RQ-028 Evidence Records, authority limitations, open OQ-010, gaps, and D6 dependency synchronized to Execution Loop 004; RQ-025 through RQ-027 evidence unchanged; RQ-029 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ028-EMQR-001; FEF-FGR-002-D4-RQ028-EMVR-001 |
 
 ## 11. Non-Effects
 
