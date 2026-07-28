@@ -9,12 +9,12 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.42 |
+| Programme version | Master Programme v0.43 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | Phase 2 Founder Milestone Decision recorded and validated — **Approve with Conditions**; D4 **Not Started** |
+| Current milestone | **Phase 2 Complete** — methodology operationally stable; D4 **Not Started** |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | Phase 2 methodology milestone complete; continued use approved under the exact Founder conditions; D4 Not Started |
+| Current execution window | FEF-FGR-002 continues Active using the Phase 2 methodology as the operational execution baseline; D4 Not Started |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -37,14 +37,14 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2, with D1, ORC-001, D2, and D3 closed; PTC-001 Passed; the Phase 2 Founder Milestone Decision is recorded and validated as Approve with Conditions. |
-| What are we doing? | The milestone decision is complete. No D4 or D5 activity has been performed. |
+| Where are we? | Phase 2 is formally complete; D1, ORC-001, D2, and D3 are closed; PTC-001 Passed; FEF-FGR-002 remains Active; D4 is Not Started. |
+| What are we doing? | The validated Phase 2 methodology is the operational execution baseline for the remaining review domains. No D4 or D5 activity has been performed. |
 | Why are we doing it? | Evidence requirements were derived, candidate sources qualified, the baseline frozen through DG-3, and the frozen pack reverified at entry — matching identity, fingerprint, and membership unchanged — before authorising it as the examination baseline and formally opening the session. One genuine gap (RQ-018 dissent evidence) and two preserved contradictions (EV-058, EV-059) are carried forward as disclosed conditions, not resolved even by the Founder's own recorded Conditions. |
 | What must finish before anything else? | D4 remains Not Started and requires its own separately governed entry sequence. |
 
 ## Immediate Next Programme Action
 
-**The Phase 2 Founder Milestone Decision is recorded and validated as Approve with Conditions. D4 has not started.**
+**Phase 2 is complete. The demonstrated methodology is the operational execution baseline for the remaining review domains. D4 has not started.**
 
 D3 has nine admitted canonical Review Questions, FEF-FGR-002-RQ-016 through
 FEF-FGR-002-RQ-024. Evidence requirements were derived
@@ -142,6 +142,14 @@ has no impact on D4 sequencing, and is not commenced. The registration creates
 no design, implementation, constitutional, governance, or review artefact.
 No D4 preparation, mobilisation, entry, or commencement was performed.
 
+The
+[Phase 2 Completion Report](../governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-REPORT.md)
+and
+[Completion Validation](../governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-VALIDATION-REPORT.md)
+formally close the Phase 2 administrative milestone. Future improvements
+route through Framework Evolution unless necessary for governance integrity
+or execution safety. The methodology itself is unchanged.
+
 ## Genuine Blockers
 
 - Legacy FEF-P0-004 is blocked pending a Founder disposition.
@@ -155,6 +163,7 @@ No D4 preparation, mobilisation, entry, or commencement was performed.
 - No D3 Review Question candidate disposition remains pending — all nine were reviewed and Accepted (FEF-FGR-002-D3-G1-FDR-001).
 - No D3 Founder Decision Record remains awaiting issuance — FD-017 through FD-025 are issued and validated through DG-5.
 - No Phase 2 Founder Milestone disposition remains pending — it is recorded and validated as Approve with Conditions.
+- No Phase 2 administrative completion action remains pending.
 - FEF-CCF-001 is registered at programme-planning level only; its evaluation and commencement remain future Framework Evolution work.
 - D4 commencement remains subject to separate Founder authorisation and its governed entry sequence.
 - Decide the disposition of FEF-P0-004.
@@ -170,5 +179,5 @@ All 23 RGS governance questions remain open.
 |---|---|---|
 | Governance | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved. |
 | Documentation | 🟢 Green | D3 Founder Review, DG-5 decision issuance, validation, and traceability are controlled; protected artefacts remain unchanged. |
-| Programme | 🟢 Green | PTC-001 Passed; the Phase 2 milestone decision is complete; FEF-FGR-002 remains Active; D1–D3 are Closed; D4 is Not Started. |
+| Programme | 🟢 Green | Phase 2 is Complete; the methodology is operationally stable; FEF-FGR-002 remains Active; D1–D3 are Closed; D4 is Not Started. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

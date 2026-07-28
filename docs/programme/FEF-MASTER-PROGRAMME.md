@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.42
+**Programme record version:** 0.43
 **Reconciliation date:** 2026-07-28
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,15 +21,15 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.42 |
+| Programme version | Master Programme v0.43 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | Phase 2 Founder Milestone Decision recorded and validated — **Approve with Conditions**; D1, D2, and D3 Closed; D4 **Not Started** |
+| Current milestone | **Phase 2 Complete** — methodology operationally stable; Founder approval and programme synchronization complete; D4 **Not Started** |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | Phase 2 methodology milestone complete; continued use approved under the exact Founder conditions; closed D1–D3 history preserved; D4 Not Started |
+| Current execution window | FEF-FGR-002 continues Active using the Phase 2 methodology as the operational execution baseline; future improvements route through Framework Evolution unless necessary for governance integrity or execution safety; D4 Not Started |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next governed activity | No D4 activity is commenced by this milestone decision. D4 remains Not Started and requires separate Founder authorisation and its governed entry sequence. |
+| Immediate next governed activity | D4 — Records and Information Governance remains the next domain. It is Not Started and requires separate Founder authorisation and its governed entry sequence. |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -160,6 +160,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGR-002-PTC-001 / FEF-FGR-002-PTCVR-001 | Programme Transition Checkpoint and Validation | Passed | Administrative confirmation of programme, lifecycle, dependency, traceability, protected-state, and repository consistency after D3 closure |
 | FEF-FGR-002-P2-FMR-001 / FEF-FGR-002-P2-MA-001 / FEF-FGR-002-P2-FDA-001 / FEF-FGR-002-P2-FMRVR-001 | Phase 2 Founder Milestone Review Package | Prepared and Validated | Neutral methodology review, assessment, single-question agenda, and package validation; no recommendation and no lifecycle effect |
 | FEF-FGR-002-P2-FMDR-001 / FEF-FGR-002-P2-FMDVR-001 | Phase 2 Founder Milestone Decision and Validation | **Approve with Conditions — Recorded and Validated** | Exact Founder wording preserved; programme milestone completed; package unchanged; no D4 commencement or Framework Evolution implementation |
+| FEF-FGR-002-P2-CR-001 / FEF-FGR-002-P2-CVR-001 | Phase 2 Completion and Validation | **Complete — Validation Passed** | Administrative milestone closure and operational methodology baseline; FEF-FGR-002 remains Active; D4 Not Started |
 | FEF-PGP-001 | Programme Governance Pilot description | Operating Pilot — Phase 0 | Informational only; not a governance standard |
 | FEF-PDP-001 | Programme Decision Register | Current pilot register | Programme-management decisions and traceability only |
 | FEF-WRP-001 | Work Package Review Package Protocol | Pilot v0.1 — Founder Approved for Pilot Use | Preferred prospective review-handover protocol; non-mandatory and not a governance standard |
@@ -202,7 +203,7 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
 
 ## 7. Immediate Next Programme Action
 
-**The Phase 2 Founder Milestone Decision is recorded and validated as Approve with Conditions. D4 has not started.**
+**Phase 2 is complete. The Founder Governance Review methodology is the operational execution baseline for the remaining review domains. D4 has not started.**
 
 D1 and ORC-001 remain closed. D2 remains closed. D3 is now closed. Its nine
 RQs were examined in S03, GF-015 through GF-023 were validated and
@@ -230,6 +231,11 @@ D1, D2, and D3 remain Closed. D4 is Not Started.**
 The existing Governance Evolution Review and FAP-001 remain deferred and
 unchanged; CE1–CE6 remain undecided and have no framework effect.
 
+Future methodology improvements shall be routed through Framework Evolution
+unless necessary for governance integrity or execution safety. This baseline
+does not amend the methodology. FEF-CCF-001 remains future work only,
+non-critical-path, and without effect on D4 sequencing.
+
 The standard workflow is:
 
 `Mobilize → Review → Validate → Founder Review → Founder Decisions → Validation → Close Review`
@@ -244,10 +250,11 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 4. No D3 Founder Decision Record remains awaiting issuance — FD-017 through FD-025 are issued and validated.
 5. No Phase 2 Founder Milestone disposition remains pending — the Founder disposition is recorded and validated as Approve with Conditions.
 6. The Founder follow-up to register FEF-CCF-001 is complete at programme-planning level only; evaluation and commencement remain future Framework Evolution work.
-7. D4 commencement remains subject to separate Founder authorisation and its governed entry sequence; FEF-CCF-001 has no impact on that sequencing.
-8. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
-9. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
-10. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
+7. No Phase 2 administrative completion action remains pending.
+8. D4 commencement remains subject to separate Founder authorisation and its governed entry sequence; FEF-CCF-001 has no impact on that sequencing.
+9. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
+10. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
+11. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
 
 The remaining 23 RGS open questions remain unresolved. They are not silently closed or converted into immediate programme decisions by this reconciliation.
 
@@ -762,6 +769,15 @@ not commence the initiative, authorise evaluation or implementation, define
 Engineering Context Snapshots or related continuity artefacts, create
 constitutional or governance content, modify review execution, or commence
 D4. FEF-FGR-002 remains Active; D1–D3 remain Closed; D4 remains Not Started.
+
+This v0.43 revision formally records Phase 2 as an administratively completed
+programme milestone and validates the D4 readiness baseline. The demonstrated
+Founder Governance Review methodology is now the operational execution
+baseline for the remaining review domains. Future improvements route through
+Framework Evolution unless necessary for governance integrity or execution
+safety. No methodology, governance instrument, review content, protected
+artefact, or domain lifecycle changed. FEF-CCF-001 remains future work only.
+FEF-FGR-002 remains Active; D1–D3 remain Closed; D4 remains Not Started.
 
 ## 11. Change Control
 

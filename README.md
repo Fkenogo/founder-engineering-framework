@@ -3,11 +3,11 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.42 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.43 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — D1, ORC-001, D2, and D3 Closed; Phase 2 Founder Milestone Decision recorded and validated as Approve with Conditions; D4 Not Started
+**Current active review:** FEF-FGR-002 — Phase 2 Complete; D1, ORC-001, D2, and D3 Closed; methodology operationally stable; D4 Not Started
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** The Phase 2 milestone decision is complete; D4 remains Not Started and requires separate Founder authorisation and its governed entry sequence
+**Immediate next programme action:** D4 remains the next governed domain but is Not Started; separate Founder authorisation and its governed entry sequence are required
 **Framework Evolution status:** FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as Future Framework Evolution, non-critical path, with no impact on D4 sequencing; not commenced
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
@@ -87,6 +87,8 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-REVIEW-PACKAGE-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-REVIEW-PACKAGE-VALIDATION-REPORT.md) — neutral package validation;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-FOUNDER-DECISION-RECORD.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-FOUNDER-DECISION-RECORD.md) — attributable Phase 2 Founder disposition, Approve with Conditions;
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-FOUNDER-DECISION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-FOUNDER-DECISION-VALIDATION-REPORT.md) — exact-fidelity and protected-state validation;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-REPORT.md) — formal Phase 2 administrative completion and D4 readiness baseline;
+- [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-PHASE-2-COMPLETION-VALIDATION-REPORT.md) — lifecycle, protected-state, repository, and non-effect validation;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
