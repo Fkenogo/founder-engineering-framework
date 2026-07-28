@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.13 |
+| Set version | 1.14 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -13,10 +13,10 @@
 | Candidate source | FEF-FGR-002-D4-RQC-001 v1.0 |
 | Founder disposition | Accept — all seven; FEF-FGR-002-D4-G1-FDR-001 |
 | Admission record | FEF-FGR-002-D4-RQAR-001 |
-| Lifecycle treatment | RQ-025 through RQ-028 Answered at finding level; RQ-029 through RQ-031 Founder-Accepted and Admitted |
+| Lifecycle treatment | RQ-025 through RQ-029 Answered at finding level; RQ-030 and RQ-031 Founder-Accepted and Admitted |
 | Assigned examination unit | FEF-FGR-002-S04 |
-| Questions answered | 4 — RQ-025 through RQ-028 through Presented GF-024 through GF-027 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 in Loop 007; all seven packed in Frozen EP-004 v1.0; RQ-025 through RQ-028 examined in S04 Execution Loops 001–004 only |
+| Questions answered | 5 — RQ-025 through RQ-029 through Presented GF-024 through GF-028 |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 in Loop 007; all seven packed in Frozen EP-004 v1.0; RQ-025 through RQ-029 examined in S04 Execution Loops 001–005 only |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -179,7 +179,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-029 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Legal Hold, Deletion, and Disposition Control |
 | Question Text | What governance authority, safeguards, records, and review controls, if any, are required for legal hold, deletion, disposal, or irreversible restriction of FEF records so that preservation duties, exceptions, conflicts, and accountability remain explicit without making legal or technical implementation decisions? |
 | Originating candidate | D4-RQC-05 |
@@ -193,22 +193,22 @@ substantive answer is introduced.
 | Scope | Exceptional preservation, deletion, disposal, irreversible restriction, and conflict treatment |
 | Exclusions | No legal advice, hold instruction, deletion authorisation, disposal schedule, erasure method, security procedure, or project-specific decision |
 | Evidence Need | Hold, deletion, disposal, exception, conflict, approval, notification, and audit requirements and records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071 — mobilised and qualified with conditions in Execution Loop 005; Frozen in EP-004 v1.0; not examined |
+| Evidence Records | EV-005, EV-007, EV-008, EV-012, EV-013, EV-023, EV-066, EV-069, EV-071 — mobilised and qualified with conditions in Execution Loop 005; Frozen in EP-004 v1.0; examined in S04 Execution Loop 005 only |
 | Contrary Evidence | No substantive source contradiction identified. Approved sources establish bounded review/evidence preservation, escalation, and immutable-history controls; EV-012 preserves OQ-011 and OQ-012 as unresolved; EV-013 and EV-023 remain authority-limited. No approved FEF-wide legal-hold, deletion, disposal, irreversible-restriction, exception, notification, or audit control was located |
 | Dependencies | D1: Material ambiguity and reserved authority conflicts require attributable escalation. D2: Evidence gaps, unavailable sources, and chain-of-custody limitations cannot be concealed by deletion or disposition treatment. D3: Validation cannot itself authorise legal hold, destruction, risk acceptance, or exceptional restriction. Interface: D5 later governs status and withdrawal; external legal authority remains outside the present review |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
-| Founder Decision Need | Undetermined |
-| Assigned Examination Unit | Unassigned |
+| Founder Decision Need | Required — GF-028 awaits Founder disposition |
+| Assigned Examination Unit | FEF-FGR-002-S04 — Execution Loop 005 complete |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
-| Lifecycle State | Admitted |
-| Disposition | Pending |
-| Related GFs | None |
+| Lifecycle State | Answered |
+| Disposition | GF-028 — Presented; Founder disposition pending |
+| Related GFs | FEF-FGR-002-GF-028 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-28 / 2026-07-28 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-029-only evidence mobilisation and qualification from Execution Loop 005 while preserving OQ-011/OQ-012, authority limitations, and gaps; Question Text, purpose, scope, exclusions, dependencies, lifecycle state, and disposition unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-029-only evidence mobilisation and qualification from Execution Loop 005 while preserving OQ-011/OQ-012, authority limitations, and gaps; v1.2 records S04 Execution Loop 005 examination using only the nine mapped EP-004 v1.0 Evidence Records and links Presented GF-028; Question Text, purpose, scope, exclusions, dependencies, and OQ mappings unchanged |
 
 ## 7. FEF-FGR-002-RQ-030 — Organisational Knowledge and Continuity
 
@@ -312,13 +312,14 @@ substantive answer is introduced.
 | 1.11 | 2026-07-28 | RQ-026 only updated to v1.2 after S04 Execution Loop 002 examination using its exact ten-item EP-004 v1.0 mapping; Lifecycle State Answered and Presented GF-025 linkage recorded; EV-059 contradiction, EV-073 boundary, Question Text, OQ mappings, RQ-025, and RQ-027 through RQ-031 unchanged | FEF-FGR-002-S04-GF-025-VR-001 |
 | 1.12 | 2026-07-28 | RQ-027 only updated to v1.2 after S04 Execution Loop 003 examination using its exact nine-item EP-004 v1.0 mapping; Lifecycle State Answered and Presented GF-026 linkage recorded; source limitations, OQ-011, Question Text, RQ-025, RQ-026, and RQ-028 through RQ-031 unchanged | FEF-FGR-002-S04-GF-026-VR-001 |
 | 1.13 | 2026-07-28 | RQ-028 only updated to v1.2 after S04 Execution Loop 004 examination using its exact nine-item EP-004 v1.0 mapping; Lifecycle State Answered and Presented GF-027 linkage recorded; source limitations, OQ-010, Question Text, RQ-025 through RQ-027, and RQ-029 through RQ-031 unchanged | FEF-FGR-002-S04-GF-027-VR-001 |
+| 1.14 | 2026-07-28 | RQ-029 only updated to v1.2 after S04 Execution Loop 005 examination using its exact nine-item EP-004 v1.0 mapping; Lifecycle State Answered and Presented GF-028 linkage recorded; source limitations, OQ-011/OQ-012, Question Text, RQ-025 through RQ-028, RQ-030, and RQ-031 unchanged | FEF-FGR-002-S04-GF-028-VR-001 |
 
 ## 11. Non-Effects
 
 This canonical set records the unchanged qualified evidence mappings for
-RQ-025 through RQ-031 as Frozen in EP-004 v1.0. RQ-025 through RQ-028
+RQ-025 through RQ-031 as Frozen in EP-004 v1.0. RQ-025 through RQ-029
 have been examined in S04 and answered at finding level through Presented
-GF-024 through GF-027.
+GF-024 through GF-028.
 This does not infer D5 lifecycle rules, evaluate or commence FEF-CCF-001,
-examine RQ-029 through RQ-031, prepare a review-scoped Founder Decision,
+examine RQ-030 or RQ-031, prepare a review-scoped Founder Decision,
 amend the methodology, or perform Framework Evolution.

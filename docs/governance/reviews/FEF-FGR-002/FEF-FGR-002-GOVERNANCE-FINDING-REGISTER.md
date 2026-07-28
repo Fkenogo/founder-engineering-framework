@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.20 |
+| Register version | 1.21 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-07-28 |
-| Substantive entry count | 27 |
+| Substantive entry count | 28 |
 
 ## Register
 
@@ -48,6 +48,7 @@
 | FEF-FGR-002-GF-025 | 1.0 | Review-Scoped Responsibilities Separate Register Administration, Custody, Recording, Validation, and Founder Authority, but General Ownership, Correction, and Operated Handover Controls Are Unevidenced | RQ-026 | EV-005; EV-008; EV-016; EV-017; EV-019; EV-020; EV-021; EV-059; EV-071; EV-073 | Review-scoped responsibility and authority are explicitly separated; evidence custody cannot determine meaning or confer Founder authority; bounded correction and traceability examples exist | EV-059's v1.0/v1.1 contradiction remains; EV-073 is one D3 example; general ownership, correction, independent control, accountability, and operated handover remain unevidenced | Presented | Pending | None | None | Pass with Conditions |
 | FEF-FGR-002-GF-026 | 1.0 | Review and Evidence Controls Preserve Identity, History, Accessibility, and Prior Frozen Baselines, but No FEF-Wide Retention or Archival Governance Is Evidenced | RQ-027 | EV-005; EV-007; EV-008; EV-012; EV-013; EV-016; EV-023; EV-069; EV-071 | Review and Evidence Pack controls preserve identity, history, access information, traceability, prior versions, and immutable frozen baselines with attributable successor treatment | OQ-011 remains open; EV-013 and EV-023 are authority-limited; no FEF-wide retention criteria, authority, archival-transfer control, continued-accessibility standard, or operated archive is evidenced | Presented | Pending | None | None | Pass with Conditions |
 | FEF-FGR-002-GF-027 | 1.0 | Review Evidence Controls Require Attributable Access State, Limitations, Permitted Use, and Visible Restriction, but No FEF-Wide Classification, Privacy, Confidentiality, or Security Governance Is Evidenced | RQ-028 | EV-005; EV-007; EV-008; EV-012; EV-013; EV-016; EV-023; EV-066; EV-071 | Review evidence must preserve attributable access state, restrictions, limitations, permitted use, unavailable-source treatment, redaction effects, and reliance boundaries; custody or repository access confers no evidential or Founder authority | OQ-010 remains open; EV-013 and EV-023 are authority-limited; EV-066 and EV-071 exclude broader policy; no FEF-wide classification, access-authority, confidentiality, privacy, security, external-authority, or operated restricted-evidence model is evidenced | Presented | Pending | None | None | Pass with Conditions |
+| FEF-FGR-002-GF-028 | 1.0 | Immutable Review History and Frozen-Baseline Change Controls Are Evidenced, but No FEF-Wide Legal-Hold, Deletion, Disposal, or Irreversible-Restriction Governance Is Evidenced | RQ-029 | EV-005; EV-007; EV-008; EV-012; EV-013; EV-023; EV-066; EV-069; EV-071 | Review and Evidence Pack controls preserve identifiers, prior states, custody history, immutable frozen baselines, and attributable successor or supplemental change paths | OQ-011 and OQ-012 remain open; EV-013 and EV-023 are authority-limited; EV-066, EV-069, and EV-071 exclude or defer broader policy; no FEF-wide legal-hold, deletion, disposal, irreversible-restriction, external-authority, or operated disposition model is evidenced | Presented | Pending | None | None | Pass with Conditions |
 
 ## Change History
 
@@ -74,18 +75,21 @@
 | 1.18 | 2026-07-28 | GF-025 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 002 after examining RQ-026 only against its ten-item EP-004 v1.0 mapping; EV-059 contradiction and EV-073 boundary preserved; GF-024 unchanged; no Founder disposition or Decision created; RQ-027 through RQ-031 remain unexamined; S04 remains open | FEF-FGR-002-S04-GF-025-VR-001 |
 | 1.19 | 2026-07-28 | GF-026 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 003 after examining RQ-027 only against its nine-item EP-004 v1.0 mapping; OQ-011 and all source limitations preserved; GF-024 and GF-025 unchanged; no Founder disposition or Decision created; RQ-028 through RQ-031 remain unexamined; S04 remains open | FEF-FGR-002-S04-GF-026-VR-001 |
 | 1.20 | 2026-07-28 | GF-027 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 004 after examining RQ-028 only against its nine-item EP-004 v1.0 mapping; OQ-010 and all source limitations preserved; GF-024 through GF-026 unchanged; no Founder disposition or Decision created; RQ-029 through RQ-031 remain unexamined; S04 remains open | FEF-FGR-002-S04-GF-027-VR-001 |
+| 1.21 | 2026-07-28 | GF-028 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 005 after examining RQ-029 only against its nine-item EP-004 v1.0 mapping; OQ-011, OQ-012, and all source limitations preserved; GF-024 through GF-027 unchanged; no Founder disposition or Decision created; RQ-030 and RQ-031 remain unexamined; S04 remains open | FEF-FGR-002-S04-GF-028-VR-001 |
 
 ## Non-Effects
 
 This register contains twenty-three Founder-dispositioned Governance
-Findings, each linked to an issued Founder Decision Record, and four
+Findings, each linked to an issued Founder Decision Record, and five
 Presented D4 findings awaiting Founder disposition. DG-5 issuance
 does not alter any finding wording, evidence basis, uncertainty,
 disposition, or condition; label a finding Approved, Active, or
 Constitutional; close an Open Question; close FEF-FGR-002-S03 or D3;
 commence D5; or disposition CE1–CE6. DG-6 closes D3 without changing any
-Governance Finding. GF-024 through GF-027 do not establish a taxonomy,
+Governance Finding. GF-024 through GF-028 do not establish a taxonomy,
 universal minimum characteristic set, FEF-wide register ownership or
 correction model, retention schedule, archival policy, information-
-classification, privacy, confidentiality, security, D5 lifecycle rule, D6
-administrative model, Founder Decision, or Open Question disposition.
+classification, privacy, confidentiality, security, legal-hold regime,
+deletion authority, disposal rule, irreversible-restriction model, D5
+lifecycle rule, D6 administrative model, Founder Decision, or Open Question
+disposition.
