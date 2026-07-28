@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.28 |
+| Register version | 1.29 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -25,7 +25,7 @@
 | FEF-FGR-002-S01 | D1 — Governance Authority | Examine the eight admitted D1 RQs and produce validated GFs | RQ-001–RQ-008 | EP-001 v1.0 — Frozen | Execute and close | Pass with condition | Closed — Validated with Condition | [Session Record](FEF-FGR-002-S01-SESSION-RECORD.md) | Pass with recorded non-independent condition |
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S03-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md) |
-| FEF-FGR-002-S04 | D4 — Records and Information Governance | Examine the seven admitted D4 RQs using EP-004 only | RQ-025–RQ-031 | EP-004 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | Open — Execution Loops 001–006 Complete; RQ-025–RQ-030 Examined; GF-024–GF-029 Presented | [Opening Record](FEF-FGR-002-S04-OPENING-RECORD.md) | [Opening Pass with Conditions](FEF-FGR-002-S04-OPENING-VALIDATION-REPORT.md); [GF-024 Pass with Conditions](FEF-FGR-002-S04-GF-024-VALIDATION-REPORT.md); [GF-025 Pass with Conditions](FEF-FGR-002-S04-GF-025-VALIDATION-REPORT.md); [GF-026 Pass with Conditions](FEF-FGR-002-S04-GF-026-VALIDATION-REPORT.md); [GF-027 Pass with Conditions](FEF-FGR-002-S04-GF-027-VALIDATION-REPORT.md); [GF-028 Pass with Conditions](FEF-FGR-002-S04-GF-028-VALIDATION-REPORT.md); [GF-029 Pass with Conditions](FEF-FGR-002-S04-GF-029-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S04 | D4 — Records and Information Governance | Examine the seven admitted D4 RQs using EP-004 only | RQ-025–RQ-031 | EP-004 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | Open — Execution Loops 001–007 Complete; RQ-025–RQ-031 Examined; GF-024–GF-030 Presented | [Opening Record](FEF-FGR-002-S04-OPENING-RECORD.md) | [Opening Pass with Conditions](FEF-FGR-002-S04-OPENING-VALIDATION-REPORT.md); [GF-024 Pass with Conditions](FEF-FGR-002-S04-GF-024-VALIDATION-REPORT.md); [GF-025 Pass with Conditions](FEF-FGR-002-S04-GF-025-VALIDATION-REPORT.md); [GF-026 Pass with Conditions](FEF-FGR-002-S04-GF-026-VALIDATION-REPORT.md); [GF-027 Pass with Conditions](FEF-FGR-002-S04-GF-027-VALIDATION-REPORT.md); [GF-028 Pass with Conditions](FEF-FGR-002-S04-GF-028-VALIDATION-REPORT.md); [GF-029 Pass with Conditions](FEF-FGR-002-S04-GF-029-VALIDATION-REPORT.md); [GF-030 Pass with Conditions](FEF-FGR-002-S04-GF-030-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -94,6 +94,7 @@ This domain-level linkage does not change S03's historical state.
 | 1.26 | 2026-07-28 | S04 Execution Loop 004 examined RQ-028 only against its exact nine-item EP-004 v1.0 mapping and produced GF-027, validated Pass with Conditions and Presented pending Founder disposition; source qualifications and OQ-010 preserved; GF-024 through GF-026 and RQ-025 through RQ-027 unchanged; RQ-029 through RQ-031 remain unexamined; EP-004 unchanged; zero Founder Decision; session remains open | FEF-FGR-002-S04-GF-027-VR-001 |
 | 1.27 | 2026-07-28 | S04 Execution Loop 005 examined RQ-029 only against its exact nine-item EP-004 v1.0 mapping and produced GF-028, validated Pass with Conditions and Presented pending Founder disposition; source qualifications and OQ-011/OQ-012 preserved; GF-024 through GF-027 and RQ-025 through RQ-028 unchanged; RQ-030 and RQ-031 remain unexamined; EP-004 unchanged; zero Founder Decision; session remains open | FEF-FGR-002-S04-GF-028-VR-001 |
 | 1.28 | 2026-07-28 | S04 Execution Loop 006 examined RQ-030 only against its exact eleven-item EP-004 v1.0 mapping and produced GF-029, validated Pass with Conditions and Presented pending Founder disposition; source qualifications, OQ-021/OQ-023, and FEF-CCF-001 separation preserved; GF-024 through GF-028 and RQ-025 through RQ-029 unchanged; RQ-031 remains unexamined; EP-004 unchanged; zero Founder Decision; session remains open | FEF-FGR-002-S04-GF-029-VR-001 |
+| 1.29 | 2026-07-28 | S04 Execution Loop 007 examined RQ-031 only against its exact eleven-item EP-004 v1.0 mapping and produced GF-030, validated Pass with Conditions and Presented pending Founder disposition; EV-059 contradiction, source qualifications, OQ-021/OQ-022, and D5/D6 separation preserved; GF-024 through GF-029 and RQ-025 through RQ-030 unchanged; all seven D4 RQs are answered at finding level; EP-004 unchanged; zero Founder Decision; session remains open; no session exit or Founder Review Package | FEF-FGR-002-S04-GF-030-VR-001 |
 
 ## Non-Effects
 
@@ -113,8 +114,8 @@ dispositioning all nine findings (GF-019 Accept; the other eight Accept
 with Conditions). DG-5 later issued FD-017 through FD-025. These
 post-session linkages do not change S03's historical session state or
 modify an Open Question. DG-6 subsequently closed D3 without changing
-S03. S04 remains Open after Execution Loops 001–006 examined RQ-025 through
-RQ-030 only and Presented GF-024 through GF-029 pending Founder
-disposition. RQ-031 remains unexamined. No Founder Decision
+S03. S04 remains Open after Execution Loops 001–007 examined RQ-025 through
+RQ-031 and Presented GF-024 through GF-030 pending Founder disposition. No
+session exit or Founder Review Package was performed. No Founder Decision
 was created, no Open Question was resolved, EP-004 remains unchanged, and
 D5 and D6 have not commenced.
