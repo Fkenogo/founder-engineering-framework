@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D4-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D4 — Records and Information Governance |
-| Set version | 1.5 |
+| Set version | 1.6 |
 | Admission date | 2026-07-28 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | Seven RQs Founder-Accepted and Admitted |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 and RQ-031 not started |
+| Evidence mobilisation | RQ-025 qualified with conditions in Execution Loop 001; RQ-026 in Loop 002; RQ-027 in Loop 003; RQ-028 in Loop 004; RQ-029 in Loop 005; RQ-030 in Loop 006; RQ-031 not started |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -215,7 +215,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-030 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Organisational Knowledge and Continuity |
 | Question Text | What governance records and continuity controls, if any, are necessary to preserve the context, rationale, dependencies, limitations, and handover knowledge required for later understanding and responsible use of FEF governance outputs without defining a Context Continuity Framework or implementation artefact? |
 | Originating candidate | D4-RQC-06 |
@@ -229,8 +229,8 @@ substantive answer is introduced.
 | Scope | Preservation of context, rationale, dependencies, limitations, and handover knowledge |
 | Exclusions | No FEF-CCF-001 evaluation, Engineering Context Snapshot, template, handover system, knowledge base, tooling, Framework Evolution, or retrospective reinterpretation |
 | Evidence Need | Knowledge-preservation and handover requirements; context, rationale, dependency, limitation, recovery, and continuity records — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | None — evidence mobilisation not commenced |
-| Contrary Evidence | Unassessed — evidence mobilisation not commenced; no source identified or registered |
+| Evidence Records | EV-005, EV-008, EV-012, EV-013, EV-016, EV-020, EV-021, EV-070, EV-071, EV-073, EV-074 — mobilised and qualified with conditions in Execution Loop 006; not packed; not examined |
+| Contrary Evidence | No substantive source contradiction identified. Approved and operated sources establish bounded traceability, preserved context, assignment, handover, custody, and authority controls; EV-012 preserves OQ-021 and OQ-023 as unresolved; EV-013 remains authority-limited; EV-074 preserves FEF-CCF-001 as future Framework Evolution only. No approved FEF-wide organisational-knowledge or continuity model was located |
 | Dependencies | D1: Context cannot expand the authority of the underlying record or infer Founder intent. D2: Contextual material cannot be elevated into evidence or alter evidence meaning without D2 controls. D3: Assurance reproducibility and later reliance require preserved limitations and validation context. Interface: FEF-CCF-001 remains a separate future Framework Evolution candidate; D6 may later govern administrative ownership |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Undetermined |
@@ -244,7 +244,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-28 / 2026-07-28 |
-| Change Rationale | First canonical admission following Founder Accept; no wording change from D4-RQC-06 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-030-only evidence mobilisation and qualification from Execution Loop 006 while preserving OQ-021/OQ-023, FEF-CCF-001 separation, authority limitations, and gaps; Question Text, purpose, scope, exclusions, dependencies, lifecycle state, and disposition unchanged |
 
 ## 8. FEF-FGR-002-RQ-031 — Information Lifecycle Integrity and Checkpoints
 
@@ -304,11 +304,14 @@ substantive answer is introduced.
 | 1.3 | 2026-07-28 | RQ-027 Evidence Records, authority limitations, open OQ-011, gaps, and D5/D6 dependencies synchronized to Execution Loop 003; RQ-025 and RQ-026 evidence unchanged; RQ-028 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ027-EMQR-001; FEF-FGR-002-D4-RQ027-EMVR-001 |
 | 1.4 | 2026-07-28 | RQ-028 Evidence Records, authority limitations, open OQ-010, gaps, and D6 dependency synchronized to Execution Loop 004; RQ-025 through RQ-027 evidence unchanged; RQ-029 through RQ-031 unchanged; no pack or examination | FEF-FGR-002-D4-RQ028-EMQR-001; FEF-FGR-002-D4-RQ028-EMVR-001 |
 | 1.5 | 2026-07-28 | RQ-029 Evidence Records, authority limitations, open OQ-011/OQ-012 interfaces, gaps, and D5/external-authority dependencies synchronized to Execution Loop 005; RQ-025 through RQ-028 evidence unchanged; RQ-030 and RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ029-EMQR-001; FEF-FGR-002-D4-RQ029-EMVR-001 |
+| 1.6 | 2026-07-28 | RQ-030 Evidence Records, authority limitations, open OQ-021/OQ-023 interfaces, FEF-CCF-001 future-work boundary, gaps, and D6 dependency synchronized to Execution Loop 006; RQ-025 through RQ-029 evidence unchanged; RQ-031 byte-identical; no pack or examination | FEF-FGR-002-D4-RQ030-EMQR-001; FEF-FGR-002-D4-RQ030-EMVR-001 |
 
 ## 11. Non-Effects
 
 This canonical set records qualified evidence mappings for RQ-025 through
-RQ-029 only. It does not register a new Evidence Record in this loop, assemble
-or freeze an Evidence Pack, assign or create a session, commence examination,
-answer an RQ, produce a Governance Finding, prepare a review-scoped Founder
-Decision, amend the methodology, or perform Framework Evolution.
+RQ-030 only. Execution Loop 006 registers EV-074 solely as attributable
+evidence of the FEF-CCF-001 future-work boundary. It does not evaluate or
+commence FEF-CCF-001, assemble or freeze an Evidence Pack, assign or create a
+session, commence examination, answer an RQ, produce a Governance Finding,
+prepare a review-scoped Founder Decision, amend the methodology, or perform
+Framework Evolution.
