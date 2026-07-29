@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.42 |
+| Register version | 1.43 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -103,6 +103,7 @@
 | 1.40 | 2026-07-28 | D4-G2 Founder Review linkage recorded for RQ-025 through RQ-031: each related finding GF-024 through GF-030 is Dispositioned — Accept with Conditions; Decision Records remain Pending — FD not yet issued; RQ wording, lifecycle state, OQ mappings, evidence status, and frozen mappings unchanged; DG-5 and DG-6 not commenced; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
 | 1.41 | 2026-07-29 | D4-DG5 linkage recorded for RQ-025 through RQ-031: each related finding GF-024 through GF-030 is Decision Issued — Accept with Conditions with linked FD-026 through FD-032; RQ wording, lifecycle state, OQ mappings, evidence status, and frozen mappings unchanged; DG-5 complete; DG-6 not commenced; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-DG5-FDVR-001 |
 | 1.42 | 2026-07-29 | D4-DG6 closure linkage recorded for RQ-025 through RQ-031: each related finding GF-024 through GF-030 is Closed — Decision Issued — Accept with Conditions with linked FD-026 through FD-032; RQ wording, lifecycle state, OQ mappings, evidence status, and frozen mappings unchanged; DG-5 and DG-6 complete; D4 Closed; D5 and D6 not commenced | FEF-FGR-002-D4-CR-001; FEF-FGR-002-D4-DG6-DEVR-001 |
+| 1.43 | 2026-07-29 | Domain Coverage narrative for D5 updated to record that six temporary candidates (D5-RQC-01–06) were prepared, validated Pass with Conditions, and Accepted by the Founder at D5-G1; no canonical D5 RQ identifier allocated, no admission performed; RQ-001 through RQ-031 rows, substantive entry count (31), and all other fields unchanged | FEF-FGR-002-D5-G1-FDR-001; FEF-FGR-002-D5-G1-FDVR-001 |
 
 ## Non-Effects
 
@@ -129,7 +130,7 @@ level; S04 remains historically Closed; D4-G2 Founder Review is complete.
 | D2 — Evidence Governance | 7 | Answered at finding level; six decisions recorded; D2 closed |
 | D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
 | D4 — Records and Information Governance | 7 | RQ-025 through RQ-031 answered; GF-024 through GF-030 Closed — Decision Issued — Accept with Conditions; FD-026 through FD-032 issued and validated; EP-004 remains Frozen; S04 Closed; D4 Closed; DG-5 and DG-6 complete |
-| D5 — Governance Lifecycle and Evolution | 0 | Not reached |
+| D5 — Governance Lifecycle and Evolution | 0 | Six temporary candidates (D5-RQC-01–06) prepared, validated Pass with Conditions, and Accepted by the Founder at D5-G1 ([FEF-FGR-002-D5-G1-FDR-001](FEF-FGR-002-D5-G1-FOUNDER-DISPOSITION-RECORD.md)); canonical admission not yet performed |
 | D6 — Framework Administration | 0 | Not reached |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |
 | D8 — Open Question Resolution | 0 | Cross-cutting mappings only; no D8 RQ created |
