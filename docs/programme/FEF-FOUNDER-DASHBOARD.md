@@ -9,12 +9,12 @@
 
 | Item                          | Current State                                                                                                                                                                                                     |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version             | Master Programme v0.51                                                                                                                                                                                            |
+| Programme version             | Master Programme v0.53                                                                                                                                                                                            |
 | Current phase                 | Phase 2 — Founder Governance Review                                                                                                                                                                               |
-| Current milestone             | **D5 Mobilisation Planning Prepared** — Mobilisation Record, Scope and Boundary Assessment, Dependency and Interface Map, and Entry Readiness Validation Report (Ready with Conditions) prepared; Founder mobilisation authorisation pending |
+| Current milestone             | **D5 Review Question Candidate Set Prepared** — six candidates validated Pass with Conditions; awaiting Founder Candidate Review; D5 substantive review not commenced                                            |
 | Latest completed work package | FEF-RCR-001 — Programme Repository Reconciliation and Navigation Baseline                                                                                                                                         |
 | Current active work package   | None — review execution is controlled by approved governance instruments                                                                                                                                          |
-| Current execution window      | D4 Closed; S04 historically Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 mobilisation-planning prepared and awaiting Founder disposition; D5 and D6 not commenced                                |
+| Current execution window      | D4 Closed; S04 historically Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 Mobilised — Effective; D5 RQ candidate set prepared, awaiting Founder Candidate Review; D6 not commenced                |
 | Review commencement           | Authorised by FD-2026-07-24-009                                                                                                                                                                                   |
 | Active review identifier      | FEF-FGR-002                                                                                                                                                                                                       |
 | First review domain           | D1 — Governance Authority                                                                                                                                                                                         |
@@ -38,33 +38,31 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question                               | Answer                                                                                                                                                      |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Where are we?                          | Phase 2 is complete; D1, ORC-001, D2, D3, and D4 are closed; FEF-FGR-002 remains Active; D4-G2 Founder Review, DG-5, DG-6, PGC-001, and FEF-RCR-001 are complete; D5 mobilisation-planning is prepared. |
-| What are we doing?                     | D5 — Governance Lifecycle and Evolution mobilisation-planning has been prepared and validated Ready with Conditions; no Founder mobilisation authorisation has yet been given. |
-| Why are we doing it?                   | This confirms the D5 entry baseline is complete and ready for a separate, attributable Founder disposition before any substantive D5 review begins.        |
-| What must finish before anything else? | A Founder disposition on [FEF-FGR-002-D5-FMAR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — the blank Founder mobilisation authorisation record. |
+| Where are we?                          | Phase 2 is complete; D1–D4 are closed; FEF-FGR-002 remains Active; D5 is Mobilised — Effective; a six-question D5 Review Question candidate set is prepared and validated. |
+| What are we doing?                     | Awaiting Founder Candidate Review of the six D5 Review Question candidates before any canonical identifier allocation or DG-2 admission.                    |
+| Why are we doing it?                   | The methodology requires Founder review of a neutral candidate set before any question becomes canonical or admitted, mirroring the D3 precedent.           |
+| What must finish before anything else? | Founder Candidate Review of the six D5 candidates, once presented.                                                                                          |
 
 ## Immediate Next Programme Action
 
-**D5 mobilisation-planning is prepared and validated Ready with Conditions. A Founder disposition on the D5 Founder Mobilisation Authorisation Record is the next governed step.**
+**D5 is Mobilised — Effective. A six-question D5 Review Question candidate set is prepared and validated Pass with Conditions, awaiting Founder Candidate Review.**
 
-D4 — Records and Information Governance is Closed. All seven findings are
-Closed/Decision Issued `Accept with Conditions` via FD-026 through FD-032.
-FEF-PGC-001 recommended D5 readiness as Ready, and FEF-RCR-001 completed
-the repository reconciliation this required. Under **FEF-FGR-002 D5
-Mobilisation Planning and Entry Baseline**, a bounded package was then
-prepared: the
-[D5 Mobilisation Record](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-MOB-001-GOVERNANCE-LIFECYCLE-AND-EVOLUTION-MOBILISATION-RECORD.md)
-(restating D5's existing Charter/Agenda/Plan definition — status,
-versioning, applicability, supersession, withdrawal, controlled evolution,
-transitional treatment), a
-[Scope and Boundary Assessment](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-SCOPE-AND-BOUNDARY-ASSESSMENT.md),
-a [Dependency and Interface Map](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-DEPENDENCY-AND-INTERFACE-MAP.md),
-and an [Entry Readiness Validation Report](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-ENTRY-READINESS-VALIDATION-REPORT.md)
-concluding **Ready with Conditions**. A blank, neutral
-[Founder Mobilisation Authorisation Record](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md)
-was prepared with no disposition selected or recommended. No D5 Review
-Question, evidence source, Evidence Pack, session, Governance Finding, or
-Founder Decision was created. **D5 remains Not Started.**
+D4 — Records and Information Governance is Closed. FEF-PGC-001 recommended
+D5 readiness as Ready, and FEF-RCR-001 completed the required repository
+reconciliation. Under **FEF-FGR-002 D5 Mobilisation Planning and Entry
+Baseline**, a bounded mobilisation package was prepared and the Founder
+approved [FEF-FGR-002-D5-FMAR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md)
+with four conditions, validated Pass in
+[FEF-FGR-002-D5-FMAVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md).
+Under **FEF-FGR-002 D5 Entry Sequence 001**, six neutral Review Question
+candidates ([FEF-FGR-002-D5-RQC-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQC-001-GOVERNANCE-LIFECYCLE-AND-EVOLUTION-REVIEW-QUESTION-CANDIDATE-SET.md))
+were then prepared, covering all nine Agenda strategic-examination items,
+and validated Pass with Conditions in
+[FEF-FGR-002-D5-RQCVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQC-VALIDATION-REPORT.md).
+No canonical D5 Review Question identifier was allocated and no admission
+was performed. No evidence source, Evidence Pack, session, Governance
+Finding, or Founder Decision has been created. **D5 substantive review
+remains Not Commenced.**
 
 ### Historical programme narrative
 
@@ -105,7 +103,8 @@ for the authoritative record.
 - FEF-PGC-001 Programme Governance Checkpoint is complete; D5 readiness confirmed as Ready under separately governed entry sequence.
 - FEF-FEV-001-FEC-001 is registered as Submitted for Review only; no Founder adoption decision is due or requested at this time.
 - FEF-FEV-001 Phase 1 was Approved with Conditions; all four conditions are satisfied by FEF-RCR-001 (Manifest, Dashboard, Master Programme, and FEC-001 provenance reconciled). `cddddb2` and `82b3e69` are pushed; local `main` and `origin/main` are synchronised at divergence `0/0`.
-- **A Founder disposition on [FEF-FGR-002-D5-FMAR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) is pending** — the blank D5 Founder Mobilisation Authorisation Record, prepared Ready with Conditions. D5 remains Not Started until this is recorded.
+- No D5 mobilisation authorisation remains pending — Founder Approve with Conditions is recorded and validated in [FEF-FGR-002-D5-FMAR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) / FEF-FGR-002-D5-FMAVR-001. D5 is Mobilised — Effective, subject to four recorded conditions.
+- **A Founder Candidate Review of the six D5 Review Question candidates ([FEF-FGR-002-D5-RQC-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQC-001-GOVERNANCE-LIFECYCLE-AND-EVOLUTION-REVIEW-QUESTION-CANDIDATE-SET.md)) is the next decision point** — no canonical identifier is allocated and no admission is performed until that review occurs.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.

@@ -6,16 +6,16 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
 | Record class | Prepared domain mobilisation record |
-| Version | 1.0 |
-| Status | **Prepared and Validated — Awaiting Founder Authorisation** |
+| Version | 1.1 |
+| Status | **Mobilised — Effective, subject to four recorded conditions** |
 | Record date | 2026-07-29 |
 | Operating mode | Sustained Operational Mode |
 | Preparation authority | Attributable task authorising preparation of the D5 mobilisation-planning package only (FEF-FGR-002 D5 Mobilisation Planning and Entry Baseline) |
-| Mobilisation authority | Reserved to the Founder; see [FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — prepared only, blank, no disposition selected |
+| Mobilisation authority | [FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — Founder Approve with Conditions; validated in FEF-FGR-002-D5-FMAVR-001 |
 | Predecessors | D1, D2, D3, and D4 Closed; FEF-PGC-001 Complete; D5 readiness Recommended as Ready ([FEF-PGC-001-D5RR-001](../../../programme/FEF-PGC-001-D5-READINESS-RECOMMENDATION.md)) |
 | Responsible operational capacity | FEF-FGR-002-RA-002 — Review Administrator |
 | Validator | FEF-FGR-002-RA-006 — non-independent combination disclosed |
-| Current lifecycle stage | Mobilisation planning prepared; Founder mobilisation authorisation is the next gate |
+| Current lifecycle stage | `Mobilize` complete; Review Question candidate preparation next |
 | Substantive D5 review | Not commenced |
 
 ## 1. Purpose
@@ -24,10 +24,11 @@ This record prepares the bounded mobilisation-planning state for **D5 —
 Governance Lifecycle and Evolution**. It defines the domain's existing
 purpose, scope, exclusions, dependencies, interfaces, assumptions,
 limitations, evidence outlook, roles, validation result, and next governed
-activity. It does not itself make D5 mobilisation effective — that requires
-a separate, attributable Founder authorisation recorded in
-[FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md),
-which remains blank and unfilled as prepared by this task.
+activity. Version 1.0 prepared the record without making mobilisation
+effective, pending a separate, attributable Founder authorisation recorded
+in [FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md).
+The Founder subsequently authorised **Approve with Conditions**, making D5
+mobilisation effective (v1.1) without commencing substantive D5 review.
 
 This record follows the D2/D3/D4 mobilisation precedent structurally, adapted
 to D5's distinct subject matter.
@@ -232,20 +233,24 @@ Question, or relied upon as evidentiary support by this record.
 
 ## 11. Readiness Treatment
 
-**Preparation verdict: see the companion [Entry Readiness Validation Report](FEF-FGR-002-D5-ENTRY-READINESS-VALIDATION-REPORT.md).**
+**Preparation verdict (v1.0): Ready with Conditions — see the companion [Entry Readiness Validation Report](FEF-FGR-002-D5-ENTRY-READINESS-VALIDATION-REPORT.md).**
 
-This record does not itself authorise D5 mobilisation, admit a Review
-Question, freeze an Evidence Pack, open a session, issue a Founder Decision,
-or exit the domain. It is not DG-2 admission, DG-3 freeze, DG-4 session
-entry, DG-5 decision issuance, or DG-6 domain exit.
+The Founder subsequently authorised **Approve with Conditions** in
+[FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md),
+validated in FEF-FGR-002-D5-FMAVR-001. The four Founder conditions (§2 of
+that record) are carried forward as binding on all subsequent D5
+preparation and execution, in addition to the conditions already disclosed
+in this record's §9 (Known Limitations).
+
+This record's mobilisation becoming effective is not DG-2 admission, DG-3
+freeze, DG-4 session entry, DG-5 decision issuance, or DG-6 domain exit.
 
 ## 12. Next Governed Activity
 
-**Next governed activity:** obtain a separate, attributable Founder
-disposition on [FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md).
-If and only if the Founder selects an outcome that makes mobilisation
-effective, D5 Review Question candidate preparation becomes the
-subsequent, separately governed activity.
+**Next governed activity:** prepare the D5 Review Question Candidate Set
+under FEF-FGR-002-D5-RQC-001, stopping at the Founder Candidate Review
+boundary (no canonical identifier allocation, no admission, no evidence
+activity), per the Founder's authorised next task.
 
 This record does not prepare, validate, allocate, admit, or answer a Review
 Question and does not authorise evidence activity.
@@ -270,3 +275,4 @@ rewrite Git history.
 | Version | Date | Change | Authority |
 |---|---|---|---|
 | 1.0 | 2026-07-29 | Prepared and validated; awaiting Founder authorisation; D5 Not Started | FEF-FGR-002 D5 Mobilisation Planning and Entry Baseline task |
+| 1.1 | 2026-07-29 | Founder Approve with Conditions recorded and validated; mobilisation changed to Mobilised — Effective, subject to four recorded conditions; Review Question candidate preparation next; substantive D5 review not commenced | FEF-FGR-002-D5-FMAR-001; FEF-FGR-002-D5-FMAVR-001 |
