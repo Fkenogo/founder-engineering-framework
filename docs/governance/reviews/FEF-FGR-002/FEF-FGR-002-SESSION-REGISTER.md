@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.31 |
+| Register version | 1.32 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -80,6 +80,14 @@ disposition, or Founder Decision has occurred. This separately governed
 post-session linkage does not change S04's historical Closed state, does not
 close D4, and does not commence DG-5, DG-6, D5, or D6.
 
+The D4-G2 Founder Review was subsequently completed and recorded verbatim in
+[FEF-FGR-002-D4-G2-FDR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-RECORD.md),
+with exact fidelity validated Pass with Conditions in
+[FEF-FGR-002-D4-G2-FDVR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md).
+GF-024 through GF-030 are Dispositioned — Accept with Conditions. No Founder
+Decision Record has been issued; DG-5 and DG-6 remain not commenced. This
+later linkage does not change S04's historical Closed state or close D4.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -116,6 +124,7 @@ close D4, and does not commence DG-5, DG-6, D5, or D6.
 | 1.29 | 2026-07-28 | S04 Execution Loop 007 examined RQ-031 only against its exact eleven-item EP-004 v1.0 mapping and produced GF-030, validated Pass with Conditions and Presented pending Founder disposition; EV-059 contradiction, source qualifications, OQ-021/OQ-022, and D5/D6 separation preserved; GF-024 through GF-029 and RQ-025 through RQ-030 unchanged; all seven D4 RQs are answered at finding level; EP-004 unchanged; zero Founder Decision; session remains open; no session exit or Founder Review Package | FEF-FGR-002-S04-GF-030-VR-001 |
 | 1.30 | 2026-07-28 | S04 Session Exit Gate passed after deterministic reconciliation of all seven RQ-to-GF-to-validation chains; session state changed to Closed — Examination Complete; Governance Findings Presented; GF-024 through GF-030 remain Presented with Founder disposition pending; EP-004 and protected state unchanged; no post-examination Founder Review Package, Founder Decision, D5/D6 activity, Framework Evolution, or cross-finding synthesis; D4 remains Active and Not Closed | FEF-FGR-002-S04-SEVR-001 |
 | 1.31 | 2026-07-28 | D4 Post-Session Linkage recorded: a neutral D4-G2 Founder Review Package assembled GF-024 through GF-030 verbatim with 42 blank Founder workbook fields and was validated Pass with Conditions; S04 remains Closed; findings remain Presented/Pending; no Founder Review, Founder Decision, Candidate, Deferred Matter, DG-5, DG-6, D5/D6, recommendation, constitutional interpretation, or cross-finding synthesis; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FRPVR-001 |
+| 1.32 | 2026-07-28 | D4 Post-Session Linkage updated for completed Founder Review: exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions recorded for each of GF-024 through GF-030 and validated Pass with Conditions; S04 historical Closed state unchanged; zero Founder Decision Records; DG-5 and DG-6 not commenced; D4 Active and Not Closed; no D5/D6, Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
 
 ## Non-Effects
 
@@ -139,7 +148,8 @@ RQ-031 and Presented GF-024 through GF-030 pending Founder disposition,
 and after its Session Exit Gate confirmed every §12.1 criterion. This S04
 closure is a session-only exit: D4 remains Active and Not Closed. A neutral
 D4-G2 Founder Review Package was subsequently prepared and validated with
-all Founder fields blank. No Founder Review or disposition occurred, no
-Founder Decision was created, no Open Question was resolved, EP-004 remains
-unchanged, no cross-finding synthesis occurred, and D5 and D6 have not
-commenced.
+all Founder fields blank. The Founder Review was then recorded separately:
+GF-024 through GF-030 are Dispositioned — Accept with Conditions. No Founder
+Decision was created, DG-5 and DG-6 remain not commenced, no Open Question
+was resolved, EP-004 remains unchanged, no cross-finding synthesis occurred,
+and D5 and D6 have not commenced.

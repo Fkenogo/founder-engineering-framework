@@ -2,25 +2,25 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.42
+**Identity version:** 1.43
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** FEF-FGR-002 **Active**; **Phase 2 Complete**; D1, ORC-001, D2, and D3 **Closed**; methodology operationally stable; RQ-018 remains open; D4 **Mobilised — Effective**; substantive D4 review not commenced
+**Review state:** FEF-FGR-002 **Active**; **Phase 2 Complete**; D1, ORC-001, D2, and D3 **Closed**; methodology operationally stable; RQ-018 remains open; D4 **Active — Not Closed**; D4-G2 Founder Review complete; DG-5 not commenced
 
-**D3 state:** Closed through DG-6 after V7 validation; 9 canonical RQs (RQ-016 through RQ-024) remain `Lifecycle State: Answered`; 39 Evidence Records remain frozen in FEF-FGR-002-EP-003 v1.0; GF-015 through GF-023 remain dispositioned; FD-017 through FD-025 remain issued and validated; the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed and unresolved; no Constitutional Candidate or Deferred Matter exists; D4 has not started
+**D3 state:** Closed through DG-6 after V7 validation; 9 canonical RQs (RQ-016 through RQ-024) remain `Lifecycle State: Answered`; 39 Evidence Records remain frozen in FEF-FGR-002-EP-003 v1.0; GF-015 through GF-023 remain dispositioned; FD-017 through FD-025 remain issued and validated; the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed and unresolved; no Constitutional Candidate or Deferred Matter exists; D4 had not started at D3 closure
 
 **Phase 2 milestone state:** **Complete**; PTC-001 Passed; neutral Founder review package prepared and validated; Founder disposition **Approve with Conditions** recorded and validated; programme synchronized; FEF-CCF-001 registered as future work only; completion validated in FEF-FGR-002-P2-CVR-001; D4 was Not Started at Phase 2 completion
 
-**D4 state:** [FEF-FGR-002-D4-MOB-001](FEF-FGR-002-D4-MOB-001-RECORDS-AND-INFORMATION-GOVERNANCE-MOBILISATION-RECORD.md) v1.1 — **Mobilised — Effective** through [FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md), validated in [FEF-FGR-002-D4-FMAVR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md); zero D4 RQs, evidence items, packs, sessions, findings, or review-scoped decisions; substantive review not commenced
+**D4 state:** **Active — Not Closed**; RQ-025 through RQ-031 Answered; EP-004 v1.0 Frozen; S04 Closed — Examination Complete; Governance Findings Presented; GF-024 through GF-030 Dispositioned — Accept with Conditions through [FEF-FGR-002-D4-G2-FDR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-RECORD.md), validated Pass with Conditions in [FEF-FGR-002-D4-G2-FDVR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md); zero D4 Founder Decision Records; DG-5 and DG-6 not commenced
 
 **Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
 **Founder Engineering Framework operating mode:** Operational
 
 **First domain:** D1 — Governance Authority  
-**Session state:** FEF-FGR-002-S01 Closed; FEF-FGR-002-S02 Closed — Evidence Examination Complete; FEF-FGR-002-S03 Closed — Examination Complete; Governance Findings Presented (9 of 9 RQs Answered)
+**Session state:** FEF-FGR-002-S01 Closed; FEF-FGR-002-S02 Closed — Evidence Examination Complete; FEF-FGR-002-S03 Closed — Examination Complete; Governance Findings Presented; FEF-FGR-002-S04 Closed — Examination Complete; Governance Findings Presented
 
 ## 1. Assignment Record
 
@@ -51,11 +51,11 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 
 | Register Identifier | Register | Current Substantive Entry Count |
 |---|---|---:|
-| FEF-FGR-002-RQR-001 | Review Question Register | 24 |
-| FEF-FGR-002-ER-001 | Evidence Register | 53 |
-| FEF-FGR-002-EPR-001 | Evidence Pack Register | 3 |
-| FEF-FGR-002-SR-001 | Session identities / opened sessions | 3 / 3 |
-| FEF-FGR-002-GFR-001 | Governance Finding Register | 23 |
+| FEF-FGR-002-RQR-001 | Review Question Register | 31 |
+| FEF-FGR-002-ER-001 | Evidence Register | 56 |
+| FEF-FGR-002-EPR-001 | Evidence Pack Register | 4 |
+| FEF-FGR-002-SR-001 | Session identities / opened sessions | 4 / 4 |
+| FEF-FGR-002-GFR-001 | Governance Finding Register | 30 |
 | FEF-FGR-002-FDR-001 | Founder Decision Register | 25 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
@@ -88,7 +88,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D1 status | Formally closed after Founder disposition and decision validation |
 | Operational checkpoint | ORC-001 v1.0 — Closed; Founder Approved with Conditions; validation passed |
 | Operational readiness decision | FEF-FGR-002-FD-010 v1.0 — Decision Record Validated; Operative with Conditions |
-| Remaining review domains | D3 mobilised; D4–D8 pending under approved domain dependency sequence |
+| Remaining review domains | D4 Active — Not Closed; D5–D8 pending under approved domain dependency sequence |
 | D2 mobilisation | [FEF-FGR-002-D2-MOB-001](FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
 | D2 RQ set | [FEF-FGR-002-D2-RQS-001](FEF-FGR-002-D2-REVIEW-QUESTION-SET.md) — 7 Validated and Admitted |
 | D2 evidence catalogue | [FEF-FGR-002-D2-ERC-001](FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md) — 21 mapped sources; validated |
@@ -125,9 +125,12 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | Phase 2 Founder Milestone Decision | [FEF-FGR-002-P2-FMDR-001](FEF-FGR-002-PHASE-2-FOUNDER-DECISION-RECORD.md) / [FEF-FGR-002-P2-FMDVR-001](FEF-FGR-002-PHASE-2-FOUNDER-DECISION-VALIDATION-REPORT.md) — **Approve with Conditions**; exact Founder wording recorded and validated; package unchanged; FEF-CCF-001 not registered by this task; D4 Not Started |
 | Phase 2 Completion | [FEF-FGR-002-P2-CR-001](FEF-FGR-002-PHASE-2-COMPLETION-REPORT.md) / [FEF-FGR-002-P2-CVR-001](FEF-FGR-002-PHASE-2-COMPLETION-VALIDATION-REPORT.md) — **Complete; Pass**; methodology operationally stable; FEF-FGR-002 Active; FEF-CCF-001 future work only; D4 Not Started |
 | D4 mobilisation | [FEF-FGR-002-D4-MOB-001](FEF-FGR-002-D4-MOB-001-RECORDS-AND-INFORMATION-GOVERNANCE-MOBILISATION-RECORD.md) v1.1 / [FEF-FGR-002-D4-FMAR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) / [FEF-FGR-002-D4-FMAVR-001](FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md) — Founder Approve; **Mobilised — Effective**; no conditions; substantive review not commenced |
+| D4 execution baseline | RQ-025 through RQ-031 admitted and Answered; 19 unique Evidence Records frozen in EP-004 v1.0; S04 Closed; GF-024 through GF-030 validated |
+| D4-G2 Founder Review Package | [FEF-FGR-002-D4-G2-FRP-001](FEF-FGR-002-D4-G2-FOUNDER-REVIEW-PACKAGE.md) — seven findings reproduced verbatim with blank Founder workbooks; validated Pass with Conditions in [FEF-FGR-002-D4-G2-FRPVR-001](FEF-FGR-002-D4-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md) |
+| D4-G2 Founder Review Disposition | [FEF-FGR-002-D4-G2-FDR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-RECORD.md) — exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions recorded for each of GF-024 through GF-030; validated Pass with Conditions in [FEF-FGR-002-D4-G2-FDVR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md); zero Founder Decision Records; DG-5 and DG-6 not commenced |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
 | Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
-| Next gate | D4 mobilisation is effective. Prepare and validate D4 Review Question candidates under a subsequent separately governed task; no evidence activity or substantive review is authorised by mobilisation alone. |
+| Next gate | Separately governed DG-5 Founder Decision Issuance for GF-024 through GF-030; this task does not commence DG-5. |
 
 ### 4.3 Substantive Review Boundary
 
@@ -267,3 +270,4 @@ framework effect.
 | 1.40 | 2026-07-28 | PTC-001 Passed and the neutral Phase 2 Founder Milestone Review Package was prepared and validated; the attributable Founder disposition Approve with Conditions was then recorded and validated with exact wording; prepared package and protected review state unchanged; FEF-FGR-002 remains Active, D1–D3 remain Closed, D4 Not Started; FEF-CCF-001 follow-up recorded but not implemented or registered in this bounded task; no Framework Evolution or D4 activity | FEF-FGR-002-P2-FMDR-001; FEF-FGR-002-P2-FMDVR-001 |
 | 1.41 | 2026-07-28 | Phase 2 formally completed as an administrative programme milestone; methodology recorded as the operational execution baseline for remaining domains; future improvements routed through Framework Evolution unless necessary for governance integrity or execution safety; FEF-CCF-001 remains future work only; protected and review content unchanged; FEF-FGR-002 Active; D1–D3 Closed; D4 Not Started | FEF-FGR-002-P2-CR-001; FEF-FGR-002-P2-CVR-001 |
 | 1.42 | 2026-07-28 | Founder approved D4 mobilisation with no conditions; exact wording recorded and validated; FEF-FGR-002-D4-MOB-001 advanced to v1.1 and Mobilised — Effective; Review Question preparation is next; zero D4 RQ, evidence, pack, session, finding, or review-scoped decision activity; substantive review not commenced; no methodology or checkpoint-cadence amendment; no Framework Evolution | FEF-FGR-002-D4-FMAR-001; FEF-FGR-002-D4-FMAVR-001 |
+| 1.43 | 2026-07-28 | D4-G2 Founder Review completed after S04 exit and neutral package validation: GF-024 through GF-030 each received the exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions; recording and exact-fidelity validation Pass with Conditions; findings Dispositioned; Decision Records pending — FD not yet issued; S04 historical Closed state preserved; D4 Active and Not Closed; DG-5/DG-6 not commenced; zero Candidate, Deferred Matter, Framework Evolution, D5, D6, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
