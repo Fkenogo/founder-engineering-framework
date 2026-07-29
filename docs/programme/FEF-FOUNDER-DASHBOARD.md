@@ -1,6 +1,6 @@
 # FEF Founder Dashboard
 
-**As at:** 2026-07-28
+**As at:** 2026-07-29
 **Source of truth:** [FEF Master Programme](FEF-MASTER-PROGRAMME.md)
 **Dashboard status:** Current programme summary
 **Pilot classification:** Programme Governance Pilot Artefact — informational dashboard
@@ -9,7 +9,7 @@
 
 | Item                          | Current State                                                                                                                                                                                                     |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version             | Master Programme v0.48                                                                                                                                                                                            |
+| Programme version             | Master Programme v0.49                                                                                                                                                                                            |
 | Current phase                 | Phase 2 — Founder Governance Review                                                                                                                                                                               |
 | Current milestone             | **FEF-PGC-001 Programme Governance Checkpoint Complete** — D1–D4 assessed as stable, reusable, and proportionate; D5 readiness recommended as Ready                                                               |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan                                                                                                                                                                     |
@@ -24,6 +24,7 @@
 | Programme Governance          | Operating Pilot — FAR-002; no standard created                                                                                                                                                                    |
 | Review mechanism              | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory                                                                                                                                         |
 | Framework Evolution status    | FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as **Future Framework Evolution**, **Non-critical path**, with **No impact on D4 sequencing**; not commenced |
+| Framework Evolution intake    | **FEF-FEV-001 Phase 1 — Active, Intake Established.** One candidate, FEF-FEV-001-FEC-001 (ENG-P1-003 — Operational Observability, 11thONUS), registered as **Submitted for Review**; no adoption decision made |
 
 ## Progress
 
@@ -190,6 +191,7 @@ occurred.
 - No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
 - FEF-CCF-001 is registered at programme-planning level only; its evaluation and commencement remain future Framework Evolution work.
 - FEF-PGC-001 Programme Governance Checkpoint is complete; D5 readiness confirmed as Ready under separately governed entry sequence.
+- FEF-FEV-001-FEC-001 is registered as Submitted for Review only; no Founder adoption decision is due or requested at this time.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.

@@ -2,8 +2,8 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.48
-**Reconciliation date:** 2026-07-28
+**Programme record version:** 0.49
+**Reconciliation date:** 2026-07-29
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
 **Authority boundary:** Authoritative for FEF programme status, sequence, dependencies, and next-work control only
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field                            | Current Position                                                                                                                                                                                                                                                                                   |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version                | Master Programme v0.48                                                                                                                                                                                                                                                                             |
+| Programme version                | Master Programme v0.49                                                                                                                                                                                                                                                                             |
 | Framework release                | None                                                                                                                                                                                                                                                                                               |
 | Current phase                    | Phase 2 — Founder Governance Review                                                                                                                                                                                                                                                                |
 | Current milestone                | **FEF-PGC-001 Programme Governance Checkpoint Complete** — D1–D4 assessed as stable, reusable, and proportionate; D5 readiness recommended as Ready; awaiting Master Programme authorisation for D5 entry                                                                                          |
@@ -35,7 +35,7 @@ This precedence does not make the Master Programme a governance standard and doe
 | First review domain              | D1 — Governance Authority                                                                                                                                                                                                                                                                          |
 | Operating mode                   | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions                                                                                                                                                                                                                      |
 | Next review domain               | D5 and D6 remain Not Started; their commencement requires separate governed entry sequences per the Master Programme                                                                                                                                                                               |
-| Framework Evolution status       | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect |
+| Framework Evolution status       | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect. The **FEF-FEV-001 Framework Evolution Intake** (Phase 1) is now Active — Intake Established, providing the controlled submission mechanism through which such candidates will be received and evaluated; one candidate, FEF-FEV-001-FEC-001, is registered as **Submitted for Review**; no adoption decision has been made and no Framework Evolution has been performed |
 | Current research standard        | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved                                                                                                                                                                                                                                     |
 | Engineering readiness            | Not ready — research governance and discovery standards are not approved                                                                                                                                                                                                                           |
 
@@ -170,6 +170,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-WRP-001                                                                                        | Work Package Review Package Protocol                                                            | Pilot v0.1 — Founder Approved for Pilot Use                          | Preferred prospective review-handover protocol; non-mandatory and not a governance standard                                                                                                                                                                                                                                                                                                                                                                                                    |
 | FEF-RDS-001                                                                                        | Planned discovery standard                                                                      | Pending                                                              | Must remain separate from RGS and precede discovery execution                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | FRAS (working title)                                                                               | [Founder Repository Architecture Standard — candidate proposal](FEF-FRAS-CANDIDATE-PROPOSAL.md) | Candidate — Not Authored; Not Active                                 | Registers a future cross-project repository-architecture standard as a recommendation only; no standard identifier allocated, no work package authorised, no repository design created                                                                                                                                                                                                                                                                                                         |
+| FEF-FEV-001                                                                                        | [Framework Evolution Intake Programme Overview](FEF-FEV-001-FRAMEWORK-EVOLUTION-INTAKE-PROGRAMME-OVERVIEW.md), [Submission Standard](FEF-FEV-001-FRAMEWORK-EVOLUTION-SUBMISSION-STANDARD.md), [Candidate Register](FEF-FEV-001-FRAMEWORK-EVOLUTION-CANDIDATE-REGISTER.md), [Review Guide](FEF-FEV-001-FRAMEWORK-EVOLUTION-REVIEW-GUIDE.md) | Phase 1 — Active — Intake Established | Establishes the controlled mechanism through which cross-project engineering lessons are submitted, evaluated, and prioritised for possible future Framework Evolution; one candidate, FEF-FEV-001-FEC-001 (Engineering Governance Lessons from ENG-P1-003 — Operational Observability, 11thONUS), is registered as **Submitted for Review**; no candidate is approved or rejected; creates no constitutional effect, no new governance domain, and no D1–D4/D5/D6 lifecycle change            |
 | FEF Constitution                                                                                   | Future constitutional deliverable                                                               | Pending                                                              | Cannot commence before discovery and Founder decisions                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ### 5.1 Programme Governance Pilot Recognition
@@ -826,6 +827,25 @@ under a separately governed entry sequence. D4 remains Closed. D5 and D6
 were not commenced; no protected finding, Review Question, Evidence Pack, or
 validation report was amended; and no Framework Evolution or cross-domain
 synthesis was performed.
+
+This v0.49 revision records establishment of **FEF-FEV-001 Phase 1 — Framework
+Evolution Intake Foundation**: a Programme Overview, a Submission Standard, a
+Candidate Register, and a Review Guide, together with an Implementation
+Summary confirming integration. This establishes the controlled mechanism
+through which future engineering lessons from Founder projects will be
+submitted, evaluated, and prioritised for possible Framework Evolution; it
+does not itself perform Framework Evolution. One candidate, **FEF-FEV-001-FEC-001
+— Engineering Governance Lessons from ENG-P1-003 — Operational Observability
+(11thONUS)** — is registered in the Candidate Register as **Submitted for
+Review**; the source proposal is preserved unchanged, remains unapproved, and
+no adoption decision is made by this revision. No constitutional document,
+D1–D4 output, Governance Finding, Review Question, Evidence Pack, Founder
+Decision, or Session record was amended. No additional governance domain or
+lifecycle stage was created. D5 and D6 remain Not Started and are not
+commenced by this revision. FEF-CCF-001 and FAP-001 remain deferred, future
+Framework Evolution candidates unaffected by this registration; the intake
+provides the mechanism through which any future such candidate would be
+formally submitted, not a disposition of either.
 
 ## 11. Change Control
 
