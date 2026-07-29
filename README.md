@@ -3,18 +3,18 @@
 ## Repository Status
 
 **Programme stage:** Phase 2 — Founder Governance Review
-**Master Programme:** FEF-MP-001 v0.44 — Current programme source of truth
+**Master Programme:** FEF-MP-001 v0.49 — Current programme source of truth
 **Latest completed work package:** FEF-WPK-001G — Founder Governance Review Plan
-**Current active review:** FEF-FGR-002 — Phase 2 Complete; D1, ORC-001, D2, and D3 Closed; D4 Mobilised — Effective; substantive review not commenced
+**Current active review:** FEF-FGR-002 — Phase 2 Complete; D1, ORC-001, D2, D3, and D4 Closed; D5/D6 not commenced
 **First review domain:** D1 — Governance Authority
-**Immediate next programme action:** Prepare D4 Review Question candidates under a subsequent separately governed task; no evidence or substantive review activity
-**Framework Evolution status:** FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as Future Framework Evolution, non-critical path, with no impact on D4 sequencing; not commenced
+**Immediate next programme action:** FEF-PGC-001 Programme Governance Checkpoint is complete and recommends D5 readiness as Ready; Master Programme authorisation of D5 mobilisation is the next governed step
+**Framework Evolution status:** FEF-GER-D3-001, FAP-001, and FEF-CCF-001 remain deferred/registered, non-critical-path, not commenced; FEF-FEV-001 — Framework Evolution Intake (Phase 1) is Active — Intake Established, with one candidate (FEF-FEV-001-FEC-001) Submitted for Review
 **Framework status:** Draft — Not Yet Adoptable
 **Current release:** None
 **Current research governance draft:** FEF-RGS-000 v0.2 — Founder Review Required
 **Current architectural review records:** FEF-FAR-001 and FEF-FAR-002 — Founder Architectural Decisions Recorded
 **Current governance review evidence:** FEF-FGR-001 — Incomplete, Missing Source Evidence
-**Current attributable governance review:** FEF-FGR-002 — D1, D2, and D3 closed; 25 validated review-scoped Founder Decisions; Phase 2 methodology milestone approved with conditions
+**Current attributable governance review:** FEF-FGR-002 — D1–D4 closed; 32 validated review-scoped Founder Decisions (FD-001–FD-032); Phase 2 methodology milestone approved with conditions
 **Authority status:** Not yet constitutionally defined
 **Repository purpose:** Development and governance of the Founder Engineering Framework.
 
@@ -94,7 +94,10 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md`](docs/governance/reviews/FEF-FGR-002/FEF-FGR-002-D4-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md) — exact-fidelity, lifecycle, protected-state, and non-effect validation;
 - [`docs/programme/`](docs/programme/) — programme initiation, roadmap, and document manifest;
 - [`docs/programme/FEF-MASTER-PROGRAMME.md`](docs/programme/FEF-MASTER-PROGRAMME.md) — authoritative programme status, sequence, dependencies, and next-work control;
+- [`docs/programme/FEF-DOCUMENT-MANIFEST.md`](docs/programme/FEF-DOCUMENT-MANIFEST.md) — index of every controlled document, its category, status, and authority;
 - [`docs/programme/FEF-FOUNDER-DASHBOARD.md`](docs/programme/FEF-FOUNDER-DASHBOARD.md) — concise current programme position for Founder review;
+- [`docs/programme/FEF-FEV-001-FRAMEWORK-EVOLUTION-INTAKE-PROGRAMME-OVERVIEW.md`](docs/programme/FEF-FEV-001-FRAMEWORK-EVOLUTION-INTAKE-PROGRAMME-OVERVIEW.md) — Framework Evolution Intake (Phase 1): controlled mechanism for submitting and evaluating cross-project engineering lessons for possible future Framework Evolution;
+- [`docs/programme/FEF-FEV-001-FRAMEWORK-EVOLUTION-CANDIDATE-REGISTER.md`](docs/programme/FEF-FEV-001-FRAMEWORK-EVOLUTION-CANDIDATE-REGISTER.md) — register of submitted Framework Evolution candidates; one candidate Submitted for Review;
 - [`docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md`](docs/programme/FEF-ORC-001-OPERATIONAL-READINESS-CHECKPOINT-REPORT.md) — closed Operational Readiness Checkpoint and final Framework Engineering checkpoint;
 - [`docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md`](docs/programme/FEF-PROGRAMME-GOVERNANCE-PILOT.md) — informational description of the Phase 0 Programme Governance pilot;
 - [`docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md`](docs/programme/FEF-WORK-PACKAGE-REVIEW-PACKAGE-PROTOCOL.md) — preferred prospective review-handover protocol within the pilot;
@@ -256,6 +259,26 @@ FEF-FAR-002 recognises Programme Governance as a distinct FEF governance domain 
 FEF-WRP-001 is Founder-approved for Programme Governance Pilot use as the preferred prospective Review Package mechanism. It is non-mandatory, does not apply retrospectively, and reserves final disposition and next-work authorisation to the Founder.
 
 D1 closure is recorded at commit `f28d12808e228903f5ecc0596801dc962e3fac42`. At the ORC-001 audit baseline, local `main`, `origin/main`, and the working tree were synchronised and clean.
+
+D4 — Records and Information Governance subsequently completed its full
+lifecycle: seven admitted Review Questions (RQ-025–031) were examined,
+producing GF-024 through GF-030; the D4-G2 Founder Review recorded an
+attributable `Accept with Conditions` disposition for all seven; DG-5 issued
+Founder Decision Records FD-026 through FD-032 one-to-one; and DG-6 Domain
+Exit validation formally Closed D4. FEF-PGC-001 — Programme Governance
+Checkpoint then assessed D1–D4 as a stable, reusable, proportionate
+engineering governance foundation and recommended D5 readiness as Ready,
+pending Master Programme authorisation of D5 mobilisation. Separately,
+FEF-FEV-001 — Framework Evolution Intake (Phase 1) has been established as
+the controlled mechanism for submitting and evaluating cross-project
+engineering lessons for possible future Framework Evolution; it does not
+itself perform Framework Evolution. One candidate,
+FEF-FEV-001-FEC-001 (Engineering Governance Lessons from ENG-P1-003 —
+Operational Observability, 11thONUS), is registered as **Submitted for
+Review**; no adoption decision has been made. A subsequent repository
+reconciliation task, FEF-RCR-001, corrected stale cross-references across
+this README, the Document Manifest, and the Founder Dashboard, and trimmed
+duplicated historical narrative out of the Dashboard.
 
 ## Founding Principle
 

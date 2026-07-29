@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.49
+**Programme record version:** 0.50
 **Reconciliation date:** 2026-07-29
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field                            | Current Position                                                                                                                                                                                                                                                                                   |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version                | Master Programme v0.49                                                                                                                                                                                                                                                                             |
+| Programme version                | Master Programme v0.50                                                                                                                                                                                                                                                                             |
 | Framework release                | None                                                                                                                                                                                                                                                                                               |
 | Current phase                    | Phase 2 — Founder Governance Review                                                                                                                                                                                                                                                                |
 | Current milestone                | **FEF-PGC-001 Programme Governance Checkpoint Complete** — D1–D4 assessed as stable, reusable, and proportionate; D5 readiness recommended as Ready; awaiting Master Programme authorisation for D5 entry                                                                                          |
@@ -79,13 +79,14 @@ Every identified work package or legacy scheduled-work identifier appears exactl
 |       19 | FEF-P1-002      | Authority, Source Hierarchy, and Documentation Governance      | Pending                                  | Legacy planning item; not authorised to commence                  | Depends on constitutional sequence and scope                                           |
 |       20 | FEF-P1-003      | Framework Versioning and Release Governance                    | Pending                                  | Legacy planning item; not authorised to commence                  | Depends on constitutional sequence and scope                                           |
 |       21 | FEF-P1-004      | Framework Adoption, Upgrade, and Deviation Governance          | Pending                                  | Legacy planning item; not authorised to commence                  | Depends on constitutional sequence and scope                                           |
+|       22 | FEF-RCR-001     | Programme Repository Reconciliation and Navigation Baseline    | Completed                                | Founder condition on FEF-FEV-001-FDR-001 (Approve with Conditions) | Repository identity verified; Manifest/Dashboard/Master Programme reconciled; FEC-001 provenance strengthened; navigation audited; no restructuring |
 
 ### 4.1 Totals
 
 | Classification              | Count |
 | --------------------------- | ----: |
-| Total controlled work items |    21 |
-| Completed                   |    11 |
+| Total controlled work items |    22 |
+| Completed                   |    12 |
 | Active                      |     0 |
 | Blocked                     |     3 |
 | Pending                     |     7 |
@@ -171,6 +172,8 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-RDS-001                                                                                        | Planned discovery standard                                                                      | Pending                                                              | Must remain separate from RGS and precede discovery execution                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | FRAS (working title)                                                                               | [Founder Repository Architecture Standard — candidate proposal](FEF-FRAS-CANDIDATE-PROPOSAL.md) | Candidate — Not Authored; Not Active                                 | Registers a future cross-project repository-architecture standard as a recommendation only; no standard identifier allocated, no work package authorised, no repository design created                                                                                                                                                                                                                                                                                                         |
 | FEF-FEV-001                                                                                        | [Framework Evolution Intake Programme Overview](FEF-FEV-001-FRAMEWORK-EVOLUTION-INTAKE-PROGRAMME-OVERVIEW.md), [Submission Standard](FEF-FEV-001-FRAMEWORK-EVOLUTION-SUBMISSION-STANDARD.md), [Candidate Register](FEF-FEV-001-FRAMEWORK-EVOLUTION-CANDIDATE-REGISTER.md), [Review Guide](FEF-FEV-001-FRAMEWORK-EVOLUTION-REVIEW-GUIDE.md) | Phase 1 — Active — Intake Established | Establishes the controlled mechanism through which cross-project engineering lessons are submitted, evaluated, and prioritised for possible future Framework Evolution; one candidate, FEF-FEV-001-FEC-001 (Engineering Governance Lessons from ENG-P1-003 — Operational Observability, 11thONUS), is registered as **Submitted for Review**; no candidate is approved or rejected; creates no constitutional effect, no new governance domain, and no D1–D4/D5/D6 lifecycle change            |
+| FEF-FEV-001-FDR-001                                                                                | [Founder Decision Record](FEF-FEV-001-FOUNDER-DECISION-RECORD.md)                               | **Approve with Conditions — Recorded**                               | Exact Founder disposition and four conditions preserved verbatim; confirms the five Phase 1 deliverables remain usable and FEC-001 remains registered without rollback; authorises FEF-RCR-001 as the satisfying follow-up                                                                                                                                                                                                                                                                       |
+| FEF-RCR-001                                                                                        | [Repository Reconciliation Report](FEF-RCR-001-REPOSITORY-RECONCILIATION-REPORT.md)             | **Completed**                                                         | Satisfies all four FEF-FEV-001-FDR-001 conditions: repository identity verified (1 commit ahead of `origin/main`, unpushed; clean tree); five stale FEF-FGR-002 register rows corrected in the Document Manifest; Dashboard historical-narrative duplication trimmed; Master Programme current-state/history separation noted; FEC-001 provenance strengthened; navigation audited (0 broken links, 0 duplicates, 89 unregistered files identified and categorised); no restructuring performed |
 | FEF Constitution                                                                                   | Future constitutional deliverable                                                               | Pending                                                              | Cannot commence before discovery and Founder decisions                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ### 5.1 Programme Governance Pilot Recognition
@@ -296,6 +299,15 @@ The Founder has expressly authorised the following permanent FEF programme-contr
 For programme administration, a work package completion record must therefore be reflected in this Master Programme before a new work package is authorised. This rule does not approve the completed work package’s substantive deliverables and does not create constitutional effect.
 
 ## 10. Repository-State Qualification
+
+**Note (added by FEF-RCR-001):** This section is an append-only historical
+revision log, preserved in full for traceability. It is not the current
+controlling state — Section 2 (Current Programme Position) is authoritative
+for "where the programme is now." Consult this section only for the
+sequence of how the programme arrived there. A dedicated programme
+history/changelog document, separate from this controlling record, remains
+a candidate for a later authorised task; this note only clarifies the
+existing structure without moving any content.
 
 The repository is on branch `main`. The validated S02 examination baseline is
 committed and pushed at `4269c4dad60978643dcacb9729c50499d5a776fd`.
@@ -846,6 +858,36 @@ commenced by this revision. FEF-CCF-001 and FAP-001 remain deferred, future
 Framework Evolution candidates unaffected by this registration; the intake
 provides the mechanism through which any future such candidate would be
 formally submitted, not a disposition of either.
+
+This v0.50 revision records the Founder's **Approve with Conditions**
+disposition for FEF-FEV-001 Phase 1 ([FEF-FEV-001-FDR-001](FEF-FEV-001-FOUNDER-DECISION-RECORD.md))
+and completion of the four-condition follow-up it required,
+**FEF-RCR-001 — Programme Repository Reconciliation and Navigation
+Baseline** ([report](FEF-RCR-001-REPOSITORY-RECONCILIATION-REPORT.md)).
+FEF-RCR-001 verified repository identity (local `main` was 1 commit ahead
+of `origin/main`, unpushed, with a clean working tree — not corrected by
+this revision, since pushing is reserved for explicit user confirmation);
+corrected five stale FEF-FGR-002 register rows in the Document Manifest
+(Review Identity, Review Question Register, Governance Finding Register,
+Founder Decision Register, and Session Register — versions, D4 closure
+state, and a "Founder Decisions pending" statement that was no longer
+true after FD-026 through FD-032 were issued); trimmed the Founder
+Dashboard's duplicated historical narrative to a summary and a link into
+this section; added a note distinguishing this section's historical-log
+role from Section 2's current-state role; strengthened FEF-FEV-001-FEC-001's
+source provenance with an explicit field-by-field table (two of five
+fields populated, three honestly marked Not Yet Supplied rather than
+inferred); and audited repository navigation, finding zero broken links,
+zero duplicate authoritative files, and 89 Markdown files not yet listed
+in the Document Manifest (categorised, not individually registered in
+this bounded pass — see the FEF-RCR-001 report §7.4 for the follow-up
+recommendation). FEF-FEV-001's five Phase 1 deliverables were not rolled
+back and remain usable; FEC-001 remains registered as Submitted for
+Review with no adoption decision made. No constitutional document,
+D1–D4 output, Governance Finding, Review Question, Evidence Pack, Founder
+Decision, or Session record was amended by this revision. No folder was
+moved, no file was renamed, no history was rewritten, and D5/D6 remain
+Not Started and not commenced.
 
 ## 11. Change Control
 
