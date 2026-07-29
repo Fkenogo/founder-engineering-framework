@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.0 |
+| Set version | 1.1 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -35,7 +35,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-032 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Governance Instrument Status and Approval Model |
 | Question Text | What drafting, review, and operational states, if any, do FEF governance instruments pass through, and by what Founder or delegated authority is each state transition confirmed? |
 | Originating candidate | D5-RQC-01 |
@@ -49,6 +49,7 @@ substantive answer is introduced.
 | Scope | Instrument status labels (e.g., Draft, Review Required, Approved, Active, Closed, Mobilised) and their approving authority |
 | Exclusions | No new status vocabulary is adopted; no register redesign; no constitutional status definition |
 | Evidence Need | Master Programme, Dashboard, and Manifest status fields; FEF-RGS-000's status field; Governance Finding/Founder Decision Register "Decision Record Validated" vs "Pending" distinction — source-preserved generic classes only; no evidence requirement derived |
+| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, EV-077 — qualified with conditions in FEF-FGR-002-D5-RQ032-EMQR-001; not Packed; examined in no session |
 | Dependencies | D1: Founder authority and reserved decision-gates remain the approving mechanism for any transition; not reopened. D3: Assurance verdicts (Pass, Pass with Conditions) are a distinct concept from instrument status and must not be conflated with it. D4: Registers already carry structured "Lifecycle State" fields; whether that vocabulary generalises is examined here, not decided. Interface: D6 will need a stable vocabulary to administer; D7 may require a distinct model for constitutional material |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -62,7 +63,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping reproduced exactly from D5-RQC-01 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-032-only evidence mobilisation and qualification from Execution Loop 001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 3. FEF-FGR-002-RQ-033 — Applicability and Transitional Effect
 
@@ -250,6 +251,7 @@ substantive answer is introduced.
 | Version | Date | Change | Authority |
 |---|---|---|---|
 | 1.0 | 2026-07-29 | Six Founder-accepted D5 Review Questions admitted as RQ-032 through RQ-037 | FEF-FGR-002-D5-RQAR-001 |
+| 1.1 | 2026-07-29 | RQ-032 only updated to v1.1 after Execution Loop 001 evidence mobilisation: nine Evidence Records qualified (EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 reused; EV-075–EV-077 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-033 through RQ-037 unchanged | FEF-FGR-002-D5-RQ032-EMQR-001; FEF-FGR-002-D5-RQ032-EMVR-001 |
 
 ## 10. Non-Effects
 
