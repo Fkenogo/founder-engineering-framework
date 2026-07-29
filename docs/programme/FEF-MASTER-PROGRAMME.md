@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field | Current Position |
 |---|---|
-| Programme version | Master Programme v0.46 |
+| Programme version | Master Programme v0.47 |
 | Framework release | None |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | **D4-DG5 Founder Decision Issuance Complete** — GF-024 through GF-030 Decision Issued `Accept with Conditions`; FD-026 through FD-032 issued and validated; DG-6 Domain Exit pending |
+| Current milestone | **D4-DG6 Domain Exit Complete** — D4 Records and Information Governance Closed; all seven findings Closed/Decision Issued `Accept with Conditions`; DG-6 validation Pass with Conditions; awaiting Master Programme next assessment |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Active delivery work package | None |
-| Current execution window | FEF-FGR-002 and D4 remain Active; S04 is historically Closed — Examination Complete; Governance Findings Presented; D4-G2 Founder Review and DG-5 are complete; DG-6 has not commenced |
+| Current execution window | FEF-FGR-002 remains Active; D4 is Closed; S04 is historically Closed — Examination Complete; Governance Findings Presented; D4-G2 Founder Review, DG-5, and DG-6 are complete; D5 and D6 have not commenced |
 | Historical blocked work package | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path |
-| Immediate next governed activity | DG-6 Domain Exit under a subsequent separately governed task; do not commence DG-6 in this record |
+| Immediate next governed activity | Await Master Programme assessment for any remaining D5/D6 or Phase 3 work; do not commence D5 or D6 in this record |
 | Review commencement decision | FD-2026-07-24-009 — Approved and effective |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
 | Operating mode | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions |
-| Next review domain | D4 — Records and Information Governance; Active — Not Closed; Founder Review and DG-5 complete; DG-6 not commenced |
+| Next review domain | D5 and D6 remain Not Started; their commencement requires separate governed entry sequences per the Master Programme |
 | Framework Evolution status | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect |
 | Current research standard | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved |
 | Engineering readiness | Not ready — research governance and discovery standards are not approved |
@@ -108,7 +108,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001 | Founder Governance Review Agenda | Founder Approved | Controlling strategic Agenda |
 | FEF-FGRP-001 | Founder Governance Review Plan | Founder Approved | Controlling operational Plan |
 | FEF-FRCD-001 | Founder Review Commencement Decision | Founder Approved — Effective | Authorises commencement and controlled mobilisation under FD-2026-07-24-009 |
-| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, D2, and D3 Closed; D4 Active — Not Closed | D4-G2 Founder Review and DG-5 complete for GF-024 through GF-030; all seven are Decision Issued `Accept with Conditions` via FD-026 through FD-032; DG-6 not commenced |
+| FEF-FGR-002 | Founder Governance Review | Active — D1, ORC-001, D2, D3, and D4 Closed | D4-G2 Founder Review, DG-5, and DG-6 complete for GF-024 through GF-030; all seven are Closed/Decision Issued `Accept with Conditions` via FD-026 through FD-032; D5 and D6 not commenced |
 | ORC-001 | Operational Readiness Checkpoint Report | Closed — Founder Approved with Conditions; Validation Passed | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation |
 | FEF-FGR-002-FD-010 | Operational Readiness Confirmation | Decision Record Validated — Operative with Conditions | Sustained Operational Mode and bounded D2 mobilisation authorised; the decision did not itself commence D2 |
 | FEF-FGR-002-D2-MOB-001 | D2 Evidence Governance Mobilisation Record | Mobilisation Complete — Ready with Conditions | Controls D2 scope, zero-RQ state, effective roles, dependencies, and next evidence-mobilisation gate |
@@ -196,7 +196,7 @@ The current controlling sequence is:
 1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
 2. ORC-001: closed after attributable Founder approval with conditions and passed post-approval validation;
 3. D2 — Evidence Governance: closed after six attributable `Accept with Conditions` dispositions, six validated decisions, and reconciled traceability;
-4. continue D4 through the standard operational workflow: D4-G2 Founder Review and DG-5 Founder Decision Issuance are complete, DG-6 Domain Exit is next and separately governed, and D4 remains Active — Not Closed until DG-6 concludes;
+4. assess remaining programme work: D4-G2 Founder Review, DG-5 Founder Decision Issuance, and DG-6 Domain Exit are complete; D4 is Closed; D5 and D6 remain Not Started and require their own separately governed entry sequences;
 5. complete and validate the Founder Governance Review;
 6. perform separately authorised constitutional consolidation;
 7. amend and separately review FEF-RGS-000;
@@ -274,7 +274,7 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 6. The Founder follow-up to register FEF-CCF-001 is complete at programme-planning level only; evaluation and commencement remain future Framework Evolution work.
 7. No Phase 2 administrative completion action remains pending.
 8. No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
-9. Conduct DG-6 Domain Exit only through a subsequent separately governed task; it has not commenced.
+9. Do not commence D5 or D6 without a separately governed entry sequence authorised by the Master Programme.
 10. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
 11. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
 12. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
@@ -811,14 +811,14 @@ evidence source, Evidence Record, Evidence Pack, session, substantive review,
 methodology amendment, checkpoint-cadence change, or Framework Evolution work
 was introduced. FEF-FGR-002 remains Active and D1–D3 remain Closed.
 
-This v0.46 revision records completion of D4-DG5 Founder Decision Issuance
-for GF-024 through GF-030. Seven separate Founder Decision Records,
-FD-026 through FD-032, issue the exact Founder dispositions with all five
-Conditions preserved. S04 remains historically Closed — Examination
-Complete; Governance Findings Presented. D4 remains Active — Not Closed.
-DG-5 is complete; DG-6 and D5 were not commenced; no protected finding,
-Review Question, Evidence Pack, or validation report was amended; and no
-Framework Evolution or cross-finding synthesis was performed.
+This v0.47 revision records completion of D4-DG6 Domain Exit for D4 —
+Records and Information Governance. All seven Governance Findings are
+Closed/Decision Issued `Accept with Conditions`, linked to FD-026 through
+FD-032. S04 remains historically Closed — Examination Complete; Governance
+Findings Presented. D4 is now Closed. DG-5 and DG-6 are complete; D5 and
+D6 were not commenced; no protected finding, Review Question, Evidence Pack,
+or validation report was amended; and no Framework Evolution or cross-domain
+synthesis was performed.
 
 ## 11. Change Control
 

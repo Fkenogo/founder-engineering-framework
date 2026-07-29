@@ -9,12 +9,12 @@
 
 | Item | Current State |
 |---|---|
-| Programme version | Master Programme v0.46 |
+| Programme version | Master Programme v0.47 |
 | Current phase | Phase 2 — Founder Governance Review |
-| Current milestone | **D4-DG5 Founder Decision Issuance Complete** — GF-024 through GF-030 Decision Issued `Accept with Conditions`; FD-026 through FD-032 issued and validated; DG-6 Domain Exit pending |
+| Current milestone | **D4-DG6 Domain Exit Complete** — D4 Records and Information Governance Closed; all seven findings Closed/Decision Issued `Accept with Conditions`; DG-6 validation Pass with Conditions |
 | Latest completed work package | FEF-WPK-001G — Founder Governance Review Plan |
 | Current active work package | None — review execution is controlled by approved governance instruments |
-| Current execution window | D4 Active — Not Closed; S04 historically Closed; Founder Review and DG-5 complete; DG-6 and D5 not commenced |
+| Current execution window | D4 Closed; S04 historically Closed; Founder Review, DG-5, and DG-6 complete; D5 and D6 not commenced |
 | Review commencement | Authorised by FD-2026-07-24-009 |
 | Active review identifier | FEF-FGR-002 |
 | First review domain | D1 — Governance Authority |
@@ -37,10 +37,10 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question | Answer |
 |---|---|
-| Where are we? | Phase 2 is complete; D1, ORC-001, D2, and D3 are closed; FEF-FGR-002 and D4 remain Active; D4-G2 Founder Review and DG-5 are complete. |
-| What are we doing? | The attributable Founder dispositions for GF-024 through GF-030 have been converted into seven issued Founder Decisions (FD-026 through FD-032), each `Accept with Conditions` and validated Pass with Conditions. |
-| Why are we doing it? | This faithfully operationalises the completed Founder Review while preserving all conditions, limitations, and non-effects, without closing D4. |
-| What must finish before anything else? | DG-6 Domain Exit must be separately governed; it has not commenced. |
+| Where are we? | Phase 2 is complete; D1, ORC-001, D2, D3, and D4 are closed; FEF-FGR-002 remains Active; D4-G2 Founder Review, DG-5, and DG-6 are complete. |
+| What are we doing? | D4 — Records and Information Governance has been formally closed after completing DG-6 Domain Exit with validation Pass with Conditions. |
+| Why are we doing it? | This completes the authorised D4 governance lifecycle and preserves all historical states, conditions, and non-effects. |
+| What must finish before anything else? | Await Master Programme assessment before any D5, D6, or Phase 3 commencement. |
 
 ## Immediate Next Programme Action
 
@@ -183,7 +183,7 @@ occurred.
 - No Phase 2 administrative completion action remains pending.
 - No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
 - FEF-CCF-001 is registered at programme-planning level only; its evaluation and commencement remain future Framework Evolution work.
-- D4-DG5 Founder Decision Issuance is complete; DG-6 Domain Exit remains the next separately governed activity.
+- D4-DG6 Domain Exit is complete; await Master Programme assessment for next governed activity.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
@@ -197,5 +197,5 @@ All 23 RGS governance questions remain open.
 |---|---|---|
 | Governance | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved. |
 | Documentation | 🟢 Green | D3 Founder Review, DG-5 decision issuance, validation, and traceability are controlled; protected artefacts remain unchanged. |
-| Programme | 🟢 Green | Phase 2 is Complete; FEF-FGR-002 remains Active; D1–D3 are Closed; D4 is Active — Not Closed; Founder Review and DG-5 complete; DG-6 not commenced. |
+| Programme | 🟢 Green | Phase 2 is Complete; FEF-FGR-002 remains Active; D1–D4 are Closed; Founder Review, DG-5, and DG-6 complete; D5 and D6 not commenced. |
 | Engineering Readiness | 🔴 Red | Neither RGS nor RDS is approved and discovery execution is not authorised. |

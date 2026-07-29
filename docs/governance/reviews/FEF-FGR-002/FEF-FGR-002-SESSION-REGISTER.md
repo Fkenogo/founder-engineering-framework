@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.33 |
+| Register version | 1.34 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -92,9 +92,14 @@ The D4-DG5 Founder Decision Issuance was subsequently completed and validated
 Pass with Conditions in
 [FEF-FGR-002-D4-DG5-FDVR-001](FEF-FGR-002-D4-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md).
 Seven separate Founder Decision Records, FD-026 through FD-032, issue the
-exact D4 Founder dispositions for GF-024 through GF-030. DG-5 is complete;
-DG-6 and D5 are not commenced. This additional post-session linkage does not
-change S04's historical Closed state or close D4.
+exact D4 Founder dispositions for GF-024 through GF-030. DG-5 is complete.
+
+The D4-DG6 Domain Exit was subsequently completed and validated Pass with
+Conditions in
+[FEF-FGR-002-D4-DG6-DEVR-001](FEF-FGR-002-D4-DG6-DOMAIN-EXIT-VALIDATION-REPORT.md).
+D4 — Records and Information Governance is now Closed. DG-6 is complete;
+D5 and D6 are not commenced. This additional post-session linkage does not
+change S04's historical Closed state.
 
 ## Change History
 
@@ -134,6 +139,7 @@ change S04's historical Closed state or close D4.
 | 1.31 | 2026-07-28 | D4 Post-Session Linkage recorded: a neutral D4-G2 Founder Review Package assembled GF-024 through GF-030 verbatim with 42 blank Founder workbook fields and was validated Pass with Conditions; S04 remains Closed; findings remain Presented/Pending; no Founder Review, Founder Decision, Candidate, Deferred Matter, DG-5, DG-6, D5/D6, recommendation, constitutional interpretation, or cross-finding synthesis; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FRPVR-001 |
 | 1.32 | 2026-07-28 | D4 Post-Session Linkage updated for completed Founder Review: exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions recorded for each of GF-024 through GF-030 and validated Pass with Conditions; S04 historical Closed state unchanged; zero Founder Decision Records; DG-5 and DG-6 not commenced; D4 Active and Not Closed; no D5/D6, Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
 | 1.33 | 2026-07-29 | D4 Post-Session Linkage updated for completed DG-5 Founder Decision Issuance: seven separate Founder Decision Records FD-026 through FD-032 issued one-to-one for GF-024 through GF-030 and validated Pass with Conditions; S04 historical Closed state unchanged; D4 Active and Not Closed; DG-5 complete; DG-6 and D5 not commenced; no Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-DG5-FDVR-001 |
+| 1.34 | 2026-07-29 | D4 Post-Session Linkage updated for completed DG-6 Domain Exit: D4 — Records and Information Governance formally Closed after validation Pass with Conditions; S04 historical Closed state unchanged; DG-5 and DG-6 complete; D5 and D6 not commenced; no Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-CR-001; FEF-FGR-002-D4-DG6-DEVR-001 |
 
 ## Non-Effects
 
