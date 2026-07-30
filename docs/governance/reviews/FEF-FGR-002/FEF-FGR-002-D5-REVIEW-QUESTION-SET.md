@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.6 |
+| Set version | 1.7 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -49,7 +49,7 @@ substantive answer is introduced.
 | Scope | Instrument status labels (e.g., Draft, Review Required, Approved, Active, Closed, Mobilised) and their approving authority |
 | Exclusions | No new status vocabulary is adopted; no register redesign; no constitutional status definition |
 | Evidence Need | Master Programme, Dashboard, and Manifest status fields; FEF-RGS-000's status field; Governance Finding/Founder Decision Register "Decision Record Validated" vs "Pending" distinction — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, EV-077 — qualified with conditions in FEF-FGR-002-D5-RQ032-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, EV-077 — qualified with conditions in FEF-FGR-002-D5-RQ032-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: Founder authority and reserved decision-gates remain the approving mechanism for any transition; not reopened. D3: Assurance verdicts (Pass, Pass with Conditions) are a distinct concept from instrument status and must not be conflated with it. D4: Registers already carry structured "Lifecycle State" fields; whether that vocabulary generalises is examined here, not decided. Interface: D6 will need a stable vocabulary to administer; D7 may require a distinct model for constitutional material |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -84,7 +84,7 @@ substantive answer is introduced.
 | Scope | Effective-date and transitional-applicability rules for any instrument change |
 | Exclusions | No transitional rule is adopted or applied to FEF-RGS-000 or any other pending instrument by this question |
 | Evidence Need | OQ-017's own recorded wording; FEF-RGS-000's current "not approved" status; FAR-001/FAR-002 as examples of scoped, non-retrospective architectural decisions — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-009, EV-010, EV-012, EV-013, EV-070, EV-073, EV-078, EV-079 — qualified with conditions in FEF-FGR-002-D5-RQ033-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-009, EV-010, EV-012, EV-013, EV-070, EV-073, EV-078, EV-079 — qualified with conditions in FEF-FGR-002-D5-RQ033-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: Founder retains authority to set transitional terms for any instrument; not delegated. D3: None of D1–D4's closed domains have yet needed to apply a transition rule to their own outputs; treated as untested, not settled precedent. D4: Records must be able to show which version of an instrument governed a decision at the time it was made. Interface: D6 administration may need to track effective dates; D7 constitutional transition may require a stricter rule |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -119,7 +119,7 @@ substantive answer is introduced.
 | Scope | Version-numbering and release-state conventions |
 | Exclusions | No versioning scheme is adopted; no existing document is renumbered by this question |
 | Evidence Need | Master Programme's own `v0.NN` revision log; FEF-RGS-000's `Draft v0.2` field; FEF-FGR-002 register version-field practice — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-012, EV-013, EV-072, EV-073, EV-080, EV-081 — qualified with conditions in FEF-FGR-002-D5-RQ034-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-012, EV-013, EV-072, EV-073, EV-080, EV-081 — qualified with conditions in FEF-FGR-002-D5-RQ034-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: Authority to approve any adopted convention is separate from and reserved above the numbering scheme itself. D3: Assurance/validation reports' `v1.0 — Pass` style versioning is an operated example, not a settled standard. D4: Registers already use structured version fields; direct existing precedent. Interface: D6 administration would implement any adopted convention; D7 constitutional documents may need a distinct versioning treatment |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -154,7 +154,7 @@ substantive answer is introduced.
 | Scope | Amendment, supersession, and withdrawal mechanics and record ownership |
 | Exclusions | No amendment, supersession, or withdrawal is performed on any existing FEF document by this question; the D3 quarantine precedent is not reinterpreted or reopened |
 | Evidence Need | FEF-FGR-002-D3-QM-001 quarantine manifest; EV-032–EV-049 "permanently retired" treatment; FRAS and FEF-CCF-001 candidate-registration states as examples of a pre-decision lifecycle stage — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-017, EV-074, EV-078, EV-079, EV-082 — qualified with conditions in FEF-FGR-002-D5-RQ035-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-005, EV-017, EV-074, EV-078, EV-079, EV-082 — qualified with conditions in FEF-FGR-002-D5-RQ035-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: Founder authority over any amendment/supersession/withdrawal decision is reserved and not delegated. D3: The D3 quarantine precedent (six voided artefacts preserved, not deleted, not reused) is a direct operated example. D4: Retention/archival and record-preservation controls are the closest existing analogue. Interface: D6 register architecture would implement any resulting model; D7 constitutional amendment may require a stricter version |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -189,7 +189,7 @@ substantive answer is introduced.
 | Scope | Conditional/temporary departure mechanisms and their distinction from permanent framework change |
 | Exclusions | No specific exception is granted by this question; FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 are not evaluated or dispositioned |
 | Evidence Need | FD-001 through FD-032 "Conditions" fields as operated examples of bounded exceptions; FEF-FEV-001's own establishment as the intake mechanism for controlled evolution — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-012, EV-017, EV-066, EV-074, EV-083 — qualified with conditions in FEF-FGR-002-D5-RQ036-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-005, EV-012, EV-017, EV-066, EV-074, EV-083 — qualified with conditions in FEF-FGR-002-D5-RQ036-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: Founder reserved authority over granting any exception is not delegated. D3: The "Accept with Conditions" disposition pattern across GF-001 through GF-030 is the direct operated example of a conditional, bounded departure from a strict standard. D4: None directly; informational only. Interface: FEF-FEV-001 is the existing mechanism through which any specific controlled-evolution candidate would be formally submitted; this question examines the lifecycle-governance concept of controlled evolution, not any specific submitted candidate |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -224,7 +224,7 @@ substantive answer is introduced.
 | Scope | Classification of pre-review material under a future lifecycle model |
 | Exclusions | No legacy document's authority or validity is decided by this question; OQ-013 and OQ-016 remain open and unchanged |
 | Evidence Need | `FEF-DRAFT-PRINCIPLES.md`'s own status field; `FEF-FGR-001`'s "Incomplete" classification; the Master Programme's "legacy plan" treatment of FEF-P1-001 through FEF-P1-004 — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-012, EV-014, EV-078, EV-080, EV-084, EV-085 — qualified with conditions in FEF-FGR-002-D5-RQ037-EMQR-001; not Packed; examined in no session |
+| Evidence Records | EV-012, EV-014, EV-078, EV-080, EV-084, EV-085 — qualified with conditions in FEF-FGR-002-D5-RQ037-EMQR-001; Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen); examined in no session |
 | Dependencies | D1: GF-001 already found "no complete constitutional hierarchy is evidenced," relevant precedent that legacy material sits outside the current authority model. D3: None directly. D4: Retention/archival treatment of legacy records is the closest existing analogue. Interface: D7 constitutional boundary may ultimately decide legacy-authority questions; D6 administration would implement any classification scheme |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -262,6 +262,7 @@ substantive answer is introduced.
 | 1.4 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced." RQ-035 only updated to v1.1 after Execution Loop 004 evidence mobilisation: six Evidence Records qualified (EV-005, EV-017, EV-074, EV-078, EV-079 reused; EV-082 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-034 and RQ-036 through RQ-037 unchanged | FEF-FGR-002-D5-RQ035-EMQR-001; FEF-FGR-002-D5-RQ035-EMVR-001 |
 | 1.5 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced." RQ-036 only updated to v1.1 after Execution Loop 005 evidence mobilisation: five Evidence Records reused (EV-005, EV-012, EV-017, EV-066, EV-074) and one new (EV-083); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-035 and RQ-037 unchanged | FEF-FGR-002-D5-RQ036-EMQR-001; FEF-FGR-002-D5-RQ036-EMVR-001 |
 | 1.6 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs." RQ-037 only updated to v1.1 after Execution Loop 006 evidence mobilisation, the final D5 execution loop: four Evidence Records reused (EV-012, EV-014, EV-078, EV-080) and two new (EV-084, EV-085); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-036 unchanged | FEF-FGR-002-D5-RQ037-EMQR-001; FEF-FGR-002-D5-RQ037-EMVR-001 |
+| 1.7 | 2026-07-30 | Each RQ-032 through RQ-037 Evidence Records field updated to record "Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen)" following D5 EP-005 Evidence Pack Assembly; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), Disposition (Pending), and evidence qualification for each RQ unchanged | FEF-FGR-002-EP-005; FEF-FGR-002-EP-005-AR-001; FEF-FGR-002-EP-005-AVR-001 |
 
 ## 10. Non-Effects
 
