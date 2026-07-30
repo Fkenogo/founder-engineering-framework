@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.1 |
+| Set version | 1.2 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | RQ-032 through RQ-037 Admitted; not yet examined |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | Not commenced |
+| Evidence mobilisation | RQ-032 and RQ-033 mobilised and qualified with conditions; RQ-034 through RQ-037 not commenced |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -70,7 +70,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-033 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Applicability and Transitional Effect |
 | Question Text | When a FEF governance instrument is approved, amended, or withdrawn, does it apply retrospectively to work already underway, only to work commenced after its effective date, or under some other transitional rule, and who decides which rule applies? |
 | Originating candidate | D5-RQC-02 |
@@ -84,6 +84,7 @@ substantive answer is introduced.
 | Scope | Effective-date and transitional-applicability rules for any instrument change |
 | Exclusions | No transitional rule is adopted or applied to FEF-RGS-000 or any other pending instrument by this question |
 | Evidence Need | OQ-017's own recorded wording; FEF-RGS-000's current "not approved" status; FAR-001/FAR-002 as examples of scoped, non-retrospective architectural decisions — source-preserved generic classes only; no evidence requirement derived |
+| Evidence Records | EV-009, EV-010, EV-012, EV-013, EV-070, EV-073, EV-078, EV-079 — qualified with conditions in FEF-FGR-002-D5-RQ033-EMQR-001; not Packed; examined in no session |
 | Dependencies | D1: Founder retains authority to set transitional terms for any instrument; not delegated. D3: None of D1–D4's closed domains have yet needed to apply a transition rule to their own outputs; treated as untested, not settled precedent. D4: Records must be able to show which version of an instrument governed a decision at the time it was made. Interface: D6 administration may need to track effective dates; D7 constitutional transition may require a stricter rule |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -96,8 +97,8 @@ substantive answer is introduced.
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
-| Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping reproduced exactly from D5-RQC-02 |
+| Created / Updated Dates | 2026-07-29 / 2026-07-30 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-033-only evidence mobilisation and qualification from Execution Loop 002; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 4. FEF-FGR-002-RQ-034 — Versioning and Release Practice
 
@@ -252,6 +253,7 @@ substantive answer is introduced.
 |---|---|---|---|
 | 1.0 | 2026-07-29 | Six Founder-accepted D5 Review Questions admitted as RQ-032 through RQ-037 | FEF-FGR-002-D5-RQAR-001 |
 | 1.1 | 2026-07-29 | RQ-032 only updated to v1.1 after Execution Loop 001 evidence mobilisation: nine Evidence Records qualified (EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 reused; EV-075–EV-077 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-033 through RQ-037 unchanged | FEF-FGR-002-D5-RQ032-EMQR-001; FEF-FGR-002-D5-RQ032-EMVR-001 |
+| 1.2 | 2026-07-30 | Administrative correction: set-level "Evidence mobilisation" header field corrected from stale "Not commenced" (via an interim value) to "RQ-032 and RQ-033 mobilised and qualified with conditions; RQ-034 through RQ-037 not commenced." RQ-033 only updated to v1.1 after Execution Loop 002 evidence mobilisation: eight Evidence Records qualified (EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 reused; EV-078–EV-079 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 and RQ-034 through RQ-037 unchanged | FEF-FGR-002-D5-RQ033-EMQR-001; FEF-FGR-002-D5-RQ033-EMVR-001 |
 
 ## 10. Non-Effects
 
