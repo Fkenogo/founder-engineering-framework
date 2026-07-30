@@ -6,7 +6,7 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
 | Review class | Evidence mobilisation completion reconciliation |
-| Record version | 1.0 |
+| Record version | 1.1 — corrected; see §12 |
 | Review date | 2026-07-30 |
 | Starting repository baseline | `962874df5c2b2576d2ae022e9367d181cb94a412` |
 | Scope | Execution Loops 001–006; RQ-032 through RQ-037 |
@@ -86,11 +86,13 @@ For all 25 Evidence Records, cross-loop provenance commits and SHA-256 digests a
 
 ## 5. Reconciliation Corrections
 
-No arithmetic, mapping, version, or synchronisation inconsistency was found.
+~~No arithmetic, mapping, version, or synchronisation inconsistency was found.~~
 
-Each loop's own mandatory end-of-task reconciliation (a requirement introduced after Execution Loop 002 and applied without exception through Loop 006) independently recalculated the cumulative unique Evidence Record count via set-union of the actual per-RQ mappings, rather than by incrementing a copied-forward figure. This review repeated that computation independently over the full six-RQ mapping set and obtained the same result — 25 unique records, 41 source-to-RQ mappings, 42 source-to-requirement links — with no discrepancy against the Evidence Register's recorded v1.19 figures. The Review Question Register (v1.50), D5 Review Question Set (v1.6), Master Programme (v0.62), Founder Dashboard, and Document Manifest were independently checked and found already consistent with this figure; no administrative correction was required.
+**Correction (v1.1 — see §12 for full disclosure):** this statement is corrected. It remains true for the evidence corpus itself — no arithmetic, mapping, or evidence-register-version inconsistency was found, and none exists. It was **not** true as a blanket statement: three programme-metadata inconsistencies outside the evidence-corpus reconciliation's own checklist (the Master Programme's principal version field, the Document Manifest's Master Programme row, and the Founder Dashboard's "As at" date) were subsequently identified and corrected in FEF-FGR-002-D5-PCARR-001. The original, uncorrected sentence is struck through above rather than deleted, so the original assessment remains visible alongside its correction.
 
-This is a materially different outcome from the D4 Evidence Mobilisation Completion Review (FEF-FGR-002-D4-EMCR-001), which identified and corrected two administrative inconsistencies. No corresponding correction is disclosed here because none was found, not because the check was skipped; the full recomputation is shown in Section 3 and Section 4 above.
+Each loop's own mandatory end-of-task reconciliation (a requirement introduced after Execution Loop 002 and applied without exception through Loop 006) independently recalculated the cumulative unique Evidence Record count via set-union of the actual per-RQ mappings, rather than by incrementing a copied-forward figure. This review repeated that computation independently over the full six-RQ mapping set and obtained the same result — 25 unique records, 41 source-to-RQ mappings, 42 source-to-requirement links — with no discrepancy against the Evidence Register's recorded v1.19 figures. The Review Question Register (v1.50), D5 Review Question Set (v1.6), Master Programme, Founder Dashboard, and Document Manifest were independently checked against the **evidence-corpus figures** and found already consistent; no evidence-corpus correction was required. This check did not extend to the Master Programme's own principal version field, the Manifest's Master Programme row, or the Dashboard's "As at" date, each of which is outside the evidence-corpus mapping this section verifies — that gap is what FEF-FGR-002-D5-PCARR-001 subsequently closed.
+
+This remains a materially different outcome from the D4 Evidence Mobilisation Completion Review (FEF-FGR-002-D4-EMCR-001), which identified and corrected two *evidence-corpus* administrative inconsistencies (a cumulative count and a section version). No corresponding evidence-corpus correction is disclosed here because none was found in that scope; the three corrections disclosed in FEF-FGR-002-D5-PCARR-001 are programme-metadata corrections outside that scope, not evidence-corpus corrections. The full recomputation supporting the evidence-corpus finding is shown in Section 3 and Section 4 above and remains unchanged by the v1.1 correction.
 
 ## 6. Special Controls
 
@@ -182,4 +184,16 @@ The corpus is suitable for Evidence Pack assembly only if the separately governe
 
 **Outcome: Complete — Pack Preparation Ready with Conditions.**
 
-The reconciled corpus is coherent and complete enough for a future Evidence Pack assembly task under the conditions above. This outcome does not assemble or freeze a pack, commence examination, answer any RQ, resolve an Open Question, commence D6 or D7, create a Governance Finding, prepare a Founder Decision, activate or draft FRAS, evaluate or disposition FEF-FEV-001-FEC-001, FEF-CCF-001, or CE1–CE6, adopt a lifecycle or classification model, or retrospectively validate or invalidate any legacy governance material.
+Restated after the v1.1 correction in §12: **Pass with Conditions — Evidence corpus complete and ready for separately governed pack assembly after administrative reconciliation.** This is not an upgrade to an unconditional Pass; the conditions in Section 10 remain fully in force.
+
+The reconciled corpus is coherent and complete enough for a future, separately authorised Evidence Pack **assembly** task under the conditions above; assembly, assembled-pack validation, DG-3 freeze authorisation, frozen-pack validation, and session-entry validation are distinct, sequential, separately governed activities, not one indivisible action. This outcome does not assemble or freeze a pack, commence examination, answer any RQ, resolve an Open Question, commence D6 or D7, create a Governance Finding, prepare a Founder Decision, activate or draft FRAS, evaluate or disposition FEF-FEV-001-FEC-001, FEF-CCF-001, or CE1–CE6, adopt a lifecycle or classification model, or retrospectively validate or invalidate any legacy governance material.
+
+## 12. Post-Completion Correction Disclosure (v1.1)
+
+This section discloses a correction applied after this record's original v1.0 issuance, per FEF-FGR-002-D5-PCARR-001.
+
+**What was corrected.** Section 5's original blanket statement, "No arithmetic, mapping, version, or synchronisation inconsistency was found," was accurate only within the evidence-corpus reconciliation this record actually performed (Sections 3–4: 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links). It did not check, and should not have been read to cover, three programme-metadata fields that sit outside that reconciliation: the Master Programme's own principal "Programme record version" control field, the Document Manifest's Master Programme row, and the Founder Dashboard's "As at" date. Those three fields were found stale — respectively `0.59` (should have tracked the Current Programme Position table's advance through `v0.60`–`v0.63`), `Current v0.58` (unchanged since before D5 began), and `2026-07-29` (unchanged despite this record's own 2026-07-30 work) — and were corrected in FEF-FGR-002-D5-PCARR-001, validated in FEF-FGR-002-D5-PCARVR-001.
+
+**What did not change.** The evidence-corpus reconciliation in Sections 3, 4, 7, 8, and 9 of this record is unaffected and remains exactly as computed: 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped, no orphan requirement or source, all limitations and gaps preserved. No RQ wording, evidence identity, evidence qualification, Open Question text, or D1–D4 substantive artefact changed. No Evidence Pack was assembled or frozen; EP-005 does not exist.
+
+**Verdict.** The outcome remains conditional: **Pass with Conditions — Evidence corpus complete and ready for separately governed pack assembly after administrative reconciliation.** It is not, and is not corrected to, an unconditional Pass.

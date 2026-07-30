@@ -6,12 +6,12 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
 | Validated record | FEF-FGR-002-D5-EMCR-001 |
-| Report version | 1.0 |
+| Report version | 1.1 — corrected; see §12 |
 | Validation date | 2026-07-30 |
 | Starting repository baseline | `962874df5c2b2576d2ae022e9367d181cb94a412` |
 | Validator | FEF-FGR-002-RA-006 — non-independent combination disclosed |
 | Evidence Pack effect | None |
-| Verdict | **Pass with Conditions** |
+| Verdict | **Pass with Conditions — Evidence corpus complete and ready for separately governed pack assembly after administrative reconciliation** |
 
 ## 1. Validation Scope
 
@@ -44,9 +44,11 @@ It does not validate an assembled or frozen pack and does not authorise examinat
 
 ## 3. Administrative Inconsistencies and Corrections
 
-None identified. The six execution loops each independently recalculated the cumulative D5 evidence count via set-union of the actual per-RQ mappings, rather than by copying forward a prior figure — a discipline introduced after an earlier programme-state synchronisation gap identified following Execution Loop 002 and applied without exception thereafter. This validation repeated the recalculation independently over the full six-RQ set (see FEF-FGR-002-D5-EMCR-001 §3–4) and confirmed the Evidence Register's recorded v1.19 figures (67 substantive entries; 25 unique D5-mapped records) without discrepancy. The Review Question Register (v1.50), D5 Review Question Set (v1.6), Master Programme (v0.62), Founder Dashboard, and Document Manifest were independently checked and found already consistent.
+~~None identified.~~ **Corrected in v1.1 — see §12.** Within the scope this section actually validates — the evidence-corpus reconciliation — none was identified, and that remains true. Three programme-metadata inconsistencies outside that scope (the Master Programme's principal version field, the Manifest's Master Programme row, and the Dashboard's "As at" date) were subsequently identified and corrected in FEF-FGR-002-D5-PCARR-001, validated in FEF-FGR-002-D5-PCARVR-001. They are disclosed here because this section's original wording was broad enough to be misread as covering them.
 
-No blocking or non-blocking inconsistency remains.
+The six execution loops each independently recalculated the cumulative D5 evidence count via set-union of the actual per-RQ mappings, rather than by copying forward a prior figure — a discipline introduced after an earlier programme-state synchronisation gap identified following Execution Loop 002 and applied without exception thereafter. This validation repeated the recalculation independently over the full six-RQ set (see FEF-FGR-002-D5-EMCR-001 §3–4) and confirmed the Evidence Register's recorded v1.19 figures (67 substantive entries; 25 unique D5-mapped records) without discrepancy. The Review Question Register (v1.50), D5 Review Question Set (v1.6), Master Programme, Founder Dashboard, and Document Manifest were independently checked against the **evidence-corpus figures** and found already consistent.
+
+No blocking or non-blocking inconsistency remains **within the evidence-corpus reconciliation scope**. The three programme-metadata inconsistencies noted above were non-blocking, administrative, and have since been corrected; see §12.
 
 ## 4. Cross-Loop Evidence Consistency
 
@@ -162,8 +164,18 @@ All seven controlled records and eighteen loop records agree; no document remain
 
 ## 11. Verdict
 
-**Pass with Conditions.**
+**Pass with Conditions — Evidence corpus complete and ready for separately governed pack assembly after administrative reconciliation.**
 
-No administrative inconsistency was found; the recomputed corpus (25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links across six RQs) matches every controlled register's recorded state. The cumulative D5 evidence corpus is suitable for a separately governed Evidence Pack assembly task, subject to the conditions above. This verdict is not an Evidence Pack assembly, freeze, examination authorisation, or substantive D5 conclusion.
+No evidence-corpus administrative inconsistency was found; the recomputed corpus (25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links across six RQs) matches every controlled register's recorded state. Three programme-metadata inconsistencies outside the evidence corpus were subsequently identified and corrected (§12); they did not affect this figure. The cumulative D5 evidence corpus is suitable for a separately governed Evidence Pack **assembly** task, subject to the conditions above. This verdict is not an unconditional Pass, and is not an Evidence Pack assembly, freeze, examination authorisation, or substantive D5 conclusion.
 
-The next governed activity, if the Founder chooses to proceed, is a separately authorised **D5 Evidence Pack Assembly and Freeze task**. This report does not perform that task and does not authorise it in advance of its own governed entry gate.
+The next governed activity, if the Founder chooses to proceed, is a separately authorised **D5 EP-005 Evidence Pack Assembly** task only. Assembled-pack validation, DG-3 freeze authorisation, frozen-pack validation, and session-entry validation remain distinct, separately governed, sequential activities — not one indivisible "assembly and freeze" action. This report does not perform any of them and does not authorise them in advance of their own governed entry gates.
+
+## 12. Post-Completion Correction Disclosure (v1.1)
+
+This section discloses a correction applied after this report's original v1.0 issuance, per FEF-FGR-002-D5-PCARR-001.
+
+**What was corrected.** Section 3's original statement, "None identified," and this report's original unconditional-within-scope framing of Section 11, were accurate only for the evidence-corpus reconciliation this report actually validates (Section 2: 25 unique Evidence Records, 41 mappings, 42 links, 24/24 requirements). Three programme-metadata fields outside that scope were subsequently found stale: the Master Programme's principal "Programme record version" field (`0.59`, not tracking the Current Programme Position table's advance), the Document Manifest's Master Programme row (`Current v0.58`, unchanged since before D5 began), and the Founder Dashboard's "As at" date (`2026-07-29`, unchanged despite incorporating 2026-07-30 work). These were corrected in FEF-FGR-002-D5-PCARR-001, validated in FEF-FGR-002-D5-PCARVR-001.
+
+**What did not change.** The evidence-corpus validation in Sections 2, 4, 5, 6, 7, and 8 of this report is unaffected: 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped, all special-evidence controls and Open Question mappings preserved. No RQ wording, evidence identity, evidence qualification, or D1–D4 substantive artefact changed. No Evidence Pack was assembled or frozen; EP-005 does not exist.
+
+**Verdict.** The verdict remains conditional: **Pass with Conditions — Evidence corpus complete and ready for separately governed pack assembly after administrative reconciliation.** It is not, and is not corrected to, an unconditional Pass.
