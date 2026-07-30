@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.5 |
+| Set version | 1.6 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | RQ-032 through RQ-037 Admitted; not yet examined |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced |
+| Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -210,7 +210,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-037 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Treatment of Legacy Governance Material |
 | Question Text | How should pre-FEF-FGR-002 governance material — including exploratory drafts, legacy scheduled-work identifiers, and incomplete historical evidence records — be classified under any future lifecycle model, without retrospectively validating or invalidating them? |
 | Originating candidate | D5-RQC-06 |
@@ -224,6 +224,7 @@ substantive answer is introduced.
 | Scope | Classification of pre-review material under a future lifecycle model |
 | Exclusions | No legacy document's authority or validity is decided by this question; OQ-013 and OQ-016 remain open and unchanged |
 | Evidence Need | `FEF-DRAFT-PRINCIPLES.md`'s own status field; `FEF-FGR-001`'s "Incomplete" classification; the Master Programme's "legacy plan" treatment of FEF-P1-001 through FEF-P1-004 — source-preserved generic classes only; no evidence requirement derived |
+| Evidence Records | EV-012, EV-014, EV-078, EV-080, EV-084, EV-085 — qualified with conditions in FEF-FGR-002-D5-RQ037-EMQR-001; not Packed; examined in no session |
 | Dependencies | D1: GF-001 already found "no complete constitutional hierarchy is evidenced," relevant precedent that legacy material sits outside the current authority model. D3: None directly. D4: Retention/archival treatment of legacy records is the closest existing analogue. Interface: D7 constitutional boundary may ultimately decide legacy-authority questions; D6 administration would implement any classification scheme |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -236,8 +237,8 @@ substantive answer is introduced.
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
-| Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping reproduced exactly from D5-RQC-06 |
+| Created / Updated Dates | 2026-07-29 / 2026-07-30 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-037-only evidence mobilisation and qualification from Execution Loop 006, the final D5 execution loop; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 8. Canonical Mapping
 
@@ -260,6 +261,7 @@ substantive answer is introduced.
 | 1.3 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, and RQ-034 mobilised and qualified with conditions; RQ-035 through RQ-037 not commenced." RQ-034 only updated to v1.1 after Execution Loop 003 evidence mobilisation: six Evidence Records qualified (EV-012, EV-013, EV-072, EV-073 reused; EV-080–EV-081 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032, RQ-033, and RQ-035 through RQ-037 unchanged | FEF-FGR-002-D5-RQ034-EMQR-001; FEF-FGR-002-D5-RQ034-EMVR-001 |
 | 1.4 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced." RQ-035 only updated to v1.1 after Execution Loop 004 evidence mobilisation: six Evidence Records qualified (EV-005, EV-017, EV-074, EV-078, EV-079 reused; EV-082 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-034 and RQ-036 through RQ-037 unchanged | FEF-FGR-002-D5-RQ035-EMQR-001; FEF-FGR-002-D5-RQ035-EMVR-001 |
 | 1.5 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced." RQ-036 only updated to v1.1 after Execution Loop 005 evidence mobilisation: five Evidence Records reused (EV-005, EV-012, EV-017, EV-066, EV-074) and one new (EV-083); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-035 and RQ-037 unchanged | FEF-FGR-002-D5-RQ036-EMQR-001; FEF-FGR-002-D5-RQ036-EMVR-001 |
+| 1.6 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs." RQ-037 only updated to v1.1 after Execution Loop 006 evidence mobilisation, the final D5 execution loop: four Evidence Records reused (EV-012, EV-014, EV-078, EV-080) and two new (EV-084, EV-085); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-036 unchanged | FEF-FGR-002-D5-RQ037-EMQR-001; FEF-FGR-002-D5-RQ037-EMVR-001 |
 
 ## 10. Non-Effects
 
