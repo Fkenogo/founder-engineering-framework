@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.4 |
+| Set version | 1.5 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | RQ-032 through RQ-037 Admitted; not yet examined |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced |
+| Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -175,7 +175,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-036 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Exceptions, Expiry, and Controlled Evolution |
 | Question Text | What exception, deviation, or expiry mechanism, if any, should apply when a governance instrument is temporarily or conditionally departed from, and what distinguishes a bounded exception from controlled evolution of the framework itself? |
 | Originating candidate | D5-RQC-05 |
@@ -189,6 +189,7 @@ substantive answer is introduced.
 | Scope | Conditional/temporary departure mechanisms and their distinction from permanent framework change |
 | Exclusions | No specific exception is granted by this question; FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 are not evaluated or dispositioned |
 | Evidence Need | FD-001 through FD-032 "Conditions" fields as operated examples of bounded exceptions; FEF-FEV-001's own establishment as the intake mechanism for controlled evolution — source-preserved generic classes only; no evidence requirement derived |
+| Evidence Records | EV-005, EV-012, EV-017, EV-066, EV-074, EV-083 — qualified with conditions in FEF-FGR-002-D5-RQ036-EMQR-001; not Packed; examined in no session |
 | Dependencies | D1: Founder reserved authority over granting any exception is not delegated. D3: The "Accept with Conditions" disposition pattern across GF-001 through GF-030 is the direct operated example of a conditional, bounded departure from a strict standard. D4: None directly; informational only. Interface: FEF-FEV-001 is the existing mechanism through which any specific controlled-evolution candidate would be formally submitted; this question examines the lifecycle-governance concept of controlled evolution, not any specific submitted candidate |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -201,8 +202,8 @@ substantive answer is introduced.
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
-| Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping reproduced exactly from D5-RQC-05; the explicit exclusion of FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 (Founder mobilisation Condition 3) is preserved unchanged |
+| Created / Updated Dates | 2026-07-29 / 2026-07-30 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-036-only evidence mobilisation and qualification from Execution Loop 005; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged; the explicit exclusion of FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 (Founder mobilisation Condition 3) is preserved unchanged |
 
 ## 7. FEF-FGR-002-RQ-037 — Treatment of Legacy Governance Material
 
@@ -258,6 +259,7 @@ substantive answer is introduced.
 | 1.2 | 2026-07-30 | Administrative correction: set-level "Evidence mobilisation" header field corrected from stale "Not commenced" (via an interim value) to "RQ-032 and RQ-033 mobilised and qualified with conditions; RQ-034 through RQ-037 not commenced." RQ-033 only updated to v1.1 after Execution Loop 002 evidence mobilisation: eight Evidence Records qualified (EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 reused; EV-078–EV-079 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 and RQ-034 through RQ-037 unchanged | FEF-FGR-002-D5-RQ033-EMQR-001; FEF-FGR-002-D5-RQ033-EMVR-001 |
 | 1.3 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, and RQ-034 mobilised and qualified with conditions; RQ-035 through RQ-037 not commenced." RQ-034 only updated to v1.1 after Execution Loop 003 evidence mobilisation: six Evidence Records qualified (EV-012, EV-013, EV-072, EV-073 reused; EV-080–EV-081 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032, RQ-033, and RQ-035 through RQ-037 unchanged | FEF-FGR-002-D5-RQ034-EMQR-001; FEF-FGR-002-D5-RQ034-EMVR-001 |
 | 1.4 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced." RQ-035 only updated to v1.1 after Execution Loop 004 evidence mobilisation: six Evidence Records qualified (EV-005, EV-017, EV-074, EV-078, EV-079 reused; EV-082 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-034 and RQ-036 through RQ-037 unchanged | FEF-FGR-002-D5-RQ035-EMQR-001; FEF-FGR-002-D5-RQ035-EMVR-001 |
+| 1.5 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced." RQ-036 only updated to v1.1 after Execution Loop 005 evidence mobilisation: five Evidence Records reused (EV-005, EV-012, EV-017, EV-066, EV-074) and one new (EV-083); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-035 and RQ-037 unchanged | FEF-FGR-002-D5-RQ036-EMQR-001; FEF-FGR-002-D5-RQ036-EMVR-001 |
 
 ## 10. Non-Effects
 
