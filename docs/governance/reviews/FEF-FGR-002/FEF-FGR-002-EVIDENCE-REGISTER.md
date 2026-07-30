@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-ER-001 |
 | Register class | Evidence Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.16 |
+| Register version | 1.17 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,13 +13,13 @@
 | Control owner | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record; item-specific access treatment required before entry |
-| Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues; D3 items qualified in FEF-FGR-002-D3-EQR-002; D4 RQ-025 items qualified in FEF-FGR-002-D4-RQ025-EMQR-001; D4 RQ-026 items qualified in FEF-FGR-002-D4-RQ026-EMQR-001; D4 RQ-027 items qualified in FEF-FGR-002-D4-RQ027-EMQR-001; D4 RQ-028 items qualified in FEF-FGR-002-D4-RQ028-EMQR-001; D4 RQ-029 items qualified in FEF-FGR-002-D4-RQ029-EMQR-001; D4 RQ-030 items qualified in FEF-FGR-002-D4-RQ030-EMQR-001; D4 RQ-031 items qualified in FEF-FGR-002-D4-RQ031-EMQR-001; cumulative D4 corpus reconciled in FEF-FGR-002-D4-EMCR-001; D5 RQ-032 items qualified in FEF-FGR-002-D5-RQ032-EMQR-001; D5 RQ-033 items qualified in FEF-FGR-002-D5-RQ033-EMQR-001; D5 RQ-034 items qualified in FEF-FGR-002-D5-RQ034-EMQR-001 |
+| Integrity control | Per-item SHA-256 in domain Evidence Record Catalogues; D3 items qualified in FEF-FGR-002-D3-EQR-002; D4 RQ-025 items qualified in FEF-FGR-002-D4-RQ025-EMQR-001; D4 RQ-026 items qualified in FEF-FGR-002-D4-RQ026-EMQR-001; D4 RQ-027 items qualified in FEF-FGR-002-D4-RQ027-EMQR-001; D4 RQ-028 items qualified in FEF-FGR-002-D4-RQ028-EMQR-001; D4 RQ-029 items qualified in FEF-FGR-002-D4-RQ029-EMQR-001; D4 RQ-030 items qualified in FEF-FGR-002-D4-RQ030-EMQR-001; D4 RQ-031 items qualified in FEF-FGR-002-D4-RQ031-EMQR-001; cumulative D4 corpus reconciled in FEF-FGR-002-D4-EMCR-001; D5 RQ-032 items qualified in FEF-FGR-002-D5-RQ032-EMQR-001; D5 RQ-033 items qualified in FEF-FGR-002-D5-RQ033-EMQR-001; D5 RQ-034 items qualified in FEF-FGR-002-D5-RQ034-EMQR-001; D5 RQ-035 items qualified in FEF-FGR-002-D5-RQ035-EMQR-001 |
 | Last validation date | 2026-07-30 |
-| Substantive entry count | 63 |
+| Substantive entry count | 64 |
 | D2 mapped Evidence Record count | 21 |
 | D3 mapped Evidence Record count | 39 (17 reused from D1/D2 + 22 newly registered EV-050–EV-071) |
 | D4 mapped Evidence Record count | 19 unique across RQ-025 through RQ-031: 6 mapped to RQ-025; 10 to RQ-026; 9 to RQ-027; 9 to RQ-028; 9 to RQ-029; 11 to RQ-030; 11 to RQ-031; 3 newly registered in D4 (EV-072–EV-074) |
-| D5 mapped Evidence Record count | 18 unique across RQ-032–RQ-034: 9 mapped to RQ-032 (EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 reused; EV-075–EV-077 new); 8 mapped to RQ-033 (EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 reused; EV-078–EV-079 new); 6 mapped to RQ-034 (EV-012, EV-013, EV-072, EV-073 reused; EV-080–EV-081 new); EV-013 shared across RQ-032/033/034; EV-072 shared across RQ-032/034; EV-012 and EV-073 shared across RQ-033/034; RQ-035 through RQ-037 not yet mobilised |
+| D5 mapped Evidence Record count | 20 unique across RQ-032–RQ-035: 9 mapped to RQ-032 (EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 reused; EV-075–EV-077 new); 8 mapped to RQ-033 (EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 reused; EV-078–EV-079 new); 6 mapped to RQ-034 (EV-012, EV-013, EV-072, EV-073 reused; EV-080–EV-081 new); 6 mapped to RQ-035 (EV-005, EV-017, EV-074, EV-078, EV-079 reused; EV-082 new); EV-013 shared across RQ-032/033/034; EV-072 shared across RQ-032/034; EV-012 and EV-073 shared across RQ-033/034; EV-005 shared across RQ-032/035; EV-074 shared across RQ-032/035; EV-078 and EV-079 shared across RQ-033/035; RQ-036 through RQ-037 not yet mobilised |
 | Identifier note | EV-032 through EV-049 are permanently retired and not reused: those identifiers were asserted, without genuine Founder authorisation, by the quarantined D3 artefacts under FEF-FGR-002-D3-QM-001. New D3 registrations begin at EV-050, new D4 registrations begin at EV-072, and new D5 registrations begin at EV-075 per FEF-FGRC-001 §8 ("shall not be renumbered after issue; shall remain reserved if withdrawn"). |
 
 ## Register
@@ -89,6 +89,7 @@
 | EV-079 | FEF-FGR-002-D3-C1 — Governance Assurance Stage Closure and E1 Readiness Assessment (Corrected) | Controlled repository path | Attributable correction record with Correction Notice | D5 RQ-033 Qualification Record EV-079 | 2026-07-30 | v1.1; Corrected — Domain Not Closed | Admitted | SHA-256 `1630eb575de4716b7a97061f780478a4851cbdf2ec77fe04376094868f054263` | Repository | RQ-033 | Validated | Pass — E1; second, independent correction example |
 | EV-080 | FEF Master Programme | Controlled repository path | Founder-authorised controlling programme record | D5 RQ-034 Qualification Record EV-080 | 2026-07-30 | v0.58 at acquisition; append-only revision log | Admitted | SHA-256 `7f4e7edfeeb7768f8822e9599ac92c0f082061562279f752544bbf123aee97b0` | Repository | RQ-034 | Validated | Pass — E2; primary programme-level versioning example only |
 | EV-081 | FEF-FGR-002 Review Question Register | Controlled repository path | Validated FEF-FGR-002 operational register | D5 RQ-034 Qualification Record EV-081 | 2026-07-30 | v1.46 at acquisition (pre-loop); dual-axis register/per-RQ versioning | Admitted | SHA-256 `f25d51c0785c565613123d2a8eeb762fb7ddf6e86009f0772a46721a5c0b77f5` | Repository | RQ-034 | Validated | Pass — E4; primary register-level dual-axis versioning example only; observed pre-loop |
+| EV-082 | Founder Repository Architecture Standard (FRAS) — Candidate Proposal | Controlled repository path | Registered programme candidate; not an approved or draft standard | D5 RQ-035 Qualification Record EV-082 | 2026-07-30 | Candidate — Not Authored; Not Active; activation reserved to the Founder | Admitted | SHA-256 `c45c3877923ac551347b21d9c6002c45d0d3d98324f7b1f1d6f0f5cc326c6288` | Repository | RQ-035 | Validated | Pass — E2; sole example of a pre-decision registration-only lifecycle stage |
 
 ## D3 Mapped Evidence (Requirement Reference Only — No Examination Performed)
 
@@ -124,13 +125,16 @@ authority, infer D5 lifecycle rules, or state what any source proves.
 | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 (reused); EV-075–EV-077 (new) | RQ-032 only | D5-RQ032-EVR-001 through D5-RQ032-EVR-004 | FEF-FGR-002-D5-RQ032-EMQR-001; validated by FEF-FGR-002-D5-RQ032-EMVR-001 | None — not packed and not examined |
 | EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 (reused); EV-078–EV-079 (new) | RQ-033 only | D5-RQ033-EVR-001 through D5-RQ033-EVR-004 | FEF-FGR-002-D5-RQ033-EMQR-001; validated by FEF-FGR-002-D5-RQ033-EMVR-001 | None — not packed and not examined |
 | EV-012, EV-013, EV-072, EV-073 (reused); EV-080–EV-081 (new) | RQ-034 only | D5-RQ034-EVR-001 through D5-RQ034-EVR-004 | FEF-FGR-002-D5-RQ034-EMQR-001; validated by FEF-FGR-002-D5-RQ034-EMVR-001 | None — not packed and not examined |
+| EV-005, EV-017, EV-074, EV-078, EV-079 (reused); EV-082 (new) | RQ-035 only | D5-RQ035-EVR-001 through D5-RQ035-EVR-004 | FEF-FGR-002-D5-RQ035-EMQR-001; validated by FEF-FGR-002-D5-RQ035-EMVR-001 | None — not packed and not examined |
 
-RQ-035 through RQ-037 have no evidence mapping; their evidence mobilisation
+RQ-036 and RQ-037 have no evidence mapping; their evidence mobilisation
 has not started. The reused Evidence Records retain their existing
 identifiers, authority, admissibility, and limitations; EV-072's digest
 has changed on each successive observation, disclosed each time, not
-concealed. This mapping does not elevate source authority, answer RQ-032,
-RQ-033, or RQ-034, or state what any source proves.
+concealed; EV-005 and EV-017 had their first literal SHA-256 digest
+recorded in this review under RQ-035, a formatting observation, not a
+content change. This mapping does not elevate source authority, answer
+RQ-032, RQ-033, RQ-034, or RQ-035, or state what any source proves.
 
 ## D2 Output Linkage
 
@@ -168,22 +172,25 @@ limitations, and permitted use.
 | 1.14 | 2026-07-29 | D5 Execution Loop 001 mobilised and qualified evidence for RQ-032 only: EV-005, EV-007, EV-008, EV-013, EV-072, and EV-074 reused (EV-072's digest reobserved and disclosed as changed since its D4-era qualification, consistent with its mutable-index limitation); EV-075, EV-076, and EV-077 newly registered; terminology-inconsistency, approval/validation conflation risk, delegated-authority gap, and instrument-status-model gaps preserved; no evidence mapped to RQ-033–RQ-037; no Evidence Pack or examination | FEF-FGR-002-D5-RQ032-EMQR-001; FEF-FGR-002-D5-RQ032-EMVR-001 |
 | 1.15 | 2026-07-30 | D5 Execution Loop 002 mobilised and qualified evidence for RQ-033 only: EV-009, EV-010, EV-012, EV-013, EV-070, and EV-073 reused; EV-078 and EV-079 newly registered (D3 Quarantine Manifest; corrected D3-C1 closure assessment); retrospective-correction-versus-ordinary-amendment conflation risk, effective-date/approval-date conflation, and delegated-authority gap preserved; RQ-032 unchanged; no evidence mapped to RQ-034–RQ-037; no Evidence Pack or examination | FEF-FGR-002-D5-RQ033-EMQR-001; FEF-FGR-002-D5-RQ033-EMVR-001 |
 | 1.16 | 2026-07-30 | D5 Execution Loop 003 mobilised and qualified evidence for RQ-034 only: EV-012, EV-013, EV-072, and EV-073 reused (EV-072's digest changed again, disclosed); EV-080 and EV-081 newly registered (Master Programme; Review Question Register, observed pre-loop); three-uncoordinated-versioning-convention conflation risk and version-digit-meaning gap preserved; RQ-032/RQ-033 unchanged; no evidence mapped to RQ-035–RQ-037; no Evidence Pack or examination | FEF-FGR-002-D5-RQ034-EMQR-001; FEF-FGR-002-D5-RQ034-EMVR-001 |
+| 1.17 | 2026-07-30 | D5 Execution Loop 004 mobilised and qualified evidence for RQ-035 only: EV-005, EV-017, EV-074, EV-078, and EV-079 reused (EV-005 and EV-017 first recorded with a literal digest in this review); EV-082 newly registered (FRAS Candidate Proposal, as the sole pre-decision registration-only example); transition-to-approval-capacity mapping gap and absence of an ordinary-amendment operated example preserved; RQ-032–RQ-034 unchanged; no evidence mapped to RQ-036–RQ-037; no Evidence Pack or examination | FEF-FGR-002-D5-RQ035-EMQR-001; FEF-FGR-002-D5-RQ035-EMVR-001 |
 
 ## Non-Effects
 
-This register contains 63 unique Evidence Records. Twenty-one are mapped to
+This register contains 64 unique Evidence Records. Twenty-one are mapped to
 D2, 39 are mapped to D3 (17 reused, 22 new), 19 unique records are mapped
-across D4 RQ-025 through RQ-031 (three new in D4), and 18 unique records are
-mapped across D5 RQ-032, RQ-033, and RQ-034 (eleven reused across all
-three, seven new in D5: EV-075–EV-081; EV-013 shared across all three;
-EV-072 shared between RQ-032 and RQ-034; EV-012 and EV-073 shared between
-RQ-033 and RQ-034) through controlled reuse or new registration. Output
-linkage does not change a source's authority, admissibility, limitation,
-permitted use, or frozen-pack state. No D4 or D5 Evidence Pack exists. No D4
-or D5 Review Question has been examined or answered. All seven D4 RQs have
-mobilised evidence qualified with conditions, but no D4 Evidence Pack has
-been assembled. RQ-032, RQ-033, and RQ-034 have mobilised evidence
-qualified with conditions; RQ-035 through RQ-037 have not started evidence
+across D4 RQ-025 through RQ-031 (three new in D4), and 20 unique records are
+mapped across D5 RQ-032, RQ-033, RQ-034, and RQ-035 (twelve reused across
+two or more, eight new in D5: EV-075–EV-082; EV-013 shared across
+RQ-032/033/034; EV-072 shared between RQ-032 and RQ-034; EV-012 and EV-073
+shared between RQ-033 and RQ-034; EV-005 and EV-074 shared between RQ-032
+and RQ-035; EV-078 and EV-079 shared between RQ-033 and RQ-035) through
+controlled reuse or new registration. Output linkage does not change a
+source's authority, admissibility, limitation, permitted use, or
+frozen-pack state. No D4 or D5 Evidence Pack exists. No D4 or D5 Review
+Question has been examined or answered. All seven D4 RQs have mobilised
+evidence qualified with conditions, but no D4 Evidence Pack has been
+assembled. RQ-032, RQ-033, RQ-034, and RQ-035 have mobilised evidence
+qualified with conditions; RQ-036 and RQ-037 have not started evidence
 mobilisation, and no D5 Evidence Pack has been assembled. RQ-025 through
 RQ-030 evidence identity and qualification are unchanged.
 EV-074 records only the attributable separation of FEF-CCF-001 as future
@@ -198,4 +205,7 @@ transitional rule. EV-080 and EV-081 record only two operated versioning
 examples (the Master Programme's programme-level log and the Review
 Question Register's dual-axis register/per-item versioning, observed
 pre-loop) and do not establish, apply, or resolve a versioning or
-release-state standard.
+release-state standard. EV-082 records only one registered, pre-decision
+candidate proposal (FRAS) as an example of a lifecycle stage distinct from
+an amendment, supersession, or withdrawal, and does not authorise,
+activate, or draft FRAS.

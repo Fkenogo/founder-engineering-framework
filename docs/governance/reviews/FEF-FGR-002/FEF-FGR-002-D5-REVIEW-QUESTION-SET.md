@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.3 |
+| Set version | 1.4 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -16,7 +16,7 @@
 | Lifecycle treatment | RQ-032 through RQ-037 Admitted; not yet examined |
 | Assigned examination unit | Unassigned |
 | Questions answered | 0 |
-| Evidence mobilisation | RQ-032, RQ-033, and RQ-034 mobilised and qualified with conditions; RQ-035 through RQ-037 not commenced |
+| Evidence mobilisation | RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -140,7 +140,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-035 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Amendment, Supersession, and Withdrawal |
 | Question Text | What governance-chain transitions — amendment, supersession, or withdrawal — require explicit Founder or delegated approval, who owns the resulting transition record, and how is a superseded or withdrawn instrument preserved rather than deleted? |
 | Originating candidate | D5-RQC-04 |
@@ -154,6 +154,7 @@ substantive answer is introduced.
 | Scope | Amendment, supersession, and withdrawal mechanics and record ownership |
 | Exclusions | No amendment, supersession, or withdrawal is performed on any existing FEF document by this question; the D3 quarantine precedent is not reinterpreted or reopened |
 | Evidence Need | FEF-FGR-002-D3-QM-001 quarantine manifest; EV-032–EV-049 "permanently retired" treatment; FRAS and FEF-CCF-001 candidate-registration states as examples of a pre-decision lifecycle stage — source-preserved generic classes only; no evidence requirement derived |
+| Evidence Records | EV-005, EV-017, EV-074, EV-078, EV-079, EV-082 — qualified with conditions in FEF-FGR-002-D5-RQ035-EMQR-001; not Packed; examined in no session |
 | Dependencies | D1: Founder authority over any amendment/supersession/withdrawal decision is reserved and not delegated. D3: The D3 quarantine precedent (six voided artefacts preserved, not deleted, not reused) is a direct operated example. D4: Retention/archival and record-preservation controls are the closest existing analogue. Interface: D6 register architecture would implement any resulting model; D7 constitutional amendment may require a stricter version |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
@@ -166,8 +167,8 @@ substantive answer is introduced.
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
-| Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping reproduced exactly from D5-RQC-04 |
+| Created / Updated Dates | 2026-07-29 / 2026-07-30 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-035-only evidence mobilisation and qualification from Execution Loop 004; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 6. FEF-FGR-002-RQ-036 — Exceptions, Expiry, and Controlled Evolution
 
@@ -256,6 +257,7 @@ substantive answer is introduced.
 | 1.1 | 2026-07-29 | RQ-032 only updated to v1.1 after Execution Loop 001 evidence mobilisation: nine Evidence Records qualified (EV-005, EV-007, EV-008, EV-013, EV-072, EV-074 reused; EV-075–EV-077 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-033 through RQ-037 unchanged | FEF-FGR-002-D5-RQ032-EMQR-001; FEF-FGR-002-D5-RQ032-EMVR-001 |
 | 1.2 | 2026-07-30 | Administrative correction: set-level "Evidence mobilisation" header field corrected from stale "Not commenced" (via an interim value) to "RQ-032 and RQ-033 mobilised and qualified with conditions; RQ-034 through RQ-037 not commenced." RQ-033 only updated to v1.1 after Execution Loop 002 evidence mobilisation: eight Evidence Records qualified (EV-009, EV-010, EV-012, EV-013, EV-070, EV-073 reused; EV-078–EV-079 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 and RQ-034 through RQ-037 unchanged | FEF-FGR-002-D5-RQ033-EMQR-001; FEF-FGR-002-D5-RQ033-EMVR-001 |
 | 1.3 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, and RQ-034 mobilised and qualified with conditions; RQ-035 through RQ-037 not commenced." RQ-034 only updated to v1.1 after Execution Loop 003 evidence mobilisation: six Evidence Records qualified (EV-012, EV-013, EV-072, EV-073 reused; EV-080–EV-081 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032, RQ-033, and RQ-035 through RQ-037 unchanged | FEF-FGR-002-D5-RQ034-EMQR-001; FEF-FGR-002-D5-RQ034-EMVR-001 |
+| 1.4 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, and RQ-035 mobilised and qualified with conditions; RQ-036 and RQ-037 not commenced." RQ-035 only updated to v1.1 after Execution Loop 004 evidence mobilisation: six Evidence Records qualified (EV-005, EV-017, EV-074, EV-078, EV-079 reused; EV-082 new); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-034 and RQ-036 through RQ-037 unchanged | FEF-FGR-002-D5-RQ035-EMQR-001; FEF-FGR-002-D5-RQ035-EMVR-001 |
 
 ## 10. Non-Effects
 
