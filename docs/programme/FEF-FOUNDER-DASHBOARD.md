@@ -9,12 +9,12 @@
 
 | Item                          | Current State                                                                                                                                                                                                     |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version             | Master Programme v0.62                                                                                                                                                                                            |
+| Programme version             | Master Programme v0.63                                                                                                                                                                                            |
 | Current phase                 | Phase 2 — Founder Governance Review                                                                                                                                                                               |
-| Current milestone             | **D5 Execution Loop 006 Complete** — RQ-037 evidence mobilised and qualified with conditions (six Evidence Records); all six admitted D5 RQs now evidence mobilised; D5 substantive review not commenced                                                        |
+| Current milestone             | **D5 Evidence Mobilisation Completion Review Complete — Pack Preparation Ready with Conditions** — 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links reconciled with no inconsistency found; D5 substantive review not commenced                                                        |
 | Latest completed work package | FEF-RCR-001 — Programme Repository Reconciliation and Navigation Baseline                                                                                                                                         |
 | Current active work package   | None — review execution is controlled by approved governance instruments                                                                                                                                          |
-| Current execution window      | D4 Closed; S04 historically Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 Mobilised — Effective; RQ-032 through RQ-037 evidence mobilised (all six admitted D5 RQs); D6 not commenced      |
+| Current execution window      | D4 Closed; S04 historically Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 Mobilised — Effective; RQ-032 through RQ-037 evidence mobilised (all six admitted D5 RQs); completion review passed with conditions; D6 not commenced      |
 | Review commencement           | Authorised by FD-2026-07-24-009                                                                                                                                                                                   |
 | Active review identifier      | FEF-FGR-002                                                                                                                                                                                                       |
 | First review domain           | D1 — Governance Authority                                                                                                                                                                                         |
@@ -38,14 +38,14 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 
 | Question                               | Answer                                                                                                                                                      |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Where are we?                          | Phase 2 is complete; D1–D4 are closed; FEF-FGR-002 remains Active; D5 is Mobilised — Effective; all six admitted D5 RQs (RQ-032 through RQ-037) have evidence mobilised and qualified (all six Execution Loops complete). |
-| What are we doing?                     | Nothing is currently active. A separately authorised D5 Evidence Mobilisation Completion Review may next assess the full corpus for readiness. |
+| Where are we?                          | Phase 2 is complete; D1–D4 are closed; FEF-FGR-002 remains Active; D5 is Mobilised — Effective; all six admitted D5 RQs (RQ-032 through RQ-037) have evidence mobilised and qualified, and the Completion Review found the corpus Pack Preparation Ready with Conditions. |
+| What are we doing?                     | Nothing is currently active. A separately authorised D5 Evidence Pack Assembly and Freeze task may next proceed under the recorded conditions. |
 | Why are we doing it?                   | The methodology examines one Review Question's evidence per bounded execution loop, distinct from Evidence Pack freeze or examination.                       |
 | What must finish before anything else? | Nothing — the next execution loop or pack-readiness gate is available whenever separately authorised.                                                        |
 
 ## Immediate Next Programme Action
 
-**D5 Execution Loop 006 is complete. RQ-037 evidence is mobilised and qualified with conditions. All six Execution Loops are now complete.**
+**D5 Evidence Mobilisation Completion Review is complete: Pack Preparation Ready with Conditions. All six Execution Loops and the completion review are now done.**
 
 D4 — Records and Information Governance is Closed. Six Founder-Accepted D5
 candidates were admitted as canonical Review Questions
@@ -66,10 +66,17 @@ validated Pass with Conditions in
 [EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-037-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md)).
 The absence of a general classification rule for pre-review governance
 material, and the absence of any approved D4 retention/archival control,
-are explicitly preserved, not resolved. No Evidence Pack, session,
-Governance Finding, or Founder Decision has been created. **D5
-substantive review remains Not Commenced.** A separately authorised D5
-Evidence Mobilisation Completion Review is the next permissible activity.
+are explicitly preserved, not resolved. The
+[FEF-FGR-002-D5-EMCR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EVIDENCE-MOBILISATION-COMPLETION-REVIEW.md)
+completion review then independently recomputed the full six-loop
+corpus — 25 unique Evidence Records, 41 source-to-RQ mappings, 42
+source-to-requirement links — and found no inconsistency, validated
+Pass with Conditions in
+[FEF-FGR-002-D5-EPRVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EVIDENCE-PACK-READINESS-VALIDATION-REPORT.md).
+No Evidence Pack, session, Governance Finding, or Founder Decision has
+been created. **D5 substantive review remains Not Commenced.** A
+separately authorised D5 Evidence Pack Assembly and Freeze task is the
+next permissible activity.
 
 ### Historical programme narrative
 
@@ -114,7 +121,7 @@ for the authoritative record.
 - No D5-G1 Founder Candidate Review disposition remains pending — all six candidates (D5-RQC-01–06) were Accepted, recorded verbatim and validated Pass in [FEF-FGR-002-D5-G1-FDR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-G1-FOUNDER-DISPOSITION-RECORD.md).
 - No DG-2 admission decision remains pending — RQ-032 through RQ-037 are Admitted and validated Pass with Conditions in [FEF-FGR-002-D5-RQAVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-REVIEW-QUESTION-ADMISSION-VALIDATION-REPORT.md).
 - No immediate Founder decision is pending for RQ-032 through RQ-037 evidence mobilisation — all six are complete and validated Pass with Conditions in [FEF-FGR-002-D5-RQ032-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-032-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ033-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-033-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ034-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-034-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ035-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-035-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ036-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-036-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), and [FEF-FGR-002-D5-RQ037-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-037-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md).
-- A separately authorised D5 Evidence Mobilisation Completion Review may next assess the full RQ-032–RQ-037 corpus for readiness when the Founder chooses to proceed.
+- The D5 Evidence Mobilisation Completion Review is complete — Pack Preparation Ready with Conditions ([FEF-FGR-002-D5-EMCR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EVIDENCE-MOBILISATION-COMPLETION-REVIEW.md), validated in [FEF-FGR-002-D5-EPRVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EVIDENCE-PACK-READINESS-VALIDATION-REPORT.md)). A separately authorised D5 Evidence Pack Assembly and Freeze task may next proceed when the Founder chooses to.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
@@ -128,5 +135,5 @@ All 23 RGS governance questions remain open.
 | --------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Governance            | 🟢 Green | D1 and D2 findings and decisions are validated; Founder authority remains preserved.                                                          |
 | Documentation         | 🟢 Green | D3 Founder Review, DG-5 decision issuance, validation, and traceability are controlled; protected artefacts remain unchanged.                 |
-| Programme             | 🟢 Green | Phase 2 is Complete; FEF-FGR-002 remains Active; D1–D4 are Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 is Mobilised — Effective with all six admitted RQs (RQ-032 through RQ-037) evidence mobilised; D6 not commenced. |
+| Programme             | 🟢 Green | Phase 2 is Complete; FEF-FGR-002 remains Active; D1–D4 are Closed; Founder Review, DG-5, DG-6, and PGC-001 complete; D5 is Mobilised — Effective with all six admitted RQs (RQ-032 through RQ-037) evidence mobilised and the Completion Review Pack Preparation Ready with Conditions; D6 not commenced. |
 | Engineering Readiness | 🔴 Red   | Neither RGS nor RDS is approved and discovery execution is not authorised.                                                                    |
