@@ -15,22 +15,23 @@
 | Custodian | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Version | 1.0 |
-| Lifecycle state | **Assembled — Not Frozen** |
-| Freeze state | Not Frozen |
+| Lifecycle state | **Frozen** |
+| Freeze state | Frozen — 2026-07-31 |
 | Examination effect | None — not authorised for examination |
 | Assembly date | 2026-07-30 |
 | Input repository baseline | `f04c29d98f24a7c38a38b52b36a1fe43aded431d` |
 | Applicable specification | [FEF-EPS-001](../FEF-EPS-001-EVIDENCE-PACK-SPECIFICATION.md) |
 | Manifest | [FEF-FGR-002-EP-005-MAN-001](FEF-FGR-002-D5-EP-005-MANIFEST.md) |
-| Freeze record | None — not yet frozen |
+| Freeze record | [FEF-FGR-002-EP-005-FR-001](FEF-FGR-002-D5-EP-005-FREEZE-RECORD.md) |
 | Assembly report | [FEF-FGR-002-EP-005-AR-001](FEF-FGR-002-D5-EP-005-EVIDENCE-PACK-ASSEMBLY-REPORT.md) |
 | Assembly validation | [FEF-FGR-002-EP-005-AVR-001](FEF-FGR-002-D5-EP-005-EVIDENCE-PACK-ASSEMBLY-VALIDATION-REPORT.md) |
+| Freeze validation | [FEF-FGR-002-EP-005-VR-001](FEF-FGR-002-D5-EP-005-VALIDATION-REPORT.md) — Pass with Conditions |
 | Supersedes / superseded by | None / None |
-| Pack effect | Assembles the reconciled D5 evidence baseline into a controlled, canonical structure only; no freeze effect, no analytical effect, no governance effect |
+| Pack effect | Freezes the reconciled D5 evidence baseline only; no analytical or governance effect |
 
 ## 2. Purpose and Boundary
 
-This pack assembles the exact evidence corpus qualified for RQ-032 through RQ-037 in D5 Evidence Mobilisation Execution Loops 001–006 and reconciled in FEF-FGR-002-D5-EMCR-001 (v1.1), validated in FEF-FGR-002-D5-EPRVR-001 (v1.1), following the administrative metadata corrections recorded in FEF-FGR-002-D5-PCARR-001 and validated in FEF-FGR-002-D5-PCARVR-001. It creates a controlled, canonical structure for a future, separately governed DG-3 freeze action and, after that, a future D5 session-entry decision.
+This pack assembles the exact evidence corpus qualified for RQ-032 through RQ-037 in D5 Evidence Mobilisation Execution Loops 001–006 and reconciled in FEF-FGR-002-D5-EMCR-001 (v1.1), validated in FEF-FGR-002-D5-EPRVR-001 (v1.1), following the administrative metadata corrections recorded in FEF-FGR-002-D5-PCARR-001 and validated in FEF-FGR-002-D5-PCARVR-001, and the pre-freeze reconciliation recorded in FEF-FGR-002-D5-PFRR-001 and validated in FEF-FGR-002-D5-PFRVR-001. It was assembled, validated (FEF-FGR-002-EP-005-AR-001 / FEF-FGR-002-EP-005-AVR-001), and is now frozen (FEF-FGR-002-EP-005-FR-001, validated in FEF-FGR-002-EP-005-VR-001) as a stable baseline for a future, separately governed D5 session-entry decision.
 
 The pack contains:
 
@@ -39,11 +40,11 @@ The pack contains:
 - 42 source-to-requirement links; and
 - 24 evidence requirements across six admitted Review Questions.
 
-**This assembly does not freeze the pack.** Assembly, assembled-pack validation, DG-3 freeze authorisation, frozen-pack validation, and session-entry validation are distinct, sequential, separately governed activities. Assembly does not answer a Review Question, evaluate evidence sufficiency, resolve a gap or Open Question, produce a Governance Finding, prepare a Founder Decision, create or open a session, commence examination, commence D6 or D7, evaluate or disposition FEF-FEV-001-FEC-001, FEF-CCF-001, or CE1–CE6, activate or draft FRAS, adopt a lifecycle or legacy-classification rule, or retrospectively validate or invalidate any legacy governance material.
+**Freeze does not answer a Review Question, evaluate evidence sufficiency, resolve a gap or Open Question, produce a Governance Finding, prepare a Founder Decision, create or open a session, commence examination, commence D6 or D7, evaluate or disposition FEF-FEV-001-FEC-001, FEF-CCF-001, or CE1–CE6, activate or draft FRAS, adopt a lifecycle or legacy-classification rule, or retrospectively validate or invalidate any legacy governance material.** Session-entry validation remains a further, distinct, separately governed activity after freeze.
 
-## 3. Assembled Membership
+## 3. Closed Membership
 
-The assembled membership is exactly:
+The frozen membership is exactly:
 
 `EV-005`, `EV-007`, `EV-008`, `EV-009`, `EV-010`, `EV-012`, `EV-013`, `EV-014`,
 `EV-017`, `EV-066`, `EV-070`, `EV-072`, `EV-073`, `EV-074`, `EV-075`, `EV-076`,
@@ -178,7 +179,7 @@ These are carried limitations and gaps, not pack conclusions. Their exact wordin
 
 All six qualification and validation loops, the completion review, the post-completion reconciliation, and this assembly use the same combined acting capacity. Non-independence remains disclosed.
 
-## 9. Pack Fingerprint (Assembled — Pending Freeze)
+## 9. Pack Fingerprint (Frozen)
 
 | Control Field | Recorded Value |
 |---|---|
@@ -188,15 +189,15 @@ All six qualification and validation loops, the completion review, the post-comp
 | Generation procedure | For each identifier in ascending numeric order, emit `EV-{id:03d}:{digest}` (or `EV-{id:03d}:{digest1}\|{digest2}` for EV-072 and EV-080, in acquisition order), join with `\n`, append a trailing `\n`, and compute SHA-256 of the resulting UTF-8 byte string |
 | Repository commit baseline | `f04c29d98f24a7c38a38b52b36a1fe43aded431d` |
 
-This is the **assembled-pack membership fingerprint**, computed from the 25 members' own already-fixed qualification digests. It is deterministic and reproducible from the manifest alone, independent of this pack document's own byte content. It is not yet a frozen baseline; a separate, whole-file pack-and-manifest fingerprint pair is recorded in FEF-FGR-002-EP-005-AR-001 (the Assembly Report), mirroring the role a Freeze Record would play at a later DG-3 gate, without asserting that freeze has occurred.
+This is the **frozen membership fingerprint**, computed from the 25 members' own already-fixed qualification digests. It is deterministic and reproducible from the manifest alone, independent of this pack document's own byte content. It is unchanged from the assembled-pack fingerprint recorded at assembly and independently reconfirmed unchanged in FEF-FGR-002-D5-PFRR-001 §6. A separate, whole-file pack-and-manifest fingerprint pair is recorded in FEF-FGR-002-EP-005-AR-001 (the Assembly Report) and again in FEF-FGR-002-EP-005-FR-001 (the Freeze Record), both identical.
 
 ## 10. Lifecycle Effect
 
-| Item | State after Assembly |
+| Item | State after Freeze |
 |---|---|
 | D5 | Mobilised — Effective |
-| RQ-032 through RQ-037 | Admitted; Evidence Mobilised and Qualified with Conditions; **Packed in EP-005 v1.0**; Not Examined; Disposition Pending |
-| EP-005 | **Assembled — v1.0 — Not Frozen** |
+| RQ-032 through RQ-037 | Admitted; **Evidence Pack Frozen — EP-005 v1.0**; Not Examined; Disposition Pending |
+| EP-005 | **Frozen — v1.0** |
 | D5 session | Not created |
 | Examination | Not commenced |
 | Governance Findings | None |
@@ -208,17 +209,16 @@ This is the **assembled-pack membership fingerprint**, computed from the 25 memb
 | Version | Date | Change | Authority | Revalidation Effect |
 |---|---|---|---|---|
 | 1.0 | 2026-07-30 | Exact reconciled D5 corpus assembled as EP-005 — Assembled, Not Frozen | FEF-FGR-002-RA-002, RA-005, and RA-006; non-independent combination disclosed | None — first assembled version |
+| 1.0 | 2026-07-31 | EP-005 v1.0 frozen following the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation (FEF-FGR-002-D5-PFRR-001); pack and manifest fingerprints reconfirmed byte-identical to assembly and unchanged by freeze | FEF-FGR-002-EP-005-FR-001; FEF-FGR-002-EP-005-VR-001 |
 
 ## 12. Pack Conditions
 
-1. This pack is **Assembled — Not Frozen**. It has no freeze effect and confers no session-entry or examination authority.
-2. Any future DG-3 freeze action must reverify this exact assembled pack, manifest, and their fingerprints before freezing.
-3. Any future session-entry gate must separately reverify currency and fingerprints after freeze; assembly readiness does not substitute for that gate.
-4. Examination, once separately authorised, must use only each RQ's mapped EP-005 items.
-5. All source authority, admissibility, limitation, uncertainty, and permitted-use controls must remain visible, including the EV-072, EV-080, and EV-081 acquisition-point boundaries in Section 6.
-6. EV-078's correction/recovery-only character and its two distinct RQ-035 requirement links must remain explicit and unmerged.
-7. All Open Questions, evidence gaps, and D6/D7 interfaces must remain unresolved unless a later authorised governance activity changes them.
-8. Pack inclusion must not be treated as evidence sufficiency, truth, recommendation, or an RQ answer.
-9. Non-independent preparation and validation must remain disclosed.
+1. Any future session-entry gate must verify this exact frozen pack, manifest, freeze record, and their fingerprints.
+2. Examination, once separately authorised, must use only each RQ's mapped EP-005 items.
+3. All source authority, admissibility, limitation, uncertainty, and permitted-use controls must remain visible, including the EV-072, EV-080, and EV-081 acquisition-point boundaries in Section 6.
+4. EV-078's correction/recovery-only character and its two distinct RQ-035 requirement links must remain explicit and unmerged.
+5. All Open Questions, evidence gaps, and D6/D7 interfaces must remain unresolved unless a later authorised governance activity changes them.
+6. Pack inclusion must not be treated as evidence sufficiency, truth, recommendation, or an RQ answer.
+7. Non-independent preparation, assembly, and freeze must remain disclosed.
 
-**Pack state: Assembled — Not Frozen — Pass with Conditions (pending DG-3 freeze authorisation).**
+**Pack state: Frozen — v1.0 — Pass with Conditions.**

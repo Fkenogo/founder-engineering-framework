@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.66
+**Programme record version:** 0.67
 **Reconciliation date:** 2026-07-30
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,20 +21,20 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field                            | Current Position                                                                                                                                                                                                                                                                                   |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version                | Master Programme v0.66                                                                                                                                                                                                                                                                             |
+| Programme version                | Master Programme v0.67                                                                                                                                                                                                                                                                             |
 | Framework release                | None                                                                                                                                                                                                                                                                                               |
 | Current phase                    | Phase 2 — Founder Governance Review                                                                                                                                                                                                                                                                |
-| Current milestone                | **D5 EP-005 Evidence Pack Assembled — v1.0 — Not Frozen** — 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped; RQ-032 through RQ-037 now Packed in EP-005 v1.0; D5 substantive review (examination) remains **not commenced** |
+| Current milestone                | **D5 EP-005 Evidence Pack Frozen — v1.0** (DG-3 complete) — 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped; RQ-032 through RQ-037 now Evidence Pack Frozen in EP-005 v1.0; D5 substantive review (examination) remains **not commenced** |
 | Latest completed work package    | FEF-RCR-001 — Programme Repository Reconciliation and Navigation Baseline                                                                                                                                                                                                                          |
 | Active delivery work package     | None                                                                                                                                                                                                                                                                                               |
-| Current execution window         | FEF-FGR-002 remains Active; D4 is Closed; S04 is historically Closed — Examination Complete; Governance Findings Presented; D5 is Mobilised — Effective; RQ-032 through RQ-037 Packed in EP-005 v1.0 — Assembled, Not Frozen; no session created; no examination commenced; D6 has not commenced           |
+| Current execution window         | FEF-FGR-002 remains Active; D4 is Closed; S04 is historically Closed — Examination Complete; Governance Findings Presented; D5 is Mobilised — Effective; RQ-032 through RQ-037 Evidence Pack Frozen in EP-005 v1.0; no session created; no examination commenced; D6 has not commenced           |
 | Historical blocked work package  | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path                                                                                                                                                                                                                   |
-| Immediate next governed activity | A separately authorised **DG-3 EP-005 Freeze Authorisation and Freeze Action** may next proceed under the conditions recorded in FEF-FGR-002-EP-005-EVIDENCE-PACK.md, FEF-FGR-002-EP-005-AR-001, and FEF-FGR-002-EP-005-AVR-001; freeze itself, frozen-pack validation, and session-entry validation remain separately governed, sequential activities, not one indivisible action; none performed in this record; do not commence D6                                                                                    |
+| Immediate next governed activity | A separately authorised **D5 session-entry validation (DG-4)** may next proceed, reverifying the exact frozen EP-005 pack, manifest, freeze record, and fingerprints recorded in FEF-FGR-002-EP-005-FR-001 and FEF-FGR-002-EP-005-VR-001; session creation and examination remain separately governed, sequential activities beyond that gate; none performed in this record; do not commence D6                                                                                    |
 | Review commencement decision     | FD-2026-07-24-009 — Approved and effective                                                                                                                                                                                                                                                         |
 | Active review identifier         | FEF-FGR-002                                                                                                                                                                                                                                                                                        |
 | First review domain              | D1 — Governance Authority                                                                                                                                                                                                                                                                          |
 | Operating mode                   | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions                                                                                                                                                                                                                      |
-| Next review domain               | D5 — Mobilised — Effective; RQ-032 through RQ-037 Packed in EP-005 v1.0 — Assembled, Not Frozen; no examination commenced. D6 — Not commenced; requires a separate governed entry sequence                                                                       |
+| Next review domain               | D5 — Mobilised — Effective; RQ-032 through RQ-037 Evidence Pack Frozen in EP-005 v1.0 (DG-3 complete); no examination commenced. D6 — Not commenced; requires a separate governed entry sequence                                                                       |
 | Framework Evolution status       | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect. The **FEF-FEV-001 Framework Evolution Intake** (Phase 1) is now Active — Intake Established, providing the controlled submission mechanism through which such candidates will be received and evaluated; one candidate, FEF-FEV-001-FEC-001, is registered as **Submitted for Review**; no adoption decision has been made and no Framework Evolution has been performed |
 | Current research standard        | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved                                                                                                                                                                                                                                     |
 | Engineering readiness            | Not ready — research governance and discovery standards are not approved                                                                                                                                                                                                                           |
@@ -109,7 +109,7 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGRA-001                                                                                       | Founder Governance Review Agenda                                                                | Founder Approved                                                     | Controlling strategic Agenda                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | FEF-FGRP-001                                                                                       | Founder Governance Review Plan                                                                  | Founder Approved                                                     | Controlling operational Plan                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | FEF-FRCD-001                                                                                       | Founder Review Commencement Decision                                                            | Founder Approved — Effective                                         | Authorises commencement and controlled mobilisation under FD-2026-07-24-009                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| FEF-FGR-002                                                                                        | Founder Governance Review                                                                       | Active — D1, ORC-001, D2, D3, and D4 Closed; D5 Mobilised — Effective | D4-G2 Founder Review, DG-5, and DG-6 complete for GF-024 through GF-030; all seven are Closed/Decision Issued `Accept with Conditions` via FD-026 through FD-032; D5 Mobilised — Effective; RQ-032 through RQ-037 admitted, evidence mobilised and qualified with conditions, and now assembled in [FEF-FGR-002-EP-005](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-EVIDENCE-PACK.md) v1.0 — Assembled, Not Frozen (validated in [FEF-FGR-002-EP-005-AVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-EVIDENCE-PACK-ASSEMBLY-VALIDATION-REPORT.md)); D5 substantive review and D6 not commenced                                                                                                                                                                                                                                                                                                      |
+| FEF-FGR-002                                                                                        | Founder Governance Review                                                                       | Active — D1, ORC-001, D2, D3, and D4 Closed; D5 Mobilised — Effective | D4-G2 Founder Review, DG-5, and DG-6 complete for GF-024 through GF-030; all seven are Closed/Decision Issued `Accept with Conditions` via FD-026 through FD-032; D5 Mobilised — Effective; RQ-032 through RQ-037 admitted, evidence mobilised and qualified with conditions, and now Frozen in [FEF-FGR-002-EP-005](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-EVIDENCE-PACK.md) v1.0 (DG-3 complete; validated in [FEF-FGR-002-EP-005-VR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-VALIDATION-REPORT.md)); D5 substantive review and D6 not commenced                                                                                                                                                                                                                                                                                                      |
 | ORC-001                                                                                            | Operational Readiness Checkpoint Report                                                         | Closed — Founder Approved with Conditions; Validation Passed         | Final Framework Engineering checkpoint; D1 accepted as bounded reference implementation                                                                                                                                                                                                                                                                                                                                                                                                        |
 | FEF-FGR-002-FD-010                                                                                 | Operational Readiness Confirmation                                                              | Decision Record Validated — Operative with Conditions                | Sustained Operational Mode and bounded D2 mobilisation authorised; the decision did not itself commence D2                                                                                                                                                                                                                                                                                                                                                                                     |
 | FEF-FGR-002-D2-MOB-001                                                                             | D2 Evidence Governance Mobilisation Record                                                      | Mobilisation Complete — Ready with Conditions                        | Controls D2 scope, zero-RQ state, effective roles, dependencies, and next evidence-mobilisation gate                                                                                                                                                                                                                                                                                                                                                                                           |
@@ -200,7 +200,7 @@ The current controlling sequence is:
 1. D1 — Governance Authority: closed with eight Founder dispositions and nine validated review-scoped decisions;
 2. ORC-001: closed after attributable Founder approval with conditions and passed post-approval validation;
 3. D2 — Evidence Governance: closed after six attributable `Accept with Conditions` dispositions, six validated decisions, and reconciled traceability;
-4. assess remaining programme work: D4-G2 Founder Review, DG-5 Founder Decision Issuance, DG-6 Domain Exit, and FEF-PGC-001 Programme Governance Checkpoint are complete; D4 is Closed; D5 is Mobilised — Effective, with RQ-032 through RQ-037 assembled in EP-005 v1.0 — Assembled, Not Frozen, no examination commenced; D6 remains Not Started and requires its own separately governed entry sequence;
+4. assess remaining programme work: D4-G2 Founder Review, DG-5 Founder Decision Issuance, DG-6 Domain Exit, and FEF-PGC-001 Programme Governance Checkpoint are complete; D4 is Closed; D5 is Mobilised — Effective, with RQ-032 through RQ-037 Frozen in EP-005 v1.0 (DG-3 complete), no examination commenced; D6 remains Not Started and requires its own separately governed entry sequence;
 5. complete and validate the Founder Governance Review;
 6. perform separately authorised constitutional consolidation;
 7. amend and separately review FEF-RGS-000;
@@ -211,7 +211,7 @@ This sequence does not create an RQ, evidence item, pack, session, finding, deci
 
 ## 7. Immediate Next Programme Action
 
-**D5 is Mobilised — Effective. All six Execution Loops (001 through 006), the D5 Evidence Mobilisation Completion Review, the D5 Post-Completion Administrative Reconciliation, and D5 EP-005 Evidence Pack Assembly are all complete. EP-005 v1.0 is Assembled — Not Frozen. A separately authorised DG-3 EP-005 Freeze Authorisation and Freeze Action may next proceed under the recorded conditions; freeze and session entry remain distinct, separately governed activities.**
+**D5 is Mobilised — Effective. All six Execution Loops (001 through 006), the D5 Evidence Mobilisation Completion Review, the D5 Post-Completion Administrative Reconciliation, the D5 EP-005 Evidence Pack Assembly, the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation, and DG-3 EP-005 Freeze Authorisation and Freeze Action are all complete. EP-005 v1.0 is Frozen. A separately authorised D5 session-entry validation (DG-4) may next proceed under the recorded conditions; session creation and examination remain distinct, separately governed activities beyond that gate.**
 
 D4 — Records and Information Governance is Closed. All seven findings are
 Closed/Decision Issued `Accept with Conditions` via FD-026 through FD-032.
@@ -235,7 +235,15 @@ split, merge, renumbering, or requalification as
 [FEF-FGR-002-EP-005](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-EVIDENCE-PACK.md)
 v1.0, validated Pass with Conditions in
 [FEF-FGR-002-EP-005-AVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-EVIDENCE-PACK-ASSEMBLY-VALIDATION-REPORT.md).
-**EP-005 is Assembled — Not Frozen.** No session exists and no examination
+A pre-freeze reconciliation
+([FEF-FGR-002-D5-PFRR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-PRE-FREEZE-RECONCILIATION-RECORD.md))
+corrected four further programme-control discrepancies, confirming
+EP-005's pack, manifest, and fingerprints unchanged, before EP-005 was
+frozen via DG-3
+([FEF-FGR-002-EP-005-FR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-FREEZE-RECORD.md),
+validated Pass with Conditions in
+[FEF-FGR-002-EP-005-VR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-VALIDATION-REPORT.md)).
+**EP-005 is Frozen — v1.0.** No session exists and no examination
 has commenced. D6 has not commenced.
 
 FEF-PGC-001 assessed governance scope, common vs project boundary, lifecycle
@@ -303,7 +311,7 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 6. The Founder follow-up to register FEF-CCF-001 is complete at programme-planning level only; evaluation and commencement remain future Framework Evolution work.
 7. No Phase 2 administrative completion action remains pending.
 8. No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
-9. D5 is Mobilised — Effective and has completed evidence mobilisation for RQ-032 through RQ-037, the D5 Evidence Mobilisation Completion Review, the D5 Post-Completion Administrative Reconciliation, and D5 EP-005 Evidence Pack Assembly (v1.0 — Assembled, Not Frozen); do not commence D6 without a separately governed entry sequence authorised by the Master Programme following FEF-PGC-001 D6-readiness confirmation; do not freeze EP-005, open a D5 session, or commence D5 examination without their own separately governed authorisation.
+9. D5 is Mobilised — Effective and has completed evidence mobilisation for RQ-032 through RQ-037, the D5 Evidence Mobilisation Completion Review, the D5 Post-Completion Administrative Reconciliation, D5 EP-005 Evidence Pack Assembly, the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation, and DG-3 EP-005 Freeze Authorisation and Freeze Action (EP-005 v1.0 is now **Frozen**); do not commence D6 without a separately governed entry sequence authorised by the Master Programme following FEF-PGC-001 D6-readiness confirmation; do not open a D5 session or commence D5 examination without their own separately governed session-entry validation (DG-4).
 10. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
 11. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
 12. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
@@ -1390,6 +1398,39 @@ Decision was created. **EP-005 remains Assembled — Not Frozen.** D5
 substantive review remains **not commenced**; a separately authorised
 DG-3 EP-005 Freeze Authorisation and Freeze Action is the next
 permissible activity.
+
+This v0.67 revision records **DG-3 EP-005 Freeze Authorisation and
+Freeze Action**, performed only after the pre-freeze reconciliation
+above confirmed EP-005's pack, manifest, and fingerprints unchanged.
+[FEF-FGR-002-EP-005-FR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-FREEZE-RECORD.md)
+declares FEF-FGR-002-EP-005 v1.0 Frozen: the frozen membership is
+exactly the same 25 unique Evidence Records, 41 source-to-RQ mappings,
+and 42 source-to-requirement links reconciled and assembled earlier,
+with the EV-072 and EV-080 dual acquisition-point digests, the EV-081
+pre-loop digest, and EV-078's two distinct RQ-035 requirement links
+all preserved unmerged. The pack and manifest fingerprints
+(`edcc5a94e652a9a15784ee7318f72946a140ea1450c4f4a1132856ebfc0d7f4e`
+and
+`4b9538a9debcbfbaaf8bdab7dfdd6544bca672a6e090f11e017456a470b3f9a8`)
+and the membership fingerprint
+(`59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc`)
+are unchanged from assembly. Freeze is validated Pass with Conditions
+in
+[FEF-FGR-002-EP-005-VR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-VALIDATION-REPORT.md).
+The Evidence Pack Register is updated to v1.10 (EP-005 now Frozen,
+2026-07-31); the Review Question Register is updated to v1.52
+(RQ-032 through RQ-037 each now v1.3, Evidence Status "Evidence Pack
+Frozen — EP-005 v1.0"); the D5 Review Question Set is updated to v1.9
+with the same change. No Evidence Record was added, removed, or
+requalified; no RQ wording, Open Question, or D1–D4 substantive
+artefact changed; no session was created; no examination was
+commenced; no Governance Finding or Founder Decision was created;
+FRAS was not activated or drafted; FEF-FEV-001-FEC-001, FEF-CCF-001,
+and CE1–CE6 remain unevaluated. **EP-005 is now Frozen — v1.0.** A
+separately authorised D5 session-entry validation (DG-4) is the next
+permissible activity; session creation and examination remain further,
+distinct, separately governed activities beyond that gate. D5
+substantive review remains **not commenced**.
 
 ## 11. Change Control
 

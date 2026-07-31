@@ -6,8 +6,9 @@
 | Pack identifier | FEF-FGR-002-EP-005 |
 | Pack version | 1.0 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| State | **Assembled — Not Frozen** |
+| State | **Frozen** |
 | Assembly date | 2026-07-30 |
+| Freeze date | 2026-07-31 |
 | Input repository baseline | `f04c29d98f24a7c38a38b52b36a1fe43aded431d` |
 | Evidence Register input | FEF-FGR-002-EVIDENCE-REGISTER.md v1.19 |
 | D5 Review Question Set input | FEF-FGR-002-D5-REVIEW-QUESTION-SET.md v1.6 |
@@ -166,6 +167,6 @@ Applied ordering, consistent with prior Evidence Pack precedent (FEF-FGR-002-EP-
 
 The same inputs (the six EMQR records, the Evidence Register, and the Review Question Register at the baselines named above) always generate this same ordering and the fingerprint recorded in the pack's Section 9.
 
-## 7. Manifest Status
+## 7. Manifest Closure
 
-This manifest is current at EP-005 v1.0 assembly. It is **not closed** — unlike a frozen pack's manifest, this manifest remains subject to a future DG-3 freeze action, at which point it becomes closed exactly as FEF-FGR-002-EP-004-MAN-001 was closed at its own freeze. No item, requirement, mapping, digest, provenance value, class, admissibility state, limitation, permitted use, Open Question mapping, or dependency boundary has been changed, added, or removed during this assembly.
+This manifest is closed at EP-005 v1.0 freeze (FEF-FGR-002-EP-005-FR-001), exactly as FEF-FGR-002-EP-004-MAN-001 was closed at its own freeze. No item, requirement, mapping, digest, provenance value, class, admissibility state, limitation, permitted use, Open Question mapping, or dependency boundary may be changed inside this frozen version. Change requires a governed successor or supplemental pack and revalidation. Between assembly (2026-07-30) and freeze (2026-07-31), the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation (FEF-FGR-002-D5-PFRR-001) independently reverified this manifest's content, fingerprints, and every input listed above as byte-identical to assembly; no item, requirement, mapping, digest, provenance value, class, admissibility state, limitation, permitted use, Open Question mapping, or dependency boundary was changed, added, or removed at any point from assembly through freeze.
