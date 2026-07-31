@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.11 |
+| Register version | 1.12 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,7 +13,7 @@
 | Control owner | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record; pack-specific treatment required |
-| Integrity control | Pack SHA-256 recorded in domain validation records; EP-003 records its Integrity Manifest in-pack; EP-004 pack, manifest, and freeze fingerprints are controlled by FEF-FGR-002-EP-004-FR-001 and reverified in FEF-FGR-002-EP-004-VR-001; EP-005 v1.0 whole-file fingerprints remain historically controlled by FR-001/VR-001 v1.1, but its membership fingerprint is blocked from reliance by FEF-FGR-002-EP-005-PMCR-001; successor v2.0 carries the reconstructed candidate membership fingerprint pending separate revalidation and re-freeze |
+| Integrity control | Pack SHA-256 recorded in domain validation records; EP-003 records its Integrity Manifest in-pack; EP-004 pack, manifest, and freeze fingerprints are controlled by FEF-FGR-002-EP-004-FR-001 and reverified in FEF-FGR-002-EP-004-VR-001; EP-005 v1.0 whole-file fingerprints remain historical under FR-001/VR-001 v1.1 and its membership fingerprint is blocked from reliance by PMCR-001; PMCVR-001 validates successor v2.0's construction hashes and corrected membership fingerprint for later DG-3 re-freeze, but establishes no frozen-state successor control |
 | Last validation date | 2026-07-31 |
 | Substantive entry count | 6 pack versions across five pack identities |
 
@@ -26,7 +26,7 @@
 | FEF-FGR-002-EP-003 | 1.0 | D3 — Governance Assurance | RQ-016–RQ-024 | 39 Evidence Records (17 reused, 22 new) | Frozen | 2026-07-26 | Unassigned — no D3 session exists | SHA-256 digests recorded in the pack's own Integrity Manifest (§11); reused items carry forward D1/D2 integrity values | Repository-controlled | None | Pass with Conditions — non-independent; RQ-018 gap and EV-058/EV-059 contradictions disclosed |
 | FEF-FGR-002-EP-004 | 1.0 | D4 — Records and Information Governance | RQ-025–RQ-031 | 19 Evidence Records; 65 source-to-RQ mappings; 72 source-to-requirement links | Frozen | 2026-07-28 | Unassigned — no D4 session exists | Pack and manifest SHA-256 recorded in FEF-FGR-002-EP-004-FR-001; source and frozen-artefact hashes reverified in FEF-FGR-002-EP-004-VR-001 | Repository-controlled | None | Pass with Conditions — non-independent; evidence gaps, EV-059 contradiction, EV-074 boundary, Open Questions, and D5/D6 interfaces preserved |
 | FEF-FGR-002-EP-005 | 1.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links | Frozen — historical predecessor; reliance blocked | 2026-07-31 | None — DG-4 stopped; no D5 session exists | Historical pack/manifest SHA-256 controlled by FR-001/VR-001 v1.1; historical membership fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` contains the defective EV-072 pair | Repository-controlled | None | Historical Pass with Conditions overtaken for session reliance by the DG-4 integrity discovery; v1.0 remains immutable |
-| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Validation Pending — Not Frozen | None | None — not usable; no D5 session exists | Candidate membership fingerprint `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` reconstructed in PMCR-001 and successor Pack §9.1; formal revalidation pending | Repository-controlled | EP-005 v1.0 | Not validated; separate remediation revalidation and re-freeze required |
+| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Remediation-Validated — Not Frozen | None | None — not usable; no D5 session exists | Membership fingerprint `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` validated in PMCVR-001 for successor v2.0; not a frozen-state control; construction hashes remain separately identified | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; separate DG-3 re-freeze required before use |
 
 ## D2 Output Linkage
 
@@ -56,9 +56,9 @@ not itself authorise that step.
 EP-005 v1.0 remains byte-preserved and Frozen as the historical predecessor,
 but the attempted DG-4 integrity check found its EV-072 provenance pair and
 membership input defective. It is blocked from session reliance. Successor
-v2.0 is prepared with the corrected D5 acquisition pair and reconstructed
-candidate membership fingerprint, but remains Validation Pending and Not
-Frozen. Neither version may support DG-4. No D5 session, Governance Finding,
+v2.0 is remediation-validated with the corrected D5 acquisition pair and
+validated membership fingerprint, but remains Not Frozen. Neither version may
+support DG-4. No D5 session, Governance Finding,
 Founder Decision, or examination linkage exists.
 
 ## Change History
@@ -77,12 +77,13 @@ Founder Decision, or examination linkage exists.
 | 1.9 | 2026-07-30 | D5 Evidence Pack EP-005 v1.0 registered as **Assembled — Not Frozen** following exact assembly of the reconciled 25-record corpus with 41 source-to-RQ mappings and 42 source-to-requirement links; Pass with Conditions; no freeze, session use, examination, RQ answer, GF, or FD; EV-072/EV-080/EV-081 acquisition-point boundaries and all D5 Open Questions and gaps preserved | FEF-FGR-002-EP-005-AR-001; FEF-FGR-002-EP-005-AVR-001 |
 | 1.10 | 2026-07-31 | D5 Evidence Pack EP-005 v1.0 registered as **Frozen** following DG-3 (Pass with Conditions); the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation (FEF-FGR-002-D5-PFRR-001) independently reverified the pack, manifest, and both fingerprints as byte-identical to assembly immediately before freeze; 25 Evidence Records (14 reused from D1–D4 catalogues, 11 newly registered in D5 as EV-075–EV-085); no session use, examination, GF, or FD | FEF-FGR-002-EP-005-FR-001; FEF-FGR-002-EP-005-VR-001 |
 | 1.11 | 2026-07-31 | Records the attempted DG-4 integrity stop and EP-005 v1.0 reliance block; registers methodology-compliant successor v2.0 and MAN-002 as Validation Pending, Not Frozen, with corrected EV-072 D5 provenance and reconstructed candidate membership fingerprint; no revalidation, re-freeze, DG-4 verdict, S05, session, examination, GF, or FD | Founder authorisation; FEF-FGR-002-EP-005-PMCR-001 |
+| 1.12 | 2026-07-31 | Records PMCVR-001 Pass with Conditions: successor v2.0 and MAN-002 remediation-validated against their submitted construction hashes, corrected EV-072 provenance, canonical membership fingerprint, and preserved 25/41/42/24 corpus; still Not Frozen and unusable pending separately authorised DG-3 | Founder remediation-revalidation authorisation; FEF-FGR-002-EP-005-PMCVR-001 |
 
 ## Non-Effects
 
 This register contains five pack identities and six registered versions.
-EP-005 v1.0 remains Frozen but blocked from reliance; v2.0 is Validation
-Pending and Not Frozen. Neither has session use, examination, Governance
+EP-005 v1.0 remains Frozen but blocked from reliance; v2.0 is
+Remediation-Validated and Not Frozen. Neither has session use, examination, Governance
 Finding, or Founder Decision linkage. The successor changes no source
 evidence, mapping, Open Question, or cross-domain boundary and authorises
 no downstream activity.
