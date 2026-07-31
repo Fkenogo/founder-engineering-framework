@@ -93,7 +93,7 @@ This validation does not evaluate evidence sufficiency, answer a Review Question
 
 ### 4.1 Evidence Pack Diff (`d9982b5` → `663297a`)
 
-Five hunks, 50 lines changed. Independently classified:
+Five hunks, 50 lines changed. Directly classified under the disclosed non-independent arrangement:
 
 | Hunk                                                  | Classification                           | Evidence Content? |
 | ----------------------------------------------------- | ---------------------------------------- | ----------------- |
@@ -105,7 +105,7 @@ Five hunks, 50 lines changed. Independently classified:
 
 ### 4.2 Manifest Diff (`d9982b5` → `663297a`)
 
-Two hunks, 9 lines changed. Independently classified:
+Two hunks, 9 lines changed. Directly classified under the disclosed non-independent arrangement:
 
 | Hunk                               | Classification                         | Evidence Content? |
 | ---------------------------------- | -------------------------------------- | ----------------- |
