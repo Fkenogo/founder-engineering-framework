@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.36 |
+| Register version | 1.37 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -26,7 +26,7 @@
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S03-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S04 | D4 — Records and Information Governance | Examine the seven admitted D4 RQs using EP-004 only | RQ-025–RQ-031 | EP-004 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S04-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S04-SESSION-EXIT-VALIDATION-REPORT.md) |
-| FEF-FGR-002-S05 | D5 — Governance Lifecycle and Evolution | Examine the six admitted D5 RQs using frozen EP-005 v2.0/MAN-002 only | RQ-032–RQ-037 | EP-005 v2.0 / MAN-002 — Frozen | Examine one RQ at a time only after separate loop authority | Pass with Conditions | **Open — Evidence Examination Not Yet Started** | [Opening Record](FEF-FGR-002-S05-OPENING-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S05-OPENING-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S05 | D5 — Governance Lifecycle and Evolution | Examine the six admitted D5 RQs using frozen EP-005 v2.0/MAN-002 only | RQ-032–RQ-037 | EP-005 v2.0 / MAN-002 — Frozen | Examine one RQ at a time only after separate loop authority | Pass with Conditions | **Open — Evidence Examination Loop 001 Complete; RQ-032 Examined; GF-031 Presented** | [Opening Record](FEF-FGR-002-S05-OPENING-RECORD.md); [RQ-032 Examination](FEF-FGR-002-S05-RQ-032-EXAMINATION-RECORD.md) | [Opening Pass with Conditions](FEF-FGR-002-S05-OPENING-VALIDATION-REPORT.md); [GF-031 Pass with Conditions](FEF-FGR-002-S05-GF-031-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -143,13 +143,15 @@ change S04's historical Closed state.
 | 1.34 | 2026-07-29 | D4 Post-Session Linkage updated for completed DG-6 Domain Exit: D4 — Records and Information Governance formally Closed after validation Pass with Conditions; S04 historical Closed state unchanged; DG-5 and DG-6 complete; D5 and D6 not commenced; no Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-CR-001; FEF-FGR-002-D4-DG6-DEVR-001 |
 | 1.35 | 2026-07-31 | DG-4 allocated collision-safe FEF-FGR-002-S05 and validated entry Pass with Conditions against frozen EP-005 v2.0/MAN-002; S05 Prepared — Not Opened; also corrects the stale current-state D4 Non-Effects narrative while preserving historical S04 exit; RQ-032–RQ-037 remain Pending and Unexamined; no examination, RQ answer, GF, FD, D5 closure, or D6/D7 commencement | FEF-FGR-002-S05-ER-001; FEF-FGR-002-S05-EVR-001 |
 | 1.36 | 2026-07-31 | S05 formally opened after Founder acceptance, bounded pre-opening correction, and successful opening validation; state changed only from Prepared — Not Opened to Open — Evidence Examination Not Yet Started; opened count 4→5; frozen v2.0/MAN-002 remains sole baseline; no examination, observation, RQ answer, GF, FD, closure, or D6/D7 commencement | FEF-FGR-002-S05-OR-001; FEF-FGR-002-S05-OVR-001 |
+| 1.37 | 2026-07-31 | S05 Evidence Examination Loop 001 — RQ-032 Only completed against exactly nine mapped EP-005 v2.0 records; GF-031 produced and validated Pass with Conditions, Presented/Pending Founder disposition; S05 remains Open; RQ-033 through RQ-037 remain Pending/Unexamined; no FD, closure, or D6/D7 commencement | FEF-FGR-002-S05-RQ-032-ER-001; FEF-FGR-002-S05-GF-031-VR-001 |
 
 ## Non-Effects
 
 This register contains five allocated and opened session identities: four
-closed sessions (S01 through S04) and S05 **Open — Evidence Examination Not
-Yet Started**. S05 opening has not authorised or
-commenced examination and has produced no RQ answer, GF, or FD. S03 closed
+closed sessions (S01 through S04) and S05 **Open — Evidence Examination Loop
+001 Complete; RQ-032 Examined; GF-031 Presented**. Only RQ-032 has been
+examined in S05, and GF-031 remains pending Founder disposition. No Founder
+Decision was created. S03 closed
 after all nine admitted D3 RQs were examined (RQ-016 through RQ-024),
 producing GF-015 through GF-023, and after the Session Exit Gate
 confirmed every §12.1 criterion. S02 itself issued no FD and its

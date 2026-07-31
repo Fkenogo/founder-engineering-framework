@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.26 |
+| Register version | 1.27 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -14,8 +14,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-28 |
-| Substantive entry count | 30 |
+| Last validation date | 2026-07-31 |
+| Substantive entry count | 31 |
 
 ## Register
 
@@ -51,6 +51,7 @@
 | FEF-FGR-002-GF-028 | 1.0 | Immutable Review History and Frozen-Baseline Change Controls Are Evidenced, but No FEF-Wide Legal-Hold, Deletion, Disposal, or Irreversible-Restriction Governance Is Evidenced | RQ-029 | EV-005; EV-007; EV-008; EV-012; EV-013; EV-023; EV-066; EV-069; EV-071 | Review and Evidence Pack controls preserve identifiers, prior states, custody history, immutable frozen baselines, and attributable successor or supplemental change paths | OQ-011 and OQ-012 remain open; EV-013 and EV-023 are authority-limited; EV-066, EV-069, and EV-071 exclude or defer broader policy; no FEF-wide legal-hold, deletion, disposal, irreversible-restriction, external-authority, or operated disposition model is evidenced | Dispositioned | Accept with Conditions | 1. All recorded evidence limitations remain effective until separately resolved.<br>2. Acceptance of these findings shall not be interpreted as resolving known contradictions.<br>3. Framework enhancements identified during D4 shall proceed only through authorised Framework Evolution.<br>4. Acceptance of these findings does not amend any constitutional instrument.<br>5. DG-5 and DG-6 remain separate governance stages. | [FD-030](FEF-FGR-002-FD-030-LEGAL-HOLD-DELETION-AND-DISPOSITION-CONTROL.md) — Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-GF-029 | 1.0 | Review Traceability and Role-Assignment Controls Preserve Context and Define Handover Content, but No FEF-Wide Organisational-Knowledge or Operated Continuity Model Is Evidenced | RQ-030 | EV-005; EV-008; EV-012; EV-013; EV-016; EV-020; EV-021; EV-070; EV-071; EV-073; EV-074 | Review controls preserve identity, authority, provenance, history, dependencies, limitations, rationale, permitted use, and traceability; review-scoped procedure defines detailed reassignment and handover content; one complete D3 chain is operated | OQ-021 and OQ-023 remain open; EV-013 is Not Approved; role, evidence, traceability, and future-work sources retain bounded authority; no FEF-wide organisational-knowledge model, operated handover, later-user recovery, enduring ownership, or D6 administrative model is evidenced | Dispositioned | Accept with Conditions | 1. All recorded evidence limitations remain effective until separately resolved.<br>2. Acceptance of these findings shall not be interpreted as resolving known contradictions.<br>3. Framework enhancements identified during D4 shall proceed only through authorised Framework Evolution.<br>4. Acceptance of these findings does not amend any constitutional instrument.<br>5. DG-5 and DG-6 remain separate governance stages. | [FD-031](FEF-FGR-002-FD-031-ORGANISATIONAL-KNOWLEDGE-AND-CONTINUITY.md) — Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-GF-030 | 1.0 | Review and Evidence Controls Preserve Identity, Prior State, Frozen Baselines, and Traceability, but No FEF-Wide End-to-End Information-Lifecycle Integrity Model Is Evidenced | RQ-031 | EV-005; EV-008; EV-012; EV-013; EV-023; EV-059; EV-069; EV-070; EV-071; EV-073; EV-074 | Review and Evidence Pack controls preserve identity, versions, prior and failed states, attributable correction, immutable frozen baselines, custody, controlled reuse, and evidence-to-decision traceability | EV-059's v1.0/v1.1 contradiction remains; OQ-021 and OQ-022 remain open; authority-limited sources and bounded examples do not evidence a FEF-wide lifecycle, general checkpoints and owners, transition authority, or an operated full-chain test | Dispositioned | Accept with Conditions | 1. All recorded evidence limitations remain effective until separately resolved.<br>2. Acceptance of these findings shall not be interpreted as resolving known contradictions.<br>3. Framework enhancements identified during D4 shall proceed only through authorised Framework Evolution.<br>4. Acceptance of these findings does not amend any constitutional instrument.<br>5. DG-5 and DG-6 remain separate governance stages. | [FD-032](FEF-FGR-002-FD-032-INFORMATION-LIFECYCLE-INTEGRITY-AND-CHECKPOINTS.md) — Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-GF-031 | 1.0 | Bounded Draft, Founder-Approval, and Effective-State Examples Are Evidenced, but No Approved FEF-Wide Instrument Lifecycle or Delegated Transition-Authority Model Is Established | RQ-032 | EV-005; EV-007; EV-008; EV-013; EV-072; EV-074; EV-075; EV-076; EV-077 | Bounded draft/review/not-approved, Founder approval-with-conditions, and Founder-confirmed effective mobilisation examples are evidenced; no complete FEF-wide lifecycle, universal vocabulary/order, or delegated non-Founder transition-confirmation model is established | EV-013 and EV-072 remain Conditionally Admitted; OQ-004/OQ-022 remain open; no operated Withdrawn/Superseded or delegated transition example; terminology and authority boundaries remain unresolved | Presented | Pending | None | None | Pass with Conditions |
 
 ## Change History
 
@@ -81,13 +82,17 @@
 | 1.22 | 2026-07-28 | GF-029 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 006 after examining RQ-030 only against its eleven-item EP-004 v1.0 mapping; OQ-021, OQ-023, FEF-CCF-001 separation, and all source limitations preserved; GF-024 through GF-028 unchanged; no Founder disposition or Decision created; RQ-031 remains unexamined; S04 remains open | FEF-FGR-002-S04-GF-029-VR-001 |
 | 1.23 | 2026-07-28 | GF-030 produced, validated Pass with Conditions, and Presented from S04 Execution Loop 007 after examining RQ-031 only against its eleven-item EP-004 v1.0 mapping; EV-059 contradiction, OQ-021/OQ-022, D5/D6 separation, and all source limitations preserved; GF-024 through GF-029 unchanged; no Founder disposition or Decision created; all seven D4 RQs are answered at finding level; S04 remains open | FEF-FGR-002-S04-GF-030-VR-001 |
 | 1.24 | 2026-07-28 | D4-G2 Founder Review completed and recorded verbatim: GF-024 through GF-030 each changed from Presented/Pending to Dispositioned/Accept with Conditions; the same five exact Founder Conditions apply to each; Decision Record remains Pending — FD not yet issued; substantive finding wording, evidence, uncertainty, and validations unchanged; no Founder Decision issued; DG-5 and DG-6 not commenced; D4 remains Active and Not Closed | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
+| 1.25 | 2026-07-29 | DG-5 issued and validated FD-026 through FD-032 one-to-one for GF-024 through GF-030; each row records Closed — Decision Issued — Accept with Conditions and its validated Decision Record; finding wording, evidence, uncertainty, disposition, and conditions unchanged | FEF-FGR-002-D4-DG5-FDVR-001 |
+| 1.26 | 2026-07-29 | DG-6 completed and D4 Closed; all 30 finding rows and Decision Record linkages remained unchanged; no Open Question, D5 finding, or later-domain state created | FEF-FGR-002-D4-CR-001; FEF-FGR-002-D4-DG6-DEVR-001 |
+| 1.27 | 2026-07-31 | GF-031 produced and validated Pass with Conditions from S05 Evidence Examination Loop 001 — RQ-032 Only, using exactly its nine mapped frozen EP-005 v2.0 records; GF-031 Presented/Pending Founder disposition; OQ-004/OQ-022 and all evidence limits preserved; no lifecycle model, Founder disposition, Decision, session/domain closure, or D6/D7 activity | FEF-FGR-002-S05-RQ-032-ER-001; FEF-FGR-002-S05-GF-031-VR-001 |
 
 ## Non-Effects
 
-This register contains thirty Founder-dispositioned Governance Findings.
-GF-001 through GF-023 are linked to issued Founder Decision Records.
-GF-024 through GF-030 are Accept with Conditions and remain pending
-separately governed Founder Decision issuance. DG-5 issuance
+This register contains thirty previously dispositioned Governance Findings
+and one Presented candidate finding. GF-001 through GF-030 are linked to
+issued Founder Decision Records. GF-031 remains Presented and pending
+separately governed Founder review and disposition. No Founder Decision was
+created for GF-031. DG-5 issuance
 does not alter any finding wording, evidence basis, uncertainty,
 disposition, or condition; label a finding Approved, Active, or
 Constitutional; close an Open Question; close FEF-FGR-002-S03 or D3;

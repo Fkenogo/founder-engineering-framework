@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.15 |
+| Set version | 1.16 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -13,9 +13,9 @@
 | Candidate source | FEF-FGR-002-D5-RQC-001 v1.0 |
 | Founder disposition | Accept — all six; FEF-FGR-002-D5-G1-FDR-001 |
 | Admission record | FEF-FGR-002-D5-RQAR-001 |
-| Lifecycle treatment | RQ-032 through RQ-037 Admitted; not yet examined |
-| Assigned examination unit | FEF-FGR-002-S05 — Open — Evidence Examination Not Yet Started |
-| Questions answered | 0 |
+| Lifecycle treatment | RQ-032 Answered at finding level; RQ-033 through RQ-037 Admitted, Pending, and Unexamined |
+| Assigned examination unit | FEF-FGR-002-S05 — Open — Evidence Examination Loop 001 Complete |
+| Questions answered | 1 — RQ-032 through Presented GF-031 |
 | Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs |
 
 ## 1. Set Boundary and Admission Basis
@@ -35,7 +35,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-032 |
-| Version | 1.9 |
+| Version | 1.10 |
 | Title | Governance Instrument Status and Approval Model |
 | Question Text | What drafting, review, and operational states, if any, do FEF governance instruments pass through, and by what Founder or delegated authority is each state transition confirmed? |
 | Originating candidate | D5-RQC-01 |
@@ -49,16 +49,16 @@ substantive answer is introduced.
 | Scope | Instrument status labels (e.g., Draft, Review Required, Approved, Active, Closed, Mobilised) and their approving authority |
 | Exclusions | No new status vocabulary is adopted; no register redesign; no constitutional status definition |
 | Evidence Need | Master Programme, Dashboard, and Manifest status fields; FEF-RGS-000's status field; Governance Finding/Founder Decision Register "Decision Record Validated" vs "Pending" distinction — source-preserved generic classes only; no evidence requirement derived |
-| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, EV-077 — qualified with conditions in FEF-FGR-002-D5-RQ032-EMQR-001; v1.0 historical/reliance-blocked; frozen v2.0/MAN-002 is S05's sole permitted baseline; S05 Open — Evidence Examination Not Yet Started; examined in no session |
+| Evidence Records | EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, EV-077 — qualified with conditions in FEF-FGR-002-D5-RQ032-EMQR-001; examined in S05 Evidence Examination Loop 001 against frozen v2.0/MAN-002 only; v1.0 historical/reliance-blocked |
 | Dependencies | D1: Founder authority and reserved decision-gates remain the approving mechanism for any transition; not reopened. D3: Assurance verdicts (Pass, Pass with Conditions) are a distinct concept from instrument status and must not be conflated with it. D4: Registers already carry structured "Lifecycle State" fields; whether that vocabulary generalises is examined here, not decided. Interface: D6 will need a stable vocabulary to administer; D7 may require a distinct model for constitutional material |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open — Evidence Examination Not Yet Started |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Open — Evidence Examination Loop 001 Complete |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
-| Lifecycle State | Admitted |
-| Disposition | Pending |
-| Related GFs | None |
+| Lifecycle State | Answered |
+| Disposition | GF-031 — Presented; Founder disposition pending |
+| Related GFs | FEF-FGR-002-GF-031 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
@@ -68,6 +68,7 @@ substantive answer is introduced.
 | Readiness Synchronisation | v1.7 records PFSERR-002 Ready for DG-4 with Conditions and preserves the separate DG-4, session, and examination boundaries; all substantive RQ fields remain unchanged |
 | Entry Synchronisation | v1.8 records DG-4 Pass with Conditions and S05 Prepared — Not Opened; no examination or RQ answer; all substantive RQ fields remain unchanged |
 | Opening Synchronisation | v1.9 records S05 Open — Evidence Examination Not Yet Started; all substantive RQ fields remain unchanged |
+| Examination Synchronisation | v1.10 records S05 Evidence Examination Loop 001 — RQ-032 Only, the exact nine-item evidence boundary, Answered-at-finding-level state, and Presented GF-031 linkage; Question Text, scope, exclusions, dependencies, evidence treatment, and OQ-004/OQ-022 remain unchanged |
 
 ## 3. FEF-FGR-002-RQ-033 — Applicability and Transitional Effect
 
@@ -295,13 +296,14 @@ substantive answer is introduced.
 | 1.13 | 2026-07-31 | Each RQ-032 through RQ-037 Evidence Records field updated to record PFSERR-002 Ready for DG-4 with Conditions; each section version advanced to 1.7; separate DG-4, session, and examination boundaries preserved; exact Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), Disposition (Pending), evidence qualification, and OQ mappings unchanged; none examined | FEF-FGR-002-D5-PFSERR-002 |
 | 1.14 | 2026-07-31 | DG-4 Pass with Conditions allocated S05 as Prepared — Not Opened; all six RQ sections advanced administratively to v1.8 and linked to S05; exact Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), Disposition (Pending), evidence qualification, mappings, and OQ relationships unchanged; none examined or answered | FEF-FGR-002-S05-ER-001; FEF-FGR-002-S05-EVR-001 |
 | 1.15 | 2026-07-31 | S05 opening validated Pass with Conditions; all six sections advanced administratively to v1.9 and linked to S05 Open — Evidence Examination Not Yet Started; exact Question Text, purpose, scope, exclusions, dependencies, Lifecycle State, Disposition, evidence qualification, mappings, and OQ relationships unchanged; none examined or answered | FEF-FGR-002-S05-OR-001; FEF-FGR-002-S05-OVR-001 |
+| 1.16 | 2026-07-31 | RQ-032 only updated to v1.10 after S05 Evidence Examination Loop 001 used exactly EV-005, EV-007, EV-008, EV-013, EV-072, EV-074, EV-075, EV-076, and EV-077 from frozen EP-005 v2.0; Lifecycle State Answered and Presented GF-031 linkage recorded; exact Question Text, scope, exclusions, dependencies, evidence treatment, and OQ-004/OQ-022 unchanged; RQ-033 through RQ-037 remain v1.9, Pending, and Unexamined | FEF-FGR-002-S05-RQ-032-ER-001; FEF-FGR-002-S05-GF-031-VR-001 |
 
 ## 10. Non-Effects
 
-This canonical set does not identify, register, qualify, or assess evidence;
-derive evidence requirements; create an Evidence Requirement Matrix or
-Evidence Pack; create a review session; commence examination; answer a
-Review Question; produce a Governance Finding; prepare a review-scoped
-Founder Decision; evaluate or disposition FEF-FEV-001-FEC-001,
+This canonical set records, but does not itself perform, S05 Evidence
+Examination Loop 001 for RQ-032 or produce GF-031. It does not alter evidence
+requirements, a frozen Evidence Pack, or evidence treatment; examine RQ-033
+through RQ-037; prepare a review-scoped Founder Decision; evaluate or
+disposition FEF-FEV-001-FEC-001,
 FEF-CCF-001, or CE1–CE6; amend the review methodology; or perform
 Framework Evolution.
