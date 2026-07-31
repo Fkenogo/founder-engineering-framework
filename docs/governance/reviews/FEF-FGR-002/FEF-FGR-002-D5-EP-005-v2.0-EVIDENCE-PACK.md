@@ -15,19 +15,19 @@
 | Custodian | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Version | 2.0 |
-| Lifecycle state | **Validation Pending** |
-| Freeze state | Not Frozen — remediation revalidation and re-freeze require separate authorisation |
+| Lifecycle state | **Frozen** |
+| Freeze state | Frozen — DG-3 successor re-freeze completed 2026-07-31 |
 | Examination effect | None — not authorised for examination |
 | Successor construction date | 2026-07-31 |
 | Remediation entry baseline | `114617edeb363210b643d4437301a862ce2c1c88` |
 | Applicable specification | [FEF-EPS-001](../FEF-EPS-001-EVIDENCE-PACK-SPECIFICATION.md) |
 | Manifest | [FEF-FGR-002-EP-005-MAN-002](FEF-FGR-002-D5-EP-005-v2.0-MANIFEST.md) |
-| Freeze record | None — successor not revalidated or re-frozen |
+| Freeze record | [FEF-FGR-002-EP-005-FR-002](FEF-FGR-002-D5-EP-005-v2.0-FREEZE-RECORD.md) |
 | Remediation record | [FEF-FGR-002-EP-005-PMCR-001](FEF-FGR-002-D5-EP-005-PROVENANCE-AND-MEMBERSHIP-CONTROL-REMEDIATION-RECORD.md) |
-| Remediation revalidation | Not performed — separate Founder authorisation required |
-| Freeze validation | Not performed — successor remains unusable for session entry |
-| Predecessor / successor | Frozen EP-005 v1.0 / None |
-| Pack effect | Opens a methodology-compliant successor correcting provenance and membership-control inputs only; no session-use or analytical effect |
+| Remediation revalidation | [FEF-FGR-002-EP-005-PMCVR-001](FEF-FGR-002-D5-EP-005-PROVENANCE-AND-MEMBERSHIP-CONTROL-REMEDIATION-VALIDATION-REPORT.md) — Pass with Conditions |
+| Freeze validation | [FEF-FGR-002-EP-005-VR-002](FEF-FGR-002-D5-EP-005-v2.0-VALIDATION-REPORT.md) — Pass with Conditions |
+| Predecessor / successor | Frozen historical EP-005 v1.0 / this linked v2.0 successor |
+| Pack effect | Establishes the corrected Frozen successor baseline; no DG-4, session-opening, examination, or analytical effect |
 
 ## 2. Purpose and Boundary
 
@@ -35,7 +35,7 @@ This successor is opened under FEF-EPS-001 §§7.2, 7.3, and 11.2 after the atte
 
 The successor contains the unchanged corpus of 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, and 24 evidence requirements across RQ-032 through RQ-037. It changes no evidence identity, class, admissibility, qualification, mapping, limitation, uncertainty, permitted use, Open Question, RQ wording, or D6/D7 boundary.
 
-**This Validation Pending successor is not Frozen and is not authorised for DG-4, session entry, session opening, examination, RQ answering, Governance Finding creation, Founder Decision creation, D5 closure, or D6/D7 commencement. Formal remediation revalidation and re-freeze require separate Founder authorisation.**
+**This successor is Frozen under FEF-FGR-002-EP-005-FR-002 and validated Pass with Conditions in FEF-FGR-002-EP-005-VR-002. Freeze establishes integrity and eligibility for a separately authorised post-freeze readiness reconciliation only; it does not perform or authorise DG-4, session allocation or opening, examination, RQ answering, Governance Finding or Founder Decision creation, D5 closure, or D6/D7 commencement.**
 
 ## 3. Successor Membership
 
@@ -174,17 +174,17 @@ These are carried limitations and gaps, not pack conclusions. Their exact wordin
 
 All six qualification and validation loops, the completion review, the post-completion reconciliation, and this assembly use the same combined acting capacity. Non-independence remains disclosed.
 
-## 9. Reconstructed Membership Fingerprint — Validation Pending
+## 9. Validated Controlling Membership Fingerprint
 
 | Control Field | Recorded Value |
 |---|---|
 | Fingerprint method | Deterministic membership fingerprint — SHA-256 over the ordered, newline-joined concatenation of `EV-NNN:<digest>` lines (three-digit zero-padded identifier, colon, the source's recorded qualification SHA-256; multiple acquisition-point digests joined by `\|` in acquisition order), ordered numerically by Evidence Record identifier, with a trailing newline |
 | Ordered input set | EV-005, EV-007, EV-008, EV-009, EV-010, EV-012, EV-013, EV-014, EV-017, EV-066, EV-070, EV-072, EV-073, EV-074, EV-075, EV-076, EV-077, EV-078, EV-079, EV-080, EV-081, EV-082, EV-083, EV-084, EV-085 (25 entries) |
-| Reconstructed candidate digest | `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` |
+| Controlling v2.0 membership digest | `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` |
 | Generation procedure | For each identifier in ascending numeric order, emit `EV-{id:03d}:{digest}` (or `EV-{id:03d}:{digest1}\|{digest2}` for EV-072 and EV-080, in acquisition order), join with `\n`, append a trailing `\n`, and compute SHA-256 of the resulting UTF-8 byte string |
 | Reconstruction baseline | `114617edeb363210b643d4437301a862ce2c1c88` |
 
-This is the **reconstructed candidate membership fingerprint** for successor v2.0. It matches the previously diagnostic value but is not controlling until a separately authorised remediation revalidation independently reproduces it and DG-3 re-freezes this successor. Frozen v1.0's fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` remains a discoverable historical control and is blocked from session reliance because its EV-072 input pair is defective.
+This is the **validated controlling membership fingerprint** for Frozen successor v2.0. PMCVR-001 independently reproduced the prior diagnostic value; DG-3 reverified it at freeze and FR-002/VR-002 establish it as the sole current EP-005 membership control. Frozen v1.0's fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` remains a discoverable historical control and is blocked from session reliance because its EV-072 input pair is defective.
 
 ### 9.1 Canonical Membership Input Ledger
 
@@ -225,7 +225,7 @@ Only EV-072's selected D5 digest pair differs from frozen v1.0. Every other ledg
 | D5 | Active — Mobilised — Effective |
 | RQ-032 through RQ-037 | Admitted; Pending; Unexamined; evidence treatment unchanged |
 | EP-005 v1.0 | Frozen historical predecessor; session reliance blocked by the provenance defect |
-| EP-005 v2.0 | **Validation Pending — Not Frozen — Not Usable** |
+| EP-005 v2.0 | **Frozen — Pass with Conditions; no session reliance until separately authorised post-freeze readiness reconciliation and later DG-4** |
 | Attempted DG-4 | Stopped at integrity check; incomplete; no verdict |
 | S05 / D5 session | Unallocated / does not exist |
 | Examination | Unauthorised and uncommenced |
@@ -239,16 +239,18 @@ Only EV-072's selected D5 digest pair differs from frozen v1.0. Every other ledg
 | 1.0 | 2026-07-30 | Exact reconciled D5 corpus assembled as EP-005 — Assembled, Not Frozen | FEF-FGR-002-RA-002, RA-005, and RA-006; non-independent combination disclosed | None — first assembled version |
 | 1.0 | 2026-07-31 | EP-005 v1.0 frozen following the D5 EP-005 Pre-Freeze Programme and RQ-State Reconciliation (FEF-FGR-002-D5-PFRR-001); pack and manifest fingerprints reconfirmed byte-identical to assembly and unchanged by freeze | FEF-FGR-002-EP-005-FR-001; FEF-FGR-002-EP-005-VR-001 | Historical predecessor |
 | 2.0 | 2026-07-31 | Successor opened under FEF-EPS-001 §11.2 after attempted DG-4 found the EV-072 D5 acquisition pair and membership input defective; corrected provenance and reconstructed candidate membership fingerprint only; Validation Pending, not Frozen | Founder authorisation; FEF-FGR-002-EP-005-PMCR-001 | Full remediation revalidation and re-freeze required |
+| 2.0 — remediation-validated | 2026-07-31 | Exact submitted construction state independently revalidated Pass with Conditions; construction hashes retained as pre-freeze controls; no bytes changed and no freeze performed | FEF-FGR-002-EP-005-PMCVR-001 | Eligible for separately authorised DG-3 re-freeze |
+| 2.0 — frozen | 2026-07-31 | Lifecycle and freeze annotations finalised after all DG-3 entry checks; corrected membership fingerprint established as controlling; final whole-file fingerprints recorded in FR-002 and reverified in VR-002 | Founder DG-3 authority; FEF-FGR-002-EP-005-FR-002; FEF-FGR-002-EP-005-VR-002 | Frozen successor; later session reliance remains separately gated |
 
 ## 12. Pack Conditions
 
-1. Successor v2.0 requires separately authorised remediation revalidation and DG-3 re-freeze before it can become controlling or support DG-4.
+1. Successor v2.0 is Frozen, but a separately authorised post-freeze readiness reconciliation and later DG-4 are required before it can support a proposed session.
 2. Frozen v1.0 remains immutable and historically discoverable but may not support session entry because its EV-072 membership input is defective.
 3. Examination, if later separately authorised after a valid DG-4, must use only each RQ's mapped EP-005 items.
 4. All source authority, admissibility, limitation, uncertainty, and permitted-use controls remain visible, including EV-072, EV-080, and EV-081 acquisition-point boundaries.
 5. EV-078's correction/recovery-only character and its two distinct RQ-035 requirement links remain explicit and unmerged.
 6. All Open Questions, evidence gaps, and D6/D7 interfaces remain unresolved.
 7. Pack inclusion is not evidence sufficiency, truth, recommendation, or an RQ answer.
-8. Non-independent preparation and future validation must remain disclosed.
+8. Non-independent preparation, revalidation, freeze, and freeze validation remain disclosed.
 
-**Pack state: Successor v2.0 — Validation Pending — Not Frozen — Not Usable.**
+**Pack state: Successor v2.0 — Frozen — Pass with Conditions — no session reliance without later separately authorised controls.**

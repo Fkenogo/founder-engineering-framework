@@ -6,9 +6,9 @@
 | Pack identifier | FEF-FGR-002-EP-005 |
 | Pack version | 2.0 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| State | **Validation Pending — Not Frozen** |
+| State | **Frozen** |
 | Successor construction date | 2026-07-31 |
-| Freeze date | None — separately authorised remediation revalidation and re-freeze pending |
+| Freeze date | 2026-07-31 |
 | Remediation entry baseline | `114617edeb363210b643d4437301a862ce2c1c88` |
 | Evidence Register input | FEF-FGR-002-EVIDENCE-REGISTER.md v1.19 |
 | D5 Review Question Set input | FEF-FGR-002-D5-REVIEW-QUESTION-SET.md v1.6 |
@@ -16,10 +16,12 @@
 | Corpus | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links |
 | Hash algorithm | SHA-256 |
 | Access treatment | Repository |
+| Freeze record | [FEF-FGR-002-EP-005-FR-002](FEF-FGR-002-D5-EP-005-v2.0-FREEZE-RECORD.md) |
+| Freeze validation | [FEF-FGR-002-EP-005-VR-002](FEF-FGR-002-D5-EP-005-v2.0-VALIDATION-REPORT.md) — Pass with Conditions |
 
 ## Successor Control
 
-This manifest is the complete successor manifest required by FEF-EPS-001 §11.2. It preserves frozen FEF-FGR-002-EP-005-MAN-001 byte-for-byte as the v1.0 predecessor and changes only the EV-072 acquisition provenance selected for the two D5 uses and the resulting membership-fingerprint control. The evidence identities, membership count, classes, admissibility states, RQ and requirement mappings, limitations, permitted uses, Open Questions, and dependencies are unchanged.
+This manifest is the complete Frozen successor manifest required by FEF-EPS-001 §11.2. It preserves frozen FEF-FGR-002-EP-005-MAN-001 byte-for-byte as the v1.0 predecessor and changes only the EV-072 acquisition provenance selected for the two D5 uses and the resulting membership-fingerprint control. The evidence identities, membership count, classes, admissibility states, RQ and requirement mappings, limitations, permitted uses, Open Questions, and dependencies are unchanged.
 
 The attempted D5 DG-4 integrity check found that v1.0 used the earlier D4 digest `31807d1de36002ebf359348bea764f8711476405de5c08669f0586c48853502d` plus the D5 RQ-032 digest, while labeling them as the two D5 observations. The correct D5 ordered pair is:
 
@@ -180,14 +182,16 @@ Applied ordering, consistent with prior Evidence Pack precedent (FEF-FGR-002-EP-
 
 The same inputs (the six EMQR records, the Evidence Register, and the Review Question Register at the baselines named above) always generate this same ordering and the fingerprint recorded in the pack's Section 9.
 
-## 7. Successor Manifest Status
+## 7. Frozen Successor Manifest Status
 
-This successor manifest is **Validation Pending — Not Frozen**. It is not controlling and cannot support DG-4 or examination. Frozen v1.0 and FEF-FGR-002-EP-005-MAN-001 remain immutable historical records; their membership fingerprint remains discoverable but is blocked from session reliance by the EV-072 defect.
+This successor manifest is **Frozen — Pass with Conditions** under FR-002 and VR-002. It is the current controlling EP-005 manifest, but cannot support DG-4 or examination without separately authorised post-freeze readiness and session-entry controls. Frozen v1.0 and FEF-FGR-002-EP-005-MAN-001 remain immutable historical records; their membership fingerprint remains discoverable but is blocked from session reliance by the EV-072 defect.
 
-The reconstructed successor membership fingerprint is `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f`, calculated from the complete canonical ledger in successor Pack §9.1. It matches the prior diagnostic value but remains a candidate until separately authorised remediation revalidation and re-freeze.
+The validated controlling successor membership fingerprint is `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f`, calculated from the complete canonical ledger in successor Pack §9.1, independently reproduced in PMCVR-001, and reverified at DG-3.
 
 ## 8. Change Log
 
 | Version | Date | Change | Authority | Revalidation Effect |
 |---|---|---|---|---|
 | 2.0 | 2026-07-31 | Successor manifest opened; EV-072 corrected to the actual D5 RQ-032 and RQ-034 acquisition digests; all other evidence and treatment controls preserved | Founder authorisation; FEF-FGR-002-EP-005-PMCR-001 | Full remediation revalidation and re-freeze required before use |
+| 2.0 — remediation-validated | 2026-07-31 | Exact submitted construction state independently validated Pass with Conditions; construction hash retained as a pre-freeze control; no bytes changed | FEF-FGR-002-EP-005-PMCVR-001 | Eligible for separately authorised DG-3 re-freeze |
+| 2.0 — frozen | 2026-07-31 | Final lifecycle and freeze annotations applied after DG-3 entry checks; final whole-file fingerprint recorded in FR-002 and reverified in VR-002 | Founder DG-3 authority; FEF-FGR-002-EP-005-FR-002; FEF-FGR-002-EP-005-VR-002 | Frozen successor; later session reliance remains separately gated |
