@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.14 |
+| Register version | 1.15 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -26,7 +26,7 @@
 | FEF-FGR-002-EP-003 | 1.0 | D3 — Governance Assurance | RQ-016–RQ-024 | 39 Evidence Records (17 reused, 22 new) | Frozen | 2026-07-26 | Unassigned — no D3 session exists | SHA-256 digests recorded in the pack's own Integrity Manifest (§11); reused items carry forward D1/D2 integrity values | Repository-controlled | None | Pass with Conditions — non-independent; RQ-018 gap and EV-058/EV-059 contradictions disclosed |
 | FEF-FGR-002-EP-004 | 1.0 | D4 — Records and Information Governance | RQ-025–RQ-031 | 19 Evidence Records; 65 source-to-RQ mappings; 72 source-to-requirement links | Frozen | 2026-07-28 | Unassigned — no D4 session exists | Pack and manifest SHA-256 recorded in FEF-FGR-002-EP-004-FR-001; source and frozen-artefact hashes reverified in FEF-FGR-002-EP-004-VR-001 | Repository-controlled | None | Pass with Conditions — non-independent; evidence gaps, EV-059 contradiction, EV-074 boundary, Open Questions, and D5/D6 interfaces preserved |
 | FEF-FGR-002-EP-005 | 1.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links | Frozen — historical predecessor; reliance blocked | 2026-07-31 | None — DG-4 stopped; no D5 session exists | Historical pack/manifest SHA-256 controlled by FR-001/VR-001 v1.1; historical membership fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` contains the defective EV-072 pair | Repository-controlled | None | Historical Pass with Conditions overtaken for session reliance by the DG-4 integrity discovery; v1.0 remains immutable |
-| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | None — PFSERR-002 Ready for DG-4 with Conditions; DG-4 remains separate and unperformed; no D5 session exists | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; PFSERR-002 conditions bind later DG-4 |
+| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | S05 — Prepared — Not Opened; sole permitted future examination baseline | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; all PFSERR-002 and S05 entry conditions bind opening/examination |
 
 ## D2 Output Linkage
 
@@ -57,9 +57,10 @@ EP-005 v1.0 remains byte-preserved and Frozen as the historical predecessor,
 but the attempted DG-4 integrity check found its EV-072 provenance pair and
 membership input defective. It is blocked from session reliance. Successor
 v2.0 is Frozen with the corrected D5 acquisition pair and controlling
-membership fingerprint under FR-002/VR-002. PFSERR-002 records Ready for DG-4
-with Conditions; DG-4 still requires separate Founder authority. No D5 session, Governance Finding,
-Founder Decision, or examination linkage exists.
+membership fingerprint under FR-002/VR-002. PFSERR-002 was accepted and DG-4
+subsequently passed with conditions. S05 is linked as Prepared — Not Opened and
+v2.0/MAN-002 is its sole permitted future examination baseline. No session
+opening, examination, Governance Finding, or Founder Decision exists.
 
 ## Change History
 
@@ -80,12 +81,14 @@ Founder Decision, or examination linkage exists.
 | 1.12 | 2026-07-31 | Records PMCVR-001 Pass with Conditions: successor v2.0 and MAN-002 remediation-validated against their submitted construction hashes, corrected EV-072 provenance, canonical membership fingerprint, and preserved 25/41/42/24 corpus; still Not Frozen and unusable pending separately authorised DG-3 | Founder remediation-revalidation authorisation; FEF-FGR-002-EP-005-PMCVR-001 |
 | 1.13 | 2026-07-31 | Registers DG-3 successor re-freeze: EP-005 v2.0 and MAN-002 Frozen under FR-002/VR-002 with new controlling whole-file hashes and corrected controlling membership fingerprint; construction hashes and v1.0 controls retained historically; no DG-4, S05, session, examination, RQ answer, GF, FD, D5 closure, or D6/D7 commencement | Founder DG-3 authorisation; FEF-FGR-002-EP-005-FR-002; FEF-FGR-002-EP-005-VR-002 |
 | 1.14 | 2026-07-31 | Records PFSERR-002 Ready for DG-4 with Conditions for frozen successor v2.0/MAN-002; no session use is authorised; pack identity, fingerprints, corpus, evidence treatment, and v1.0 historical/reliance-blocked state unchanged | Founder bounded post-freeze readiness authority; FEF-FGR-002-D5-PFSERR-002 |
+| 1.15 | 2026-07-31 | Links frozen EP-005 v2.0/MAN-002 as the sole permitted future examination baseline for S05 following DG-4 Pass with Conditions; S05 remains Prepared — Not Opened; v1.0 remains historical/reliance-blocked; no evidence change, opening, examination, RQ answer, GF, FD, or D6/D7 commencement | FEF-FGR-002-S05-ER-001; FEF-FGR-002-S05-EVR-001 |
 
 ## Non-Effects
 
 This register contains five pack identities and six registered versions.
 EP-005 v1.0 remains Frozen but blocked from reliance; v2.0 is Frozen under
-FR-002/VR-002. Neither has session use, examination, Governance
-Finding, or Founder Decision linkage. The successor changes no source
-evidence, mapping, Open Question, or cross-domain boundary and authorises
-no downstream activity.
+FR-002/VR-002 and linked as the sole permitted future baseline for S05.
+S05 remains Prepared — Not Opened, so no examination, Governance Finding, or
+Founder Decision linkage exists. The successor changes no source evidence,
+mapping, Open Question, or cross-domain boundary and does not itself authorise
+opening or examination.

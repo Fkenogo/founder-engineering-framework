@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.34 |
+| Register version | 1.35 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -14,8 +14,8 @@
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
-| Last validation date | 2026-07-28 |
-| Registered session identity count | 4 |
+| Last validation date | 2026-07-31 |
+| Registered session identity count | 5 |
 | Opened session count | 4 |
 
 ## Register
@@ -26,6 +26,7 @@
 | FEF-FGR-002-S02 | D2 — Evidence Governance | Examine the seven admitted D2 RQs using EP-002 only | RQ-009–RQ-015 | EP-002 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Evidence Examination Complete; Governance Findings Presented | [Session Record](FEF-FGR-002-S02-SESSION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S02-SESSION-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S03-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S04 | D4 — Records and Information Governance | Examine the seven admitted D4 RQs using EP-004 only | RQ-025–RQ-031 | EP-004 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S04-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S04-SESSION-EXIT-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S05 | D5 — Governance Lifecycle and Evolution | Examine the six admitted D5 RQs using frozen EP-005 v2.0/MAN-002 only | RQ-032–RQ-037 | EP-005 v2.0 / MAN-002 — Frozen | Separate opening, then examine one RQ at a time | Pass with Conditions | **Prepared — Not Opened** | [Session Entry Record](FEF-FGR-002-S05-SESSION-ENTRY-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S05-SESSION-ENTRY-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -140,10 +141,13 @@ change S04's historical Closed state.
 | 1.32 | 2026-07-28 | D4 Post-Session Linkage updated for completed Founder Review: exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions recorded for each of GF-024 through GF-030 and validated Pass with Conditions; S04 historical Closed state unchanged; zero Founder Decision Records; DG-5 and DG-6 not commenced; D4 Active and Not Closed; no D5/D6, Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-G2-FDVR-001 |
 | 1.33 | 2026-07-29 | D4 Post-Session Linkage updated for completed DG-5 Founder Decision Issuance: seven separate Founder Decision Records FD-026 through FD-032 issued one-to-one for GF-024 through GF-030 and validated Pass with Conditions; S04 historical Closed state unchanged; D4 Active and Not Closed; DG-5 complete; DG-6 and D5 not commenced; no Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-DG5-FDVR-001 |
 | 1.34 | 2026-07-29 | D4 Post-Session Linkage updated for completed DG-6 Domain Exit: D4 — Records and Information Governance formally Closed after validation Pass with Conditions; S04 historical Closed state unchanged; DG-5 and DG-6 complete; D5 and D6 not commenced; no Candidate, Deferred Matter, Framework Evolution, or cross-finding synthesis | FEF-FGR-002-D4-CR-001; FEF-FGR-002-D4-DG6-DEVR-001 |
+| 1.35 | 2026-07-31 | DG-4 allocated collision-safe FEF-FGR-002-S05 and validated entry Pass with Conditions against frozen EP-005 v2.0/MAN-002; S05 Prepared — Not Opened; also corrects the stale current-state D4 Non-Effects narrative while preserving historical S04 exit; RQ-032–RQ-037 remain Pending and Unexamined; no examination, RQ answer, GF, FD, D5 closure, or D6/D7 commencement | FEF-FGR-002-S05-ER-001; FEF-FGR-002-S05-EVR-001 |
 
 ## Non-Effects
 
-This register contains four closed sessions (S01 through S04). S03 closed
+This register contains five allocated session identities: four closed sessions
+(S01 through S04) and S05 **Prepared — Not Opened**. S05 has not authorised or
+commenced examination and has produced no RQ answer, GF, or FD. S03 closed
 after all nine admitted D3 RQs were examined (RQ-016 through RQ-024),
 producing GF-015 through GF-023, and after the Session Exit Gate
 confirmed every §12.1 criterion. S02 itself issued no FD and its
@@ -159,12 +163,10 @@ with Conditions). DG-5 later issued FD-017 through FD-025. These
 post-session linkages do not change S03's historical session state or
 modify an Open Question. DG-6 subsequently closed D3 without changing
 S03. S04 closed after Execution Loops 001–007 examined RQ-025 through
-RQ-031 and Presented GF-024 through GF-030 pending Founder disposition,
-and after its Session Exit Gate confirmed every §12.1 criterion. This S04
-closure is a session-only exit: D4 remains Active and Not Closed. A neutral
-D4-G2 Founder Review Package was subsequently prepared and validated with
-all Founder fields blank. The Founder Review was then recorded separately:
-GF-024 through GF-030 are Dispositioned — Accept with Conditions. No Founder
-Decision was created, DG-5 and DG-6 remain not commenced, no Open Question
-was resolved, EP-004 remains unchanged, no cross-finding synthesis occurred,
-and D5 and D6 have not commenced.
+RQ-031 and Presented GF-024 through GF-030, and after its Session Exit Gate
+confirmed every §12.1 criterion. That historical exit did not itself close D4.
+The later Founder Review dispositioned GF-024 through GF-030 Accept with
+Conditions; DG-5 issued and validated FD-026 through FD-032; DG-6 then closed
+D4. Those later domain controls do not change S04's historical session state.
+EP-004 remains unchanged. D5 is Active; S05 is Prepared — Not Opened; D6 and
+D7 remain uncommenced.
