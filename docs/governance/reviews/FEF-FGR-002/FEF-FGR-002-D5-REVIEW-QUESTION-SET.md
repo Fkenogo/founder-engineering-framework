@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.7 |
+| Set version | 1.8 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -35,7 +35,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-032 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Governance Instrument Status and Approval Model |
 | Question Text | What drafting, review, and operational states, if any, do FEF governance instruments pass through, and by what Founder or delegated authority is each state transition confirmed? |
 | Originating candidate | D5-RQC-01 |
@@ -62,15 +62,15 @@ substantive answer is introduced.
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
-| Created / Updated Dates | 2026-07-29 / 2026-07-29 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-032-only evidence mobilisation and qualification from Execution Loop 001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
+| Created / Updated Dates | 2026-07-29 / 2026-07-30 |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-032-only evidence mobilisation and qualification from Execution Loop 001; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-032 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 3. FEF-FGR-002-RQ-033 — Applicability and Transitional Effect
 
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-033 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Applicability and Transitional Effect |
 | Question Text | When a FEF governance instrument is approved, amended, or withdrawn, does it apply retrospectively to work already underway, only to work commenced after its effective date, or under some other transitional rule, and who decides which rule applies? |
 | Originating candidate | D5-RQC-02 |
@@ -98,14 +98,14 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-30 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-033-only evidence mobilisation and qualification from Execution Loop 002; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-033-only evidence mobilisation and qualification from Execution Loop 002; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-033 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 4. FEF-FGR-002-RQ-034 — Versioning and Release Practice
 
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-034 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Versioning and Release Practice |
 | Question Text | What versioning and release-state conventions, if any, should apply uniformly across FEF governance instruments, and how does this relate to the version-history practice already separately operated by the Master Programme and individual review records? |
 | Originating candidate | D5-RQC-03 |
@@ -133,14 +133,14 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-30 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-034-only evidence mobilisation and qualification from Execution Loop 003; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-034-only evidence mobilisation and qualification from Execution Loop 003; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-034 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 5. FEF-FGR-002-RQ-035 — Amendment, Supersession, and Withdrawal
 
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-035 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Amendment, Supersession, and Withdrawal |
 | Question Text | What governance-chain transitions — amendment, supersession, or withdrawal — require explicit Founder or delegated approval, who owns the resulting transition record, and how is a superseded or withdrawn instrument preserved rather than deleted? |
 | Originating candidate | D5-RQC-04 |
@@ -168,14 +168,14 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-30 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-035-only evidence mobilisation and qualification from Execution Loop 004; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-035-only evidence mobilisation and qualification from Execution Loop 004; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-035 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 6. FEF-FGR-002-RQ-036 — Exceptions, Expiry, and Controlled Evolution
 
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-036 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Exceptions, Expiry, and Controlled Evolution |
 | Question Text | What exception, deviation, or expiry mechanism, if any, should apply when a governance instrument is temporarily or conditionally departed from, and what distinguishes a bounded exception from controlled evolution of the framework itself? |
 | Originating candidate | D5-RQC-05 |
@@ -203,14 +203,14 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-30 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-036-only evidence mobilisation and qualification from Execution Loop 005; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged; the explicit exclusion of FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 (Founder mobilisation Condition 3) is preserved unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-036-only evidence mobilisation and qualification from Execution Loop 005; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-036 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged; the explicit exclusion of FEF-FEV-001-FEC-001, FEF-CCF-001, and CE1–CE6 (Founder mobilisation Condition 3) is preserved unchanged |
 
 ## 7. FEF-FGR-002-RQ-037 — Treatment of Legacy Governance Material
 
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-037 |
-| Version | 1.1 |
+| Version | 1.2 |
 | Title | Treatment of Legacy Governance Material |
 | Question Text | How should pre-FEF-FGR-002 governance material — including exploratory drafts, legacy scheduled-work identifiers, and incomplete historical evidence records — be classified under any future lifecycle model, without retrospectively validating or invalidating them? |
 | Originating candidate | D5-RQC-06 |
@@ -238,7 +238,7 @@ substantive answer is introduced.
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-07-29 / 2026-07-30 |
-| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-037-only evidence mobilisation and qualification from Execution Loop 006, the final D5 execution loop; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
+| Change Rationale | v1.0 first canonical admission following Founder Accept; v1.1 records RQ-037-only evidence mobilisation and qualification from Execution Loop 006, the final D5 execution loop; v1.2 records the Evidence Records field's "Packed in EP-005 v1.0" status, aligning this section's own Version field with the Review Question Register's RQ-037 row (also v1.2), corrected by FEF-FGR-002-D5-PFRR-001; Question Text, purpose, scope, exclusions, dependencies, and OQ mapping unchanged |
 
 ## 8. Canonical Mapping
 
@@ -263,6 +263,7 @@ substantive answer is introduced.
 | 1.5 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, and RQ-036 mobilised and qualified with conditions; RQ-037 not commenced." RQ-036 only updated to v1.1 after Execution Loop 005 evidence mobilisation: five Evidence Records reused (EV-005, EV-012, EV-017, EV-066, EV-074) and one new (EV-083); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-035 and RQ-037 unchanged | FEF-FGR-002-D5-RQ036-EMQR-001; FEF-FGR-002-D5-RQ036-EMVR-001 |
 | 1.6 | 2026-07-30 | Set-level "Evidence mobilisation" header field updated to "RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs." RQ-037 only updated to v1.1 after Execution Loop 006 evidence mobilisation, the final D5 execution loop: four Evidence Records reused (EV-012, EV-014, EV-078, EV-080) and two new (EV-084, EV-085); Evidence Records field added; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), and Disposition (Pending) unchanged; RQ-032 through RQ-036 unchanged | FEF-FGR-002-D5-RQ037-EMQR-001; FEF-FGR-002-D5-RQ037-EMVR-001 |
 | 1.7 | 2026-07-30 | Each RQ-032 through RQ-037 Evidence Records field updated to record "Packed in FEF-FGR-002-EP-005 v1.0 (Assembled — Not Frozen)" following D5 EP-005 Evidence Pack Assembly; Question Text, purpose, scope, exclusions, dependencies, Lifecycle State (Admitted), Disposition (Pending), and evidence qualification for each RQ unchanged | FEF-FGR-002-EP-005; FEF-FGR-002-EP-005-AR-001; FEF-FGR-002-EP-005-AVR-001 |
+| 1.8 | 2026-07-31 | Pre-freeze reconciliation: each RQ-032 through RQ-037 section's own Version field was found still at 1.1, one loop behind the Review Question Register's RQ-032–RQ-037 rows (already at 1.2 following the v1.7 pack-status update); corrected each section's Version field to 1.2 and its Change Rationale to disclose the correction; no Question Text, purpose, scope, exclusions, dependencies, Lifecycle State, Disposition, or evidence qualification changed | FEF-FGR-002-D5-PFRR-001; FEF-FGR-002-D5-PFRVR-001 |
 
 ## 10. Non-Effects
 

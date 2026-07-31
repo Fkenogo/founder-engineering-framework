@@ -2,7 +2,7 @@
 
 **Programme:** Founder Engineering Framework
 **Document identifier:** FEF-MP-001
-**Programme record version:** 0.65
+**Programme record version:** 0.66
 **Reconciliation date:** 2026-07-30
 **Status:** Current — Founder-authorised programme management record
 **Pilot classification:** Programme Governance Pilot Artefact — controlling programme record
@@ -21,7 +21,7 @@ This precedence does not make the Master Programme a governance standard and doe
 
 | Field                            | Current Position                                                                                                                                                                                                                                                                                   |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version                | Master Programme v0.65                                                                                                                                                                                                                                                                             |
+| Programme version                | Master Programme v0.66                                                                                                                                                                                                                                                                             |
 | Framework release                | None                                                                                                                                                                                                                                                                                               |
 | Current phase                    | Phase 2 — Founder Governance Review                                                                                                                                                                                                                                                                |
 | Current milestone                | **D5 EP-005 Evidence Pack Assembled — v1.0 — Not Frozen** — 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped; RQ-032 through RQ-037 now Packed in EP-005 v1.0; D5 substantive review (examination) remains **not commenced** |
@@ -303,7 +303,7 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 6. The Founder follow-up to register FEF-CCF-001 is complete at programme-planning level only; evaluation and commencement remain future Framework Evolution work.
 7. No Phase 2 administrative completion action remains pending.
 8. No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
-9. Do not commence D5 or D6 without a separately governed entry sequence authorised by the Master Programme following FEF-PGC-001 D5-readiness confirmation.
+9. D5 is Mobilised — Effective and has completed evidence mobilisation for RQ-032 through RQ-037, the D5 Evidence Mobilisation Completion Review, the D5 Post-Completion Administrative Reconciliation, and D5 EP-005 Evidence Pack Assembly (v1.0 — Assembled, Not Frozen); do not commence D6 without a separately governed entry sequence authorised by the Master Programme following FEF-PGC-001 D6-readiness confirmation; do not freeze EP-005, open a D5 session, or commence D5 examination without their own separately governed authorisation.
 10. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
 11. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
 12. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
@@ -1352,6 +1352,44 @@ before completion. **EP-005 remains Assembled — Not Frozen.** D5
 substantive review remains **not commenced**; a separately authorised
 DG-3 EP-005 Freeze Authorisation and Freeze Action is the next
 permissible activity, not performed by this revision.
+
+This v0.66 revision records a **D5 EP-005 Pre-Freeze Programme and
+RQ-State Reconciliation**, performed before any DG-3 freeze action.
+Three additional discrepancies were found and corrected: the D5
+Review Question Set's six per-RQ "Version" fields remained at 1.1
+after the prior revision added each RQ's "Packed in EP-005 v1.0" text,
+one step behind the Review Question Register's matching rows (already
+at 1.2) — corrected to 1.2 in the D5 Review Question Set (now v1.8);
+this Master Programme's own §8 item 9 still read "Do not commence D5
+... without a separately governed entry sequence," stale since D5 has
+in fact been Mobilised, evidence-mobilised, reconciled, and assembled
+into EP-005 — corrected to state the current D5 state and to instead
+caution against D6 commencement, EP-005 freeze, D5 session creation,
+or D5 examination without their own separate authorisation; and the
+Founder Dashboard's and this document's own cross-reference to the
+Master Programme's version had each fallen one revision behind
+(both corrected to v0.66 as part of this reconciliation). The
+[FEF-FGR-002-REVIEW-IDENTITY](../governance/reviews/FEF-FGR-002/FEF-FGR-002-REVIEW-IDENTITY.md)
+document, found stale at v1.43 (itself already one entry behind its
+own v1.45 change history, and entirely unchanged through the whole of
+D5), was brought forward to v1.46 with a new §4.4 D5 Execution State
+section and corrected Controlled Register Set counts. The Document
+Manifest's Review Identity row is updated to match. Full detail is
+recorded in
+[FEF-FGR-002-D5-PFRR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-PRE-FREEZE-RECONCILIATION-RECORD.md),
+validated in
+[FEF-FGR-002-D5-PFRVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-PRE-FREEZE-RECONCILIATION-VALIDATION-REPORT.md).
+None of these corrections changed any RQ wording, evidence mapping,
+evidence identity, evidence qualification, Open Question text, or
+D1–D4 substantive artefact; EP-005's pack, manifest, and both its
+membership and whole-file fingerprints were independently reverified
+byte-identical to their assembly-time state and are unchanged by this
+reconciliation. No Evidence Pack was frozen; no session was created;
+no examination was commenced; no Governance Finding or Founder
+Decision was created. **EP-005 remains Assembled — Not Frozen.** D5
+substantive review remains **not commenced**; a separately authorised
+DG-3 EP-005 Freeze Authorisation and Freeze Action is the next
+permissible activity.
 
 ## 11. Change Control
 
