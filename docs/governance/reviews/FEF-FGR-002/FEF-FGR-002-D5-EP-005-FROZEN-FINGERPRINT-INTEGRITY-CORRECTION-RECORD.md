@@ -257,6 +257,6 @@ This correction:
 
 The DG-3 freeze metadata is now internally consistent. The corrected frozen whole-file fingerprints at commit `663297a1f9d194bf85fcad9cb98d5dfccd95b86f` are the controlling values for all downstream verification. The assembly-state hashes remain valid historical references. The membership fingerprint remains unchanged.
 
-See FEF-FGR-002-EP-005-FFICVR-001 for independent validation of this correction.
+See FEF-FGR-002-EP-005-FFICVR-001 for validation of this correction under the disclosed non-independent arrangement.
 
 The post-freeze session-entry readiness reconciliation (FEF-FGR-002-D5-PFSERR-001) remains pending. DG-4 remains unperformed.

@@ -52,7 +52,7 @@ The evidence-membership fingerprint (`59414d0803ed114171c35a821d4581a80e8df92121
 
 ## 3. Source Integrity at Freeze (v1.1)
 
-Source integrity was independently reconfirmed unchanged in FEF-FGR-002-EP-005-FFICVR-001: the freeze commit changed only lifecycle/control annotations and did not alter any evidence membership, evidence identity, source digest, qualification, mapping, limitation, permitted use, Open Question, or special-evidence control.
+Source integrity was directly reconfirmed unchanged in FEF-FGR-002-EP-005-FFICVR-001 under the disclosed non-independent arrangement: the freeze commit changed only lifecycle/control annotations and did not alter any evidence membership, evidence identity, source digest, qualification, mapping, limitation, permitted use, Open Question, or special-evidence control.
 
 | Check                                 | Result                                                                                    |
 | ------------------------------------- | ----------------------------------------------------------------------------------------- |

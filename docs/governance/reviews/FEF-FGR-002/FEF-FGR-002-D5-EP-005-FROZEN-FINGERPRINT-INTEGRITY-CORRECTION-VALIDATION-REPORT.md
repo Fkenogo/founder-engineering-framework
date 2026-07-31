@@ -13,7 +13,7 @@
 
 ## 1. Validation Scope
 
-This report validates the FEF-FGR-002-EP-005-FFICR-001 correction of the DG-3 frozen fingerprint integrity metadata for EP-005 v1.0. It independently verifies:
+This report validates the FEF-FGR-002-EP-005-FFICR-001 correction of the DG-3 frozen fingerprint integrity metadata for EP-005 v1.0. It verifies the following under the disclosed non-independent arrangement:
 
 - Repository entry state;
 - Commit ancestry;
@@ -114,7 +114,7 @@ Two hunks, 9 lines changed. Independently classified:
 
 ### 4.3 Evidence-Section Integrity
 
-The following were independently verified unchanged by direct comparison of the pack content at `d9982b5` and `663297a`:
+The following were directly reverified unchanged by comparison of the pack content at `d9982b5` and `663297a`:
 
 | Check                                                                           | Result                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
