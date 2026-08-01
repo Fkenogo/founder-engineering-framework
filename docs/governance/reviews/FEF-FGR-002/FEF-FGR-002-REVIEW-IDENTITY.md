@@ -2,7 +2,7 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.64
+**Identity version:** 1.65
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
@@ -57,7 +57,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | FEF-FGR-002-ER-001 | Evidence Register | 67 |
 | FEF-FGR-002-EPR-001 | Evidence Pack Register | 5 |
 | FEF-FGR-002-SR-001 | Session identities / opened sessions | 5 / 5 |
-| FEF-FGR-002-GFR-001 | Governance Finding Register | 35 |
+| FEF-FGR-002-GFR-001 | Governance Finding Register | 36 |
 | FEF-FGR-002-FDR-001 | Founder Decision Register | 32 |
 | FEF-FGR-002-CCR-001 | Constitutional Candidate Register | 0 |
 | FEF-FGR-002-DMR-001 | Deferred Matter Register | 0 |
@@ -165,6 +165,7 @@ They do not:
 | D5 substantive review | Examination complete at finding level — S05 Evidence Examination Loops 001 through 006 completed for RQ-032 through RQ-037; GF-031 through GF-036 Dispositioned — Accept with Conditions; S05 Closed after validated Session Exit |
 | D5-G2 Founder Review Package | [FEF-FGR-002-D5-G2-FRP-001](FEF-FGR-002-D5-G2-FOUNDER-REVIEW-PACKAGE.md) — historical protected source for the subsequently completed Live Founder Review; six source findings and paired validation conditions reproduced exactly with 36 originally blank Founder fields; validated Pass with Conditions in [FEF-FGR-002-D5-G2-FRPVR-001](FEF-FGR-002-D5-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md); distinct from D5-G1 |
 | D5-G2 Live Founder Review | [FEF-FGR-002-D5-G2-FDR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-RECORD.md) — all 36 Founder fields populated exactly; GF-031 through GF-036 each Dispositioned `Accept with Conditions`; validated Pass with Conditions in [FEF-FGR-002-D5-G2-FDVR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md); no Founder Decision issued |
+| D5-G2 post-review control reconciliation | [FEF-FGR-002-D5-G2-PRCRR-001](FEF-FGR-002-D5-G2-POST-REVIEW-CONTROL-RECONCILIATION-RECORD.md) — corrects three stale live-state references after the completed review; validated in [FEF-FGR-002-D5-G2-PRCRVR-001](FEF-FGR-002-D5-G2-POST-REVIEW-CONTROL-RECONCILIATION-VALIDATION-REPORT.md); Founder text and dispositions unchanged; no DG-5 activity |
 | Next D5 gate | Separately governed DG-5 Founder Decision issuance; not commenced |
 | D6 | Not commenced; requires its own separately governed entry sequence |
 
@@ -316,3 +317,4 @@ framework effect.
 | 1.62 | 2026-08-01 | Records S05 Session Exit Pass with Conditions after all six exact FEF-FGRP-001 §12.1 criteria and complete RQ/examination/GF/validation chains passed; S05 Closed — Examination Complete; Governance Findings Presented; GF-031–GF-036 remain Presented/Pending, all Open Questions and evidence controls unchanged, D5 Active/Not Closed, no findings-stage package, disposition, FD, DG-5/DG-6, or D6/D7 commencement; neutral D5 Founder Review Package preparation is next and separately governed | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
 | 1.63 | 2026-08-01 | Records neutral D5-G2 findings-stage Founder Review Package prepared and validated Pass with Conditions: GF-031–GF-036 and paired validation conditions reproduced exactly, 36 Founder workbook fields blank, no synthesis or recommendation; findings remain Presented/Pending, all eight applicable OQs open, S05 Closed, D5 Active/Not Closed, no live review, disposition, FD, DG-5/DG-6, or D6/D7 commencement; separately authorised live Founder Review next | FEF-FGR-002-D5-G2-FRP-001; FEF-FGR-002-D5-G2-FRPVR-001 |
 | 1.64 | 2026-08-01 | Records completed and validated D5-G2 Live Founder Review: all 36 Founder fields populated exactly; GF-031–GF-036 each Dispositioned — Accept with Conditions; eight common plus five finding-specific conditions retained per finding; all eight applicable OQs remain open; no framework design/implementation or FD; DG-5/DG-6 not commenced; D5 Active/Not Closed; D6/D7 uncommenced; separately governed DG-5 Founder Decision issuance next | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-G2-FDVR-001 |
+| 1.65 | 2026-08-01 | D5-G2 post-review administrative reconciliation corrects the stale live Governance Finding Register count from 35 to 36; links PRCRR-001/PRCRVR-001; preserves all six exact Founder dispositions and wording, all eight applicable Open Questions, S05 Closed, D5 Active/Not Closed, no FD, and DG-5/DG-6/D6/D7 uncommenced; separately governed DG-5 Founder Decision issuance remains next | FEF-FGR-002-D5-G2-PRCRR-001; FEF-FGR-002-D5-G2-PRCRVR-001 |

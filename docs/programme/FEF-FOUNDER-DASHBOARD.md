@@ -9,9 +9,9 @@
 
 | Item                          | Current State                                                                                                                                                                                                     |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version             | Master Programme v0.85 |
+| Programme version             | Master Programme v0.86 |
 | Current phase                 | Phase 2 — Founder Governance Review                                                                                                                                                                               |
-| Current milestone             | **D5-G2 Live Founder Review Complete and Validated — Pass with Conditions**; GF-031–GF-036 Dispositioned `Accept with Conditions` |
+| Current milestone             | **D5-G2 Post-Review Control Reconciliation Complete and Validated — Pass with Conditions**; Founder review and all six dispositions unchanged; DG-5 not commenced |
 | Latest completed work package | FEF-RCR-001 — Programme Repository Reconciliation and Navigation Baseline                                                                                                                                         |
 | Current active work package   | None — review execution is controlled by approved governance instruments                                                                                                                                          |
 | Current execution window      | D1–D4 Closed; D5 Active/Not Closed; S05 Closed after Loops 001–006 and validated Session Exit; RQ-032–RQ-037 Answered at finding level through GF-031–GF-036 Dispositioned `Accept with Conditions`; no D5 FD; DG-5/DG-6 and D6/D7 uncommenced |
@@ -65,8 +65,9 @@ froze the successor under [FR-002](../governance/reviews/FEF-FGR-002/FEF-FGR-002
 validated Pass with Conditions in [VR-002](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-EP-005-v2.0-VALIDATION-REPORT.md).
 
 RQ-032 through RQ-037 are Answered at finding level through GF-031 through
-GF-036, which remain Presented and pending Founder disposition. OQ-013 and
-OQ-016 remain open. Evidence authority, admissibility, qualification,
+GF-036, all Dispositioned — `Accept with Conditions` in the completed and
+validated D5-G2 Live Founder Review. All eight applicable Open Questions,
+including OQ-013 and OQ-016, remain open. Evidence authority, admissibility, qualification,
 mappings, limitations, permitted uses, Open Questions, and D6/D7 boundaries
 are unchanged. PFSERR-002 was
 accepted; DG-4 passed with conditions; and the Founder accepted that result,
