@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.22 |
+| Set version | 1.23 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -14,7 +14,7 @@
 | Founder disposition | Accept — all six; FEF-FGR-002-D5-G1-FDR-001 |
 | Admission record | FEF-FGR-002-D5-RQAR-001 |
 | Lifecycle treatment | RQ-032 through RQ-037 Answered at finding level |
-| Assigned examination unit | FEF-FGR-002-S05 — Open; Evidence Examination Loops 001 through 006 Complete |
+| Assigned examination unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented |
 | Questions answered | 6 — RQ-032 through Presented GF-031; RQ-033 through Presented GF-032; RQ-034 through Presented GF-033; RQ-035 through Presented GF-034; RQ-036 through Presented GF-035; RQ-037 through Presented GF-036 |
 | Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs |
 
@@ -35,7 +35,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-032 |
-| Version | 1.10 |
+| Version | 1.11 |
 | Title | Governance Instrument Status and Approval Model |
 | Question Text | What drafting, review, and operational states, if any, do FEF governance instruments pass through, and by what Founder or delegated authority is each state transition confirmed? |
 | Originating candidate | D5-RQC-01 |
@@ -53,7 +53,7 @@ substantive answer is introduced.
 | Dependencies | D1: Founder authority and reserved decision-gates remain the approving mechanism for any transition; not reopened. D3: Assurance verdicts (Pass, Pass with Conditions) are a distinct concept from instrument status and must not be conflated with it. D4: Registers already carry structured "Lifecycle State" fields; whether that vocabulary generalises is examined here, not decided. Interface: D6 will need a stable vocabulary to administer; D7 may require a distinct model for constitutional material |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open — Evidence Examination Loop 001 Complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 001 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
@@ -75,7 +75,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-033 |
-| Version | 1.11 |
+| Version | 1.12 |
 | Title | Applicability and Transitional Effect |
 | Question Text | When a FEF governance instrument is approved, amended, or withdrawn, does it apply retrospectively to work already underway, only to work commenced after its effective date, or under some other transitional rule, and who decides which rule applies? |
 | Originating candidate | D5-RQC-02 |
@@ -93,7 +93,7 @@ substantive answer is introduced.
 | Dependencies | D1: Founder retains authority to set transitional terms for any instrument; not delegated. D3: None of D1–D4's closed domains have yet needed to apply a transition rule to their own outputs; treated as untested, not settled precedent. D4: Records must be able to show which version of an instrument governed a decision at the time it was made. Interface: D6 administration may need to track effective dates; D7 constitutional transition may require a stricter rule |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open; Evidence Examination Loop 002 Complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 002 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered — at finding level |
@@ -116,7 +116,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-034 |
-| Version | 1.12 |
+| Version | 1.13 |
 | Title | Versioning and Release Practice |
 | Question Text | What versioning and release-state conventions, if any, should apply uniformly across FEF governance instruments, and how does this relate to the version-history practice already separately operated by the Master Programme and individual review records? |
 | Originating candidate | D5-RQC-03 |
@@ -134,7 +134,7 @@ substantive answer is introduced.
 | Dependencies | D1: Authority to approve any adopted convention is separate from and reserved above the numbering scheme itself. D3: Assurance/validation reports' `v1.0 — Pass` style versioning is an operated example, not a settled standard. D4: Registers already use structured version fields; direct existing precedent. Interface: D6 administration would implement any adopted convention; D7 constitutional documents may need a distinct versioning treatment |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open; Loop 003 complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 003 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
@@ -158,7 +158,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-035 |
-| Version | 1.13 |
+| Version | 1.14 |
 | Title | Amendment, Supersession, and Withdrawal |
 | Question Text | What governance-chain transitions — amendment, supersession, or withdrawal — require explicit Founder or delegated approval, who owns the resulting transition record, and how is a superseded or withdrawn instrument preserved rather than deleted? |
 | Originating candidate | D5-RQC-04 |
@@ -176,7 +176,7 @@ substantive answer is introduced.
 | Dependencies | D1: Founder authority over any amendment/supersession/withdrawal decision is reserved and not delegated. D3: The D3 quarantine precedent (six voided artefacts preserved, not deleted, not reused) is a direct operated example. D4: Retention/archival and record-preservation controls are the closest existing analogue. Interface: D6 register architecture would implement any resulting model; D7 constitutional amendment may require a stricter version |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open; Loop 004 complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 004 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
@@ -201,7 +201,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-036 |
-| Version | 1.14 |
+| Version | 1.15 |
 | Title | Exceptions, Expiry, and Controlled Evolution |
 | Question Text | What exception, deviation, or expiry mechanism, if any, should apply when a governance instrument is temporarily or conditionally departed from, and what distinguishes a bounded exception from controlled evolution of the framework itself? |
 | Originating candidate | D5-RQC-05 |
@@ -219,7 +219,7 @@ substantive answer is introduced.
 | Dependencies | D1: Founder reserved authority over granting any exception is not delegated. D3: The "Accept with Conditions" disposition pattern across GF-001 through GF-030 is an operated conditioned-disposition example; whether it constitutes a bounded exception is not established. D4: None directly; informational only. Interface: FEF-FEV-001 is the existing mechanism through which any specific controlled-evolution candidate would be formally submitted; this question examines the lifecycle-governance concept of controlled evolution, not any specific submitted candidate |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open; Loop 005 complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 005 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
@@ -245,7 +245,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-037 |
-| Version | 1.15 |
+| Version | 1.16 |
 | Title | Treatment of Legacy Governance Material |
 | Question Text | How should pre-FEF-FGR-002 governance material — including exploratory drafts, legacy scheduled-work identifiers, and incomplete historical evidence records — be classified under any future lifecycle model, without retrospectively validating or invalidating them? |
 | Originating candidate | D5-RQC-06 |
@@ -263,7 +263,7 @@ substantive answer is introduced.
 | Dependencies | D1: GF-001 already found "no complete constitutional hierarchy is evidenced," relevant precedent that legacy material sits outside the current authority model. D3: None directly. D4: Retention/archival treatment of legacy records is the closest existing analogue. Interface: D7 constitutional boundary may ultimately decide legacy-authority questions; D6 administration would implement any classification scheme |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | FEF-FGR-002-S05 — Open; Loop 006 complete |
+| Assigned Examination Unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented; Loop 006 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
@@ -323,6 +323,7 @@ substantive answer is introduced.
 | 1.20 | 2026-08-01 | RQ-035 advanced to v1.13 after S05 Evidence Examination Loop 004 used exactly EV-005, EV-017, EV-074, EV-078, EV-079, and EV-082 from frozen EP-005 v2.0; Lifecycle State Answered and Presented GF-034 linkage recorded; RQ-036/RQ-037 also advanced administratively to v1.13 solely to record Loops 001–004 complete while remaining Pending/Unexamined; exact Question Text, scope, exclusions, dependencies, evidence treatment, and all OQ linkages unchanged; RQ-032/GF-031 through RQ-034/GF-033 unchanged | FEF-FGR-002-S05-RQ-035-ER-001; FEF-FGR-002-S05-GF-034-VR-001 |
 | 1.21 | 2026-08-01 | RQ-036 advanced to v1.14 after S05 Evidence Examination Loop 005 used exactly EV-005, EV-012, EV-017, EV-066, EV-074, and EV-083 from frozen EP-005 v2.0; Lifecycle State Answered and Presented GF-035 linkage recorded; three live descriptive phrases were aligned with the controlling qualification by replacing their unproven “conditioned disposition = bounded exception” characterization; exact Question Text, scope, exclusions, evidence mapping/treatment, and OQ-012 remain unchanged; RQ-037 advanced administratively to v1.14 solely to record Loops 001–005 complete while Pending/Unexamined; RQ-032/GF-031 through RQ-035/GF-034 unchanged | FEF-FGR-002-S05-RQ-036-ER-001; FEF-FGR-002-S05-GF-035-VR-001 |
 | 1.22 | 2026-08-01 | RQ-037 advanced to v1.15 after S05 Evidence Examination Loop 006 used exactly EV-012, EV-014, EV-078, EV-080, EV-084, and EV-085 from frozen EP-005 v2.0 at governed acquisitions; EV-014 remained Context Only, OQ-013/OQ-016 remained open, and GF-001/FD-002 remained fixed; Lifecycle State Answered and Presented GF-036 linkage recorded; exact Question Text, scope, exclusions, dependencies, evidence mapping/treatment, and OQ relationships unchanged; RQ-032/GF-031 through RQ-036/GF-035 unchanged | FEF-FGR-002-S05-RQ-037-ER-001; FEF-FGR-002-S05-GF-036-VR-001 |
+| 1.23 | 2026-08-01 | Records validated S05 Session Exit after all six exact FEF-FGRP-001 §12.1 criteria passed; Assigned Examination Unit fields now record S05 Closed — Examination Complete; Governance Findings Presented; RQ-032 through RQ-037 advanced administratively to v1.11/v1.12/v1.13/v1.14/v1.15/v1.16 respectively; exact Question Text, scope, exclusions, dependencies, Lifecycle State, Disposition, evidence mapping/treatment, and all OQ relationships remain unchanged; GF-031–GF-036 Presented/Pending, no D5 FD, D5 Active/Not Closed, D6/D7 uncommenced | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
 
 ## 10. Non-Effects
 
