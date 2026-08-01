@@ -2,12 +2,12 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.66
+**Identity version:** 1.67
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** FEF-FGR-002 **Active**; D1–D4 Closed; D5 Active and Not Closed; frozen EP-005 v2.0/MAN-002 was the sole S05 examination baseline; S05 is **Closed — Examination Complete; Governance Findings Presented**; RQ-032 through RQ-037 Answered at finding level through GF-031 through GF-036; FD-033 through FD-038 issued and validated one-to-one; DG-5 complete; DG-6 and D6/D7 uncommenced
+**Review state:** FEF-FGR-002 **Active**; D1 through D5 Closed; D6 and D7 Uncommenced; frozen EP-005 v2.0/MAN-002 was the sole S05 examination baseline; S05 remains **Closed — Examination Complete; Governance Findings Presented**; RQ-032 through RQ-037 Answered; GF-031 through GF-036 Closed — Decision Issued; FD-033 through FD-038 Issued — Decision Record Validated; DG-5/DG-6 complete
 
 **D3 state:** Closed through DG-6 after V7 validation; 9 canonical RQs (RQ-016 through RQ-024) remain `Lifecycle State: Answered`; 39 Evidence Records remain frozen in FEF-FGR-002-EP-003 v1.0; GF-015 through GF-023 remain dispositioned; FD-017 through FD-025 remain issued and validated; the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed and unresolved; no Constitutional Candidate or Deferred Matter exists; D4 had not started at D3 closure
 
@@ -15,7 +15,7 @@
 
 **D4 state:** **Closed**; RQ-025 through RQ-031 Answered; EP-004 v1.0 Frozen; S04 Closed — Examination Complete; Governance Findings Presented; GF-024 through GF-030 Closed — Decision Issued — Accept with Conditions through [FEF-FGR-002-D4-G2-FDR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-RECORD.md) and seven Founder Decision Records FD-026 through FD-032 validated Pass with Conditions in [FEF-FGR-002-D4-DG5-FDVR-001](FEF-FGR-002-D4-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md); DG-5 and DG-6 complete
 
-**D5 state:** **Active — Not Closed**; four Founder mobilisation conditions and all S05 conditions remain binding; RQ-032 through RQ-037 Answered at finding level through GF-031 through GF-036; FD-033 through FD-038 issued and validated one-to-one from the exact D5-G2 dispositions; v1.0/MAN-001 historical and reliance-blocked; frozen v2.0/MAN-002 was S05's sole examination baseline; S05 Closed after validated Session Exit; DG-5 complete; DG-6 and D6/D7 uncommenced
+**D5 state:** **Closed** through validated DG-6 Domain Exit; four Founder mobilisation conditions preserved; RQ-032 through RQ-037 Answered; GF-031 through GF-036 Closed — Decision Issued — Accept with Conditions; FD-033 through FD-038 issued and validated one-to-one; v1.0/MAN-001 historical and reliance-blocked; frozen v2.0/MAN-002 was S05's sole examination baseline; S05 historical Closed state unchanged; all eight applicable Open Questions remain open; no accepted direction implemented; D6/D7 uncommenced
 
 **Framework Evolution state:** Governance Evolution Review (FEF-GER-D3-001) and FAP-001 Founder review package exist, completed; **deferred**, not on the critical path; CE1–CE6 undecided
 
@@ -90,7 +90,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D1 status | Formally closed after Founder disposition and decision validation |
 | Operational checkpoint | ORC-001 v1.0 — Closed; Founder Approved with Conditions; validation passed |
 | Operational readiness decision | FEF-FGR-002-FD-010 v1.0 — Decision Record Validated; Operative with Conditions |
-| Remaining review domains | D1 through D4 Closed; D5 Active; D6 and D7 uncommenced; D8 not reached except for existing cross-cutting Open Question mappings |
+| Remaining review domains | D1 through D5 Closed; D6 and D7 uncommenced; D8 not reached except for existing cross-cutting Open Question mappings |
 | D2 mobilisation | [FEF-FGR-002-D2-MOB-001](FEF-FGR-002-D2-MOB-001-EVIDENCE-GOVERNANCE-MOBILISATION-RECORD.md) — Complete; Ready with Conditions |
 | D2 RQ set | [FEF-FGR-002-D2-RQS-001](FEF-FGR-002-D2-REVIEW-QUESTION-SET.md) — 7 Validated and Admitted |
 | D2 evidence catalogue | [FEF-FGR-002-D2-ERC-001](FEF-FGR-002-D2-EVIDENCE-RECORD-CATALOGUE.md) — 21 mapped sources; validated |
@@ -132,7 +132,7 @@ The Founder authorised commencement through FD-2026-07-24-009. The approved coll
 | D4-G2 Founder Review Disposition | [FEF-FGR-002-D4-G2-FDR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-RECORD.md) — exact Founder Observation, Discussion, Accept with Conditions disposition, five Conditions, Rationale, and four Follow-up Actions recorded for each of GF-024 through GF-030; validated Pass with Conditions in [FEF-FGR-002-D4-G2-FDVR-001](FEF-FGR-002-D4-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md); that disposition-recording activity itself created zero Founder Decision Records; subsequently FD-026 through FD-032 were issued and validated, DG-5 and DG-6 completed, and D4 Closed |
 | D3 quarantined material | Six voided artefacts (identifiers RQVA-001, ERM-001, CEIQR-001, ERRM-001, EMVR-001, RQS-001) preserved under [FEF-FGR-002-D3-QM-001](FEF-FGR-002-D3-QUARANTINE-2026-07-25/FEF-FGR-002-D3-QUARANTINE-MANIFEST.md); superseded by the genuinely Founder-authorised RQS-002/RQVA-002 admission, not reused |
 | Framework Evolution artefacts | [FEF-GER-D3-001](../FEF-GOVERNANCE-EVOLUTION-REVIEW-D3.md) and [FEF-FAP-001](../FEF-FAP-001-FOUNDER-FRAMEWORK-EVOLUTION-REVIEW-PACKAGE.md) — completed, **deferred**; not on the current critical path; routed to Domain D5 or later constitutional consolidation |
-| Next gate | DG-5 is complete through validated FD-033–FD-038. Separately governed DG-6 domain exit is next; D5 remains Active/Not Closed, S05 remains Closed, all eight applicable Open Questions remain open, and D6/D7 remain uncommenced. |
+| Next gate | Founder review of the validated D5 Domain Exit result and separate authorisation of the next programme activity. D1–D5 are Closed; D6/D7 remain uncommenced. |
 
 ### 4.3 Substantive Review Boundary
 
@@ -152,7 +152,7 @@ They do not:
 |---|---|
 | D5 mobilisation | [FEF-FGR-002-D5-MOB-001](FEF-FGR-002-D5-MOB-001-GOVERNANCE-LIFECYCLE-AND-EVOLUTION-MOBILISATION-RECORD.md) / [FEF-FGR-002-D5-FMAR-001](FEF-FGR-002-D5-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — Founder Approve with Conditions; **Mobilised — Effective**, subject to four Founder conditions |
 | D5 candidate review and admission | [FEF-FGR-002-D5-G1-FDR-001](FEF-FGR-002-D5-G1-FOUNDER-DISPOSITION-RECORD.md) — six candidates Accepted verbatim; [FEF-FGR-002-D5-RQAR-001](FEF-FGR-002-D5-REVIEW-QUESTION-ADMISSION-RECORD.md) — RQ-032 through RQ-037 admitted (DG-2), Admitted, Pending |
-| D5 canonical RQ set | [FEF-FGR-002-D5-REVIEW-QUESTION-SET.md](FEF-FGR-002-D5-REVIEW-QUESTION-SET.md) v1.25 — RQ-032 v1.11, RQ-033 v1.12, RQ-034 v1.13, RQ-035 v1.14, RQ-036 v1.15, and RQ-037 v1.16 Answered at finding level through GF-031–GF-036 and validated FD-033–FD-038; S05 Closed; exact Question Text unchanged |
+| D5 canonical RQ set | [FEF-FGR-002-D5-REVIEW-QUESTION-SET.md](FEF-FGR-002-D5-REVIEW-QUESTION-SET.md) v1.26 — RQ-032 through RQ-037 Answered; GF-031–GF-036 Closed — Decision Issued through validated FD-033–FD-038; D5 Closed; exact Question Text unchanged |
 | D5 evidence mobilisation | Execution Loops 001–006, one RQ per loop, each Pass with Conditions: RQ-032 (nine Evidence Records), RQ-033 (eight), RQ-034 (six), RQ-035 (six), RQ-036 (six), RQ-037 (six) |
 | D5 evidence completion review | [FEF-FGR-002-D5-EMCR-001](FEF-FGR-002-D5-EVIDENCE-MOBILISATION-COMPLETION-REVIEW.md) v1.1 — reconciled 25 unique Evidence Records, 41 source-to-RQ mappings, 42 source-to-requirement links, 24/24 requirements mapped; no evidence-corpus inconsistency found; validated Pass with Conditions in [FEF-FGR-002-D5-EPRVR-001](FEF-FGR-002-D5-EVIDENCE-PACK-READINESS-VALIDATION-REPORT.md) v1.1 |
 | D5 post-completion administrative reconciliation | [FEF-FGR-002-D5-PCARR-001](FEF-FGR-002-D5-POST-COMPLETION-ADMINISTRATIVE-RECONCILIATION-RECORD.md) — corrected three stale programme-metadata fields (Master Programme principal version, Manifest Master Programme row, Dashboard "As at" date) outside the evidence corpus; validated in [FEF-FGR-002-D5-PCARVR-001](FEF-FGR-002-D5-POST-COMPLETION-ADMINISTRATIVE-RECONCILIATION-VALIDATION-REPORT.md) |
@@ -162,12 +162,13 @@ They do not:
 | D5 attempted DG-4 and provenance remediation | PFSERR-001 remains historical; attempted DG-4 stopped at integrity verification and issued no verdict; [PMCR-001](FEF-FGR-002-D5-EP-005-PROVENANCE-AND-MEMBERSHIP-CONTROL-REMEDIATION-RECORD.md) prepared successor v2.0 with corrected EV-072 inputs; [PMCVR-001](FEF-FGR-002-D5-EP-005-PROVENANCE-AND-MEMBERSHIP-CONTROL-REMEDIATION-VALIDATION-REPORT.md) validated it; FR-002/VR-002 completed DG-3 re-freeze Pass with Conditions |
 | D5 session / examination | S05 Closed — Examination Complete; Governance Findings Presented after validated Session Exit; RQ-032 through RQ-037 examination records and GF-031 through GF-036 validations record Loops 001 through 006 Pass with Conditions; all six findings Dispositioned — Accept with Conditions and linked one-to-one to validated FD-033 through FD-038 |
 | D5 Open Questions preserved | OQ-004, OQ-012, OQ-013, OQ-014, OQ-016, OQ-017, OQ-021, OQ-022 — all open, unchanged, undispositioned |
-| D5 substantive review | Examination complete at finding level — S05 Evidence Examination Loops 001 through 006 completed for RQ-032 through RQ-037; GF-031 through GF-036 Dispositioned — Accept with Conditions; S05 Closed after validated Session Exit |
+| D5 substantive review | Complete — S05 Loops 001 through 006, Session Exit, Founder Review, DG-5, and DG-6 complete; D5 Closed; all accepted directions remain unimplemented |
 | D5-G2 Founder Review Package | [FEF-FGR-002-D5-G2-FRP-001](FEF-FGR-002-D5-G2-FOUNDER-REVIEW-PACKAGE.md) — historical protected source for the subsequently completed Live Founder Review; six source findings and paired validation conditions reproduced exactly with 36 originally blank Founder fields; validated Pass with Conditions in [FEF-FGR-002-D5-G2-FRPVR-001](FEF-FGR-002-D5-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md); distinct from D5-G1 |
 | D5-G2 Live Founder Review | [FEF-FGR-002-D5-G2-FDR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-RECORD.md) — all 36 Founder fields populated exactly; GF-031 through GF-036 each Dispositioned `Accept with Conditions`; validated Pass with Conditions in [FEF-FGR-002-D5-G2-FDVR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md); subsequently issued one-to-one through FD-033–FD-038 |
 | D5-G2 post-review control reconciliation | [FEF-FGR-002-D5-G2-PRCRR-001](FEF-FGR-002-D5-G2-POST-REVIEW-CONTROL-RECONCILIATION-RECORD.md) — corrects three stale live-state references after the completed review; validated in [FEF-FGR-002-D5-G2-PRCRVR-001](FEF-FGR-002-D5-G2-POST-REVIEW-CONTROL-RECONCILIATION-VALIDATION-REPORT.md); Founder text and dispositions unchanged; no DG-5 activity |
 | D5 DG-5 issuance and validation | [FEF-FGR-002-D5-DG5-FDVR-001](FEF-FGR-002-D5-DG5-FOUNDER-DECISION-ISSUANCE-VALIDATION-REPORT.md) — Pass with Conditions; FD-033 through FD-038 issued one-to-one; [FEF-FGR-002-D5-TR-001](FEF-FGR-002-D5-TRACEABILITY-REGISTER.md) completes six deterministic chains; DG-5 complete; DG-6 separately governed and next |
-| Next D5 gate | Separately governed DG-6 domain exit; not commenced |
+| D5 closure | [FEF-FGR-002-D5-CR-001](FEF-FGR-002-D5-CLOSURE-REPORT.md) / [FEF-FGR-002-D5-DG6-DEVR-001](FEF-FGR-002-D5-DG6-DOMAIN-EXIT-VALIDATION-REPORT.md) — DG-6 Complete; Pass with Conditions; D5 Closed; D6/D7 uncommenced |
+| Next D5 gate | None — D5 Closed; Founder review of the validated Domain Exit result and separate authorisation of the next programme activity are required |
 | D6 | Not commenced; requires its own separately governed entry sequence |
 
 ## 5. Integrity and Validation
@@ -320,3 +321,4 @@ framework effect.
 | 1.64 | 2026-08-01 | Records completed and validated D5-G2 Live Founder Review: all 36 Founder fields populated exactly; GF-031–GF-036 each Dispositioned — Accept with Conditions; eight common plus five finding-specific conditions retained per finding; all eight applicable OQs remain open; no framework design/implementation or FD; DG-5/DG-6 not commenced; D5 Active/Not Closed; D6/D7 uncommenced; separately governed DG-5 Founder Decision issuance next | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-G2-FDVR-001 |
 | 1.65 | 2026-08-01 | D5-G2 post-review administrative reconciliation corrects the stale live Governance Finding Register count from 35 to 36; links PRCRR-001/PRCRVR-001; preserves all six exact Founder dispositions and wording, all eight applicable Open Questions, S05 Closed, D5 Active/Not Closed, no FD, and DG-5/DG-6/D6/D7 uncommenced; separately governed DG-5 Founder Decision issuance remains next | FEF-FGR-002-D5-G2-PRCRR-001; FEF-FGR-002-D5-G2-PRCRVR-001 |
 | 1.66 | 2026-08-01 | DG-5 issued and validated six separate Founder Decision Records FD-033 through FD-038 one-to-one from GF-031 through GF-036; six deterministic D5 traceability chains registered; DG-5 complete; D5 Active/Not Closed; all eight applicable Open Questions remain open; no accepted direction implemented; DG-6 and D6/D7 uncommenced. The v1.65 reconciliation corrected Review Identity’s reported Governance Finding Register entry count; Governance Finding Register v1.33 already contained and reported 36 entries. | FEF-FGR-002-D5-DG5-FDVR-001; FEF-FGR-002-D5-TR-001 |
+| 1.67 | 2026-08-01 | DG-6 Domain Exit validated Pass with Conditions after all six exact FEF-FGRP-001 §12.2 criteria and all 20 mandatory checks passed; D5 Closed; RQ-032–RQ-037 Answered; GF-031–GF-036 Closed — Decision Issued; FD-033–FD-038 unchanged and validated; S05 historical Closed state preserved; all eight applicable Open Questions open; zero Candidate/Deferred Matter; no design/implementation; D6/D7 uncommenced | FEF-FGR-002-D5-CR-001; FEF-FGR-002-D5-DG6-DEVR-001 |

@@ -5,7 +5,8 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.25 |
+| Domain state | Closed — DG-6 Validation Passed |
+| Set version | 1.26 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -57,7 +58,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-031 Dispositioned; Accept with Conditions; FD-033 issued and validated |
+| Disposition | Answered at finding level — GF-031 Closed — Decision Issued; Accept with Conditions; FD-033 issued and validated |
 | Related GFs | FEF-FGR-002-GF-031 |
 | Related FDs | [FEF-FGR-002-FD-033](FEF-FGR-002-FD-033-LIFECYCLE-STATES-AND-AUTHORITY.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -97,7 +98,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered — at finding level |
-| Disposition | Answered at finding level — GF-032 Dispositioned; Accept with Conditions; FD-034 issued and validated |
+| Disposition | Answered at finding level — GF-032 Closed — Decision Issued; Accept with Conditions; FD-034 issued and validated |
 | Related GFs | FEF-FGR-002-GF-032 |
 | Related FDs | [FEF-FGR-002-FD-034](FEF-FGR-002-FD-034-APPLICATION-TO-WORK-ALREADY-UNDERWAY.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -138,7 +139,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-033 Dispositioned; Accept with Conditions; FD-035 issued and validated |
+| Disposition | Answered at finding level — GF-033 Closed — Decision Issued; Accept with Conditions; FD-035 issued and validated |
 | Related GFs | FEF-FGR-002-GF-033 |
 | Related FDs | [FEF-FGR-002-FD-035](FEF-FGR-002-FD-035-VERSIONING-CONVENTIONS.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -180,7 +181,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-034 Dispositioned; Accept with Conditions; FD-036 issued and validated |
+| Disposition | Answered at finding level — GF-034 Closed — Decision Issued; Accept with Conditions; FD-036 issued and validated |
 | Related GFs | FEF-FGR-002-GF-034 |
 | Related FDs | [FEF-FGR-002-FD-036](FEF-FGR-002-FD-036-AMENDMENT-SUPERSESSION-AND-WITHDRAWAL.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -223,7 +224,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-035 Dispositioned; Accept with Conditions; FD-037 issued and validated |
+| Disposition | Answered at finding level — GF-035 Closed — Decision Issued; Accept with Conditions; FD-037 issued and validated |
 | Related GFs | FEF-FGR-002-GF-035 |
 | Related FDs | [FEF-FGR-002-FD-037](FEF-FGR-002-FD-037-EXCEPTIONS-AND-FRAMEWORK-EVOLUTION.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -267,7 +268,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-036 Dispositioned; Accept with Conditions; FD-038 issued and validated |
+| Disposition | Answered at finding level — GF-036 Closed — Decision Issued; Accept with Conditions; FD-038 issued and validated |
 | Related GFs | FEF-FGR-002-GF-036 |
 | Related FDs | [FEF-FGR-002-FD-038](FEF-FGR-002-FD-038-LEGACY-GOVERNANCE-MATERIAL.md) — Decision Record Validated |
 | Constitutional Candidate Links | None |
@@ -326,6 +327,7 @@ substantive answer is introduced.
 | 1.23 | 2026-08-01 | Records validated S05 Session Exit after all six exact FEF-FGRP-001 §12.1 criteria passed; Assigned Examination Unit fields now record S05 Closed — Examination Complete; Governance Findings Presented; RQ-032 through RQ-037 advanced administratively to v1.11/v1.12/v1.13/v1.14/v1.15/v1.16 respectively; exact Question Text, scope, exclusions, dependencies, Lifecycle State, Disposition, evidence mapping/treatment, and all OQ relationships remain unchanged; GF-031–GF-036 Presented/Pending, no D5 FD, D5 Active/Not Closed, D6/D7 uncommenced | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
 | 1.24 | 2026-08-01 | D5-G2 Live Founder Review linkage recorded: GF-031 through GF-036 each Dispositioned — Accept with Conditions; Decision Records remain Pending — FD not yet issued; exact Question Text, scope, exclusions, dependencies, Lifecycle State, evidence mapping/treatment, and all eight Open Question relationships remain unchanged; no design/implementation, DG-5/DG-6, D5 closure, or D6/D7 commencement | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-G2-FDVR-001 |
 | 1.25 | 2026-08-01 | DG-5 linkage recorded: RQ-032 through RQ-037 remain Answered at finding level; GF-031 through GF-036 each link one-to-one to validated FD-033 through FD-038; exact Question Text, scope, exclusions, dependencies, lifecycle, evidence mapping/treatment, and all eight Open Question relationships remain unchanged; D5 Active/Not Closed; DG-6 and D6/D7 uncommenced | FEF-FGR-002-D5-DG5-FDVR-001; FEF-FGR-002-D5-TR-001 |
+| 1.26 | 2026-08-01 | DG-6 Domain Exit linkage recorded: D5 Closed after all six §12.2 criteria passed; RQ-032 through RQ-037 remain Answered; GF-031 through GF-036 Closed — Decision Issued through validated FD-033 through FD-038; exact Question Text, scope, exclusions, dependencies, evidence mapping/treatment, RQ lifecycle, and all eight Open Question relationships unchanged; D6/D7 uncommenced | FEF-FGR-002-D5-CR-001; FEF-FGR-002-D5-DG6-DEVR-001 |
 
 ## 10. Non-Effects
 
