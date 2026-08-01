@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.29 |
+| Register version | 1.30 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-08-01 |
-| Substantive entry count | 33 |
+| Substantive entry count | 34 |
 
 ## Register
 
@@ -54,6 +54,7 @@
 | FEF-FGR-002-GF-031 | 1.0 | Bounded Draft, Founder-Approval, and Effective-State Examples Are Evidenced, but No Approved FEF-Wide Instrument Lifecycle or Delegated Transition-Authority Model Is Established | RQ-032 | EV-005; EV-007; EV-008; EV-013; EV-072; EV-074; EV-075; EV-076; EV-077 | Bounded draft/review/not-approved, Founder approval-with-conditions, and Founder-confirmed effective mobilisation examples are evidenced; no complete FEF-wide lifecycle, universal vocabulary/order, or delegated non-Founder transition-confirmation model is established | EV-013 and EV-072 remain Conditionally Admitted; OQ-004/OQ-022 remain open; no operated Withdrawn/Superseded or delegated transition example; terminology and authority boundaries remain unresolved | Presented | Pending | None | None | Pass with Conditions |
 | FEF-FGR-002-GF-032 | 1.0 | Decision-Specific Commencement and Defect-Correction Treatments Are Evidenced, but No General Transitional-Applicability Rule or Delegated Rule-Selection Model Is Established | RQ-033 | EV-009; EV-010; EV-012; EV-013; EV-070; EV-073; EV-078; EV-079 | Decision-specific current-constraint, event-triggered pilot commencement, and defect-correction treatments are evidenced; no approved general retrospective, prospective, hybrid, or grandfathering rule, default for valid underway work, or delegated rule-selection model is established | EV-013 remains Not Approved and Conditionally Admitted; OQ-017 remains open; defect corrections are not ordinary amendments; no mapped ordinary-withdrawal or valid-underway-work transition example exists | Presented | Pending | None | None | Pass with Conditions |
 | FEF-FGR-002-GF-033 | 1.0 | Multiple Traceable Versioning Practices Are Operated, but No Approved Uniform Convention or Cross-Artefact Reconciliation Is Established | RQ-034 | EV-012; EV-013; EV-072; EV-073; EV-080; EV-081 | Programme, register, per-entry, and draft-instrument versioning practices are evidenced and partially consistent in preserving traceable change; no approved uniform syntax, digit semantics, release-state model, or cross-artefact reconciliation is established | EV-013/EV-072 authority limits and EV-072/EV-080/EV-081 acquisition boundaries remain; OQ-014 remains open; coexistence is a coordination/conflation risk, not proof of direct contradiction or a preferred scheme | Presented | Pending | None | None | Pass with Conditions |
+| FEF-FGR-002-GF-034 | 1.0 | Bounded Founder-Authority and Recovery-Preservation Practices Are Evidenced, but No General Transition, Delegation, Ownership, or Preservation Model Is Established | RQ-035 | EV-005; EV-017; EV-074; EV-078; EV-079; EV-082 | Founder Decision Authority, identifier preservation, and bounded correction/recovery preservation practices are evidenced; no transition-by-transition approval map, delegated authority, ordinary mechanics, transition-record owner, or universal substantive preservation rule is established | EV-005 identifier scope; EV-017 authority-layer scope; EV-074/EV-082 candidate-state limits; EV-078/EV-079 correction/recovery limits; OQ-021 remains open; non-independent chain | Presented | Pending | None | None | Pass with Conditions |
 
 ## Change History
 
@@ -89,14 +90,15 @@
 | 1.27 | 2026-07-31 | GF-031 produced and validated Pass with Conditions from S05 Evidence Examination Loop 001 — RQ-032 Only, using exactly its nine mapped frozen EP-005 v2.0 records; GF-031 Presented/Pending Founder disposition; OQ-004/OQ-022 and all evidence limits preserved; no lifecycle model, Founder disposition, Decision, session/domain closure, or D6/D7 activity | FEF-FGR-002-S05-RQ-032-ER-001; FEF-FGR-002-S05-GF-031-VR-001 |
 | 1.28 | 2026-08-01 | GF-032 produced and validated Pass with Conditions from S05 Evidence Examination Loop 002 — RQ-033 Only, using exactly its eight mapped frozen EP-005 v2.0 records; GF-031 unchanged; GF-032 Presented/Pending Founder disposition; OQ-017 and all evidence limits preserved; no transitional-applicability rule, Founder disposition, Decision, session/domain closure, or D6/D7 activity | FEF-FGR-002-S05-RQ-033-ER-001; FEF-FGR-002-S05-GF-032-VR-001 |
 | 1.29 | 2026-08-01 | GF-033 produced and validated Pass with Conditions from S05 Evidence Examination Loop 003 — RQ-034 Only, using exactly its six mapped frozen EP-005 v2.0 acquisition objects; GF-031/GF-032 unchanged; GF-033 Presented/Pending Founder disposition; OQ-014 and all evidence limits preserved; no versioning convention, renumbering, Founder disposition, Decision, session/domain closure, or D6/D7 activity | FEF-FGR-002-S05-RQ-034-ER-001; FEF-FGR-002-S05-GF-033-VR-001 |
+| 1.30 | 2026-08-01 | GF-034 produced and validated Pass with Conditions from S05 Evidence Examination Loop 004 — RQ-035 Only, using exactly EV-005, EV-017, EV-074, EV-078, EV-079, and EV-082 from frozen EP-005 v2.0; GF-031–GF-033 unchanged; GF-034 Presented/Pending Founder disposition; OQ-021 and all evidence limits preserved; no transition/delegation/ownership/preservation model, Founder disposition, Decision, session/domain closure, or D6/D7 activity | FEF-FGR-002-S05-RQ-035-ER-001; FEF-FGR-002-S05-GF-034-VR-001 |
 
 ## Non-Effects
 
 This register contains thirty previously dispositioned Governance Findings
-and three Presented candidate findings. GF-001 through GF-030 are linked to
-issued Founder Decision Records. GF-031 through GF-033 remain Presented and
+and four Presented candidate findings. GF-001 through GF-030 are linked to
+issued Founder Decision Records. GF-031 through GF-034 remain Presented and
 pending separately governed Founder review and disposition. No Founder
-Decision was created for GF-031 through GF-033. DG-5 issuance
+Decision was created for GF-031 through GF-034. DG-5 issuance
 does not alter any finding wording, evidence basis, uncertainty,
 disposition, or condition; label a finding Approved, Active, or
 Constitutional; close an Open Question; close FEF-FGR-002-S03 or D3;
