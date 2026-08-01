@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.18 |
+| Register version | 1.19 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -26,7 +26,7 @@
 | FEF-FGR-002-EP-003 | 1.0 | D3 — Governance Assurance | RQ-016–RQ-024 | 39 Evidence Records (17 reused, 22 new) | Frozen | 2026-07-26 | S03 — Closed; sole examination baseline | SHA-256 digests recorded in the pack's own Integrity Manifest (§11); reused items carry forward D1/D2 integrity values | Repository-controlled | None | Pass with Conditions — non-independent; RQ-018 gap and EV-058/EV-059 contradictions disclosed |
 | FEF-FGR-002-EP-004 | 1.0 | D4 — Records and Information Governance | RQ-025–RQ-031 | 19 Evidence Records; 65 source-to-RQ mappings; 72 source-to-requirement links | Frozen | 2026-07-28 | S04 — Closed; sole examination baseline | Pack and manifest SHA-256 recorded in FEF-FGR-002-EP-004-FR-001; source and frozen-artefact hashes reverified in FEF-FGR-002-EP-004-VR-001 | Repository-controlled | None | Pass with Conditions — non-independent; evidence gaps, EV-059 contradiction, EV-074 boundary, Open Questions, and D5/D6 interfaces preserved |
 | FEF-FGR-002-EP-005 | 1.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links | Frozen — historical predecessor; reliance blocked | 2026-07-31 | None — no session use; reliance blocked | Historical pack/manifest SHA-256 controlled by FR-001/VR-001 v1.1; historical membership fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` contains the defective EV-072 pair | Repository-controlled | None | Historical Pass with Conditions overtaken for session reliance by the DG-4 integrity discovery; v1.0 remains immutable |
-| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | S05 — Open; Evidence Examination Loops 001 and 002 completed for RQ-032/RQ-033 only; sole examination baseline | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; all conditions remain binding |
+| FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | S05 — Open; Evidence Examination Loops 001 through 003 completed for RQ-032 through RQ-034 only; sole examination baseline | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; all conditions remain binding |
 
 ## D2 Output Linkage
 
@@ -57,10 +57,11 @@ membership input defective. It is blocked from session reliance. Successor
 v2.0 is Frozen with the corrected D5 acquisition pair and controlling
 membership fingerprint under FR-002/VR-002. PFSERR-002 was accepted and DG-4
 subsequently passed with conditions. Following Founder acceptance and the
-validated opening action, S05 is Open. S05 Evidence Examination Loops 001 and
-002 used v2.0/MAN-002 as their sole baseline for RQ-032 and RQ-033 and produced
-Presented GF-031 and GF-032, each validated Pass with Conditions. RQ-034
-through RQ-037 remain unexamined, and no Founder Decision exists for D5.
+validated opening action, S05 is Open. S05 Evidence Examination Loops 001
+through 003 used v2.0/MAN-002 as their sole baseline for RQ-032 through RQ-034
+and produced Presented GF-031 through GF-033, each validated Pass with
+Conditions. RQ-035 through RQ-037 remain unexamined, and no Founder Decision
+exists for D5.
 
 ## Change History
 
@@ -85,13 +86,14 @@ through RQ-037 remain unexamined, and no Founder Decision exists for D5.
 | 1.16 | 2026-07-31 | Corrects stale current EP-003/S03/D3 and EP-004/S04/D4 session/output linkages and v1.0 no-use wording; records S05 Open — Evidence Examination Not Yet Started with frozen v2.0/MAN-002 as its sole baseline; no evidence, examination, RQ answer, GF, FD, D5 closure, or D6/D7 change | Founder pre-opening correction/opening authority; FEF-FGR-002-S05-OR-001; FEF-FGR-002-S05-OVR-001 |
 | 1.17 | 2026-07-31 | Records use of frozen EP-005 v2.0/MAN-002 as the sole baseline for S05 Evidence Examination Loop 001 — RQ-032 Only; exact nine-record mapping and all qualifications retained; GF-031 Presented/Pending after Pass with Conditions validation; RQ-033 through RQ-037 unexamined; no pack, membership, treatment, FD, closure, or D6/D7 change | FEF-FGR-002-S05-RQ-032-ER-001; FEF-FGR-002-S05-GF-031-VR-001 |
 | 1.18 | 2026-08-01 | Records use of frozen EP-005 v2.0/MAN-002 as the sole baseline for S05 Evidence Examination Loop 002 — RQ-033 Only; exact eight-record mapping and all qualifications retained; GF-031 unchanged and GF-032 Presented/Pending after Pass with Conditions validation; RQ-034 through RQ-037 unexamined; no pack, membership, treatment, FD, closure, or D6/D7 change | FEF-FGR-002-S05-RQ-033-ER-001; FEF-FGR-002-S05-GF-032-VR-001 |
+| 1.19 | 2026-08-01 | Records use of frozen EP-005 v2.0/MAN-002 as the sole baseline for S05 Evidence Examination Loop 003 — RQ-034 Only; exact six-record historical-acquisition mapping and all qualifications retained; GF-031/GF-032 unchanged and GF-033 Presented/Pending after Pass with Conditions validation; RQ-035 through RQ-037 unexamined; no pack, membership, treatment, FD, closure, or D6/D7 change | FEF-FGR-002-S05-RQ-034-ER-001; FEF-FGR-002-S05-GF-033-VR-001 |
 
 ## Non-Effects
 
 This register contains five pack identities and six registered versions.
 EP-005 v1.0 remains Frozen but blocked from reliance; v2.0 is Frozen under
 FR-002/VR-002 and linked as the sole baseline for S05. S05 is Open; RQ-032
-and RQ-033 were examined in Loops 001 and 002 and linked to Presented GF-031
-and GF-032. No Founder Decision exists. The successor changes no source evidence,
+through RQ-034 were examined in Loops 001 through 003 and linked to Presented
+GF-031 through GF-033. No Founder Decision exists. The successor changes no source evidence,
 mapping, Open Question, or cross-domain boundary and does not itself authorise
 opening or examination.
