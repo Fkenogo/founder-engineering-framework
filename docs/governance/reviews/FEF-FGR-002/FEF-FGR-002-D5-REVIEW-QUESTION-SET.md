@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D5-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D5 — Governance Lifecycle and Evolution |
-| Set version | 1.23 |
+| Set version | 1.24 |
 | Admission date | 2026-07-29 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -15,7 +15,7 @@
 | Admission record | FEF-FGR-002-D5-RQAR-001 |
 | Lifecycle treatment | RQ-032 through RQ-037 Answered at finding level |
 | Assigned examination unit | FEF-FGR-002-S05 — Closed — Examination Complete; Governance Findings Presented |
-| Questions answered | 6 — RQ-032 through Presented GF-031; RQ-033 through Presented GF-032; RQ-034 through Presented GF-033; RQ-035 through Presented GF-034; RQ-036 through Presented GF-035; RQ-037 through Presented GF-036 |
+| Questions answered | 6 — RQ-032 through GF-031; RQ-033 through GF-032; RQ-034 through GF-033; RQ-035 through GF-034; RQ-036 through GF-035; RQ-037 through GF-036; all six findings Dispositioned — Accept with Conditions; FD pending |
 | Evidence mobilisation | RQ-032, RQ-033, RQ-034, RQ-035, RQ-036, and RQ-037 mobilised and qualified with conditions — all six admitted D5 RQs |
 
 ## 1. Set Boundary and Admission Basis
@@ -57,7 +57,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | GF-031 — Presented; Founder disposition pending |
+| Disposition | GF-031 — Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-031 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -97,7 +97,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered — at finding level |
-| Disposition | GF-032 — Presented; Founder disposition pending |
+| Disposition | GF-032 — Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-032 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -138,7 +138,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-033 Presented; Founder disposition pending |
+| Disposition | Answered at finding level — GF-033 Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-033 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -180,7 +180,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-034 Presented; Founder disposition pending |
+| Disposition | Answered at finding level — GF-034 Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-034 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -223,7 +223,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-035 Presented; Founder disposition pending |
+| Disposition | Answered at finding level — GF-035 Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-035 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -267,7 +267,7 @@ substantive answer is introduced.
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
 | Lifecycle State | Answered |
-| Disposition | Answered at finding level — GF-036 Presented; Founder disposition pending |
+| Disposition | Answered at finding level — GF-036 Dispositioned; Accept with Conditions; FD pending |
 | Related GFs | FEF-FGR-002-GF-036 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
@@ -324,6 +324,7 @@ substantive answer is introduced.
 | 1.21 | 2026-08-01 | RQ-036 advanced to v1.14 after S05 Evidence Examination Loop 005 used exactly EV-005, EV-012, EV-017, EV-066, EV-074, and EV-083 from frozen EP-005 v2.0; Lifecycle State Answered and Presented GF-035 linkage recorded; three live descriptive phrases were aligned with the controlling qualification by replacing their unproven “conditioned disposition = bounded exception” characterization; exact Question Text, scope, exclusions, evidence mapping/treatment, and OQ-012 remain unchanged; RQ-037 advanced administratively to v1.14 solely to record Loops 001–005 complete while Pending/Unexamined; RQ-032/GF-031 through RQ-035/GF-034 unchanged | FEF-FGR-002-S05-RQ-036-ER-001; FEF-FGR-002-S05-GF-035-VR-001 |
 | 1.22 | 2026-08-01 | RQ-037 advanced to v1.15 after S05 Evidence Examination Loop 006 used exactly EV-012, EV-014, EV-078, EV-080, EV-084, and EV-085 from frozen EP-005 v2.0 at governed acquisitions; EV-014 remained Context Only, OQ-013/OQ-016 remained open, and GF-001/FD-002 remained fixed; Lifecycle State Answered and Presented GF-036 linkage recorded; exact Question Text, scope, exclusions, dependencies, evidence mapping/treatment, and OQ relationships unchanged; RQ-032/GF-031 through RQ-036/GF-035 unchanged | FEF-FGR-002-S05-RQ-037-ER-001; FEF-FGR-002-S05-GF-036-VR-001 |
 | 1.23 | 2026-08-01 | Records validated S05 Session Exit after all six exact FEF-FGRP-001 §12.1 criteria passed; Assigned Examination Unit fields now record S05 Closed — Examination Complete; Governance Findings Presented; RQ-032 through RQ-037 advanced administratively to v1.11/v1.12/v1.13/v1.14/v1.15/v1.16 respectively; exact Question Text, scope, exclusions, dependencies, Lifecycle State, Disposition, evidence mapping/treatment, and all OQ relationships remain unchanged; GF-031–GF-036 Presented/Pending, no D5 FD, D5 Active/Not Closed, D6/D7 uncommenced | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
+| 1.24 | 2026-08-01 | D5-G2 Live Founder Review linkage recorded: GF-031 through GF-036 each Dispositioned — Accept with Conditions; Decision Records remain Pending — FD not yet issued; exact Question Text, scope, exclusions, dependencies, Lifecycle State, evidence mapping/treatment, and all eight Open Question relationships remain unchanged; no design/implementation, DG-5/DG-6, D5 closure, or D6/D7 commencement | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-G2-FDVR-001 |
 
 ## 10. Non-Effects
 

@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.46 |
+| Register version | 1.47 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -115,10 +115,14 @@ supported by the
 and validated Pass with Conditions in
 [FEF-FGR-002-D5-G2-FRPVR-001](FEF-FGR-002-D5-G2-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md).
 
-All 36 Founder workbook fields remain blank. No live Founder Review,
-disposition, or Founder Decision occurred. This post-session linkage does not
-change S05's Closed state, close D5, perform DG-5 or DG-6, or commence D6 or
-D7. Separately authorised live Founder Review is next.
+The D5-G2 Live Founder Review was subsequently completed and recorded exactly
+in [FEF-FGR-002-D5-G2-FDR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-RECORD.md),
+with fidelity validated Pass with Conditions in
+[FEF-FGR-002-D5-G2-FDVR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-VALIDATION-REPORT.md).
+GF-031 through GF-036 are Dispositioned — Accept with Conditions. No Founder
+Decision Record has been issued; DG-5 and DG-6 remain not commenced. This
+later linkage does not change S05's historical Closed state, close D5, or
+commence D6 or D7. Separately governed DG-5 Founder Decision issuance is next.
 
 ## Change History
 
@@ -171,6 +175,7 @@ D7. Separately authorised live Founder Review is next.
 | 1.44 | 2026-08-01 | S05 Evidence Examination Loop 006 — RQ-037 Only completed against exactly six mapped EP-005 v2.0 historical acquisition objects; GF-036 produced and validated Pass with Conditions, Presented/Pending Founder disposition; GF-031–GF-035 unchanged; S05 remains Open; all six D5 RQs are Answered at finding level; OQ-013/OQ-016 remain open; no legacy authority/validity determination, retrospective validation/invalidation, taxonomy, inventory, migration, FD, closure, or D6/D7 commencement | FEF-FGR-002-S05-RQ-037-ER-001; FEF-FGR-002-S05-GF-036-VR-001 |
 | 1.45 | 2026-08-01 | S05 Session Exit Gate passed after exact FEF-FGRP-001 §12.1 criterion testing and deterministic reconciliation of all six RQ-to-examination-to-GF-to-validation chains; all 27 acquisitions and frozen controls reproduced; protected examination/finding/validation records remained byte-unchanged; S05 changed to Closed — Examination Complete; Governance Findings Presented; GF-031–GF-036 remain Presented/Pending; D5 remains Active/Not Closed; no findings-stage package, disposition, FD, DG-5/DG-6, or D6/D7 activity | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
 | 1.46 | 2026-08-01 | D5 post-session linkage records the neutral D5-G2 findings-stage package prepared and validated Pass with Conditions; GF-031–GF-036 and paired conditions reproduced exactly with 36 blank Founder workbook fields; S05 remains Closed, findings remain Presented/Pending, D5 Active/Not Closed; no live review, disposition, FD, DG-5/DG-6, or D6/D7 activity | FEF-FGR-002-D5-G2-FRP-001; FEF-FGR-002-D5-G2-FRPVR-001 |
+| 1.47 | 2026-08-01 | D5 post-session linkage records the completed and validated D5-G2 Live Founder Review: all 36 Founder fields populated exactly; GF-031–GF-036 Dispositioned — Accept with Conditions; all eight applicable Open Questions remain open; S05 remains Closed; no FD issued, DG-5/DG-6 not commenced, D5 Active/Not Closed, D6/D7 uncommenced | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-G2-FDVR-001 |
 
 ## Non-Effects
 
@@ -178,11 +183,10 @@ This register contains five allocated and opened session identities, all now
 closed. S05 is **Closed — Examination Complete; Governance Findings
 Presented** after Evidence Examination Loops 001 through 006 and the validated
 Session Exit Gate. RQ-032 through RQ-037 are Answered at finding level;
-GF-031 through GF-036 remain Presented/Pending Founder disposition. The
-neutral D5-G2 findings-stage package is prepared and validated with all
-Founder fields blank. No live D5 Founder Review, disposition, or Founder
-Decision exists. Separately authorised live Founder Review is next. D6 and D7 remain
-uncommenced. S03 closed
+GF-031 through GF-036 are Dispositioned — Accept with Conditions following
+the completed and validated D5-G2 Live Founder Review. No D5 Founder Decision
+exists. DG-5 Founder Decision issuance is next and separately governed; DG-6,
+D6, and D7 remain uncommenced. S03 closed
 after all nine admitted D3 RQs were examined (RQ-016 through RQ-024),
 producing GF-015 through GF-023, and after the Session Exit Gate
 confirmed every §12.1 criterion. S02 itself issued no FD and its
@@ -206,6 +210,6 @@ D4. Those later domain controls do not change S04's historical session state.
 EP-004 remains unchanged. D5 is Active and Not Closed; S05 is Closed after
 Evidence Examination Loops 001 through 006 and the validated Session Exit
 Gate. RQ-032 through RQ-037 are Answered at finding level through GF-031
-through GF-036, all Presented/Pending. The neutral D5-G2 package is prepared
-and validated, but no live Founder Review, disposition, or Founder Decision
-was created. D6 and D7 remain uncommenced.
+through GF-036, all Dispositioned — Accept with Conditions in the completed
+and validated D5-G2 Live Founder Review. No Founder Decision was created;
+DG-5/DG-6 and D6/D7 remain uncommenced.
