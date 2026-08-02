@@ -1,6 +1,6 @@
 # FEF Founder Dashboard
 
-**As at:** 2026-08-01
+**As at:** 2026-08-02
 **Source of truth:** [FEF Master Programme](FEF-MASTER-PROGRAMME.md)
 **Dashboard status:** Current programme summary
 **Pilot classification:** Programme Governance Pilot Artefact — informational dashboard
@@ -9,18 +9,18 @@
 
 | Item                          | Current State                                                                                                                                                                                                     |
 | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version             | Master Programme v0.88 |
+| Programme version             | Master Programme v0.89 |
 | Current phase                 | Phase 2 — Founder Governance Review                                                                                                                                                                               |
-| Current milestone             | **D5 DG-6 Domain Exit Complete and Validated — Pass with Conditions**; D5 Closed; D6/D7 uncommenced |
+| Current milestone             | **Post-D5 Founder Disposition Recorded; Bounded D6 Mobilisation Planning Prepared and Validated — Pass with Conditions**; D1–D5 Closed; D6/D7/D8 uncommenced |
 | Latest completed work package | FEF-RCR-001 — Programme Repository Reconciliation and Navigation Baseline                                                                                                                                         |
 | Current active work package   | None — review execution is controlled by approved governance instruments                                                                                                                                          |
-| Current execution window      | D1–D5 Closed; S05 historical Closed state unchanged; RQ-032–RQ-037 Answered; GF-031–GF-036 Closed — Decision Issued; FD-033–FD-038 validated; DG-5/DG-6 complete; D6/D7 uncommenced |
+| Current execution window      | D1–D5 Closed; D6/D7/D8 uncommenced; D6 Review Questions zero; all 23 baseline Open Questions Open; Candidate/Deferred state 0/0; no mobilisation or implementation authority |
 | Review commencement           | Authorised by FD-2026-07-24-009                                                                                                                                                                                   |
 | Active review identifier      | FEF-FGR-002                                                                                                                                                                                                       |
 | First review domain           | D1 — Governance Authority                                                                                                                                                                                         |
 | FEF operating mode            | Sustained Operational Mode — Framework Engineering available, not default                                                                                                                                         |
 | Operational readiness         | Ready for Operational Mode, subject to the approved operating conditions                                                                                                                                          |
-| Next review domain            | D5 Closed. Founder review of the validated Domain Exit result and separate authorisation of the next programme activity. D6/D7 — Uncommenced |
+| Next review domain            | D6 remains Uncommenced. Its bounded mobilisation-planning package is prepared and validated; separate Founder review and mobilisation authority are required. D7/D8 remain Uncommenced. |
 | Programme Governance          | Operating Pilot — FAR-002; no standard created                                                                                                                                                                    |
 | Review mechanism              | FEF-WRP-001 — Founder Approved for Pilot Use; preferred and non-mandatory                                                                                                                                         |
 | Framework Evolution status    | FEF-GER-D3-001 and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as **Future Framework Evolution**, **Non-critical path**, with **No impact on D4 sequencing**; not commenced |
@@ -39,13 +39,19 @@ The total includes permanent-style work packages and legacy scheduled-work ident
 | Question                               | Answer                                                                                                                                                      |
 | -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Where are we?                          | D1–D5 Closed; S05 remains historically Closed; GF-031–GF-036 are Closed — Decision Issued through validated FD-033–FD-038; DG-5/DG-6 complete. |
-| What are we doing?                     | Presenting the validated D5 Domain Exit result for Founder review; no next programme activity is authorised. |
+| What are we doing?                     | Presenting the validated bounded D6 mobilisation-planning package for Founder review; D6 is not mobilised. |
 | Why are we doing it?                   | The methodology examines one Review Question's evidence per bounded execution loop, then assembles the reconciled corpus into a pack, freezes it, and only then may open a session for examination — each a distinct, separately governed step.                       |
-| What must finish before anything else? | Founder review and separate authority are required before any next programme activity; closure implemented no accepted direction. |
+| What must finish before anything else? | Founder review of the validated planning package and a separate decision are required before D6 mobilisation; no implementation is authorised. |
 
 ## Immediate Next Programme Action
 
-**Founder review of the validated D5 Domain Exit result and separate authorisation of the next programme activity.**
+**Founder review of the validated D6 mobilisation-planning package and separate decision on whether to authorise D6 mobilisation.**
+
+D8 remains Uncommenced. It is both the formal Open Question Resolution domain
+and the cross-cutting mechanism through which unresolved questions are mapped
+during D1–D7 and brought to final synthesis after D7. All 23 baseline Open
+Questions remain Open; this correction resolves none of them, and the final
+Open Question Traceability Matrix does not yet exist.
 
 PFSERR-001 historically recorded **Ready for DG-4 with Conditions**. During the
 later separately authorised DG-4 attempt, source-currency and integrity
@@ -84,7 +90,7 @@ remains the protected review source. The D5-G2 Live Founder Review is recorded
 and validated Pass with Conditions with all 36 Founder fields populated
 exactly; GF-031 through GF-036 are Closed — Decision Issued — `Accept with Conditions` and
 issued one-to-one as validated FD-033 through FD-038. DG-5/DG-6 are complete
-and D5 is Closed. D6/D7 remain uncommenced.
+and D5 is Closed. D6/D7/D8 remain uncommenced.
 
 ### Historical programme narrative
 
@@ -112,7 +118,7 @@ for the authoritative record.
 
 ## Founder Decisions Awaiting
 
-- No immediate Founder commencement decision is pending.
+- Founder review of FEF-FGR-002-D6-MPP-001 and a separate decision on whether to authorise D6 mobilisation are pending; no mobilisation authority exists yet.
 - No D1 finding disposition remains pending.
 - No ORC-001 or D1 Founder disposition remains pending.
 - No D2 Founder disposition remains pending.
@@ -129,7 +135,7 @@ for the authoritative record.
 - No D5-G1 Founder Candidate Review disposition remains pending — all six candidates (D5-RQC-01–06) were Accepted, recorded verbatim and validated Pass in [FEF-FGR-002-D5-G1-FDR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-G1-FOUNDER-DISPOSITION-RECORD.md).
 - No DG-2 admission decision remains pending — RQ-032 through RQ-037 are Admitted and validated Pass with Conditions in [FEF-FGR-002-D5-RQAVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-REVIEW-QUESTION-ADMISSION-VALIDATION-REPORT.md).
 - No immediate Founder decision is pending for RQ-032 through RQ-037 evidence mobilisation — all six are complete and validated Pass with Conditions in [FEF-FGR-002-D5-RQ032-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-032-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ033-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-033-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ034-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-034-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ035-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-035-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), [FEF-FGR-002-D5-RQ036-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-036-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md), and [FEF-FGR-002-D5-RQ037-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D5-RQ-037-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md).
-- D5 EP-005 v1.0 remains byte-preserved and Frozen as a historical predecessor but is blocked from session reliance; successor v2.0/MAN-002 is Frozen under FR-002/VR-002 and was the sole baseline for S05. S05 remains historically Closed after validated Session Exit; RQ-032 through RQ-037 are Answered; GF-031 through GF-036 are Closed — Decision Issued through validated FD-033 through FD-038; DG-5/DG-6 are complete and D5 is Closed; D6/D7 remain uncommenced.
+- D5 EP-005 v1.0 remains byte-preserved and Frozen as a historical predecessor but is blocked from session reliance; successor v2.0/MAN-002 is Frozen under FR-002/VR-002 and was the sole baseline for S05. S05 remains historically Closed after validated Session Exit; RQ-032 through RQ-037 are Answered; GF-031 through GF-036 are Closed — Decision Issued through validated FD-033 through FD-038; DG-5/DG-6 are complete and D5 is Closed; D6/D7/D8 remain uncommenced.
 - Decide the disposition of FEF-P0-004.
 - Decide the permanent work-package identifier policy before any numbering migration.
 - Later, review FEF-RGS-000 after the prerequisite consolidation and amendment sequence.
