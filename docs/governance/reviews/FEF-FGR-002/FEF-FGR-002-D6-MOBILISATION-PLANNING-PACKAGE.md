@@ -6,14 +6,16 @@
 | Review identifier | FEF-FGR-002 |
 | Domain | D6 — Framework Administration |
 | Record class | Pre-mobilisation planning package |
-| Version | 1.0 |
-| Date | 2026-08-02 |
+| Version | 1.1 |
+| Date | 2026-08-02 (prepared); 2026-08-04 (mobilisation authorised) |
 | Authority | [FEF-FGR-002-POST-D5-FDR-001](FEF-FGR-002-POST-D5-FOUNDER-DISPOSITION-RECORD.md) — narrower prerequisite authorised with eight conditions |
 | Validation | [FEF-FGR-002-D6-MPVR-001](FEF-FGR-002-D6-MOBILISATION-PLANNING-VALIDATION-REPORT.md) — Pass with Conditions |
-| Package state | **Prepared and Validated — Awaiting Founder Review** |
-| D6 lifecycle state | **Uncommenced** |
+| Mobilisation authority | [FEF-FGR-002-D6-FMAR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md) — Founder Approve with Conditions; validated in [FEF-FGR-002-D6-FMAVR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md) |
+| Package state | **Mobilised — Effective, subject to the eight recorded Founder conditions** |
+| D6 lifecycle state | **Mobilised** |
 | Formal D6 Review Question Candidate Set | **Does not exist** |
 | D6 Review Questions | **Zero** |
+| D6 examination | **Not commenced** |
 
 ## 1. Purpose and Boundary
 
@@ -194,7 +196,12 @@ A proportionate later D6 route would:
 
 ## 12. Founder Options
 
-No option is selected by this package.
+This table is preserved unmodified as originally presented, blank and
+unselected, for historical fidelity. The Founder's actual disposition is
+recorded separately, exactly, and without alteration to this table, in
+[FEF-FGR-002-D6-FMAR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md)
+§2, validated in
+[FEF-FGR-002-D6-FMAVR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md).
 
 | Option | Founder Selection | Effect |
 |---|---|---|
@@ -202,6 +209,12 @@ No option is selected by this package.
 | Authorise D6 mobilisation with amendments | _[blank]_ | Permit mobilisation only after Founder-specified scope or conditions are recorded and validated |
 | Require further narrowing or correction | _[blank]_ | Return the package for bounded revision; D6 remains Uncommenced |
 | Defer D6 | _[blank]_ | Preserve D6 as Uncommenced pending later attributable reconsideration |
+
+FEF-FGR-002-D6-FMAR-001 §3 discloses that, mapped against this table, the
+Founder's exact disposition corresponds to "Authorise D6 mobilisation with
+amendments," since the Founder supplied eight of the Founder's own
+conditions superseding the six conditions proposed without preselection in
+Section 10 above. This disclosure does not alter the blank table above.
 
 ## 13. Non-Effects and Next Governed Activity
 
@@ -212,5 +225,25 @@ create the final Open Question Traceability Matrix; activate Framework
 Evolution; create a Candidate or Deferred Matter; commence consolidation,
 implementation, or final assembly; or authorise downstream work by implication.
 
-**Next governed activity:** Founder review of this validated D6 mobilisation-
-planning package and separate decision on whether to authorise D6 mobilisation.
+**Next governed activity (as originally planned):** Founder review of this
+validated D6 mobilisation-planning package and separate decision on whether
+to authorise D6 mobilisation. This has since occurred: see Section 14.
+
+## 14. Mobilisation Authorisation and Change History
+
+The Founder has since reviewed this package and issued an exact, attributable
+disposition — **Approve with Conditions** — recorded in
+[FEF-FGR-002-D6-FMAR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-RECORD.md)
+and validated in
+[FEF-FGR-002-D6-FMAVR-001](FEF-FGR-002-D6-FOUNDER-MOBILISATION-AUTHORISATION-VALIDATION-REPORT.md).
+D6 is now **Mobilised — Effective, subject to the eight recorded Founder
+conditions**. D6 examination has not commenced. D7 and D8 remain Uncommenced.
+No Framework Evolution, constitutional redesign, or implementation authority
+is created. The next separately governed activity is preparation of the D6
+Founder Governance Review package and provisional examination themes, within
+the exact boundaries of the eight recorded conditions.
+
+| Version | Date | Change | Authority |
+|---|---|---|---|
+| 1.0 | 2026-08-02 | Prepared and validated; awaiting Founder review; D6 Uncommenced | FEF-FGR-002 D6 Mobilisation Planning task |
+| 1.1 | 2026-08-04 | Founder Approve with Conditions recorded and validated; D6 lifecycle state changed from Uncommenced to Mobilised — Effective, subject to eight recorded conditions; D6 examination preparation is the next separately governed activity; §12 option table preserved unmodified; mapping disclosure added | FEF-FGR-002-D6-FMAR-001; FEF-FGR-002-D6-FMAVR-001 |

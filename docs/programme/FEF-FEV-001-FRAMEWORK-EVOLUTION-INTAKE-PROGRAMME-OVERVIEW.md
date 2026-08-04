@@ -55,7 +55,7 @@ The Framework Evolution Intake Programme operates as a **supporting programme** 
 | Recommendation    | Founder review and prioritisation                             |
 | Implementation    | Separate authorised Framework Evolution work package          |
 
-The intake programme does not alter the authorised programme sequence in the Master Programme. D5 is Closed; D6 remains Uncommenced and requires its own separately governed mobilisation and entry sequence. No Framework Evolution activity has commenced.
+The intake programme does not alter the authorised programme sequence in the Master Programme. D5 is Closed; D6 is Mobilised — Effective, subject to eight recorded Founder conditions, and D6 examination has not commenced. No Framework Evolution activity has commenced.
 
 ## 5. Integration with Existing FEF
 
