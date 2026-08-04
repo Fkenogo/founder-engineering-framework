@@ -2,12 +2,12 @@
 
 **Review identifier:** FEF-FGR-002  
 **Review title:** Founder Governance Review  
-**Identity version:** 1.70
+**Identity version:** 1.71
 
 **Assignment date:** 2026-07-24  
 **Assignment authority:** [FD-2026-07-24-009](../../../records/founder-reviews/FEF-FOUNDER-DECISION-RECORD-2026-07-24-FD-009-REVIEW-COMMENCEMENT.md)  
 **Commencement instrument:** [FEF-FRCD-001 v0.1](../../../records/founder-reviews/FEF-FRCD-001-FOUNDER-REVIEW-COMMENCEMENT-DECISION.md)  
-**Review state:** FEF-FGR-002 **Active**; D1 through D5 Closed; D6 **Mobilised — Effective, subject to eight recorded Founder conditions**; D6 Examination Architecture (FEF-FGR-002-D6-EA-001) Prepared and Validated; D6 examination Not commenced; D7 and D8 Uncommenced; frozen EP-005 v2.0/MAN-002 was the sole S05 examination baseline; S05 remains **Closed — Examination Complete; Governance Findings Presented**; RQ-032 through RQ-037 Answered; GF-031 through GF-036 Closed — Decision Issued; FD-033 through FD-038 Issued — Decision Record Validated; DG-5/DG-6 complete
+**Review state:** FEF-FGR-002 **Active**; D1 through D5 Closed; D6 **Mobilised — Effective, subject to eight recorded Founder conditions**; D6 Examination Architecture (FEF-FGR-002-D6-EA-001) Prepared and Validated; D6 Founder Review Package (FEF-FGR-002-D6-FRP-001) Prepared and Validated — Disposition Pending; D6 examination Not commenced; D7 and D8 Uncommenced; frozen EP-005 v2.0/MAN-002 was the sole S05 examination baseline; S05 remains **Closed — Examination Complete; Governance Findings Presented**; RQ-032 through RQ-037 Answered; GF-031 through GF-036 Closed — Decision Issued; FD-033 through FD-038 Issued — Decision Record Validated; DG-5/DG-6 complete
 
 **D3 state:** Closed through DG-6 after V7 validation; 9 canonical RQs (RQ-016 through RQ-024) remain `Lifecycle State: Answered`; 39 Evidence Records remain frozen in FEF-FGR-002-EP-003 v1.0; GF-015 through GF-023 remain dispositioned; FD-017 through FD-025 remain issued and validated; the RQ-018 gap and EV-058/EV-059 contradictions remain disclosed and unresolved; no Constitutional Candidate or Deferred Matter exists; D4 had not started at D3 closure
 
@@ -202,7 +202,8 @@ They do not:
 | D8 | Uncommenced; formal Open Question Resolution domain and cross-cutting mapping mechanism, final synthesis after D7 |
 | Framework Evolution | Not commenced |
 | Implementation authority | None |
-| Next D6 gate | Preparation of the D6 Founder Governance Review package and provisional examination themes, guided by the validated Examination Architecture and within the exact boundaries of the eight recorded conditions |
+| D6 Founder Review Package | [FEF-FGR-002-D6-FRP-001](FEF-FGR-002-D6-FOUNDER-REVIEW-PACKAGE.md) / [FEF-FGR-002-D6-FRPVR-001](FEF-FGR-002-D6-FOUNDER-REVIEW-PACKAGE-VALIDATION-REPORT.md) — Prepared and Validated Pass; decision support only; five-item Founder Decision Agenda blank and unselected |
+| Next D6 gate | Founder disposition of the D6 Founder Review Package's five-item Decision Agenda; if Item 5 is confirmed, preparation of the D6 Review Question Candidate Set follows, guided by the validated Examination Architecture and within the exact boundaries of the eight recorded conditions |
 
 ## 5. Integrity and Validation
 
@@ -358,3 +359,4 @@ framework effect.
 | 1.68 | 2026-08-02 | Records the accepted Post-D5 Founder disposition and validated bounded D6 mobilisation planning; synchronises the next gate to Founder review of D6-MPP-001; D1–D5 remain Closed; D6/D7/D8 remain Uncommenced; D8 dual formal-domain/cross-cutting treatment stated; 23 Open Questions remain Open; zero D6 RQs; no mobilisation, Framework Evolution, or implementation authority | FEF-FGR-002-POST-D5-FDR-001; FEF-FGR-002-D6-MPP-001; FEF-FGR-002-D6-MPVR-001 |
 | 1.69 | 2026-08-04 | Records Founder Approve with Conditions for D6 mobilisation, recorded directly against validated D6-MPP-001 (no antecedent blank FMAR template existed for D6); D6 lifecycle state changed from Uncommenced to Mobilised — Effective, subject to eight recorded Founder conditions; added new §4.5 D6 Execution State; D6 Review Questions remain zero and D6 examination has not commenced; D7 and D8 remain Uncommenced; Framework Evolution remains Not Commenced; no implementation authority created; next gate is preparation of the D6 Founder Governance Review package and provisional examination themes | FEF-FGR-002-D6-FMAR-001; FEF-FGR-002-D6-FMAVR-001 |
 | 1.70 | 2026-08-04 | Adds Scope and Authority Note recognising the Master Programme (§1.1) as the single authoritative source of programme-level state, consistent with the Founder-adopted programme-authority model; this document remains authoritative only for review identity, metadata, and its own controlled-register/domain-execution state; records preparation and validation of the D6 Examination Architecture (FEF-FGR-002-D6-EA-001, Pass in FEF-FGR-002-D6-EAVR-001) in §4.5; D6 remains Mobilised — Effective; D6 examination Not commenced; D7/D8 Uncommenced; Framework Evolution Not Commenced; no implementation authority created; no historical entry above altered | FEF-MASTER-PROGRAMME.md §1.1; FEF-FGR-002-D6-EA-001; FEF-FGR-002-D6-EAVR-001 |
+| 1.71 | 2026-08-04 | Records preparation and validation of the D6 Founder Review Package (FEF-FGR-002-D6-FRP-001, Pass in FEF-FGR-002-D6-FRPVR-001) — decision support only, covering Executive Summary, Administrative Philosophy, Examination Themes, Administrative Architecture Review, Administrative Boundaries, Future Administrative Standards, and a five-item Founder Decision Agenda, all items blank; D6 remains Mobilised — Effective; D6 examination Not commenced; zero D6 RQs; D7/D8 Uncommenced; Framework Evolution Not Commenced; no implementation authority created; next gate is Founder disposition of the five-item Decision Agenda; no historical entry above altered | FEF-FGR-002-D6-FRP-001; FEF-FGR-002-D6-FRPVR-001 |
