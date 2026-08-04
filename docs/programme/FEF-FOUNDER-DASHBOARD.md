@@ -36,15 +36,16 @@ This Dashboard is deliberately short.
 **At a glance (2026-08-04):** FEF-FGR-002 Active; D1–D5 Closed; **D6 Mobilised
 — Effective, subject to eight Founder conditions**; D6 examination Not
 commenced; the D6 Examination Architecture (FEF-FGR-002-D6-EA-001) and the
-D6 Founder Review Package (FEF-FGR-002-D6-FRP-001) are both prepared and
-validated; D7/D8 Uncommenced; Framework Evolution Not Commenced; no
-implementation authority exists. Authoritative detail: Master Programme §2.
+D6 Founder Review Package (FEF-FGR-002-D6-FRP-001) are prepared, validated,
+and **Approved with Minor Administrative Observation** (all five Decision
+Agenda items Confirmed — FEF-FGR-002-D6-FDR-001 / FEF-FGR-002-D6-FDVR-001);
+D7/D8 Uncommenced; Framework Evolution Not Commenced; no implementation
+authority exists. Authoritative detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Founder disposition of the D6 Founder Review Package's five-item Decision
-Agenda (D6 scope, examination themes, administrative architecture,
-administrative boundaries, and whether Review Question Candidate
-preparation may commence).
+Preparation of the D6 Review Question Candidate Set, guided by the approved
+Examination Architecture and Founder-approved examination themes, bounded by
+the eight recorded D6 mobilisation conditions (all remain in force).
 
 ## Genuine Blockers
 
@@ -53,11 +54,10 @@ preparation may commence).
 ## Founder Decisions Awaiting — Executive View
 
 The complete, authoritative list is [Master Programme §8](FEF-MASTER-PROGRAMME.md#8-founder-actions-awaiting).
-No Founder decision is currently pending for D1 through D6 mobilisation; all
-recorded dispositions through D6 mobilisation and the D6 Examination
-Architecture are complete and validated. The items remaining open are:
+No Founder decision is currently pending for D1 through D6 mobilisation,
+Examination Architecture, or Founder Review Package disposition; all are
+complete and validated. The items remaining open are:
 
-- Founder disposition of the D6 Founder Review Package (FEF-FGR-002-D6-FRP-001) — five decision-agenda items, all currently blank;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
