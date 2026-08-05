@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.23 |
+| Register version | 1.25 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -13,9 +13,9 @@
 | Control owner | FEF-FGR-002-RA-005 — Evidence Custodian |
 | Validator | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment | Repository-controlled governance record; pack-specific treatment required |
-| Integrity control | Pack SHA-256 recorded in domain validation records; EP-003 records its Integrity Manifest in-pack; EP-004 pack, manifest, and freeze fingerprints are controlled by FEF-FGR-002-EP-004-FR-001 and reverified in FEF-FGR-002-EP-004-VR-001; EP-005 v1.0 whole-file and membership fingerprints remain historical and reliance-blocked; FR-002/VR-002 control successor v2.0 Frozen whole-file hashes `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada` / `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52` and membership fingerprint `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` |
-| Last validation date | 2026-08-01 |
-| Substantive entry count | 6 pack versions across five pack identities |
+| Integrity control | Pack SHA-256 recorded in domain validation records; EP-003 records its Integrity Manifest in-pack; EP-004 pack, manifest, and freeze fingerprints are controlled by FEF-FGR-002-EP-004-FR-001 and reverified in FEF-FGR-002-EP-004-VR-001; EP-005 v1.0 whole-file and membership fingerprints remain historical and reliance-blocked; FR-002/VR-002 control successor v2.0 Frozen whole-file hashes `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada` / `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52` and membership fingerprint `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f`; EP-006 v1.0 pack and manifest fingerprints are controlled by FEF-FGR-002-EP-006-FR-001 and reverified in FEF-FGR-002-EP-006-VR-001 |
+| Last validation date | 2026-08-05 |
+| Substantive entry count | 7 pack versions across six pack identities |
 
 ## Register
 
@@ -27,6 +27,7 @@
 | FEF-FGR-002-EP-004 | 1.0 | D4 — Records and Information Governance | RQ-025–RQ-031 | 19 Evidence Records; 65 source-to-RQ mappings; 72 source-to-requirement links | Frozen | 2026-07-28 | S04 — Closed; sole examination baseline | Pack and manifest SHA-256 recorded in FEF-FGR-002-EP-004-FR-001; source and frozen-artefact hashes reverified in FEF-FGR-002-EP-004-VR-001 | Repository-controlled | None | Pass with Conditions — non-independent; evidence gaps, EV-059 contradiction, EV-074 boundary, Open Questions, and D5/D6 interfaces preserved |
 | FEF-FGR-002-EP-005 | 1.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links | Frozen — historical predecessor; reliance blocked | 2026-07-31 | None — no session use; reliance blocked | Historical pack/manifest SHA-256 controlled by FR-001/VR-001 v1.1; historical membership fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` contains the defective EV-072 pair | Repository-controlled | None | Historical Pass with Conditions overtaken for session reliance by the DG-4 integrity discovery; v1.0 remains immutable |
 | FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | S05 — Closed — Examination Complete; Governance Findings Presented; sole examination baseline for Loops 001–006 | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; all conditions remain binding |
+| FEF-FGR-002-EP-006 | 1.0 | D6 — Framework Administration | RQ-038–RQ-043 | 13 Evidence Records; 22 source-to-RQ mappings | Frozen | 2026-08-05 | Unassigned — no D6 session exists | FR-001: pack `a97c3e367fb727771d9dd85794a6cfaaf766b4b013213c66210c76babad14bc4`; manifest `9db934232cd156237266ff63ac070966f45ac60e4544eb70e030e840a7735caf` | Repository-controlled | None | Pass with Conditions — non-independent; smallest domain corpus to date; Administrative Evidence Sufficiency Check 13/13 retained |
 
 ## D2 Output Linkage
 
@@ -63,6 +64,14 @@ and produced Presented GF-031 through GF-036, each validated Pass with
 Conditions. The validated Session Exit Gate closed S05 — Examination Complete;
 Governance Findings Presented. No Founder Decision exists for D5.
 
+## D6 Output Linkage
+
+FEF-FGR-002-EP-006 v1.0 is Frozen as the D6 evidence baseline for RQ-038
+through RQ-043. Session FEF-FGR-002-S06 is Open and used EP-006 v1.0 as
+the sole baseline for Evidence Examination Loop 001 (RQ-038 only),
+producing Presented GF-037. RQ-039 through RQ-043 remain unexamined. This
+linkage does not modify or re-freeze EP-006.
+
 ## Change History
 
 | Version | Date | Change | Authority |
@@ -91,14 +100,18 @@ Governance Findings Presented. No Founder Decision exists for D5.
 | 1.21 | 2026-08-01 | Records use of frozen EP-005 v2.0/MAN-002 as the sole baseline for S05 Evidence Examination Loop 005 — RQ-036 Only; exact six-record mapping, gate-time source currency, and all qualifications retained; GF-031–GF-034 unchanged and GF-035 Presented/Pending after Pass with Conditions validation; RQ-037 unexamined; no pack, membership, treatment, exception, FD, closure, or D6/D7 change | FEF-FGR-002-S05-RQ-036-ER-001; FEF-FGR-002-S05-GF-035-VR-001 |
 | 1.22 | 2026-08-01 | Records use of frozen EP-005 v2.0/MAN-002 as the sole baseline for S05 Evidence Examination Loop 006 — RQ-037 Only; exact six-record historical-acquisition mapping, gate-time source currency, Context Only status, OQ-013/OQ-016, and all qualifications retained; GF-031–GF-035 unchanged and GF-036 Presented/Pending after Pass with Conditions validation; no legacy authority/validity determination, retrospective validation/invalidation, taxonomy, inventory, migration, pack, membership, treatment, FD, closure, or D6/D7 change | FEF-FGR-002-S05-RQ-037-ER-001; FEF-FGR-002-S05-GF-036-VR-001 |
 | 1.23 | 2026-08-01 | Records S05 Session Exit Pass with Conditions after all six exact FEF-FGRP-001 §12.1 criteria passed; v2.0/MAN-002 remained the sole baseline across all six loops and all frozen/acquisition controls reproduced; S05 Closed — Examination Complete; Governance Findings Presented; no pack, fingerprint, membership, treatment, Open Question, finding disposition, FD, D5 closure, or D6/D7 change | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
+| 1.24 | 2026-08-05 | D6 Evidence Pack EP-006 v1.0 registered as **Frozen** following DG-3 (Pass with Conditions); 13 Evidence Records (9 reused/reobserved, 4 newly registered EV-086–EV-089), 22 source-to-RQ mappings across all six admitted D6 RQs (RQ-038–RQ-043); smallest domain corpus to date; Founder-directed Administrative Evidence Sufficiency Check performed twice (pre-freeze and at freeze), 13/13 retained both times, zero removed; no session use, examination, GF, or FD | FEF-FGR-002-EP-006-FR-001; FEF-FGR-002-EP-006-VR-001 |
+| 1.25 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 001 — RQ-038 Only; exact eight-record mapping and all qualifications retained; GF-037 Presented/Pending after Pass with Conditions validation; RQ-039 through RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-038-ER-001; FEF-FGR-002-S06-GF-037-VR-001 |
 
 ## Non-Effects
 
-This register contains five pack identities and six registered versions.
+This register contains six pack identities and seven registered versions.
 EP-005 v1.0 remains Frozen but blocked from reliance; v2.0 is Frozen under
 FR-002/VR-002 and linked as the sole baseline for S05. S05 is Closed after
 Loops 001 through 006 and the validated Session Exit Gate; RQ-032 through
 RQ-037 are linked to Presented GF-031 through GF-036. No Founder Decision
 exists. The successor changes no source evidence,
 mapping, Open Question, or cross-domain boundary and does not itself authorise
-opening or examination.
+opening or examination. EP-006 v1.0 is Frozen (DG-3) as the D6 evidence
+baseline for RQ-038 through RQ-043; no session use, no examination, no
+Governance Finding, and no Founder Decision exists for D6.

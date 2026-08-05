@@ -33,19 +33,35 @@ This Dashboard is deliberately short.
 | Full Founder Actions Awaiting list | [§8](FEF-MASTER-PROGRAMME.md#8-founder-actions-awaiting) |
 | Detailed execution/repository-state narrative | [§10](FEF-MASTER-PROGRAMME.md#10-repository-state-qualification) |
 
-**At a glance (2026-08-04):** FEF-FGR-002 Active; D1–D5 Closed; **D6 Mobilised
-— Effective, subject to eight Founder conditions**; D6 examination Not
-commenced; the D6 Examination Architecture (FEF-FGR-002-D6-EA-001) and the
-D6 Founder Review Package (FEF-FGR-002-D6-FRP-001) are prepared, validated,
-and **Approved with Minor Administrative Observation** (all five Decision
-Agenda items Confirmed — FEF-FGR-002-D6-FDR-001 / FEF-FGR-002-D6-FDVR-001);
-D7/D8 Uncommenced; Framework Evolution Not Commenced; no implementation
-authority exists. Authoritative detail: Master Programme §2.
+**At a glance (2026-08-05):** FEF-FGR-002 Active; D1–D5 Closed; **D6 Mobilised
+— Effective, subject to eight Founder conditions**; the D6 Examination
+Architecture, Founder Review Package (Approved with Minor Administrative
+Observation), six-candidate Review Question Candidate Set, and D6
+Admission Package are all prepared and validated; the Founder Confirmed
+with Amendment all six candidates (FEF-FGR-002-D6-RQC-FDR-001), finalised
+in the Admission Package, and the **D6 DG-2 Admission Gate is complete**:
+six canonical D6 Review Questions **FEF-FGR-002-RQ-038 through RQ-043**
+are Admitted, Lifecycle State Admitted, Disposition Pending
+(FEF-FGR-002-D6-RQAR-001, Pass with Conditions). The **D6 DG-3 Evidence
+Pack Freeze Gate is complete**: Evidence Pack **FEF-FGR-002-EP-006 v1.0
+is Frozen** (13 Evidence Records, 22 source-to-RQ mappings — smallest
+domain corpus to date, Pass with Conditions in
+FEF-FGR-002-EP-006-VR-001). The **D6 DG-4 Session Entry Gate is complete**:
+session **FEF-FGR-002-S06 is Open**, scoped exclusively to RQ-038–RQ-043
+against frozen EP-006 v1.0. **Evidence Examination Loop 001 is now also
+complete**: RQ-038 alone was examined and Answered at finding level
+through **GF-037** — Presented, Founder disposition pending (Pass with
+Conditions in FEF-FGR-002-S06-GF-037-VR-001); RQ-039–RQ-043 remain
+Admitted, Unexamined; five Founder Observations recorded, indexed
+non-authoritatively in FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework
+Evolution Not Commenced; no implementation authority exists. Authoritative
+detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Preparation of the D6 Review Question Candidate Set, guided by the approved
-Examination Architecture and Founder-approved examination themes, bounded by
-the eight recorded D6 mobilisation conditions (all remain in force).
+Founder review of the RQ-038 examination result and GF-037. Separately, a
+**DG-4-authorised Evidence Examination Loop 002 — RQ-039 Only** may be
+authorised. DG-5 (Founder Decision issuance) follows only after
+examination and Governance Finding disposition at session exit.
 
 ## Genuine Blockers
 
@@ -55,9 +71,13 @@ the eight recorded D6 mobilisation conditions (all remain in force).
 
 The complete, authoritative list is [Master Programme §8](FEF-MASTER-PROGRAMME.md#8-founder-actions-awaiting).
 No Founder decision is currently pending for D1 through D6 mobilisation,
-Examination Architecture, or Founder Review Package disposition; all are
-complete and validated. The items remaining open are:
+Examination Architecture, Founder Review Package disposition, D6 Candidate
+Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
+evidence freeze, D6 DG-4 session entry, or D6 Evidence Examination Loop
+001; all are complete and validated. The items remaining open are:
 
+- Founder review of the RQ-038 examination result and GF-037 (FEF-FGR-002-S06-GF-037-VR-001);
+- a possible D6 Evidence Examination Loop 002 (RQ-039 only), if separately authorised;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and

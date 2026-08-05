@@ -64,21 +64,21 @@ history, or append-only version entries in any document, including this one.
 
 | Field                            | Current Position                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programme version                | Master Programme v0.93 |
+| Programme version                | Master Programme v1.00 |
 | Framework release                | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Current phase                    | Phase 2 — Founder Governance Review                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| Current milestone                | **D6 Founder Review Package Approved with Minor Administrative Observation**; D6 Review Question Candidate Set preparation Authorised; D6 Mobilised — Effective, subject to eight Founder conditions; D1–D5 Closed; D6 examination Not commenced; D7/D8 uncommenced |
-| Latest completed work package    | FEF-FGR-002-D6-FDR-001 — D6 Founder Review Package Disposition Record (validated FEF-FGR-002-D6-FDVR-001)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Current milestone                | **D6 Evidence Examination Loop 001 Complete — RQ-038 Answered at Finding Level (GF-037, Presented)**; RQ-039–RQ-043 remain Admitted, Unexamined; Session S06 Open; D6 Mobilised — Effective, subject to eight Founder conditions; D1–D5 Closed; D7/D8 uncommenced |
+| Latest completed work package    | FEF-FGR-002-S06-RQ-038-ER-001 — D6 RQ-038 Evidence Examination Record (validated FEF-FGR-002-S06-GF-037-VR-001, Pass with Conditions); one candidate Governance Finding, FEF-FGR-002-GF-037, Presented pending Founder disposition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | Active delivery work package     | None                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| Current execution window         | FEF-FGR-002 Active; D1–D5 Closed; D6 Mobilised — Effective (examination Not commenced; guided by validated Examination Architecture); D7/D8 uncommenced; D6 Review Questions zero; all 23 baseline Open Questions remain Open; Constitutional Candidates / Deferred Matters remain 0/0; Framework Evolution Not Commenced; no implementation authority |
+| Current execution window         | FEF-FGR-002 Active; D1–D5 Closed; D6 Mobilised — Effective; S06 Open — Evidence Examination Loop 001 Complete; RQ-038 Answered (GF-037 Presented), RQ-039–RQ-043 Admitted/Unexamined; D7/D8 uncommenced; Evidence Pack EP-006 Frozen; all 23 baseline Open Questions remain Open; Constitutional Candidates / Deferred Matters remain 0/0; Framework Evolution Not Commenced; no implementation authority |
 | Historical blocked work package  | FEF-WPK-001B.5 — retained as evidence-loss history, not the active critical path                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| Immediate next governed activity | Preparation of the D6 Review Question Candidate Set, in accordance with the approved D6 Examination Architecture and the Founder-approved examination themes; bounded by the eight recorded D6 mobilisation conditions, all of which remain in force. |
+| Immediate next governed activity | Founder review of the RQ-038 examination result and GF-037. Separately, a **DG-4-authorised Evidence Examination Loop 002 — RQ-039 Only** may be authorised. Neither Founder disposition of GF-037 nor examination of RQ-039 is performed by FEF-FGR-002-S06-RQ-038-ER-001 or its validation. |
 | Programme authority model        | Single Source of Truth — this Master Programme (§1.1) is the sole authoritative source of programme state; Dashboard, Review Identity, and Manifest are consumers, not controllers, of that state |
 | Review commencement decision     | FD-2026-07-24-009 — Approved and effective                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | Active review identifier         | FEF-FGR-002                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | First review domain              | D1 — Governance Authority                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Operating mode                   | Sustained Operational Mode — authorised by FEF-FGR-002-FD-010 with conditions                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| Next review domain               | D6 is Mobilised — Effective, subject to eight recorded Founder conditions. D6 examination has not commenced; zero D6 Review Questions exist. D7/D8 remain Uncommenced. D8 is both a formal Open Question Resolution domain and the cross-cutting mapping mechanism whose final synthesis follows D7. |
+| Next review domain               | D6 is Mobilised — Effective, subject to eight recorded Founder conditions. Six canonical D6 Review Questions (RQ-038 through RQ-043) are Admitted and Pending; D6 examination has not commenced. D7/D8 remain Uncommenced. D8 is both a formal Open Question Resolution domain and the cross-cutting mapping mechanism whose final synthesis follows D7. |
 | Framework Evolution status       | Governance Evolution Review (FEF-GER-D3-001) and FAP-001 remain deferred; FEF-CCF-001 — Context Continuity Framework is registered as a **Future Framework Evolution** candidate, **Non-critical path**, with **No impact on D4 sequencing**; none is commenced and all have zero framework effect. The **FEF-FEV-001 Framework Evolution Intake** (Phase 1) is now Active — Intake Established, providing the controlled submission mechanism through which such candidates will be received and evaluated; one candidate, FEF-FEV-001-FEC-001, is registered as **Submitted for Review**; no adoption decision has been made and no Framework Evolution has been performed                                                                                                                                                                                                                                                                                                            |
 | Current research standard        | FEF-RGS-000 Draft v0.2 — Founder Review Required; not approved                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Engineering readiness            | Not ready — research governance and discovery standards are not approved                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -227,6 +227,16 @@ These are programme deliverables or decision gates, not additional work packages
 | FEF-FGR-002-D6-EA-001 / FEF-FGR-002-D6-EAVR-001                                                      | D6 Examination Architecture and Validation                                                                                                                                                                                                                                                                                                  | **Prepared and Validated — Blueprint Only**                           | Engineering blueprint for future D6 Review Questions; incorporates all eight Founder mobilisation conditions by exact mapping; creates zero RQs, evidence, sessions, findings, decisions, or implementation authority                                                                                                                                                                                                                                                                                                                                                                 |
 | FEF-FGR-002-D6-FRP-001 / FEF-FGR-002-D6-FRPVR-001                                                    | D6 Founder Review Package (Administrative Architecture and Examination Strategy) and Validation                                                                                                                                                                                                                                            | **Approved with Minor Administrative Observation**                    | Decision-support package: Executive Summary, Administrative Philosophy, Examination Themes, Administrative Architecture Review, Administrative Boundaries, Future Administrative Standards, and a five-item Founder Decision Agenda; all five items Founder-Confirmed; creates zero RQs, evidence, sessions, findings, decisions, or implementation authority                                                                                                                                                                                                                       |
 | FEF-FGR-002-D6-FDR-001 / FEF-FGR-002-D6-FDVR-001                                                     | D6 Founder Review Package Disposition Record and Validation                                                                                                                                                                                                                                                                                 | **Approve with Minor Administrative Observation — Recorded and Validated** | Exact Founder wording preserved for all five Decision Agenda items (all Confirm) and one Founder Observation (Single Source of Truth architecture, operational lesson only); authorises D6 Review Question Candidate Set preparation; eight mobilisation conditions remain in force                                                                                                                                                                                                                                                                                                 |
+| FEF-FGR-002-D6-RQC-001 / FEF-FGR-002-D6-RQCVR-001                                                    | D6 Framework Administration Review Question Candidate Set and Validation                                                                                                                                                                                                                                                                    | **Candidate Set Prepared — Pass with Conditions — Unmodified** | Six temporary candidates (D6-RQC-01–06) covering all five approved examination themes plus a Founder-invited Documentation Architecture subject (single administrative responsibility); zero canonical identifiers, evidence, or Register effect; dispositioned separately in FEF-FGR-002-D6-RQC-FDR-001 without editing this record                                                                                                                                                                                                                                                            |
+| FEF-FGR-002-D6-RQC-FDR-001 / FEF-FGR-002-D6-RQC-FDVR-001                                            | D6 Founder Candidate Review Disposition Record and Validation                                                                                                                                                                                                                                                                    | **Confirmed with Amendment — Recorded and Validated** | All six D6-RQC candidates Confirmed with Amendment; D6-RQC-01 and D6-RQC-06 carry Founder-finalised replacement wording, D6-RQC-02 through D6-RQC-05 carried refocusing instructions, now finalised in FEF-FGR-002-D6-AP-001; five Founder Observations recorded; zero canonical identifiers, evidence, or admission performed by this record                                                                                                                                                                                                                                                            |
+| FEF-FGR-002-D6-AP-001 / FEF-FGR-002-D6-APVR-001                                                     | D6 Admission Package and Validation                                                                                                                                                                                                                                                                    | **Prepared and Validated — DG-2 Complete** | Final neutral wording drafted for D6-RQC-02 through D6-RQC-05, each demonstrated strictly within the Founder's amendment instruction; D6-RQC-01/D6-RQC-06 carried forward unchanged; six finalised temporary wordings admitted in full in FEF-FGR-002-D6-RQAR-001 |
+| FEF-FGR-002-D6-RQS-001 | D6 Framework Administration Review Question Set | **Admitted — RQ-038 through RQ-043** | Canonical field treatment for the six admitted D6 Review Questions; Question Text exact from FEF-FGR-002-D6-RQC-FDR-001 §2 / FEF-FGR-002-D6-AP-001 §3; Lifecycle State Admitted, Disposition Pending; zero evidence, sessions, findings, or decisions |
+| FEF-FGR-002-D6-RQAR-001 / FEF-FGR-002-D6-RQAVR-001 | D6 Review Question Admission Record and Validation (DG-2) | **Admit — Pass with Conditions** | Allocates canonical identifiers RQ-038 through RQ-043, sequential and collision-free; complete temporary-to-Founder-to-wording-finalisation-to-canonical traceability; no evidence, session, DG-3/DG-4, examination, Finding, Founder Decision, or Framework Evolution activity performed |
+| FEF-FGR-002-D6-ERC-001 / FEF-FGR-002-D6-EQR-001 / FEF-FGR-002-D6-EMVR-001 | D6 Evidence Requirement Matrix, Qualification Record, and Mobilisation Validation | **Validated — Pass with Conditions** | Nine evidence requirements, thirteen qualified sources (nine reused/reobserved, four newly registered EV-086–EV-089) across all six admitted D6 RQs; no genuine evidentiary gap; Administrative Evidence Sufficiency Check 13/13 retained; no evidence answers a Review Question |
+| FEF-FGR-002-EP-006 / FEF-FGR-002-EP-006-FR-001 / FEF-FGR-002-EP-006-VR-001 | D6 Evidence Pack, Freeze Record, and Validation (DG-3) | **Frozen — Pass with Conditions** | Thirteen Evidence Records, 22 source-to-RQ mappings; smallest domain evidence corpus to date; DG-3 complete; no session use, examination, Finding, Founder Decision, or Framework Evolution activity performed |
+| FEF-FGR-002-S06-ER-001 / FEF-FGR-002-S06-EVR-001 | D6 Session Entry Record and Validation (DG-4) | **Open — Pass with Conditions** | Session FEF-FGR-002-S06 allocated and opened in a single action against frozen EP-006 v1.0, scoped exclusively to RQ-038–RQ-043; no examination, Finding, Founder Decision, or Framework Evolution activity performed |
+| FEF-FGR-002-S06-RQ-038-ER-001 / FEF-FGR-002-GF-037 / FEF-FGR-002-S06-GF-037-VR-001 | D6 Evidence Examination Loop 001 — RQ-038 Only, Governance Finding, and Validation | **Pass with Conditions — GF-037 Presented** | RQ-038 examined using exactly eight frozen EP-006 records; establishes every role/authority instrument is scoped to FEF-FGR-002 only and no Framework-level cross-project administrative responsibility is yet evidenced; RQ-039–RQ-043 unexamined; no Founder Decision, Session Exit, DG-5, or Framework Evolution activity performed |
+| FEF-FGR-002-EAT-001                                                                                  | Emerging Administrative Themes Appendix (non-authoritative)                                                                                                                                                                                                                                                                    | **Recorded — Not Adopted; Discoverability Only** | Indexes the five Founder Observations from the D6 Founder Candidate Review; carries no governance authority, creates no Framework practice, implementation authority, or constitutional effect; exists solely so the observations remain discoverable at the D6 Admission Package gate, D7, and any eventual constitutional synthesis                                                                                                                                                                                                                                                            |
 | FEF-PGP-001                                                                                        | Programme Governance Pilot description                                                                                                                                                                                                                                                                                                     | Operating Pilot — Phase 0                                             | Informational only; not a governance standard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | FEF-PDP-001                                                                                        | Programme Decision Register                                                                                                                                                                                                                                                                                                                | Current pilot register                                                | Programme-management decisions and traceability only                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | FEF-WRP-001                                                                                        | Work Package Review Package Protocol                                                                                                                                                                                                                                                                                                       | Pilot v0.1 — Founder Approved for Pilot Use                           | Preferred prospective review-handover protocol; non-mandatory and not a governance standard                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -295,14 +305,73 @@ Agenda items Confirmed — recorded in
 [FEF-FGR-002-D6-FDR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-FOUNDER-DISPOSITION-RECORD.md),
 validated Pass in
 [FEF-FGR-002-D6-FDVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-FOUNDER-DISPOSITION-VALIDATION-REPORT.md).
-Preparation of the D6 Review Question Candidate Set, guided by the
-Examination Architecture and the Founder-approved examination themes, and
-within the exact boundaries of the eight recorded mobilisation conditions
-(all of which remain in force), is now the next separately governed
-activity.**
+The D6 Review Question Candidate Set — six temporary candidates covering all
+five approved examination themes plus a Founder-invited Documentation
+Architecture subject — was prepared and validated Pass with Conditions in
+[FEF-FGR-002-D6-RQC-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-RQC-001-FRAMEWORK-ADMINISTRATION-REVIEW-QUESTION-CANDIDATE-SET.md),
+validated in
+[FEF-FGR-002-D6-RQCVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-RQC-VALIDATION-REPORT.md),
+and has now been reviewed by the Founder. All six candidates received a
+**Confirm with Amendment** disposition, recorded exactly in
+[FEF-FGR-002-D6-RQC-FDR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-RQC-FOUNDER-CANDIDATE-REVIEW-DISPOSITION-RECORD.md),
+validated Pass in
+[FEF-FGR-002-D6-RQC-FDVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-RQC-FOUNDER-CANDIDATE-REVIEW-DISPOSITION-VALIDATION-REPORT.md).
+D6-RQC-01 and D6-RQC-06 carried Founder-finalised replacement wording;
+D6-RQC-02 through D6-RQC-05 carried Founder refocusing instructions. Five
+Founder Observations arising from the same review are recorded and
+separately indexed, non-authoritatively, in
+[FEF-FGR-002-EAT-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-EAT-001-EMERGING-ADMINISTRATIVE-THEMES-APPENDIX.md)
+as Emerging Administrative Themes — discoverability only, creating no
+Framework practice, implementation authority, or constitutional effect.
 
-D1–D5 remain Closed. D6 is Mobilised; D6 examination has not commenced and
-zero D6 Review Questions exist. D7 and D8 remain Uncommenced. D8 is a formal
+The four refocusing instructions were then drafted into final neutral
+wording in the
+[FEF-FGR-002-D6-AP-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-AP-001-ADMISSION-PACKAGE.md)
+Admission Package, validated Pass in
+[FEF-FGR-002-D6-APVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-AP-VALIDATION-REPORT.md),
+each demonstrated strictly within its Founder amendment instruction.
+
+The D6 **DG-2 Admission Gate** is now complete. All six finalised temporary
+wordings were admitted, unchanged, as canonical Review Questions
+FEF-FGR-002-RQ-038 through FEF-FGR-002-RQ-043, recorded in
+[FEF-FGR-002-D6-RQAR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-REVIEW-QUESTION-ADMISSION-RECORD.md),
+validated Pass with Conditions in
+[FEF-FGR-002-D6-RQAVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-REVIEW-QUESTION-ADMISSION-VALIDATION-REPORT.md).
+Their authoritative field treatment is recorded in
+[FEF-FGR-002-D6-RQS-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-REVIEW-QUESTION-SET.md).
+The Review Question Register now stands at v1.72, 43 substantive entries
+(D6: 6).
+
+The D6 **DG-3 Evidence Pack Freeze Gate** is now also complete. Evidence
+was mobilised and qualified in a single consolidated pass covering all
+six admitted RQs —
+[FEF-FGR-002-D6-ERC-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-ERC-001-EVIDENCE-REQUIREMENT-MATRIX.md)
+and
+[FEF-FGR-002-D6-EQR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-EQR-001-EVIDENCE-QUALIFICATION-RECORD.md),
+validated ready for freeze in
+[FEF-FGR-002-D6-EMVR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-D6-EVIDENCE-MOBILISATION-VALIDATION-REPORT.md)
+— then assembled and Frozen as
+[FEF-FGR-002-EP-006](../governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-006-EVIDENCE-PACK.md)
+v1.0 in
+[FEF-FGR-002-EP-006-FR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-006-FREEZE-RECORD.md),
+validated Pass with Conditions in
+[FEF-FGR-002-EP-006-VR-001](../governance/reviews/FEF-FGR-002/FEF-FGR-002-EP-006-VALIDATION-REPORT.md).
+Thirteen Evidence Records (nine reused or reobserved, four newly
+registered as EV-086 through EV-089) support all six RQs with 22
+source-to-RQ mappings — the smallest domain evidence corpus in this
+review to date, consistent with the Founder's explicit minimum-evidence
+direction for Framework Administration. The Founder-directed
+Administrative Evidence Sufficiency Check was performed twice (pre-freeze
+and at freeze); all 13 items were retained both times. The Evidence
+Register now stands at v1.20, 71 substantive entries. **A separately
+authorised DG-4 gate — session entry for the six admitted D6 Review
+Questions — is now the next separately governed activity, within the
+exact boundaries of the eight recorded mobilisation conditions, all of
+which remain in force.**
+
+D1–D5 remain Closed. D6 is Mobilised; six canonical D6 Review Questions are
+Admitted and Pending, but D6 examination has not commenced. D7 and D8
+remain Uncommenced. D8 is a formal
 Open Question Resolution domain and the cross-cutting mechanism through which
 unresolved questions are mapped during D1–D7 and brought to final synthesis
 after D7. All 23 baseline Open Questions remain Open; no question is resolved
@@ -457,10 +526,12 @@ The Founder Engineering Framework is authorised for **sustained Operational Mode
 8. No D4 mobilisation authorisation remains pending — Founder Approve is recorded and validated.
 9. No D6 mobilisation authorisation remains pending — the Founder Approved D6 mobilisation with eight conditions, recorded and validated in FEF-FGR-002-D6-FMAR-001 / FEF-FGR-002-D6-FMAVR-001. D6 is Mobilised — Effective; D6 examination has not commenced; D7/D8 remain uncommenced.
 10. No D6 examination-architecture decision remains pending — the D6 Examination Architecture is prepared and validated in FEF-FGR-002-D6-EA-001 / FEF-FGR-002-D6-EAVR-001, incorporating all eight Founder mobilisation conditions.
-11. No D6 Founder Review Package disposition remains pending — the Founder Approved with Minor Administrative Observation, recorded and validated in FEF-FGR-002-D6-FDR-001 / FEF-FGR-002-D6-FDVR-001. All five Decision Agenda items are Confirmed; D6 Review Question Candidate Set preparation is Authorised as the next separately governed activity; all eight mobilisation conditions remain in force.
-12. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
-13. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
-14. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
+11. No D6 Founder Review Package disposition remains pending — the Founder Approved with Minor Administrative Observation, recorded and validated in FEF-FGR-002-D6-FDR-001 / FEF-FGR-002-D6-FDVR-001. All five Decision Agenda items are Confirmed; all eight mobilisation conditions remain in force.
+12. No D6 Founder Candidate Review disposition remains pending — the Founder Confirmed all six candidates with Amendment, recorded and validated in FEF-FGR-002-D6-RQC-FDR-001 / FEF-FGR-002-D6-RQC-FDVR-001; five Founder Observations recorded and indexed non-authoritatively in FEF-FGR-002-EAT-001.
+13. Founder review of GF-037 (RQ-038) is pending — one candidate Governance Finding is Presented in FEF-FGR-002-GF-037, Pass with Conditions in FEF-FGR-002-S06-GF-037-VR-001. Separately, a DG-4-authorised Evidence Examination Loop 002 (RQ-039) may be authorised. Neither is performed by the RQ-038 examination record or its validation.
+14. Decide the eventual disposition of legacy FEF-P0-004 under OQ-016.
+15. Decide the permanent work-package identifier policy under OQ-015 before a numbering migration is attempted.
+16. Conduct the separate Founder Review of FEF-RGS-000 when its prerequisite governance-consolidation and amendment sequence is complete.
 
 The remaining 23 RGS open questions remain unresolved. They are not silently closed or converted into immediate programme decisions by this reconciliation.
 
@@ -1919,6 +1990,191 @@ examination has not commenced; zero D6 Review Questions, evidence,
 sessions, findings, or Founder Decisions exist; D7/D8 remain Uncommenced;
 Framework Evolution remains Not Commenced; no implementation authority is
 created.
+
+This v0.94 revision records preparation and validation of the **D6 Review
+Question Candidate Set** (FEF-FGR-002-D6-RQC-001, Pass with Conditions in
+FEF-FGR-002-D6-RQCVR-001) — six temporary drafting candidates (D6-RQC-01
+through D6-RQC-06) covering all five Founder-confirmed examination themes
+plus a Founder-invited Documentation Architecture subject examining whether
+the Single Source of Truth "one document, one administrative
+responsibility" pattern should generalise into permanent Framework
+Administration practice. No candidate preselects that outcome. Zero
+canonical D6 RQ identifiers are allocated; the Review Question Register
+remains unchanged at 37 substantive entries; zero evidence, sessions,
+findings, or Founder Decisions are created. All 23 baseline Open Questions
+remain Open; FEF-P0-004 remains Blocked under OQ-016; D7/D8 remain
+Uncommenced; Framework Evolution remains Not Commenced; no implementation
+authority or Framework Administration standard is created. The repository
+remains positioned immediately before Founder Candidate Review of this set;
+only after that review may canonical identifiers be allocated and DG-2
+admission performed, as a separate, subsequently authorised gate.
+
+This v0.95 revision records the Founder's **D6 Founder Candidate Review**
+disposition (FEF-FGR-002-D6-RQC-FDR-001, Pass in
+FEF-FGR-002-D6-RQC-FDVR-001): all six D6-RQC candidates received **Confirm
+with Amendment**, each with an individually attributed amendment
+instruction and rationale. D6-RQC-01 and D6-RQC-06 carry Founder-finalised
+replacement wording; D6-RQC-02 through D6-RQC-05 carry Founder refocusing
+instructions whose final neutral wording is not drafted by this revision.
+FEF-FGR-002-D6-RQC-001 itself is unmodified and remains byte-identical to
+its validated v1.0. Five collective Founder Observations arising from the
+same review are recorded exactly and separately indexed, non-authoritatively,
+in FEF-FGR-002-EAT-001 as Emerging Administrative Themes, at the Founder's
+own recommendation — this appendix creates no Framework practice,
+implementation authority, or constitutional effect, and exists solely for
+discoverability at the D6 Admission Package gate, D7, and any eventual
+constitutional synthesis. Zero canonical D6 RQ identifiers are allocated;
+the Review Question Register remains unchanged at 37 substantive entries
+(Domain Coverage narrative only updated, v1.71); zero evidence, sessions,
+findings, or Founder Decisions beyond this Candidate Review disposition are
+created. All 23 baseline Open Questions remain Open; FEF-P0-004 remains
+Blocked under OQ-016; D7/D8 remain Uncommenced; Framework Evolution remains
+Not Commenced; no implementation authority or Framework Administration
+standard is created. The repository remains positioned immediately before
+preparation of the D6 Admission Package, at which final neutral wording is
+drafted for the four candidates carrying refocusing instructions, strictly
+within the boundaries the Founder recorded; only after that preparation may
+canonical identifiers be allocated and DG-2 admission performed, as a
+separate, subsequently authorised gate.
+
+This v0.96 revision records preparation and validation of the **D6
+Admission Package** (FEF-FGR-002-D6-AP-001, Pass in
+FEF-FGR-002-D6-APVR-001): final neutral wording drafted for D6-RQC-02
+through D6-RQC-05, each demonstrated, element by element, to remain
+strictly within its Founder amendment instruction and rationale from
+FEF-FGR-002-D6-RQC-FDR-001, with every pre-existing exclusion (FEF-P0-004
+non-disposition; no renumbering/migration/redesign) and OQ interface
+(OQ-014, OQ-015, OQ-016 partial/direct-but-administrative-only) preserved
+unchanged. D6-RQC-01 and D6-RQC-06 are carried forward unchanged,
+Founder-finalised in full. All six temporary D6 RQ wordings are now
+finalised; none is admitted. FEF-FGR-002-D6-RQC-001 and
+FEF-FGR-002-D6-RQC-FDR-001 remain unmodified and byte-identical to their
+validated versions. Zero canonical D6 RQ identifiers are allocated; the
+Review Question Register remains unchanged at 37 substantive entries,
+v1.71 — no D6 entry is added by this revision. Zero evidence requirements,
+Evidence Packs, sessions, Governance Findings, or Founder Decisions are
+created; no DG-2, DG-3, or DG-4 activity is performed; no Framework
+Evolution is introduced; no Founder Observation is converted into Framework
+policy. All 23 baseline Open Questions remain Open; FEF-P0-004 remains
+Blocked under OQ-016; D7/D8 remain Uncommenced; Framework Evolution remains
+Not Commenced; no implementation authority is created. The repository
+remains positioned immediately before a separately authorised DG-2
+admission gate, at which canonical D6 RQ identifiers may be allocated
+against the six finalised wordings and the Review Question Register
+updated accordingly.
+
+This v0.97 revision records execution of the **D6 DG-2 Admission Gate**
+(FEF-FGR-002-D6-RQAR-001, Pass with Conditions in
+FEF-FGR-002-D6-RQAVR-001): the six Founder-finalised temporary D6 RQ
+wordings are admitted, unchanged, as canonical Review Questions
+FEF-FGR-002-RQ-038 through FEF-FGR-002-RQ-043, sequential and
+collision-free. Question Text is reproduced exactly — the Founder's own
+replacement wording for RQ-038 and RQ-043, and the FEF-FGR-002-D6-AP-001
+drafted wording for RQ-039 through RQ-042 — with no wording change,
+editorial improvement, clarification, or optimisation. Their authoritative
+field treatment is recorded in FEF-FGR-002-D6-RQS-001. FEF-FGR-002-D6-RQC-001,
+FEF-FGR-002-D6-RQC-FDR-001, and FEF-FGR-002-D6-AP-001 remain unmodified and
+byte-identical to their validated versions — no historical temporary
+candidate artefact is overwritten, migrated, deleted, or renumbered. The
+Review Question Register is updated to v1.72, 43 substantive entries (D6:
+6), Lifecycle State Admitted, Disposition Pending, Evidence Mobilisation
+Not Started for all six; RQ-001 through RQ-037 rows are unchanged. No
+evidence is mobilised, qualified, or registered; no Evidence Pack is
+created; no session is allocated; no DG-3 or DG-4 activity is performed; no
+examination is performed; no Governance Finding or Founder Decision is
+created; no Framework Evolution is introduced; no constitutional extraction
+occurs; no implementation authority is created. All 23 baseline Open
+Questions remain Open; FEF-P0-004 remains Blocked under OQ-016; D7/D8
+remain Uncommenced; Framework Evolution remains Not Commenced. The
+repository remains positioned immediately before a separately authorised
+**DG-3** gate (Evidence Pack readiness for RQ-038 through RQ-043).
+
+This v0.98 revision records execution of the **D6 DG-3 Evidence Pack
+Freeze Gate**. Evidence was mobilised and qualified in a single
+consolidated pass (FEF-FGR-002-D6-ERC-001; FEF-FGR-002-D6-EQR-001) rather
+than per-RQ, deliberately favouring reuse of already-controlled
+administrative artefacts over new evidence, consistent with the Founder's
+explicit direction that D6's evidence base should be smaller than D5's.
+Nine reused or reobserved sources (EV-006, EV-016–EV-019, EV-021, EV-072,
+EV-080, EV-081) and four newly registered sources (EV-086 Founder
+Dashboard, EV-087 Review Identity, EV-088 D6-MPP-001, EV-089
+D6-RQC-FDR-001) cover all six admitted D6 Review Questions with 22
+source-to-RQ mappings; no genuine evidentiary gap and no contradiction
+were found. Readiness was validated in FEF-FGR-002-D6-EMVR-001, which
+also performed the Founder-directed Administrative Evidence Sufficiency
+Check ("does each item contribute directly to answering at least one
+admitted Review Question?") — 13 of 13 items retained. The evidence was
+then assembled and Frozen as FEF-FGR-002-EP-006 v1.0 in
+FEF-FGR-002-EP-006-FR-001, validated Pass with Conditions in
+FEF-FGR-002-EP-006-VR-001, which independently reperformed the
+sufficiency check with the same result. This is the smallest domain
+Evidence Pack in this review to date. The Evidence Register stands at
+v1.20, 71 substantive entries; the Evidence Pack Register stands at
+v1.24, seven pack versions across six pack identities. RQ-038 through
+RQ-043 remain Admitted; their Lifecycle State is unchanged by evidence
+freeze. No evidence answers a Review Question, infers a conclusion,
+creates a Governance Finding, recommends a decision, or commences
+examination. No session is allocated; DG-4 has not been reached. All 23
+baseline Open Questions remain Open; FEF-P0-004 remains Blocked under
+OQ-016; D7/D8 remain Uncommenced; Framework Evolution remains Not
+Commenced; no implementation authority or constitutional extraction is
+created. The repository remains positioned immediately before a
+separately authorised **DG-4** gate (session entry for RQ-038 through
+RQ-043).
+
+This v0.99 revision records execution of the **D6 DG-4 Session Entry
+Gate**. Session FEF-FGR-002-S06 was allocated and opened in a single
+action — consistent with this task's framing of DG-4 as "prepare and
+open," rather than the two-step entry-then-separate-opening pattern D5
+required following its evidence-integrity remediation — recorded in
+FEF-FGR-002-S06-ER-001, validated Pass with Conditions in
+FEF-FGR-002-S06-EVR-001. S06 is scoped exclusively to RQ-038 through
+RQ-043 against frozen FEF-FGR-002-EP-006 v1.0/MAN-001, independently
+reverified byte-identical to its DG-3 fingerprints. All eight Founder D6
+mobilisation conditions and all nine DG-3 freeze conditions are carried
+forward unchanged. The entry record explicitly frames D6 examination as
+assessing the Framework's administrative *operation*, not redesigning it;
+records the intentionally minimised evidence base as expected, not a
+defect; and preserves the five Emerging Administrative Themes
+(FEF-FGR-002-EAT-001) as decision context only, not adopted Framework
+policy. The Session Register stands at v1.51, six sessions registered and
+opened. No evidence was analysed, no Review Question was answered, no
+Governance Finding or Founder Decision was created, no Framework
+Evolution occurred, and no implementation authority or constitutional
+redesign was introduced. RQ-038 through RQ-043 remain Admitted; D7/D8
+remain Uncommenced. The repository remains positioned immediately before
+a separately authorised **Evidence Examination Loop** — the exact next
+governed activity — one admitted D6 RQ at a time; DG-5 (Founder Decision
+issuance) is reached only after examination and Governance Finding
+disposition at a session exit gate, not immediately from this record.
+
+This v1.00 revision records **D6 Session S06 Evidence Examination Loop
+001**: RQ-038 alone was examined using exactly the eight frozen
+FEF-FGR-002-EP-006 v1.0 records mapped to it
+(FEF-FGR-002-S06-RQ-038-ER-001), producing one candidate Governance
+Finding, FEF-FGR-002-GF-037, validated Pass with Conditions in
+FEF-FGR-002-S06-GF-037-VR-001. The finding establishes that every
+existing FEF-FGR-002 role and authority instrument (OGRS-001, OAB-001,
+ICR-001, GRM-001, RAR-001) is scoped to this review only, that the
+Framework's own current-state records show "Not Yet Adoptable" /
+"Framework release: None," and that the operated Single Source of Truth
+ownership pattern currently governs only four documents within this one
+review — so no minimum Framework-level cross-project administrative
+responsibility or delegation boundary to individual Founder projects is
+yet evidenced. OQ-021 remains open. The finding explicitly notes, without
+testing or relying on, the Master Programme's own permanence
+characterisation of the Single Source of Truth model, preserving that
+question for RQ-043. RQ-039 through RQ-043 remain Admitted and
+unexamined. The Review Question Register stands at v1.73, the Governance
+Finding Register at v1.36 (37 entries), the Session Register at v1.52,
+and the Evidence Pack Register at v1.25 — EP-006 v1.0 remains byte-
+identical and unmodified. No evidence was analysed beyond the bounded
+examination method; no recommendation, Founder Decision, Session Exit,
+DG-5 activity, or Framework Evolution occurred; no implementation
+authority or constitutional redesign was introduced. The repository
+remains positioned immediately before Founder review of GF-037 and,
+separately, a possible DG-4-authorised Evidence Examination Loop 002 for
+RQ-039.
 
 ## 11. Change Control
 
