@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D6-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D6 — Framework Administration |
-| Set version | 1.3 |
+| Set version | 1.4 |
 | Admission date | 2026-08-05 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -14,10 +14,10 @@
 | Founder disposition | Confirm with Amendment — all six; FEF-FGR-002-D6-RQC-FDR-001 |
 | Wording finalisation source | FEF-FGR-002-D6-AP-001 (D6-RQC-02–05); Founder-supplied in full, FEF-FGR-002-D6-RQC-FDR-001 §2 (D6-RQC-01, D6-RQC-06) |
 | Admission record | FEF-FGR-002-D6-RQAR-001 |
-| Lifecycle treatment | RQ-038, RQ-039, and RQ-040 Answered at finding level (GF-037, GF-038, GF-039, all Presented); RQ-041 through RQ-043 Admitted, Unexamined |
-| Assigned examination unit | FEF-FGR-002-S06 — Open; Loop 001 examined RQ-038, Loop 002 examined RQ-039, Loop 003 examined RQ-040 |
-| Questions answered | 3 — RQ-038 through GF-037, RQ-039 through GF-038, RQ-040 through GF-039; Founder disposition pending on all three |
-| Evidence mobilisation | Complete for all six D6 RQs (FEF-FGR-002-EP-006 v1.0, Frozen); RQ-038/RQ-039/RQ-040 evidence examined in S06 Loops 001–003 |
+| Lifecycle treatment | RQ-038, RQ-039, RQ-040, and RQ-041 Answered at finding level (GF-037, GF-038, GF-039, GF-040, all Presented); RQ-042 and RQ-043 Admitted, Unexamined |
+| Assigned examination unit | FEF-FGR-002-S06 — Open; Loop 001 examined RQ-038, Loop 002 examined RQ-039, Loop 003 examined RQ-040, Loop 004 examined RQ-041 |
+| Questions answered | 4 — RQ-038 through GF-037, RQ-039 through GF-038, RQ-040 through GF-039, RQ-041 through GF-040; Founder disposition pending on all four |
+| Evidence mobilisation | Complete for all six D6 RQs (FEF-FGR-002-EP-006 v1.0, Frozen); RQ-038/RQ-039/RQ-040/RQ-041 evidence examined in S06 Loops 001–004 |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -147,7 +147,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-041 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Administrative Coherence |
 | Question Text | What minimum administrative relationships and consistency controls, if any, are necessary among identifiers, registers, and controlled documents to preserve governance integrity — administrative coherence, as distinct from Single Source of Truth ownership — after D1, D4, and D5's controls, without renumbering, migrating, or redesigning existing records? |
 | Originating candidate | D6-RQC-04 |
@@ -165,17 +165,17 @@ substantive answer is introduced.
 | Dependencies | D1: Founder authority over any standardisation decision is reserved and not delegated. D4: Register schemas and custody controls (FD-026–FD-032) are the direct existing analogue and are treated as controlling, not reopened. D5: Register "Lifecycle State" fields and status vocabulary examined by D5 (FD-033–FD-038) are referenced as precedent, not reopened. Interface: D7 may require distinct identifier treatment for constitutional material; not decided here |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | Unassigned |
+| Assigned Examination Unit | FEF-FGR-002-S06 — Open; Loop 004 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
-| Lifecycle State | Admitted |
-| Disposition | Pending |
-| Related GFs | None |
+| Lifecycle State | Answered |
+| Disposition | Answered at finding level — GF-040 Presented, Founder disposition pending |
+| Related GFs | FEF-FGR-002-GF-040 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-08-05 / 2026-08-05 |
-| Change Rationale | v1.0 first canonical admission; Question Text reproduces FEF-FGR-002-D6-AP-001 §3.3's drafted wording unchanged, itself validated strictly within the Founder's refocusing instruction; purpose, scope (refocused), exclusions, dependencies, and OQ mapping reproduced from FEF-FGR-002-D6-RQC-001 §3.4, refined only as the amendment required |
+| Change Rationale | v1.0 first canonical admission; Question Text reproduces FEF-FGR-002-D6-AP-001 §3.3's drafted wording unchanged, itself validated strictly within the Founder's refocusing instruction; purpose, scope (refocused), exclusions, dependencies, and OQ mapping reproduced from FEF-FGR-002-D6-RQC-001 §3.4, refined only as the amendment required; v1.1 records S06 Evidence Examination Loop 004 — RQ-041 Only, using exactly EV-072, EV-081, EV-087, and EV-088, Answered-at-finding-level state, and Presented GF-040 linkage; Question Text, scope, exclusions, dependencies, and OQ-015 mapping remain unchanged |
 
 ## 6. FEF-FGR-002-RQ-042 — Simplicity, Reporting, and Proportional Tailoring
 

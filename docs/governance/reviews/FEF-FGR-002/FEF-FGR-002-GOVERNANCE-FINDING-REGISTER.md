@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.38 |
+| Register version | 1.39 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-08-05 |
-| Substantive entry count | 39 |
+| Substantive entry count | 40 |
 
 ## Register
 
@@ -60,6 +60,7 @@
 | FEF-FGR-002-GF-037 | 1.0 | Every Existing Role and Authority Instrument Is Scoped to This Review Only; No Framework-Level Cross-Project Administrative Responsibility or Delegation Boundary Is Yet Evidenced | RQ-038 | EV-016; EV-017; EV-018; EV-019; EV-021; EV-072; EV-080; EV-086 | Every role/authority instrument is scoped to FEF-FGR-002 only; the Single Source of Truth pattern is operated among four review-internal documents only; the Framework is "Not Yet Adoptable" with "Framework release: None"; no minimum Framework-level cross-project administrative responsibility or delegation boundary is evidenced | OQ-021 (partial) remains open; EV-072 remains Conditionally Admitted; RQ-043 permanence/maturation question not tested or relied upon; no second adopting Founder project yet exists | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 | FEF-FGR-002-GF-038 | 1.0 | Update Triggers and a Propagation Rule Exist and Are Operated, but No Standing Minimum Maintenance, Synchronisation, or Verification Responsibility Is Evidenced — Only Reactive, Incidental Correction | RQ-039 | EV-080; EV-087 | Master Programme §11 names event-triggered update obligations and §1.1 a propagation-minimisation rule, both operated; Review Identity's own Change History shows at least three episodes of staleness found and corrected only incidentally, one spanning an entire domain's lifecycle; no standing maintenance, synchronisation, or verification capability is evidenced | OQ-014 (partial) remains open; EV-087 version-pinned to its pre-freeze v1.76 state, excluding this session's own later entries; update-trigger rules distinguished from verification capability | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 | FEF-FGR-002-GF-039 | 1.0 | A Narrative Dependency Register Exists and Is Operated Across Documents Without Halting Programme Progress, but No Cross-Project Treatment, Release-Readiness Criteria, or Verified Consistency Mechanism Is Evidenced | RQ-040 | EV-080; EV-088 | A populated 22-item work-package register exists and is referenced consistently across two governed documents (FEF-P0-004/OQ-016); Blocked/Pending items have coexisted with continued programme progress; no cross-project (multi-Founder-project) treatment, release-readiness criteria, or verified cross-document consistency mechanism is evidenced | OQ-016 (direct, administrative consequence only) remains open; FEF-P0-004 disposition not decided; whether cross-document consistency is verified is recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
+| FEF-FGR-002-GF-040 | 1.0 | Explicit Precedence Notes Provide a Minimal, Operating Administrative Coherence Control in at Least Two Documents, but No Verification, Reconciliation, or Completeness Mechanism Is Evidenced | RQ-041 | EV-072; EV-081; EV-087; EV-088 | Explicit precedence notes in the Review Identity and Document Manifest currently operate, subordinating each to the Master Programme as Single Source of Truth; the Review Question Register applies a uniform twelve-column schema across 43 entries; no register-schema-verification, general reconciliation mechanism, or minimum coherence standard is evidenced | OQ-015 remains open; whether the pattern is required for governance integrity or merely historically accumulated is recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 
 ## Change History
 
@@ -104,6 +105,7 @@
 | 1.36 | 2026-08-05 | D6 S06 Evidence Examination Loop 001 registered GF-037 — Presented, Founder disposition pending — for RQ-038 only, using exactly the eight frozen EP-006 records mapped to it; finding establishes every role/authority instrument is scoped to FEF-FGR-002 only and no Framework-level cross-project administrative responsibility or delegation boundary is yet evidenced; OQ-021 remains open; RQ-039 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-038-ER-001; FEF-FGR-002-S06-GF-037-VR-001 |
 | 1.37 | 2026-08-05 | D6 S06 Evidence Examination Loop 002 registered GF-038 — Presented, Founder disposition pending — for RQ-039 only, using exactly EV-080 and EV-087 frozen in EP-006 (EV-087 version-pinned to its pre-freeze v1.76 state); finding establishes update-trigger and propagation rules exist and are operated, but no standing minimum maintenance, synchronisation, or verification responsibility is evidenced; OQ-014 remains open; GF-037 unchanged; RQ-040 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-039-ER-001; FEF-FGR-002-S06-GF-038-VR-001 |
 | 1.38 | 2026-08-05 | D6 S06 Evidence Examination Loop 003 registered GF-039 — Presented, Founder disposition pending — for RQ-040 only, using exactly EV-080 and EV-088 frozen in EP-006; finding establishes a narrative dependency register exists and is operated across documents without halting programme progress, but no cross-project treatment, release-readiness criteria, or verified consistency mechanism is evidenced; OQ-016 remains open; FEF-P0-004 disposition not decided; GF-037/GF-038 unchanged; RQ-041 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-040-ER-001; FEF-FGR-002-S06-GF-039-VR-001 |
+| 1.39 | 2026-08-05 | D6 S06 Evidence Examination Loop 004 registered GF-040 — Presented, Founder disposition pending — for RQ-041 only, using exactly EV-072, EV-081, EV-087, and EV-088 frozen in EP-006 (EV-072/EV-081/EV-087 version-pinned to their pre-freeze states); finding establishes explicit precedence notes provide a minimal, operating administrative coherence control in at least two documents (Review Identity, Document Manifest), and the Review Question Register applies a uniform schema, but no verification, general reconciliation, or completeness mechanism is evidenced; OQ-015 remains open; GF-037/GF-038/GF-039 unchanged; RQ-042 and RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-041-ER-001; FEF-FGR-002-S06-GF-040-VR-001 |
 
 ## Non-Effects
 
@@ -160,3 +162,19 @@ uncertain rather than resolved. GF-039 creates no dependency-verification
 mechanism, cross-project standard, release-readiness criteria, Founder
 Decision, or Open Question disposition; does not dispose of FEF-P0-004;
 does not examine RQ-041 through RQ-043; and does not commence D7.
+
+This register now contains forty Governance Findings. GF-040 is
+**Presented — Founder disposition pending**, the fourth D6 finding,
+produced by S06 Evidence Examination Loop 004 for RQ-041 only. It
+establishes that explicit precedence notes in the Review Identity and
+Document Manifest currently operate, subordinating each to the Master
+Programme as Single Source of Truth, and that the Review Question
+Register applies a uniform schema across its entries, but that no
+register-schema-verification, general reconciliation, or minimum
+coherence standard is evidenced — one matter (whether the pattern is
+required for governance integrity or merely historically accumulated) is
+recorded as genuinely uncertain rather than resolved. GF-040 creates no
+verification mechanism, reconciliation process, coherence standard,
+Founder Decision, or Open Question disposition; does not renumber,
+migrate, reconcile, or redesign any existing record; does not decide
+OQ-015; does not examine RQ-042 or RQ-043; and does not commence D7.

@@ -48,23 +48,23 @@ is Frozen** (13 Evidence Records, 22 source-to-RQ mappings — smallest
 domain corpus to date, Pass with Conditions in
 FEF-FGR-002-EP-006-VR-001). The **D6 DG-4 Session Entry Gate is complete**:
 session **FEF-FGR-002-S06 is Open**, scoped exclusively to RQ-038–RQ-043
-against frozen EP-006 v1.0. **Evidence Examination Loops 001–003 are now
+against frozen EP-006 v1.0. **Evidence Examination Loops 001–004 are now
 complete**: RQ-038 was Answered through **GF-037**, RQ-039 through
-**GF-038**, and RQ-040 through **GF-039** (all Presented, Founder
-disposition pending; Pass with Conditions in
-FEF-FGR-002-S06-GF-037-VR-001, FEF-FGR-002-S06-GF-038-VR-001, and
-FEF-FGR-002-S06-GF-039-VR-001); RQ-041–RQ-043 remain Admitted,
-Unexamined; five Founder Observations recorded, indexed
-non-authoritatively in FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework
-Evolution Not Commenced; no implementation authority exists. Authoritative
-detail: Master Programme §2.
+**GF-038**, RQ-040 through **GF-039**, and RQ-041 through **GF-040** (all
+Presented, Founder disposition pending; Pass with Conditions in
+FEF-FGR-002-S06-GF-037-VR-001, FEF-FGR-002-S06-GF-038-VR-001,
+FEF-FGR-002-S06-GF-039-VR-001, and FEF-FGR-002-S06-GF-040-VR-001);
+RQ-042–RQ-043 remain Admitted, Unexamined; five Founder Observations
+recorded, indexed non-authoritatively in FEF-FGR-002-EAT-001; D7/D8
+Uncommenced; Framework Evolution Not Commenced; no implementation
+authority exists. Authoritative detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Founder review of the RQ-040 examination result and GF-039 (and, if not
-yet reviewed, GF-037/GF-038). Separately, a **DG-4-authorised Evidence
-Examination Loop 004 — RQ-041 Only** may be authorised. DG-5 (Founder
-Decision issuance) follows only after examination and Governance Finding
-disposition at session exit.
+Founder review of the RQ-041 examination result and GF-040 (and, if not
+yet reviewed, GF-037/GF-038/GF-039). Separately, a **DG-4-authorised
+Evidence Examination Loop 005 — RQ-042 Only** may be authorised. DG-5
+(Founder Decision issuance) follows only after examination and Governance
+Finding disposition at session exit.
 
 ## Genuine Blockers
 
@@ -77,10 +77,10 @@ No Founder decision is currently pending for D1 through D6 mobilisation,
 Examination Architecture, Founder Review Package disposition, D6 Candidate
 Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
 evidence freeze, D6 DG-4 session entry, or D6 Evidence Examination Loops
-001–003; all are complete and validated. The items remaining open are:
+001–004; all are complete and validated. The items remaining open are:
 
-- Founder review of the RQ-038, RQ-039, and RQ-040 examination results, GF-037, GF-038, and GF-039 (FEF-FGR-002-S06-GF-037-VR-001; FEF-FGR-002-S06-GF-038-VR-001; FEF-FGR-002-S06-GF-039-VR-001);
-- a possible D6 Evidence Examination Loop 004 (RQ-041 only), if separately authorised;
+- Founder review of the RQ-038, RQ-039, RQ-040, and RQ-041 examination results, GF-037, GF-038, GF-039, and GF-040 (FEF-FGR-002-S06-GF-037-VR-001; FEF-FGR-002-S06-GF-038-VR-001; FEF-FGR-002-S06-GF-039-VR-001; FEF-FGR-002-S06-GF-040-VR-001);
+- a possible D6 Evidence Examination Loop 005 (RQ-042 only), if separately authorised;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
