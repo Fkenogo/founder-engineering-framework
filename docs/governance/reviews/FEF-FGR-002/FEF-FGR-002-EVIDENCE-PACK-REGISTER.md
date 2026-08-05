@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.25 |
+| Register version | 1.26 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -68,8 +68,9 @@ Governance Findings Presented. No Founder Decision exists for D5.
 
 FEF-FGR-002-EP-006 v1.0 is Frozen as the D6 evidence baseline for RQ-038
 through RQ-043. Session FEF-FGR-002-S06 is Open and used EP-006 v1.0 as
-the sole baseline for Evidence Examination Loop 001 (RQ-038 only),
-producing Presented GF-037. RQ-039 through RQ-043 remain unexamined. This
+the sole baseline for Evidence Examination Loop 001 (RQ-038 only,
+producing Presented GF-037) and Loop 002 (RQ-039 only, producing
+Presented GF-038). RQ-040 through RQ-043 remain unexamined. This
 linkage does not modify or re-freeze EP-006.
 
 ## Change History
@@ -102,6 +103,7 @@ linkage does not modify or re-freeze EP-006.
 | 1.23 | 2026-08-01 | Records S05 Session Exit Pass with Conditions after all six exact FEF-FGRP-001 §12.1 criteria passed; v2.0/MAN-002 remained the sole baseline across all six loops and all frozen/acquisition controls reproduced; S05 Closed — Examination Complete; Governance Findings Presented; no pack, fingerprint, membership, treatment, Open Question, finding disposition, FD, D5 closure, or D6/D7 change | FEF-FGR-002-S05-SER-001; FEF-FGR-002-S05-SEVR-001 |
 | 1.24 | 2026-08-05 | D6 Evidence Pack EP-006 v1.0 registered as **Frozen** following DG-3 (Pass with Conditions); 13 Evidence Records (9 reused/reobserved, 4 newly registered EV-086–EV-089), 22 source-to-RQ mappings across all six admitted D6 RQs (RQ-038–RQ-043); smallest domain corpus to date; Founder-directed Administrative Evidence Sufficiency Check performed twice (pre-freeze and at freeze), 13/13 retained both times, zero removed; no session use, examination, GF, or FD | FEF-FGR-002-EP-006-FR-001; FEF-FGR-002-EP-006-VR-001 |
 | 1.25 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 001 — RQ-038 Only; exact eight-record mapping and all qualifications retained; GF-037 Presented/Pending after Pass with Conditions validation; RQ-039 through RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-038-ER-001; FEF-FGR-002-S06-GF-037-VR-001 |
+| 1.26 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 002 — RQ-039 Only; exact two-record mapping (EV-080, EV-087 version-pinned to pre-freeze v1.76) and all qualifications retained; GF-038 Presented/Pending after Pass with Conditions validation; RQ-040 through RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-039-ER-001; FEF-FGR-002-S06-GF-038-VR-001 |
 
 ## Non-Effects
 

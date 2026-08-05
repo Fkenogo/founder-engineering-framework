@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.52 |
+| Register version | 1.53 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -27,7 +27,7 @@
 | FEF-FGR-002-S03 | D3 — Governance Assurance | Examine the nine admitted D3 RQs using EP-003 only | RQ-016–RQ-024 | EP-003 v1.0 — Frozen | Open, examine, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S03-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S03-SESSION-EXIT-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S04 | D4 — Records and Information Governance | Examine the seven admitted D4 RQs using EP-004 only | RQ-025–RQ-031 | EP-004 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | Closed — Examination Complete; Governance Findings Presented | [Session Exit Record](FEF-FGR-002-S04-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S04-SESSION-EXIT-VALIDATION-REPORT.md) |
 | FEF-FGR-002-S05 | D5 — Governance Lifecycle and Evolution | Examine the six admitted D5 RQs using frozen EP-005 v2.0/MAN-002 only | RQ-032–RQ-037 | EP-005 v2.0 / MAN-002 — Frozen | Examine one RQ at a time only after separate loop authority | Pass with Conditions | **Closed — Examination Complete; Governance Findings Presented** | [Session Exit Record](FEF-FGR-002-S05-SESSION-EXIT-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S05-SESSION-EXIT-VALIDATION-REPORT.md) |
-| FEF-FGR-002-S06 | D6 — Framework Administration | Examine the six admitted D6 RQs using frozen EP-006 v1.0 only | RQ-038–RQ-043 | EP-006 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | **Open — Evidence Examination Loop 001 Complete (RQ-038); RQ-039–RQ-043 Unexamined** | [RQ-038 Examination Record](FEF-FGR-002-S06-RQ-038-EXAMINATION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S06-GF-037-VALIDATION-REPORT.md) |
+| FEF-FGR-002-S06 | D6 — Framework Administration | Examine the six admitted D6 RQs using frozen EP-006 v1.0 only | RQ-038–RQ-043 | EP-006 v1.0 — Frozen | Open, examine one RQ at a time, validate, and close | Pass with Conditions | **Open — Evidence Examination Loops 001–002 Complete (RQ-038, RQ-039); RQ-040–RQ-043 Unexamined** | [RQ-039 Examination Record](FEF-FGR-002-S06-RQ-039-EXAMINATION-RECORD.md) | [Pass with Conditions](FEF-FGR-002-S06-GF-038-VALIDATION-REPORT.md) |
 
 ## D2 Post-Session Linkage
 
@@ -183,6 +183,7 @@ or commence D6 or D7.
 | 1.50 | 2026-08-01 | D5 post-session linkage records validated DG-6 Domain Exit and D5 closure; S05 remains historically Closed — Examination Complete; Governance Findings Presented; GF-031–GF-036 Closed — Decision Issued; FD-033–FD-038 unchanged; eight OQs open; D6/D7 uncommenced | FEF-FGR-002-D5-CR-001; FEF-FGR-002-D5-DG6-DEVR-001 |
 | 1.51 | 2026-08-05 | D6 Session Entry Gate (DG-4) recorded FEF-FGR-002-S06 allocated and opened in a single action against frozen FEF-FGR-002-EP-006 v1.0/MAN-001, scoped exclusively to RQ-038 through RQ-043; Pass with Conditions in FEF-FGR-002-S06-EVR-001; S01–S05 rows unchanged; six sessions now registered and opened; no examination performed, no RQ answered, no D6 Governance Finding or Founder Decision created; D7/D8 remain uncommenced | FEF-FGR-002-S06-ER-001; FEF-FGR-002-S06-EVR-001 |
 | 1.52 | 2026-08-05 | S06 Evidence Examination Loop 001 examined RQ-038 only using exactly eight frozen EP-006 v1.0 records; produced Presented GF-037, Founder disposition pending, Pass with Conditions in FEF-FGR-002-S06-GF-037-VR-001; S06 remains Open — Evidence Examination Not Yet Started for RQ-039 through RQ-043; no Session Exit, no DG-5, no Founder Decision, no Framework Evolution; EP-006 v1.0/MAN-001 unchanged | FEF-FGR-002-S06-RQ-038-ER-001; FEF-FGR-002-S06-GF-037-VR-001 |
+| 1.53 | 2026-08-05 | S06 Evidence Examination Loop 002 examined RQ-039 only using exactly EV-080 and EV-087 (version-pinned to pre-freeze v1.76) frozen in EP-006 v1.0; produced Presented GF-038, Founder disposition pending, Pass with Conditions in FEF-FGR-002-S06-GF-038-VR-001; S06 remains Open for RQ-040 through RQ-043; GF-037/RQ-038 unchanged; no Session Exit, no DG-5, no Founder Decision, no Framework Evolution; EP-006 v1.0/MAN-001 unchanged | FEF-FGR-002-S06-RQ-039-ER-001; FEF-FGR-002-S06-GF-038-VR-001 |
 
 ## Non-Effects
 
@@ -221,6 +222,7 @@ and validated D5-G2 Live Founder Review and linked one-to-one to validated
 FD-033 through FD-038. DG-5/DG-6 are complete and D5 is Closed. D6 is
 Mobilised — Effective; S06 is Open, scoped exclusively to RQ-038 through
 RQ-043 against frozen EP-006 v1.0. Evidence Examination Loop 001 examined
-RQ-038 only and produced Presented GF-037, Founder disposition pending;
-RQ-039 through RQ-043 remain Admitted and unanswered. No Session Exit, no
-D6 Founder Decision, and no D6 closure exists. D7/D8 remain uncommenced.
+RQ-038 and produced Presented GF-037; Loop 002 examined RQ-039 and
+produced Presented GF-038; both Founder dispositions pending. RQ-040
+through RQ-043 remain Admitted and unanswered. No Session Exit, no D6
+Founder Decision, and no D6 closure exists. D7/D8 remain uncommenced.

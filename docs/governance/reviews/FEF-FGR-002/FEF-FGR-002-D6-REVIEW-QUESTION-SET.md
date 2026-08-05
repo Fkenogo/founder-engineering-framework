@@ -5,7 +5,7 @@
 | Set identifier | FEF-FGR-002-D6-RQS-001 |
 | Review identifier | FEF-FGR-002 |
 | Domain | D6 — Framework Administration |
-| Set version | 1.1 |
+| Set version | 1.2 |
 | Admission date | 2026-08-05 |
 | Owner / Coordinator | FEF-FGR-002-RA-002 — Review Administrator |
 | Drafter | FEF-FGR-002-RA-003 — Review Analyst |
@@ -14,10 +14,10 @@
 | Founder disposition | Confirm with Amendment — all six; FEF-FGR-002-D6-RQC-FDR-001 |
 | Wording finalisation source | FEF-FGR-002-D6-AP-001 (D6-RQC-02–05); Founder-supplied in full, FEF-FGR-002-D6-RQC-FDR-001 §2 (D6-RQC-01, D6-RQC-06) |
 | Admission record | FEF-FGR-002-D6-RQAR-001 |
-| Lifecycle treatment | RQ-038 Answered at finding level (GF-037, Presented); RQ-039 through RQ-043 Admitted, Unexamined |
-| Assigned examination unit | FEF-FGR-002-S06 — Open — Evidence Examination Not Yet Started; Loop 001 examined RQ-038 |
-| Questions answered | 1 — RQ-038 through GF-037; Founder disposition pending |
-| Evidence mobilisation | Complete for all six D6 RQs (FEF-FGR-002-EP-006 v1.0, Frozen); RQ-038 evidence examined in S06 Loop 001 |
+| Lifecycle treatment | RQ-038 and RQ-039 Answered at finding level (GF-037, GF-038, both Presented); RQ-040 through RQ-043 Admitted, Unexamined |
+| Assigned examination unit | FEF-FGR-002-S06 — Open; Loop 001 examined RQ-038, Loop 002 examined RQ-039 |
+| Questions answered | 2 — RQ-038 through GF-037, RQ-039 through GF-038; Founder disposition pending on both |
+| Evidence mobilisation | Complete for all six D6 RQs (FEF-FGR-002-EP-006 v1.0, Frozen); RQ-038/RQ-039 evidence examined in S06 Loops 001–002 |
 
 ## 1. Set Boundary and Admission Basis
 
@@ -77,7 +77,7 @@ substantive answer is introduced.
 | Mandatory Field | Recorded Value |
 |---|---|
 | Canonical RQ ID | FEF-FGR-002-RQ-039 |
-| Version | 1.0 |
+| Version | 1.1 |
 | Title | Maintenance and Current-State Integrity |
 | Question Text | What minimum maintenance responsibility, minimum synchronisation responsibility, and minimum verification responsibility, if any, are needed to keep programme and governance control records current, mutually intelligible, and synchronised, consistent with the philosophy of Minimum Viable Administration? |
 | Originating candidate | D6-RQC-02 |
@@ -95,17 +95,17 @@ substantive answer is introduced.
 | Dependencies | D1: Founder authority to approve any such standing responsibility is reserved and not delegated by this candidate. D4: Records custody and currency controls (FD-026–FD-032) are the closest existing analogue. D5: Lifecycle-state accuracy (e.g., domain Closed/Mobilised/Uncommenced labels) depends on the same maintenance question this candidate raises. Interface: D8 cross-cutting mapping depends on current-state records remaining accurate; not itself performed here |
 | Expected Output Class | Analysis; potential GF; potential decision question; OQ mapping |
 | Founder Decision Need | Potential — dependent on examination outcome |
-| Assigned Examination Unit | Unassigned |
+| Assigned Examination Unit | FEF-FGR-002-S06 — Open; Loop 002 examined this RQ |
 | Owner / Coordinator | FEF-FGR-002-RA-002 |
 | Validator | FEF-FGR-002-RA-006 |
-| Lifecycle State | Admitted |
-| Disposition | Pending |
-| Related GFs | None |
+| Lifecycle State | Answered |
+| Disposition | Answered at finding level — GF-038 Presented, Founder disposition pending |
+| Related GFs | FEF-FGR-002-GF-038 |
 | Related FDs | None |
 | Constitutional Candidate Links | None |
 | Deferred Matter Links | None |
 | Created / Updated Dates | 2026-08-05 / 2026-08-05 |
-| Change Rationale | v1.0 first canonical admission; Question Text reproduces FEF-FGR-002-D6-AP-001 §3.1's drafted wording unchanged, itself validated strictly within the Founder's refocusing instruction; purpose, scope, exclusions, dependencies, and OQ mapping reproduced from FEF-FGR-002-D6-RQC-001 §3.2, refined only as the amendment required |
+| Change Rationale | v1.0 first canonical admission; Question Text reproduces FEF-FGR-002-D6-AP-001 §3.1's drafted wording unchanged, itself validated strictly within the Founder's refocusing instruction; purpose, scope, exclusions, dependencies, and OQ mapping reproduced from FEF-FGR-002-D6-RQC-001 §3.2, refined only as the amendment required; v1.1 records S06 Evidence Examination Loop 002 — RQ-039 Only, using exactly EV-080 and EV-087 (version-pinned to pre-freeze v1.76), Answered-at-finding-level state, and Presented GF-038 linkage; Question Text, scope, exclusions, dependencies, and OQ-014 mapping remain unchanged |
 
 ## 4. FEF-FGR-002-RQ-040 — Programme Sequencing, Dependency Administration, and Release Readiness
 

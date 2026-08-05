@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.36 |
+| Register version | 1.37 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-08-05 |
-| Substantive entry count | 37 |
+| Substantive entry count | 38 |
 
 ## Register
 
@@ -58,6 +58,7 @@
 | FEF-FGR-002-GF-035 | 1.0 | A Charter-Specific Exception Rule and Conditioned Dispositions Are Evidenced, but No General Exception, Expiry, or Evolution-Boundary Model Is Established | RQ-036 | EV-005; EV-012; EV-017; EV-066; EV-074; EV-083 | Charter §21.3, conditioned Founder dispositions, the Founder Decision Authority boundary, and Framework Evolution intake non-effects are evidenced; no FEF-wide exception/deviation/expiry model, delegated authority, lifecycle mechanics, or approved exception/evolution boundary is established | Charter scope; OQ-012 remains open; conditioned dispositions are not proven exceptions; intake is not candidate evaluation; non-independent chain | Closed — Decision Issued | Accept with Conditions | 8 common conditions plus 5 GF-035-specific conditions — [FEF-FGR-002-D5-G2-FDR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-RECORD.md) | [FD-037](FEF-FGR-002-FD-037-EXCEPTIONS-AND-FRAMEWORK-EVOLUTION.md) — Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-GF-036 | 1.0 | Specific Legacy Labels and Recovery-Preservation Examples Are Evidenced, but No General Legacy-Classification, Authority, Reliance, or Migration Rule Is Established | RQ-037 | EV-012; EV-014; EV-078; EV-080; EV-084; EV-085 | Specific Open Question, Context Only/incomplete-evidence, quarantine/recovery, legacy scheduled-work, Exploratory Draft, and already-dispositioned finding-text examples are evidenced; no general legacy taxonomy, classification criteria, authority/reliance consequence, retrospective-validation rule, inventory, or migration control is established | EV-014 remains Context Only; EV-078/EV-080/EV-085 retain acquisition limits; OQ-013/OQ-016 remain open; GF-001/FD-002 are not reopened; non-independent chain | Closed — Decision Issued | Accept with Conditions | 8 common conditions plus 5 GF-036-specific conditions — [FEF-FGR-002-D5-G2-FDR-001](FEF-FGR-002-D5-G2-FOUNDER-DISPOSITION-RECORD.md) | [FD-038](FEF-FGR-002-FD-038-LEGACY-GOVERNANCE-MATERIAL.md) — Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-GF-037 | 1.0 | Every Existing Role and Authority Instrument Is Scoped to This Review Only; No Framework-Level Cross-Project Administrative Responsibility or Delegation Boundary Is Yet Evidenced | RQ-038 | EV-016; EV-017; EV-018; EV-019; EV-021; EV-072; EV-080; EV-086 | Every role/authority instrument is scoped to FEF-FGR-002 only; the Single Source of Truth pattern is operated among four review-internal documents only; the Framework is "Not Yet Adoptable" with "Framework release: None"; no minimum Framework-level cross-project administrative responsibility or delegation boundary is evidenced | OQ-021 (partial) remains open; EV-072 remains Conditionally Admitted; RQ-043 permanence/maturation question not tested or relied upon; no second adopting Founder project yet exists | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
+| FEF-FGR-002-GF-038 | 1.0 | Update Triggers and a Propagation Rule Exist and Are Operated, but No Standing Minimum Maintenance, Synchronisation, or Verification Responsibility Is Evidenced — Only Reactive, Incidental Correction | RQ-039 | EV-080; EV-087 | Master Programme §11 names event-triggered update obligations and §1.1 a propagation-minimisation rule, both operated; Review Identity's own Change History shows at least three episodes of staleness found and corrected only incidentally, one spanning an entire domain's lifecycle; no standing maintenance, synchronisation, or verification capability is evidenced | OQ-014 (partial) remains open; EV-087 version-pinned to its pre-freeze v1.76 state, excluding this session's own later entries; update-trigger rules distinguished from verification capability | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 
 ## Change History
 
@@ -100,6 +101,7 @@
 | 1.34 | 2026-08-01 | DG-5 issued six separate Founder Decision Records FD-033 through FD-038 one-to-one for GF-031 through GF-036; each exact disposition remains Accept with Conditions; source findings and validation unchanged; all eight applicable Open Questions remain open; D5 Active/Not Closed; DG-6 and D6/D7 uncommenced | FEF-FGR-002-D5-DG5-FDVR-001; FEF-FGR-002-D5-TR-001 |
 | 1.35 | 2026-08-01 | DG-6 Domain Exit validated Pass with Conditions; GF-031 through GF-036 lifecycle linkage advanced to Closed — Decision Issued without changing finding text, evidence, uncertainty, disposition, conditions, decision links, or validations; D5 Closed; eight applicable Open Questions remain open; zero Candidate/Deferred Matter; D6/D7 uncommenced | FEF-FGR-002-D5-CR-001; FEF-FGR-002-D5-DG6-DEVR-001 |
 | 1.36 | 2026-08-05 | D6 S06 Evidence Examination Loop 001 registered GF-037 — Presented, Founder disposition pending — for RQ-038 only, using exactly the eight frozen EP-006 records mapped to it; finding establishes every role/authority instrument is scoped to FEF-FGR-002 only and no Framework-level cross-project administrative responsibility or delegation boundary is yet evidenced; OQ-021 remains open; RQ-039 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-038-ER-001; FEF-FGR-002-S06-GF-037-VR-001 |
+| 1.37 | 2026-08-05 | D6 S06 Evidence Examination Loop 002 registered GF-038 — Presented, Founder disposition pending — for RQ-039 only, using exactly EV-080 and EV-087 frozen in EP-006 (EV-087 version-pinned to its pre-freeze v1.76 state); finding establishes update-trigger and propagation rules exist and are operated, but no standing minimum maintenance, synchronisation, or verification responsibility is evidenced; OQ-014 remains open; GF-037 unchanged; RQ-040 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-039-ER-001; FEF-FGR-002-S06-GF-038-VR-001 |
 
 ## Non-Effects
 
@@ -130,4 +132,15 @@ responsibility or delegation boundary is yet evidenced, consistent with
 the Framework's own "Not Yet Adoptable" status. GF-037 creates no
 Framework Administration standard, ownership assignment, ownership model,
 Founder Decision, or Open Question disposition; does not examine RQ-039
+through RQ-043; and does not commence D7.
+
+This register now contains thirty-eight Governance Findings. GF-038 is
+**Presented — Founder disposition pending**, the second D6 finding,
+produced by S06 Evidence Examination Loop 002 for RQ-039 only. It
+establishes that Master Programme update-trigger and propagation rules
+exist and are operated, but that no standing minimum maintenance,
+synchronisation, or verification responsibility is evidenced — only a
+recurring pattern of staleness found and corrected incidentally. GF-038
+creates no maintenance procedure, verification mechanism, role, schedule,
+Founder Decision, or Open Question disposition; does not examine RQ-040
 through RQ-043; and does not commence D7.
