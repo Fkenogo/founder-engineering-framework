@@ -108,7 +108,9 @@ Existing project methods remain authoritative within their respective projects u
 - [`docs/ai-collaboration/`](docs/ai-collaboration/) — future AI collaboration standards;
 - [`docs/knowledge-preservation/`](docs/knowledge-preservation/) — future knowledge-preservation standards;
 - [`docs/reviews-and-audits/`](docs/reviews-and-audits/) — future review and audit standards;
-- [`docs/adoption/`](docs/adoption/) — future adoption and deviation materials;
+- [`docs/adoption/`](docs/adoption/) — practical, non-constitutional adoption materials for individual Founder projects;
+- [`docs/adoption/FEF-ADOPTION-GUIDE.md`](docs/adoption/FEF-ADOPTION-GUIDE.md) — proposed operational adoption guide for controlled project pilots; not a constitutional or governance standard;
+- [`docs/adoption/templates/FEF-ALIGNMENT-TEMPLATE.md`](docs/adoption/templates/FEF-ALIGNMENT-TEMPLATE.md) — reusable `FEF-ALIGNMENT.md` template referenced by the Adoption Guide;
 - [`docs/templates/`](docs/templates/) — future reusable templates;
 - [`docs/records/`](docs/records/) — work-package, decision, source, and change records;
 - [`docs/records/founder-reviews/`](docs/records/founder-reviews/) — Founder review records and their explicit scope boundaries;
