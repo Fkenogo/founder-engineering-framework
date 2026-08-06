@@ -62,14 +62,21 @@ FEF-FGR-002-S06-GF-037-VR-001, FEF-FGR-002-S06-GF-038-VR-001,
 FEF-FGR-002-S06-GF-039-VR-001, FEF-FGR-002-S06-GF-040-VR-001,
 FEF-FGR-002-S06-GF-041-VR-001, and FEF-FGR-002-S06-GF-042-VR-001).
 **D6 examination is complete; D6 itself remains Mobilised — Effective,
-Not Closed.** Five Founder Observations recorded, indexed
-non-authoritatively in FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework
-Evolution Not Commenced; no implementation authority exists.
-Authoritative detail: Master Programme §2.
+Not Closed.** The **D6 DG-5 Founder Review Package** for GF-037 through
+GF-042 is **Prepared and Validated** (FEF-FGR-002-D6-DG5-FRP-001, Pass
+with Conditions in FEF-FGR-002-D6-DG5-FRPVR-001; repository
+synchronisation independently validated Pass with Conditions in
+FEF-FGR-002-D6-DG5-RSVR-001), reproducing all six findings byte-for-byte
+with blank Founder Review Worksheets; live Founder Review Not Commenced.
+Five Founder Observations recorded, indexed non-authoritatively in
+FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework Evolution Not
+Commenced; no implementation authority exists. Authoritative detail:
+Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Founder Review of GF-037 through GF-042. DG-5 (Founder Decision
-issuance) follows only after Founder disposition of those six findings.
+Live Founder Review of GF-037 through GF-042 using the validated
+FEF-FGR-002-D6-DG5-FRP-001 package. DG-5 (Founder Decision issuance)
+follows only after Founder disposition of those six findings.
 
 ## Genuine Blockers
 
@@ -82,10 +89,12 @@ No Founder decision is currently pending for D1 through D6 mobilisation,
 Examination Architecture, Founder Review Package disposition, D6 Candidate
 Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
 evidence freeze, D6 DG-4 session entry, D6 Evidence Examination Loops
-001–006, or the D6 S06 Session Exit Gate; all are complete and validated.
-D6 examination is complete; S06 is Closed. The items remaining open are:
+001–006, the D6 S06 Session Exit Gate, or the D6 DG-5 Founder Review
+Package preparation and validation; all are complete and validated. D6
+examination is complete; S06 is Closed; the DG-5 package is ready. The
+items remaining open are:
 
-- Founder Review of GF-037 through GF-042 (FEF-FGR-002-S06-GF-037-VR-001; FEF-FGR-002-S06-GF-038-VR-001; FEF-FGR-002-S06-GF-039-VR-001; FEF-FGR-002-S06-GF-040-VR-001; FEF-FGR-002-S06-GF-041-VR-001; FEF-FGR-002-S06-GF-042-VR-001), after which DG-5 (Founder Decision issuance) may follow;
+- Live Founder Review of GF-037 through GF-042 using the validated FEF-FGR-002-D6-DG5-FRP-001 package (FEF-FGR-002-S06-GF-037-VR-001; FEF-FGR-002-S06-GF-038-VR-001; FEF-FGR-002-S06-GF-039-VR-001; FEF-FGR-002-S06-GF-040-VR-001; FEF-FGR-002-S06-GF-041-VR-001; FEF-FGR-002-S06-GF-042-VR-001), after which DG-5 (Founder Decision issuance) may follow;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
