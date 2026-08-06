@@ -75,13 +75,17 @@ Framework Administration is formally Closed** (FEF-FGR-002-D6-CR-001,
 Pass with Conditions in FEF-FGR-002-D6-DG6-DEVR-001). Five Founder
 Observations recorded, indexed non-authoritatively in
 FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework Evolution Not
-Commenced; no implementation authority exists. Authoritative detail:
-Master Programme §2.
+Commenced; no implementation authority exists. Following D1–D6 closure,
+**FEF-PAR-001, the Programme Architecture Review, was Prepared and
+Validated** (Pass with Conditions in FEF-PAR-001-VR-001), presenting
+four neutral Founder Options with no recommendation. Authoritative
+detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Founder review of the validated D6 Domain Exit result and separate
-authorisation of the next programme activity. D6 is Closed; this review
-does not itself mobilise or commence D7 or D8.
+Founder review of FEF-PAR-001 and its Founder Review Package
+(FEF-PAR-001-FRP-001), and separate authorisation of the next programme
+activity. Neither D7 nor D8 is mobilised or commenced by PAR-001 or its
+validation.
 
 ## Genuine Blockers
 
@@ -96,11 +100,12 @@ Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
 evidence freeze, D6 DG-4 session entry, D6 Evidence Examination Loops
 001–006, the D6 S06 Session Exit Gate, the D6 DG-5 Founder Review
 Package preparation and validation, D6 DG-5 Founder Decision issuance,
-or D6 DG-6 Domain Closure; all are complete and validated. D6 is
-**Closed** — GF-037 through GF-042 Closed, Decision Issued, all Accept.
-The items remaining open are:
+D6 DG-6 Domain Closure, or FEF-PAR-001 preparation and validation; all
+are complete and validated. D6 is **Closed** — GF-037 through GF-042
+Closed, Decision Issued, all Accept. PAR-001 is Prepared and Validated,
+presenting four neutral Founder Options. The items remaining open are:
 
-- Founder review of the validated D6 Domain Exit result, if separately authorised;
+- Founder review of FEF-PAR-001 and separate authorisation of the next programme activity;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
