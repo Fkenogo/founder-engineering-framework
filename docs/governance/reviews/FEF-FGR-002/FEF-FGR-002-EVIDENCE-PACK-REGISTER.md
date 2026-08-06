@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.29 |
+| Register version | 1.30 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -71,9 +71,10 @@ through RQ-043. Session FEF-FGR-002-S06 is Open and used EP-006 v1.0 as
 the sole baseline for Evidence Examination Loop 001 (RQ-038 only,
 producing Presented GF-037), Loop 002 (RQ-039 only, producing Presented
 GF-038), Loop 003 (RQ-040 only, producing Presented GF-039), Loop 004
-(RQ-041 only, producing Presented GF-040), and Loop 005 (RQ-042 only,
-producing Presented GF-041). RQ-043 remains unexamined. This linkage
-does not modify or re-freeze EP-006.
+(RQ-041 only, producing Presented GF-040), Loop 005 (RQ-042 only,
+producing Presented GF-041), and Loop 006 (RQ-043 only, producing
+Presented GF-042). All six admitted D6 Review Questions are now Answered
+at finding level. This linkage does not modify or re-freeze EP-006.
 
 ## Change History
 
@@ -109,6 +110,7 @@ does not modify or re-freeze EP-006.
 | 1.27 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 003 — RQ-040 Only; exact two-record mapping (EV-080, EV-088) and all qualifications retained; GF-039 Presented/Pending after Pass with Conditions validation; FEF-P0-004 disposition not decided; RQ-041 through RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-040-ER-001; FEF-FGR-002-S06-GF-039-VR-001 |
 | 1.28 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 004 — RQ-041 Only; exact four-record mapping (EV-072, EV-081, EV-087, EV-088; EV-072/EV-081/EV-087 version-pinned to their pre-freeze states) and all qualifications retained; GF-040 Presented/Pending after Pass with Conditions validation; OQ-015 not decided; RQ-042 and RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-041-ER-001; FEF-FGR-002-S06-GF-040-VR-001 |
 | 1.29 | 2026-08-06 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 005 — RQ-042 Only; exact two-record mapping (EV-006, EV-086; EV-086 version-pinned to its frozen post-D6-DG-2 state) and all qualifications retained; GF-041 Presented/Pending after Pass with Conditions validation; RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-042-ER-001; FEF-FGR-002-S06-GF-041-VR-001 |
+| 1.30 | 2026-08-06 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 006 — RQ-043 Only (final D6 examination loop); exact four-record mapping (EV-080, EV-086, EV-087, EV-089; EV-080/EV-086/EV-087 version-pinned to their frozen states) and all qualifications retained; GF-042 Presented/Pending after Pass with Conditions validation; all six admitted D6 RQs now Answered at finding level; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
 
 ## Non-Effects
 

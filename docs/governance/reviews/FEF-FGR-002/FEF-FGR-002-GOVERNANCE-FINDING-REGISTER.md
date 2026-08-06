@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.40 |
+| Register version | 1.41 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -15,7 +15,7 @@
 | Access treatment | Repository-controlled governance record |
 | Integrity control | SHA-256 recorded in implementation validation report |
 | Last validation date | 2026-08-05 |
-| Substantive entry count | 41 |
+| Substantive entry count | 42 |
 
 ## Register
 
@@ -62,6 +62,7 @@
 | FEF-FGR-002-GF-039 | 1.0 | A Narrative Dependency Register Exists and Is Operated Across Documents Without Halting Programme Progress, but No Cross-Project Treatment, Release-Readiness Criteria, or Verified Consistency Mechanism Is Evidenced | RQ-040 | EV-080; EV-088 | A populated 22-item work-package register exists and is referenced consistently across two governed documents (FEF-P0-004/OQ-016); Blocked/Pending items have coexisted with continued programme progress; no cross-project (multi-Founder-project) treatment, release-readiness criteria, or verified cross-document consistency mechanism is evidenced | OQ-016 (direct, administrative consequence only) remains open; FEF-P0-004 disposition not decided; whether cross-document consistency is verified is recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 | FEF-FGR-002-GF-040 | 1.0 | Explicit Precedence Notes Provide a Minimal, Operating Administrative Coherence Control in at Least Two Documents, but No Verification, Reconciliation, or Completeness Mechanism Is Evidenced | RQ-041 | EV-072; EV-081; EV-087; EV-088 | Explicit precedence notes in the Review Identity and Document Manifest currently operate, subordinating each to the Master Programme as Single Source of Truth; the Review Question Register applies a uniform twelve-column schema across 43 entries; no register-schema-verification, general reconciliation mechanism, or minimum coherence standard is evidenced | OQ-015 remains open; whether the pattern is required for governance integrity or merely historically accumulated is recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 | FEF-FGR-002-GF-041 | 1.0 | Simplicity and Proportionality Were Named as Review-Design Intent, and One Document Demonstrates Minimal Reporting in Actual Operation, but No Cross-Project Minimum-Administration Standard Is Evidenced | RQ-042 | EV-006; EV-086 | FEF-FGRA-001's SO-6 and Over-governance/Simplicity-principle risk control named proportionality as review-design intent; the Founder Dashboard currently operates as a minimal, non-duplicating reporting artefact; no minimum administrative obligation, practice, or reporting standard for uniform cross-project application, or criterion for what should remain project-specific, is evidenced; no second adopting Founder project exists to test one against | No Open Question maps directly to RQ-042; whether the Simplicity principle is operative or aspirational, and whether the Dashboard's pattern is a cross-project template, are recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
+| FEF-FGR-002-GF-042 | 1.0 | Founder-Stated Intent Favours an Evidence-Based Maturation Process for Operational Lessons, but No Such Process, or Criteria for Testing Single Source of Truth Against It, Is Evidenced | RQ-043 | EV-080; EV-086; EV-087; EV-089 | The Founder's stated rationale and non-authoritative Observation 5 favour operational lessons maturing through an evidence-based process before adoption, and Single Source of Truth is designated the first examined example; no defined maturation process or testable criteria exists; Single Source of Truth's own adoption is recorded as a direct Founder recommendation, without a documented intervening maturation procedure | No Open Question maps directly to RQ-043; whether direct Founder recommendation itself satisfies the stated rationale, and whether Single Source of Truth is intended for retrospective evaluation, are recorded as genuinely uncertain, not resolved either way | Presented — Founder disposition pending | Pending | None supplied | None | Pass with Conditions |
 
 ## Change History
 
@@ -108,6 +109,7 @@
 | 1.38 | 2026-08-05 | D6 S06 Evidence Examination Loop 003 registered GF-039 — Presented, Founder disposition pending — for RQ-040 only, using exactly EV-080 and EV-088 frozen in EP-006; finding establishes a narrative dependency register exists and is operated across documents without halting programme progress, but no cross-project treatment, release-readiness criteria, or verified consistency mechanism is evidenced; OQ-016 remains open; FEF-P0-004 disposition not decided; GF-037/GF-038 unchanged; RQ-041 through RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-040-ER-001; FEF-FGR-002-S06-GF-039-VR-001 |
 | 1.39 | 2026-08-05 | D6 S06 Evidence Examination Loop 004 registered GF-040 — Presented, Founder disposition pending — for RQ-041 only, using exactly EV-072, EV-081, EV-087, and EV-088 frozen in EP-006 (EV-072/EV-081/EV-087 version-pinned to their pre-freeze states); finding establishes explicit precedence notes provide a minimal, operating administrative coherence control in at least two documents (Review Identity, Document Manifest), and the Review Question Register applies a uniform schema, but no verification, general reconciliation, or completeness mechanism is evidenced; OQ-015 remains open; GF-037/GF-038/GF-039 unchanged; RQ-042 and RQ-043 remain unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-041-ER-001; FEF-FGR-002-S06-GF-040-VR-001 |
 | 1.40 | 2026-08-06 | D6 S06 Evidence Examination Loop 005 registered GF-041 — Presented, Founder disposition pending — for RQ-042 only, using exactly EV-006 and EV-086 frozen in EP-006 (EV-086 version-pinned to its frozen post-D6-DG-2 state); finding establishes proportionality and simplicity were named as review-design intent and the Founder Dashboard demonstrates minimal reporting in actual operation, but no minimum cross-project administrative standard or common/project-specific boundary is evidenced; GF-037/GF-038/GF-039/GF-040 unchanged; RQ-043 remains unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-042-ER-001; FEF-FGR-002-S06-GF-041-VR-001 |
+| 1.41 | 2026-08-06 | D6 S06 Evidence Examination Loop 006 (final D6 examination loop) registered GF-042 — Presented, Founder disposition pending — for RQ-043 only, using exactly EV-080, EV-086, EV-087, and EV-089 frozen in EP-006 (EV-080/EV-086/EV-087 version-pinned to their frozen states); finding establishes Founder-stated intent favours an evidence-based maturation process for operational lessons and designates Single Source of Truth the first examined example, but no such process or testable criteria is evidenced, and Single Source of Truth's own adoption is recorded as a direct Founder recommendation without a documented intervening maturation procedure; GF-037 through GF-041 unchanged; all six admitted D6 RQs now Answered at finding level; no Founder Decision created | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
 
 ## Non-Effects
 
@@ -197,3 +199,25 @@ rather than resolved. GF-041 creates no administrative standard,
 reporting format, or proportionality rule, Founder Decision, or Open
 Question disposition; does not judge any project's existing practice;
 does not examine RQ-043; and does not commence D7.
+
+This register now contains forty-two Governance Findings. GF-042 is
+**Presented — Founder disposition pending**, the sixth and final D6
+finding, produced by S06 Evidence Examination Loop 006 for RQ-043 only.
+It establishes that the Founder's stated rationale and non-authoritative
+Observation 5 favour operational lessons maturing through an
+evidence-based process before adoption, and designate Single Source of
+Truth the first examined example, but that no such defined process or
+testable criteria is evidenced, and that Single Source of Truth's own
+adoption is recorded as a direct Founder recommendation without a
+documented intervening maturation procedure — two matters (whether
+direct Founder recommendation itself satisfies the stated rationale, and
+whether Single Source of Truth is intended for retrospective evaluation)
+are recorded as genuinely uncertain rather than resolved. GF-042 creates
+no maturation process, criteria, Framework policy, Founder Decision, or
+Open Question disposition; does not adopt, generalise, or implement
+Single Source of Truth beyond its current application; does not convert
+any Founder Observation into Framework policy; and does not commence D7
+or D8. All six admitted D6 Review Questions (RQ-038 through RQ-043) are
+now Answered at finding level through GF-037 through GF-042; this entry
+does not itself synthesise those six findings, perform Session Exit, or
+commence DG-5.
