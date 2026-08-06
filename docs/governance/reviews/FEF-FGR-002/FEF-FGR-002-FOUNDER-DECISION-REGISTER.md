@@ -5,7 +5,7 @@
 | Register identifier               | FEF-FGR-002-FDR-001                                                   |
 | Register class                    | Founder Decision Register                                             |
 | Review identifier                 | FEF-FGR-002                                                           |
-| Register version                  | 1.9                                                                   |
+| Register version                  | 1.10                                                                  |
 | Lifecycle state                   | Active                                                                |
 | Created date                      | 2026-07-24                                                            |
 | Controlling instruments           | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001               |
@@ -15,8 +15,8 @@
 | Validator                         | FEF-FGR-002-RA-006 — Validator; non-independent combination disclosed |
 | Access treatment                  | Repository-controlled governance record                               |
 | Integrity control                 | SHA-256 recorded in implementation validation report                  |
-| Last validation date              | 2026-08-01                                                            |
-| Substantive entry count           | 38                                                                    |
+| Last validation date              | 2026-08-06                                                            |
+| Substantive entry count           | 44                                                                    |
 | Ready for Founder candidate count | 0                                                                     |
 
 ## Register
@@ -61,6 +61,12 @@
 | FEF-FGR-002-FD-036 |     1.0 | Amendment, Supersession, and Withdrawal | GF-034 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-036-AMENDMENT-SUPERSESSION-AND-WITHDRAWAL.md) | Eight common plus five GF-034-specific conditions preserved exactly | Formally recorded within exact finding scope; implementation requires separate authority | Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-FD-037 |     1.0 | Exceptions and Framework Evolution | GF-035 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-037-EXCEPTIONS-AND-FRAMEWORK-EVOLUTION.md) | Eight common plus five GF-035-specific conditions preserved exactly | Formally recorded within exact finding scope; implementation requires separate authority | Decision Record Validated | Pass with Conditions |
 | FEF-FGR-002-FD-038 |     1.0 | Legacy Governance Material | GF-036 | Accept with Conditions | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-038-LEGACY-GOVERNANCE-MATERIAL.md) | Eight common plus five GF-036-specific conditions preserved exactly | Formally recorded within exact finding scope; implementation requires separate authority | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-039 |     1.0 | Administrative Ownership and Stewardship | GF-037 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-039-ADMINISTRATIVE-OWNERSHIP-AND-STEWARDSHIP.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-040 |     1.0 | Maintenance and Current-State Integrity | GF-038 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-040-MAINTENANCE-AND-CURRENT-STATE-INTEGRITY.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-041 |     1.0 | Programme Sequencing and Dependency Administration | GF-039 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-041-PROGRAMME-SEQUENCING-AND-DEPENDENCY-ADMINISTRATION.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-042 |     1.0 | Administrative Coherence | GF-040 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-042-ADMINISTRATIVE-COHERENCE.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-043 |     1.0 | Simplicity, Reporting, and Proportional Tailoring | GF-041 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-043-SIMPLICITY-REPORTING-AND-PROPORTIONAL-TAILORING.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
+| FEF-FGR-002-FD-044 |     1.0 | Governance Process for Administrative Practice Maturation | GF-042 | Accept | Exact Founder decision recorded in the [canonical decision record](FEF-FGR-002-FD-044-GOVERNANCE-PROCESS-FOR-ADMINISTRATIVE-PRACTICE-MATURATION.md) | None supplied by the Founder; Founder Reflection reproduced exactly | Formally recorded within exact finding scope; no implementation authority created | Decision Record Validated | Pass with Conditions |
 
 
 ## Change History
@@ -77,6 +83,7 @@
 | 1.7     | 2026-07-28 | DG-6 domain-exit lifecycle linkage recorded after V7 validation passed; D3 Closed; all 25 Founder Decision rows, exact decision records, dispositions, conditions, scope, non-effects, and validation states unchanged | FEF-FGR-002-D3-CR-001; FEF-FGR-002-D3-DG6-DEVR-001      |
 | 1.8     | 2026-07-29 | Seven separate D4 Founder Decision Records, FD-026 through FD-032, issued and validated one-to-one from the exact attributable dispositions of GF-024 through GF-030; DG-5 complete; D4 remains Active — Not Closed; no DG-6, D5, or D6 effect | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-DG5-FDVR-001  |
 | 1.9     | 2026-08-01 | Six separate D5 Founder Decision Records, FD-033 through FD-038, issued and validated one-to-one from GF-031 through GF-036; exact 36 Founder fields, conditions, finding scope, and non-effects preserved; DG-5 complete; D5 Active/Not Closed; DG-6 and D6/D7 uncommenced | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-DG5-FDVR-001 |
+| 1.10    | 2026-08-06 | Six separate D6 Founder Decision Records, FD-039 through FD-044, issued and validated one-to-one from GF-037 through GF-042, all Accept; exact 12 Founder fields (Disposition, Founder Reflection) and finding scope/non-effects preserved; accompanying non-authoritative FEF-FGR-002-D6-FRFA-001 indexes the common Founder philosophy without creating Framework policy; DG-5 complete; D6 Mobilised — Effective/Not Closed; DG-6 and D7/D8 uncommenced | FEF-FGR-002-D6-DG5-FDR-001; FEF-FGR-002-D6-DG5-FDVR-001 |
 
 ## Boundary
 

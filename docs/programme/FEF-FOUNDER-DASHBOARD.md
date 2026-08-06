@@ -63,20 +63,22 @@ FEF-FGR-002-S06-GF-039-VR-001, FEF-FGR-002-S06-GF-040-VR-001,
 FEF-FGR-002-S06-GF-041-VR-001, and FEF-FGR-002-S06-GF-042-VR-001).
 **D6 examination is complete; D6 itself remains Mobilised — Effective,
 Not Closed.** The **D6 DG-5 Founder Review Package** for GF-037 through
-GF-042 is **Prepared and Validated** (FEF-FGR-002-D6-DG5-FRP-001, Pass
-with Conditions in FEF-FGR-002-D6-DG5-FRPVR-001; repository
-synchronisation independently validated Pass with Conditions in
-FEF-FGR-002-D6-DG5-RSVR-001), reproducing all six findings byte-for-byte
-with blank Founder Review Worksheets; live Founder Review Not Commenced.
-Five Founder Observations recorded, indexed non-authoritatively in
-FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework Evolution Not
-Commenced; no implementation authority exists. Authoritative detail:
-Master Programme §2.
+GF-042 was Prepared and Validated (FEF-FGR-002-D6-DG5-FRP-001, Pass with
+Conditions in FEF-FGR-002-D6-DG5-FRPVR-001/RSVR-001), and the **live D6
+Founder Review has concluded**: the Founder **Accepted all six
+findings**. GF-037 through GF-042 are now **Closed — Decision Issued**,
+one-to-one through **FD-039 through FD-044** (all Accept, Pass with
+Conditions in FEF-FGR-002-D6-DG5-FDVR-001); the accompanying Founder
+Reflections are indexed non-authoritatively in
+FEF-FGR-002-D6-FRFA-001 and create no Framework policy. **D6 DG-5 is
+complete.** Five Founder Observations recorded, indexed
+non-authoritatively in FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework
+Evolution Not Commenced; no implementation authority exists.
+Authoritative detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Live Founder Review of GF-037 through GF-042 using the validated
-FEF-FGR-002-D6-DG5-FRP-001 package. DG-5 (Founder Decision issuance)
-follows only after Founder disposition of those six findings.
+D6 DG-6 Domain Closure. DG-5 is complete; FD-039 through FD-044 are
+Issued — Decision Record Validated.
 
 ## Genuine Blockers
 
@@ -89,12 +91,13 @@ No Founder decision is currently pending for D1 through D6 mobilisation,
 Examination Architecture, Founder Review Package disposition, D6 Candidate
 Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
 evidence freeze, D6 DG-4 session entry, D6 Evidence Examination Loops
-001–006, the D6 S06 Session Exit Gate, or the D6 DG-5 Founder Review
-Package preparation and validation; all are complete and validated. D6
-examination is complete; S06 is Closed; the DG-5 package is ready. The
-items remaining open are:
+001–006, the D6 S06 Session Exit Gate, the D6 DG-5 Founder Review
+Package preparation and validation, or D6 DG-5 Founder Decision
+issuance; all are complete and validated. D6 examination is complete;
+S06 is Closed; DG-5 is complete — GF-037 through GF-042 Closed, Decision
+Issued, all Accept. The items remaining open are:
 
-- Live Founder Review of GF-037 through GF-042 using the validated FEF-FGR-002-D6-DG5-FRP-001 package (FEF-FGR-002-S06-GF-037-VR-001; FEF-FGR-002-S06-GF-038-VR-001; FEF-FGR-002-S06-GF-039-VR-001; FEF-FGR-002-S06-GF-040-VR-001; FEF-FGR-002-S06-GF-041-VR-001; FEF-FGR-002-S06-GF-042-VR-001), after which DG-5 (Founder Decision issuance) may follow;
+- D6 DG-6 Domain Closure, if separately authorised;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
@@ -106,5 +109,5 @@ items remaining open are:
 | --------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Governance            | 🟢 Green | D1–D5 findings and decisions are validated; D6 mobilisation is Founder-authorised with conditions; Founder authority remains preserved.       |
 | Documentation         | 🟢 Green | D3–D5 Founder Review, decision issuance, validation, and traceability are controlled; the D6 Examination Architecture and Founder Review Package are validated; protected artefacts remain unchanged. |
-| Programme             | 🟠 Amber | D1–D5 Closed; D6 Mobilised — Effective (examination complete; S06 Closed; Founder Review pending); D7/D8 Uncommenced. See Master Programme §2 for authoritative detail. |
+| Programme             | 🟠 Amber | D1–D5 Closed; D6 Mobilised — Effective (examination complete; S06 Closed; DG-5 complete, all six findings Accepted; DG-6 pending); D7/D8 Uncommenced. See Master Programme §2 for authoritative detail. |
 | Engineering Readiness | 🔴 Red   | Neither RGS nor RDS is approved and discovery execution is not authorised.                                                                    |
