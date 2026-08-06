@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-EPR-001 |
 | Register class | Evidence Pack Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.30 |
+| Register version | 1.31 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -27,7 +27,7 @@
 | FEF-FGR-002-EP-004 | 1.0 | D4 — Records and Information Governance | RQ-025–RQ-031 | 19 Evidence Records; 65 source-to-RQ mappings; 72 source-to-requirement links | Frozen | 2026-07-28 | S04 — Closed; sole examination baseline | Pack and manifest SHA-256 recorded in FEF-FGR-002-EP-004-FR-001; source and frozen-artefact hashes reverified in FEF-FGR-002-EP-004-VR-001 | Repository-controlled | None | Pass with Conditions — non-independent; evidence gaps, EV-059 contradiction, EV-074 boundary, Open Questions, and D5/D6 interfaces preserved |
 | FEF-FGR-002-EP-005 | 1.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links | Frozen — historical predecessor; reliance blocked | 2026-07-31 | None — no session use; reliance blocked | Historical pack/manifest SHA-256 controlled by FR-001/VR-001 v1.1; historical membership fingerprint `59414d0803ed114171c35a821d4581a80e8df92121260d868eaee4fd76e925fc` contains the defective EV-072 pair | Repository-controlled | None | Historical Pass with Conditions overtaken for session reliance by the DG-4 integrity discovery; v1.0 remains immutable |
 | FEF-FGR-002-EP-005 | 2.0 | D5 — Governance Lifecycle and Evolution | RQ-032–RQ-037 | 25 Evidence Records; 41 source-to-RQ mappings; 42 source-to-requirement links; corrected EV-072 D5 acquisition pair | Frozen | 2026-07-31 | S05 — Closed — Examination Complete; Governance Findings Presented; sole examination baseline for Loops 001–006 | FR-002/VR-002: pack `d4504f3b1983d5076054b479b565d6dc758edadb239603b86347c608d09b8ada`; MAN-002 `ce6e5b40cbe1c52cf263ccaddd97d0c8461a77d3a71402fbdc7aad60f337ac52`; membership `c3a88eb9cbb2c8e4b38ee18cdc9c5f92a11087dcfd2ea66a32ea668766571a0f` | Repository-controlled | EP-005 v1.0 | Pass with Conditions — non-independent; all conditions remain binding |
-| FEF-FGR-002-EP-006 | 1.0 | D6 — Framework Administration | RQ-038–RQ-043 | 13 Evidence Records; 22 source-to-RQ mappings | Frozen | 2026-08-05 | Unassigned — no D6 session exists | FR-001: pack `a97c3e367fb727771d9dd85794a6cfaaf766b4b013213c66210c76babad14bc4`; manifest `9db934232cd156237266ff63ac070966f45ac60e4544eb70e030e840a7735caf` | Repository-controlled | None | Pass with Conditions — non-independent; smallest domain corpus to date; Administrative Evidence Sufficiency Check 13/13 retained |
+| FEF-FGR-002-EP-006 | 1.0 | D6 — Framework Administration | RQ-038–RQ-043 | 13 Evidence Records; 22 source-to-RQ mappings | Frozen | 2026-08-05 | FEF-FGR-002-S06 — Closed — Examination Complete; Governance Findings Presented; sole baseline for all six Evidence Examination Loops | FR-001: pack `a97c3e367fb727771d9dd85794a6cfaaf766b4b013213c66210c76babad14bc4`; manifest `9db934232cd156237266ff63ac070966f45ac60e4544eb70e030e840a7735caf` | Repository-controlled | None | Pass with Conditions — non-independent; smallest domain corpus to date; Administrative Evidence Sufficiency Check 13/13 retained |
 
 ## D2 Output Linkage
 
@@ -67,8 +67,9 @@ Governance Findings Presented. No Founder Decision exists for D5.
 ## D6 Output Linkage
 
 FEF-FGR-002-EP-006 v1.0 is Frozen as the D6 evidence baseline for RQ-038
-through RQ-043. Session FEF-FGR-002-S06 is Open and used EP-006 v1.0 as
-the sole baseline for Evidence Examination Loop 001 (RQ-038 only,
+through RQ-043. Session FEF-FGR-002-S06 is now Closed — Examination
+Complete; Governance Findings Presented — and used EP-006 v1.0 as the
+sole baseline for Evidence Examination Loop 001 (RQ-038 only,
 producing Presented GF-037), Loop 002 (RQ-039 only, producing Presented
 GF-038), Loop 003 (RQ-040 only, producing Presented GF-039), Loop 004
 (RQ-041 only, producing Presented GF-040), Loop 005 (RQ-042 only,
@@ -111,6 +112,7 @@ at finding level. This linkage does not modify or re-freeze EP-006.
 | 1.28 | 2026-08-05 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 004 — RQ-041 Only; exact four-record mapping (EV-072, EV-081, EV-087, EV-088; EV-072/EV-081/EV-087 version-pinned to their pre-freeze states) and all qualifications retained; GF-040 Presented/Pending after Pass with Conditions validation; OQ-015 not decided; RQ-042 and RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-041-ER-001; FEF-FGR-002-S06-GF-040-VR-001 |
 | 1.29 | 2026-08-06 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 005 — RQ-042 Only; exact two-record mapping (EV-006, EV-086; EV-086 version-pinned to its frozen post-D6-DG-2 state) and all qualifications retained; GF-041 Presented/Pending after Pass with Conditions validation; RQ-043 unexamined; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-042-ER-001; FEF-FGR-002-S06-GF-041-VR-001 |
 | 1.30 | 2026-08-06 | Records use of frozen EP-006 v1.0 as the sole baseline for S06 Evidence Examination Loop 006 — RQ-043 Only (final D6 examination loop); exact four-record mapping (EV-080, EV-086, EV-087, EV-089; EV-080/EV-086/EV-087 version-pinned to their frozen states) and all qualifications retained; GF-042 Presented/Pending after Pass with Conditions validation; all six admitted D6 RQs now Answered at finding level; no pack, membership, treatment, FD, closure, or D7 change | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
+| 1.31 | 2026-08-06 | Records S06 Session Exit (FEF-FGRP-001 §12.1), validated Pass with Conditions; EP-006's Session Use field corrected from a stale "Unassigned" value to record FEF-FGR-002-S06 as Closed — Examination Complete; Governance Findings Presented, the sole baseline used across all six Evidence Examination Loops; pack and manifest fingerprints reproduced byte-identical to freeze; no pack, membership, treatment, qualification, mapping, FD, or D7 change | FEF-FGR-002-S06-SER-001; FEF-FGR-002-S06-SEVR-001 |
 
 ## Non-Effects
 
