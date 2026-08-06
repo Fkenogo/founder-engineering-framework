@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-GFR-001 |
 | Register class | Governance Finding Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.42 |
+| Register version | 1.43 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -111,6 +111,7 @@
 | 1.40 | 2026-08-06 | D6 S06 Evidence Examination Loop 005 registered GF-041 — Presented, Founder disposition pending — for RQ-042 only, using exactly EV-006 and EV-086 frozen in EP-006 (EV-086 version-pinned to its frozen post-D6-DG-2 state); finding establishes proportionality and simplicity were named as review-design intent and the Founder Dashboard demonstrates minimal reporting in actual operation, but no minimum cross-project administrative standard or common/project-specific boundary is evidenced; GF-037/GF-038/GF-039/GF-040 unchanged; RQ-043 remains unexamined; no Founder Decision created | FEF-FGR-002-S06-RQ-042-ER-001; FEF-FGR-002-S06-GF-041-VR-001 |
 | 1.41 | 2026-08-06 | D6 S06 Evidence Examination Loop 006 (final D6 examination loop) registered GF-042 — Presented, Founder disposition pending — for RQ-043 only, using exactly EV-080, EV-086, EV-087, and EV-089 frozen in EP-006 (EV-080/EV-086/EV-087 version-pinned to their frozen states); finding establishes Founder-stated intent favours an evidence-based maturation process for operational lessons and designates Single Source of Truth the first examined example, but no such process or testable criteria is evidenced, and Single Source of Truth's own adoption is recorded as a direct Founder recommendation without a documented intervening maturation procedure; GF-037 through GF-041 unchanged; all six admitted D6 RQs now Answered at finding level; no Founder Decision created | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
 | 1.42 | 2026-08-06 | Following the live D6 Founder Review (FEF-FGR-002-D6-DG5-FRP-001) and Founder Decision issuance, GF-037 through GF-042 advance from Presented/Pending to Closed — Decision Issued; each links to its one-to-one validated Founder Decision (FD-039 through FD-044, all Accept) recorded in FEF-FGR-002-D6-DG5-FDR-001; no finding's title, evidence, analysis, gaps, qualifications, uncertainty, or non-effects text is altered | FEF-FGR-002-D6-DG5-FDR-001; FEF-FGR-002-D6-DG5-FDVR-001 |
+| 1.43 | 2026-08-06 | DG-6 Domain Exit validated Pass with Conditions; GF-037 through GF-042 lifecycle linkage (Closed — Decision Issued) reconfirmed without changing finding text, evidence, uncertainty, disposition, decision links, or validations; D6 Closed; four applicable Open Questions remain open; zero Candidate/Deferred Matter; D7/D8 uncommenced | FEF-FGR-002-D6-CR-001; FEF-FGR-002-D6-DG6-DEVR-001 |
 
 ## Non-Effects
 
@@ -230,6 +231,8 @@ FD-044, all Accept, recorded in FEF-FGR-002-D6-DG5-FDR-001 and validated
 in FEF-FGR-002-D6-DG5-FDVR-001). No finding's substantive text was
 altered by acceptance. The accompanying Founder Reflections create no
 Framework policy and are indexed, non-authoritatively, in
-FEF-FGR-002-D6-FOUNDER-REFLECTIONS-ON-FRAMEWORK-ADMINISTRATION.md. DG-6
-Domain Closure is the next governed activity; it is not performed by
-this entry.
+FEF-FGR-002-D6-FOUNDER-REFLECTIONS-ON-FRAMEWORK-ADMINISTRATION.md. D6 —
+Framework Administration has since passed DG-6 Domain Exit validation
+and is formally **Closed** (FEF-FGR-002-D6-CR-001, Pass with Conditions
+in FEF-FGR-002-D6-DG6-DEVR-001); GF-037 through GF-042 remain Closed —
+Decision Issued, unchanged by closure.

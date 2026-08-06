@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-RQR-001 |
 | Register class | Review Question Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.80 |
+| Register version | 1.81 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001 |
@@ -155,6 +155,7 @@
 | 1.78 | 2026-08-06 | S06 Evidence Examination Loop 006 (final D6 examination loop) examined RQ-043 only using exactly EV-080, EV-086, EV-087, and EV-089 frozen in EP-006 v1.0; version updated to 1.1, Lifecycle State to Answered, and Disposition linked to Presented GF-042 pending Founder disposition; exact Question Text unchanged; RQ-038 through RQ-042 unchanged (Loops 001–005 results preserved); all six admitted D6 RQs now Answered at finding level | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
 | 1.79 | 2026-08-06 | S06 Session Exit (FEF-FGRP-001 §12.1) validated Pass with Conditions; RQ-038 through RQ-043 advanced administratively to v1.2 to record session-closed synchronisation only; exact Question Text, scope, exclusions, dependencies, Lifecycle State (Answered), Disposition, evidence mapping/treatment, and all OQ relationships remain unchanged; Domain Coverage row updated to reflect S06 Closed | FEF-FGR-002-S06-SER-001; FEF-FGR-002-S06-SEVR-001 |
 | 1.80 | 2026-08-06 | Following the live D6 Founder Review and Founder Decision issuance, RQ-038 through RQ-043 advanced administratively to v1.3; Disposition columns now link through GF-037–GF-042 to their one-to-one validated Founder Decisions FD-039 through FD-044 (all Accept); exact Question Text, scope, exclusions, dependencies, Lifecycle State (Answered), evidence mapping/treatment, and all OQ relationships remain unchanged | FEF-FGR-002-D6-DG5-FDR-001; FEF-FGR-002-D6-DG5-FDVR-001 |
+| 1.81 | 2026-08-06 | DG-6 Domain Exit lifecycle linkage recorded in Domain Coverage: D6 Closed after all six §12.2 criteria passed; RQ-038 through RQ-043 remain Answered; exact wording, evidence mappings/treatment, OQ mappings, per-RQ versions, and decision links unchanged; four applicable Open Questions remain open; D7/D8 uncommenced | FEF-FGR-002-D6-CR-001; FEF-FGR-002-D6-DG6-DEVR-001 |
 
 ## Non-Effects
 
@@ -182,6 +183,6 @@ historically Closed; D4-G2 Founder Review is complete.
 | D3 — Governance Assurance | 9 | RQ-016 through RQ-024 answered; GF-015 through GF-023 dispositioned; FD-017 through FD-025 issued through DG-5; DG-6 complete; D3 Closed; RQ-018 gap remains open |
 | D4 — Records and Information Governance | 7 | RQ-025 through RQ-031 answered; GF-024 through GF-030 Closed — Decision Issued — Accept with Conditions; FD-026 through FD-032 issued and validated; EP-004 remains Frozen; S04 Closed; D4 Closed; DG-5 and DG-6 complete |
 | D5 — Governance Lifecycle and Evolution | 6 | RQ-032 through RQ-037 Answered at finding level through GF-031 through GF-036, Dispositioned — Accept with Conditions and issued one-to-one as validated FD-033 through FD-038; all six evidence mappings remain Frozen in EP-005 v2.0/MAN-002; v1.0/MAN-001 remains historical and reliance-blocked; S05 Closed — Examination Complete; Governance Findings Presented; DG-5/DG-6 complete; D5 Closed; D6/D7 uncommenced |
-| D6 — Framework Administration | 6 | RQ-038 through RQ-043 admitted (DG-2) from Founder-Confirmed-with-Amendment candidates D6-RQC-01–06, finalised in FEF-FGR-002-D6-AP-001 ([FEF-FGR-002-D6-RQAR-001](FEF-FGR-002-D6-REVIEW-QUESTION-ADMISSION-RECORD.md)); all six RQ-038 through RQ-043 Answered at finding level through GF-037 through GF-042; S06 Closed — Examination Complete; Governance Findings Presented; all six findings **Accepted** by the Founder and Closed — Decision Issued through FD-039 through FD-044 ([FEF-FGR-002-D6-DG5-FDR-001](FEF-FGR-002-D6-DG5-FOUNDER-DECISION-RECORD.md)); DG-5 complete; D6 itself remains Mobilised — Effective, Not Closed; DG-6 not yet performed |
+| D6 — Framework Administration | 6 | RQ-038 through RQ-043 admitted (DG-2) from Founder-Confirmed-with-Amendment candidates D6-RQC-01–06, finalised in FEF-FGR-002-D6-AP-001 ([FEF-FGR-002-D6-RQAR-001](FEF-FGR-002-D6-REVIEW-QUESTION-ADMISSION-RECORD.md)); all six RQ-038 through RQ-043 Answered at finding level through GF-037 through GF-042, all Closed — Decision Issued through FD-039 through FD-044 (all Accept); DG-5/DG-6 complete; D6 **Closed** ([FEF-FGR-002-D6-CR-001](FEF-FGR-002-D6-CLOSURE-REPORT.md), Pass with Conditions in FEF-FGR-002-D6-DG6-DEVR-001); D7/D8 uncommenced |
 | D7 — Constitutional and Standards Boundary | 0 | Not reached |
 | D8 — Open Question Resolution | 0 | Cross-cutting mappings only; no D8 RQ created |

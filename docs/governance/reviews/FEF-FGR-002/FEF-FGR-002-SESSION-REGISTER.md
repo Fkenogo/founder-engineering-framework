@@ -5,7 +5,7 @@
 | Register identifier | FEF-FGR-002-SR-001 |
 | Register class | Session Register |
 | Review identifier | FEF-FGR-002 |
-| Register version | 1.59 |
+| Register version | 1.60 |
 | Lifecycle state | Active |
 | Created date | 2026-07-24 |
 | Controlling instruments | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001 |
@@ -190,6 +190,7 @@ or commence D6 or D7.
 | 1.57 | 2026-08-06 | S06 Evidence Examination Loop 006 (final D6 examination loop) examined RQ-043 only using exactly EV-080, EV-086, EV-087, and EV-089 frozen in EP-006 v1.0; produced Presented GF-042, Founder disposition pending, Pass with Conditions in FEF-FGR-002-S06-GF-042-VR-001; S06 remains Open; all six admitted D6 RQs now Answered (GF-037 through GF-042); GF-037/GF-038/GF-039/GF-040/GF-041 unchanged; no Session Exit, no DG-5, no Founder Decision, no Framework Evolution; EP-006 v1.0/MAN-001 unchanged | FEF-FGR-002-S06-RQ-043-ER-001; FEF-FGR-002-S06-GF-042-VR-001 |
 | 1.58 | 2026-08-06 | S06 Session Exit Gate (FEF-FGRP-001 §12.1) executed: all six FEF-FGRP-001 §12.1 criteria pass; exact six-chain RQ-to-examination-to-finding-to-validation reconciliation verified deterministic and complete; explicit Examination Completeness Verification confirms a bijective six-to-six mapping with no orphaned finding or Review Question; frozen EP-006 v1.0/MAN-001 fingerprints reproduced unchanged; all six examination records, GF-037–GF-042, and their six paired validation reports reproduced byte-unchanged; S06 changes from Open to Closed — Examination Complete; Governance Findings Presented; D6 remains Mobilised — Effective, Not Closed; GF-037 through GF-042 remain Presented, Founder disposition pending; no finding synthesised, dispositioned, or converted into a Founder Decision; no DG-5, DG-6, Framework Evolution, D7, or D8 activity performed | FEF-FGR-002-S06-SER-001; FEF-FGR-002-S06-SEVR-001 |
 | 1.59 | 2026-08-06 | Post-session DG-5 linkage only: records that the live D6 Founder Review of GF-037 through GF-042 concluded with the Founder accepting all six findings, issued as FD-039 through FD-044 and validated in FEF-FGR-002-D6-DG5-FDVR-001; S06's historical Closed — Examination Complete; Governance Findings Presented state is unchanged by this entry; DG-6 remains not commenced | FEF-FGR-002-D6-DG5-FDR-001; FEF-FGR-002-D6-DG5-FDVR-001 |
+| 1.60 | 2026-08-06 | Post-session DG-6 linkage only: D6 Domain Exit validated Pass with Conditions; D6 — Framework Administration formally Closed; S06's historical Closed — Examination Complete; Governance Findings Presented state is unchanged by this entry; D7/D8 remain uncommenced | FEF-FGR-002-D6-CR-001; FEF-FGR-002-D6-DG6-DEVR-001 |
 
 ## Non-Effects
 
@@ -236,7 +237,11 @@ RQ-043 and produced Presented GF-042; all six Founder dispositions
 pending. All six admitted D6 Review Questions are now Answered at
 finding level. S06 has since undergone Session Exit (FEF-FGR-002-S06-SER-001,
 Pass with Conditions in FEF-FGR-002-S06-SEVR-001) and is now **Closed —
-Examination Complete; Governance Findings Presented**. No D6 Founder
-Decision or D6 closure exists. D7/D8 remain uncommenced. The immediate
-next governed activity is Founder Review of GF-037 through GF-042, not
-performed by this register.
+Examination Complete; Governance Findings Presented**. GF-037 through
+GF-042 have since been Accepted by the Founder and Closed — Decision
+Issued through validated FD-039 through FD-044 (FEF-FGR-002-D6-DG5-FDR-001,
+FEF-FGR-002-D6-DG5-FDVR-001), and D6 — Framework Administration has
+since passed DG-6 Domain Exit validation and is formally **Closed**
+(FEF-FGR-002-D6-CR-001, Pass with Conditions in
+FEF-FGR-002-D6-DG6-DEVR-001). S06's historical Closed state is unchanged
+by these later domain linkages. D7/D8 remain uncommenced.

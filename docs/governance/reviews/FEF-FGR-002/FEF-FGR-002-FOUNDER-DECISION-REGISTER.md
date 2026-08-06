@@ -5,7 +5,7 @@
 | Register identifier               | FEF-FGR-002-FDR-001                                                   |
 | Register class                    | Founder Decision Register                                             |
 | Review identifier                 | FEF-FGR-002                                                           |
-| Register version                  | 1.10                                                                  |
+| Register version                  | 1.11                                                                  |
 | Lifecycle state                   | Active                                                                |
 | Created date                      | 2026-07-24                                                            |
 | Controlling instruments           | FEF-FGRC-001; FEF-FGRA-001; FEF-FGRP-001; FEF-FGRER-001               |
@@ -84,6 +84,7 @@
 | 1.8     | 2026-07-29 | Seven separate D4 Founder Decision Records, FD-026 through FD-032, issued and validated one-to-one from the exact attributable dispositions of GF-024 through GF-030; DG-5 complete; D4 remains Active — Not Closed; no DG-6, D5, or D6 effect | FEF-FGR-002-D4-G2-FDR-001; FEF-FGR-002-D4-DG5-FDVR-001  |
 | 1.9     | 2026-08-01 | Six separate D5 Founder Decision Records, FD-033 through FD-038, issued and validated one-to-one from GF-031 through GF-036; exact 36 Founder fields, conditions, finding scope, and non-effects preserved; DG-5 complete; D5 Active/Not Closed; DG-6 and D6/D7 uncommenced | FEF-FGR-002-D5-G2-FDR-001; FEF-FGR-002-D5-DG5-FDVR-001 |
 | 1.10    | 2026-08-06 | Six separate D6 Founder Decision Records, FD-039 through FD-044, issued and validated one-to-one from GF-037 through GF-042, all Accept; exact 12 Founder fields (Disposition, Founder Reflection) and finding scope/non-effects preserved; accompanying non-authoritative FEF-FGR-002-D6-FRFA-001 indexes the common Founder philosophy without creating Framework policy; DG-5 complete; D6 Mobilised — Effective/Not Closed; DG-6 and D7/D8 uncommenced | FEF-FGR-002-D6-DG5-FDR-001; FEF-FGR-002-D6-DG5-FDVR-001 |
+| 1.11    | 2026-08-06 | DG-6 domain-exit lifecycle linkage recorded after Domain Exit validation passed; D6 Closed; all 44 Founder Decision rows, exact decision records, dispositions, Founder Reflections, scope, non-effects, and validation states unchanged | FEF-FGR-002-D6-CR-001; FEF-FGR-002-D6-DG6-DEVR-001 |
 
 ## Boundary
 
