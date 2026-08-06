@@ -1,6 +1,6 @@
 # FEF Founder Dashboard
 
-**As at:** 2026-08-04
+**As at:** 2026-08-06
 **Source of truth:** [FEF Master Programme](FEF-MASTER-PROGRAMME.md) §1.1 — Single Source of Truth
 **Dashboard status:** Navigation and executive-view document
 **Pilot classification:** Programme Governance Pilot Artefact — informational dashboard
@@ -78,14 +78,20 @@ FEF-FGR-002-EAT-001; D7/D8 Uncommenced; Framework Evolution Not
 Commenced; no implementation authority exists. Following D1–D6 closure,
 **FEF-PAR-001, the Programme Architecture Review, was Prepared and
 Validated** (Pass with Conditions in FEF-PAR-001-VR-001), presenting
-four neutral Founder Options with no recommendation. Authoritative
-detail: Master Programme §2.
+four neutral Founder Options with no recommendation. **FEF-PTR-001,
+Programme Transition to Operational Validation, has since been
+Recorded** (Pass in FEF-PTR-001-VR-001): D1–D6 Closed, PAR-001 Prepared
+and Validated, and the registered Adoption Guide/Alignment Template
+together form an Operational Baseline, consistent with PAR-001 Option D,
+without foreclosing Options A, B, or C. FEF-PTR-001 approves no specific
+project's adoption and does not commence D7, D8, or Framework Evolution.
+Authoritative detail: Master Programme §2.
 
 **Immediate next governed activity (authoritative in Master Programme §7):**
-Founder review of FEF-PAR-001 and its Founder Review Package
-(FEF-PAR-001-FRP-001), and separate authorisation of the next programme
-activity. Neither D7 nor D8 is mobilised or commenced by PAR-001 or its
-validation.
+Controlled, project-by-project adoption assessment under the Adoption
+Guide's Stage 1–3 process (FEF-ADOPTION-GUIDE.md), each instance
+requiring its own separate Founder review and authorisation. D7, D8,
+and Framework Evolution remain separate, uncommenced future activities.
 
 ## Genuine Blockers
 
@@ -100,12 +106,15 @@ Review disposition, the D6 Admission Package, D6 DG-2 admission, D6 DG-3
 evidence freeze, D6 DG-4 session entry, D6 Evidence Examination Loops
 001–006, the D6 S06 Session Exit Gate, the D6 DG-5 Founder Review
 Package preparation and validation, D6 DG-5 Founder Decision issuance,
-D6 DG-6 Domain Closure, or FEF-PAR-001 preparation and validation; all
-are complete and validated. D6 is **Closed** — GF-037 through GF-042
-Closed, Decision Issued, all Accept. PAR-001 is Prepared and Validated,
-presenting four neutral Founder Options. The items remaining open are:
+D6 DG-6 Domain Closure, FEF-PAR-001 preparation and validation, or
+FEF-PTR-001 preparation and validation; all are complete and validated.
+D6 is **Closed** — GF-037 through GF-042 Closed, Decision Issued, all
+Accept. PAR-001 is Prepared and Validated, presenting four neutral
+Founder Options. PTR-001 is Recorded, setting programme direction toward
+operational validation without foreclosing any PAR-001 option. The items
+remaining open are:
 
-- Founder review of FEF-PAR-001 and separate authorisation of the next programme activity;
+- controlled, project-by-project adoption assessment and its own separate Founder review, per project;
 - disposition of legacy FEF-P0-004 (OQ-016);
 - the permanent work-package identifier policy (OQ-015), before any numbering migration;
 - Founder Review of FEF-RGS-000, after its prerequisite consolidation and amendment sequence; and
@@ -117,5 +126,5 @@ presenting four neutral Founder Options. The items remaining open are:
 | --------------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Governance            | 🟢 Green | D1–D6 findings and decisions are validated; D6 is formally Closed through DG-6; Founder authority remains preserved.       |
 | Documentation         | 🟢 Green | D3–D6 Founder Review, decision issuance, validation, and traceability are controlled; the D6 Examination Architecture, Founder Review Package, and Closure Report are validated; protected artefacts remain unchanged. |
-| Programme             | 🟠 Amber | D1–D6 Closed (D6 examination complete; S06 Closed; DG-5/DG-6 complete, all six findings Accepted); D7/D8 Uncommenced. See Master Programme §2 for authoritative detail. |
+| Programme             | 🟠 Amber | D1–D6 Closed; PAR-001 Prepared and Validated; PTR-001 Recorded — programme focus now Operational Validation via controlled project adoption; D7/D8/Framework Evolution Uncommenced; no project adoption yet approved. See Master Programme §2 for authoritative detail. |
 | Engineering Readiness | 🔴 Red   | Neither RGS nor RDS is approved and discovery execution is not authorised.                                                                    |
